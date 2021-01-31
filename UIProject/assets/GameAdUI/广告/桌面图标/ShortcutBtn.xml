@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n0_j6l4" name="n0" src="j6l4j8p" fileName="广告/桌面图标/添加桌面.png" xy="10,12" aspect="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

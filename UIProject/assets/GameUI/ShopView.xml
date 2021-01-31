@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="adState" pages="0,没广告,1,有广告" selected="1"/>
+  <displayList>
+    <loader id="n0_9oij" name="n0" xy="0,0" size="750,1334" url="ui://lrq909uus2854i" align="center" vAlign="middle" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_9oij" name="CoinBar" src="5f7qa" fileName="ResourceBar.xml" xy="141,103" size="184,56">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Label title="0" icon="ui://0lagqdfms2851u"/>
+    </component>
+    <image id="n2_9oij" name="n2" src="9oij2d" fileName="素材/shouye_22.png" xy="96,313">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <list id="n14_9oij" name="List" xy="0,621" size="750,695" layout="flow_hz" overflow="scroll" margin="20,0,0,0" lineGap="15" colGap="15" defaultItem="ui://0lagqdfm9oij2l" align="center">
+      <relation target="n23_am05" sidePair="width-width,bottomext-top"/>
+      <item controllers="state,0"/>
+      <item controllers="state,1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n17_9oij" name="BackBtn" src="tq6l4" fileName="GameButton.xml" xy="10,84">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button icon="ui://0lagqdfm9oij2m"/>
+    </component>
+    <component id="n18_9oij" name="FreeGetBtn" src="s28529" fileName="GameBigBtn.xml" xy="338,505" scale="0.7,0.7" controller="state,1">
+      <gearDisplay controller="adState" pages="1"/>
+      <relation target="n2_9oij" sidePair="center-center%,middle-middle%"/>
+      <property target="imageTitle" propertyId="1" value="ui://0lagqdfm9oij2s"/>
+    </component>
+    <component id="n20_9oij" name="BuyBtn" src="s28529" fileName="GameBigBtn.xml" xy="48,505" scale="0.7,0.7" controller="state,0">
+      <gearXY controller="adState" pages="0,1" values="197,505|48,505"/>
+      <relation target="n2_9oij" sidePair="center-center%,middle-middle%"/>
+      <property target="imageTitle" propertyId="1" value="ui://0lagqdfm9oij2r"/>
+    </component>
+    <component id="n21_am05" name="UseBtn" src="s28529" fileName="GameBigBtn.xml" xy="197,504" scale="0.7,0.7" controller="state,0">
+      <relation target="n2_9oij" sidePair="center-center%,middle-middle%"/>
+      <property target="imageTitle" propertyId="1" value="ui://0lagqdfmam052v"/>
+    </component>
+    <loader id="n22_am05" name="ImageLoader" xy="275,208" size="200,215" aspect="true" url="ui://0lagqdfm9oij2e" align="center" vAlign="middle" fill="scaleNoBorder" clearOnPublish="true">
+      <relation target="n2_9oij" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n24_am05" name="n24" src="8m0z7" fileName="广告组件/SdkIconButtonAd.xml" pkg="kd5ich5s" xy="20,203" size="140,140">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n25_am05" name="n25" src="8m0z7" fileName="广告组件/SdkIconButtonAd.xml" pkg="kd5ich5s" xy="593,203" size="140,140">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n26_am05" name="n26" src="8m0z7" fileName="广告组件/SdkIconButtonAd.xml" pkg="kd5ich5s" xy="20,371" size="140,140">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n27_am05" name="n27" src="8m0z7" fileName="广告组件/SdkIconButtonAd.xml" pkg="kd5ich5s" xy="593,371" size="140,140">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <graph id="n23_am05" name="ButtomBar" xy="0,1314" size="750,20" alpha="0" type="rect" lineSize="0">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </graph>
+  </displayList>
+</component>

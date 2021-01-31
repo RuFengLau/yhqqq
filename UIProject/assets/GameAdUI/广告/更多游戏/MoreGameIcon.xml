@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,150" pivot="0.5,0.5" extention="Label" mask="n2_hhuu">
+  <displayList>
+    <graph id="n2_hhuu" name="n2" xy="0,0" size="150,150" type="rect" lineSize="0" lineColor="#ff999999" corner="5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n1_hhuu" name="icon" xy="0,0" size="150,150" url="ui://2lldjolilo4qf" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+</component>

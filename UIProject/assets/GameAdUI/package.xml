@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2lldjoli">
+  <resources>
+    <component id="jixpj8b" name="NativeImage.xml" path="/广告/原生广告/嵌套/" exported="true"/>
+    <component id="jixpj8c" name="NativeImageLoader.xml" path="/广告/原生广告/嵌套/"/>
+    <component id="jixpj8f" name="MoreGameCloseBtn.xml" path="/广告/更多游戏/"/>
+    <component id="jixpj8g" name="MoreGameIcon.xml" path="/广告/更多游戏/"/>
+    <component id="jixpj8h" name="MoreGameView.xml" path="/广告/更多游戏/" exported="true"/>
+    <image id="jixpj8i" name="关闭.png" path="/广告/素材/"/>
+    <image id="jixpj8j" name="标题.png" path="/广告/更多游戏/"/>
+    <image id="jixpj8k" name="背景底.png" path="/广告/更多游戏/" scale="9grid" scale9grid="17,62,34,2"/>
+    <image id="jixp0" name="AD.jpg" path="/广告/素材/"/>
+    <image id="jixp1" name="广告标识.png" path="/广告/素材/"/>
+    <component id="lo4qb" name="NativeAdView.xml" path="/广告/原生广告/弹出原生/" exported="true"/>
+    <image id="j6l44i" name="背景.png" path="/广告/原生广告/弹出原生/" scale="9grid" scale9grid="42,69,84,54"/>
+    <image id="j6l44j" name="蓝按钮.png" path="/广告/素材/" scale="9grid" scale9grid="29,60,36,41"/>
+    <component id="j6l4j8l" name="NativeAdViewButton.xml" path="/广告/原生广告/弹出原生/"/>
+    <component id="j6l4j8m" name="NativeAdViewCommandBtn.xml" path="/广告/原生广告/弹出原生/"/>
+    <image id="lo4qf" name="图标.png" path="/广告/素材/"/>
+    <component id="lo4q3y" name="MaskIcon.xml" path="/广告/原生广告/原生图标/"/>
+    <component id="lo4q40" name="NativeIcon.xml" path="/广告/原生广告/原生图标/" exported="true"/>
+    <image id="j6l4j8n" name="更多游戏.png" path="/广告/更多游戏/"/>
+    <component id="j6l4j8o" name="MoreGameBtn.xml" path="/广告/更多游戏/" exported="true"/>
+    <image id="j6l4j8p" name="添加桌面.png" path="/广告/桌面图标/"/>
+    <component id="j6l4j8q" name="ShortcutBtn.xml" path="/广告/桌面图标/" exported="true"/>
+  </resources>
+  <publish name="" path="..\LayaProject\bin\res\ui" packageCount="2" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n0_mzap" name="SdkOneLineBanner" src="mzap8" fileName="SdkOneLineBanner.xml" xy="0,16">
+      <relation target="" sidePair="width-width,top-top"/>
+    </component>
+  </displayList>
+</component>

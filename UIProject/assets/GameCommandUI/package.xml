@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9kynrs2z">
+  <resources>
+    <component id="lo4q3" name="MessageBoxView.xml" path="/公用/" exported="true"/>
+    <image id="mpgu48" name="dadi.png" path="/公用/素材/" scale="9grid" scale9grid="42,69,84,54"/>
+    <image id="mpgu49" name="背景.png" path="/公用/素材/" scale="9grid" scale9grid="28,46,56,92"/>
+    <component id="k0kn4a" name="BtnColor.xml" path="/公用/组件/"/>
+    <image id="k0kn4b" name="landi.png" path="/公用/素材/" scale="9grid" scale9grid="29,60,36,41"/>
+    <image id="k0kn4c" name="huangdi.png" path="/公用/素材/" scale="9grid" scale9grid="24,62,48,40"/>
+    <image id="k0kn4d" name="luxiangtubiao.png" path="/公用/素材/"/>
+    <image id="k0kn4e" name="quxiao.png" path="/公用/素材/"/>
+    <image id="k0kn4f" name="qued.png" path="/公用/素材/"/>
+    <component id="lo4qe" name="ToastView.xml" path="/公用/" exported="true"/>
+    <component id="s24q4g" name="ShareVideoView.xml" path="/公用/" exported="true"/>
+    <component id="s24q4l" name="CommandButton.xml" path="/公用/组件/"/>
+    <image id="s24q4m" name="guangbi.png" path="/公用/素材/" qualityOption="custom" quality="90"/>
+    <image id="s24q4v" name="AD.jpg" path="/公用/素材/"/>
+    <component id="s24q4w" name="FadeView.xml" path="/公用/" exported="true"/>
+  </resources>
+  <publish name="" path="..\LayaProject\bin\res\ui" packageCount="2" genCode="true"/>
+</packageDescription>

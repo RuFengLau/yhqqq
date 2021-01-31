@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="264,120" pivot="0.5,0.5" extention="Button">
+  <controller name="color" exported="true" pages="0,黄色,1,蓝色" selected="0"/>
+  <controller name="videoStatus" exported="true" pages="0,没有,1,有" selected="1"/>
+  <displayList>
+    <image id="n97_ntdq" name="n97" src="k0kn4b" fileName="输出/000T_通用/landi.png" xy="0,0" size="264,120">
+      <gearDisplay controller="color" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n98_ntdq" name="n98" src="k0kn4c" fileName="输出/000T_通用/huangdi.png" xy="0,0" size="264,120">
+      <gearDisplay controller="color" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n94_w215" name="icon" xy="0,7" size="219,99" align="center" vAlign="middle">
+      <gearSize controller="videoStatus" pages="1" values="219,99,1,1" default="264,99,1,1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n99_f5bs" name="n99" src="k0kn4d" fileName="输出/S_胜利界面/luxiangtubiao.png" xy="198,31">
+      <gearDisplay controller="videoStatus" pages="1"/>
+      <relation target="" sidePair="right-right,top-top"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

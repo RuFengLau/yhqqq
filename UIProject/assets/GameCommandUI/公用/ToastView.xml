@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false">
+  <displayList>
+    <graph id="n1_hae9" name="maskBg" xy="0,0" size="1334,750" type="rect" lineSize="0" fillColor="#00000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n2_woch" name="n2" xy="619,347" size="94,55" type="rect" lineSize="0" fillColor="#ff000000" corner="10">
+      <relation target="n0_hae9" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </graph>
+    <text id="n0_hae9" name="title" xy="640,354" size="53,31" fontSize="24" color="#ffffff" align="center" vAlign="middle" leading="0" text="标题">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

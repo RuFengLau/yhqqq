@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="275,109" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n0_s408" name="n0" src="s4080" fileName="anniu.png" xy="0,0"/>
+    <loader id="n1_s408" name="ImageTitle" xy="0,0" size="275,109"/>
+    <text id="n2_mzap" name="title" xy="0,0" size="275,109" fontSize="60" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+  <customProperty target="ImageTitle" propertyId="1"/>
+</component>

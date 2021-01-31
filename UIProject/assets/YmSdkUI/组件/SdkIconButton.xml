@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,200" extention="Button">
+  <displayList>
+    <image id="n2_s408" name="n2" src="s4082" fileName="biankuang.png" xy="-10,-4" size="220,221">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n3_s408" name="icon" xy="12,12" size="175,175" url="ui://kd5ich5ss4086" align="center" vAlign="middle" fill="scale">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n4_s408" name="n4" xy="12,145" size="175,42" type="rect" lineSize="0" fillColor="#a3ffffff">
+      <relation target="n3_s408" sidePair="width-width,bottom-bottom"/>
+    </graph>
+    <text id="n5_s408" name="title" xy="43,150" size="112,31" fontSize="22" align="center" vAlign="middle" text="救救小公举">
+      <relation target="n4_s408" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

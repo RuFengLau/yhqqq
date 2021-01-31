@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="State" pages="0,胜利,1,失败" selected="1"/>
+  <controller name="adState" homePageType="specific" homePage="1" pages="0,没广告,1,有广告" selected="0"/>
+  <displayList>
+    <graph id="n3_socn" name="ColorBg" xy="0,0" size="750,1334" type="rect" lineSize="0" fillColor="#ff66ccff">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n28_9oij" name="n28" xy="0,0" size="750,1334" url="ui://lrq909uus2854i" align="center" vAlign="middle" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n8_s285" name="n8" src="s2851v" fileName="素材/dikuang1.png" xy="86,317" size="577,661" group="n4_socn"/>
+    <image id="n11_s285" name="n11" src="s2851y" fileName="素材/kuang4.png" xy="140,445" size="469,224" group="n4_socn"/>
+    <image id="n9_s285" name="n9" src="s2851w" fileName="素材/caidai.png" xy="164,279" group="n4_socn"/>
+    <image id="n10_s285" name="n10" src="s2851x" fileName="素材/paodepiaoliang.png" xy="286,298" group="n4_socn"/>
+    <text id="n27_s285" name="n27" xy="314,468" size="122,41" group="n4_socn" fontSize="30" color="#0c5b90" text="获得奖励"/>
+    <text id="n1_socn" name="CoinLabel" xy="322,550" size="172,67" group="n4_socn" font="ui://0lagqdfms2851t" fontSize="21" color="#ffff00" align="center" vAlign="middle" text="100">
+      <relation target="n11_s285" sidePair="center-center,middle-middle"/>
+    </text>
+    <image id="n12_s285" name="n12" src="s2851u" fileName="素材/jinbiicon.png" xy="240,549" group="n4_socn">
+      <relation target="n1_socn" sidePair="middle-middle,right-left"/>
+    </image>
+    <component id="n26_s285" name="GetCoinBtn" src="s28528" fileName="GameBlueBtn.xml" xy="284,703" size="181,89" group="n4_socn">
+      <Button title="领取"/>
+    </component>
+    <component id="n25_s285" name="FreeGetCoinBtn" src="s28529" fileName="GameBigBtn.xml" xy="197,814" group="n4_socn" controller="state,1">
+      <gearDisplay controller="adState" pages="1"/>
+      <property target="imageTitle" propertyId="1" value="ui://0lagqdfms2852a"/>
+    </component>
+    <group id="n4_socn" name="Win" xy="86,279" size="577,699" advanced="true">
+      <gearDisplay controller="State" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n13_s285" name="n13" src="s2851v" fileName="素材/dikuang1.png" xy="140,352" size="470,592" group="n7_5f7q"/>
+    <image id="n15_s285" name="n15" src="s2851y" fileName="素材/kuang4.png" xy="169,422" size="410,240" group="n7_5f7q"/>
+    <image id="n16_s285" name="n16" src="s28522" fileName="素材/fh_yuanxingdikuang.png" xy="300,491" group="n7_5f7q"/>
+    <text id="n17_s285" name="CountTimeLabel" xy="352,538" size="45,59" group="n7_5f7q" font="ui://0lagqdfms2851z" fontSize="21" color="#ffff00" align="center" vAlign="middle" text="5">
+      <relation target="n16_s285" sidePair="center-center,middle-middle"/>
+    </text>
+    <text id="n14_s285" name="n14" xy="283,439" size="182,41" group="n7_5f7q" fontSize="30" color="#0c5b90" align="center" vAlign="middle" text="是否继续游戏"/>
+    <image id="n5_5f7q" name="n5" src="s28520" fileName="素材/benjujiesu1.png" xy="254,320" group="n7_5f7q"/>
+    <component id="n18_s285" name="ContinueBtn" src="s28528" fileName="GameBlueBtn.xml" xy="268,683" size="213,89" group="n7_5f7q">
+      <Button title="重新开始"/>
+    </component>
+    <component id="n20_s285" name="NextBtn" src="s28529" fileName="GameBigBtn.xml" xy="197,788" group="n7_5f7q" controller="state,1">
+      <gearDisplay controller="adState" pages="1"/>
+      <property target="imageTitle" propertyId="1" value="ui://0lagqdfm9oij2b"/>
+    </component>
+    <group id="n7_5f7q" name="Lose" xy="140,320" size="470,623" advanced="true">
+      <gearDisplay controller="State" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

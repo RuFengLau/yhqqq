@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="534,142" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <graph id="n18_7k7b" name="n18" xy="0,0" size="534,142" type="rect" lineSize="0" corner="2">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n19_7k7b" name="ImageLoader" src="jixpj8c" fileName="广告/原生广告/嵌套/NativeImageLoader.xml" xy="4,3" size="526,136">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n20_7k7b" name="n20" src="jixp1" fileName="广告/素材/广告标识.png" xy="470,110" size="60,30" aspect="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </image>
+  </displayList>
+  <Button downEffect="dark" downEffectValue=".95"/>
+</component>

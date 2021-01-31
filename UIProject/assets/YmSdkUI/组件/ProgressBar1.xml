@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,96" extention="ProgressBar">
+  <displayList>
+    <image id="n3_mzap" name="n3" src="s4082" fileName="素材/biankuang.png" xy="0,0" size="601,96">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n5_mzap" name="bar" src="mzapc" fileName="素材/n7.png" xy="21,13">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

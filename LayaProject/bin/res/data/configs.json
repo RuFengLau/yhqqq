@@ -1,0 +1,14 @@
+{
+	"Tool": "github.com/davyxu/tabtoy",
+	"Version": "2.8.11",
+	"Configs":[
+		{ "_id": "1" }
+	], 
+	"CarConfigs":[
+		{ "_id": "1", "icon": "trucks_00", "name": "小货车", "cost": 0 },
+		{ "_id": "2", "icon": "trucks_01", "name": "大货车", "cost": 400 },
+		{ "_id": "3", "icon": "trucks_02", "name": "皮卡车", "cost": 1000 },
+		{ "_id": "4", "icon": "trucks_03", "name": "小红货车", "cost": 3000 },
+		{ "_id": "5", "icon": "trucks_04", "name": "的士货车", "cost": 5500 },
+		{ "_id": "6", "icon": "trucks_05", "name": "黄色货车", "cost": 8500 }
+	]}

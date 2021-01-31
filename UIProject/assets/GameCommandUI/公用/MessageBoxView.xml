@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n44_bnfq" name="n44" xy="0,0" size="750,1334" type="rect" lineSize="0" fillColor="#b3000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n45_mpgu" name="n45" src="mpgu48" fileName="公用/素材/dadi.png" xy="101,290" size="547,410" group="n39_bnfq"/>
+    <image id="n46_mpgu" name="n46" src="mpgu49" fileName="公用/素材/背景.png" xy="128,387" size="489,281" group="n39_bnfq"/>
+    <text id="n5_tub9" name="ContentLabel" xy="128,404" size="489,234" group="n39_bnfq" fontSize="30" color="#4a4a4a" align="center" vAlign="middle" leading="15" letterSpacing="2" autoSize="none" text="退出游戏&#xA;退出游戏"/>
+    <text id="n0_hae9" name="TitleLabel" xy="282,302" size="186,61" group="n39_bnfq" fontSize="46" align="center" vAlign="middle" text="系统提示"/>
+    <component id="n48_k0kn" name="CancelBtn" src="k0kn4a" fileName="公用/组件/BtnColor.xml" xy="106,748" size="232,123" group="n39_bnfq" controller="color,1">
+      <Button icon="ui://9kynrs2zk0kn4e"/>
+    </component>
+    <component id="n49_k0kn" name="ConfirmBtn" src="k0kn4a" fileName="公用/组件/BtnColor.xml" xy="413,748" size="232,123" group="n39_bnfq" controller="color,0">
+      <Button icon="ui://9kynrs2zk0kn4f"/>
+    </component>
+    <group id="n39_bnfq" name="n39" xy="101,290" size="547,581" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n39_bnfq" tween="true" startValue="0" endValue="1" duration="14"/>
+    <item time="0" type="XY" target="n39_bnfq" tween="true" startValue="-,-424,0.274,-0.565" endValue="101,309" duration="14" ease="Back.Out"/>
+  </transition>
+</component>

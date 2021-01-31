@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n0_o83g" name="n0" xy="0,0" size="750,1334" type="rect" lineSize="0" fillColor="#e6000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n8_r5hy" name="TitleLabel" xy="354,367" size="40,19" group="n17_r5hy" fontSize="12" color="#ffffff" align="center" vAlign="middle" text=""/>
+    <image id="n23_mpgu" name="n23" src="j6l44i" fileName="广告/原生广告/弹出原生/背景.png" xy="50,339" size="653,467" group="n17_r5hy"/>
+    <graph id="n27_j6l4" name="n27" xy="79,406" size="600,356" group="n17_r5hy" type="rect" lineSize="5"/>
+    <component id="n26_j6l4" name="ImageLoader" src="jixpj8c" fileName="广告/原生广告/嵌套/NativeImageLoader.xml" xy="84,411" size="590,346" group="n17_r5hy"/>
+    <graph id="n18_r5hy" name="n18" xy="79,726" size="600,37" group="n17_r5hy" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <image id="n29_j6l4" name="n29" src="jixp1" fileName="广告/广告标识.png" xy="614,729" size="60,30" group="n17_r5hy" aspect="true"/>
+    <text id="n4_o83g" name="DescLabel" xy="93,730" size="519,29" group="n17_r5hy" alpha="0" fontSize="22" color="#ffffff" align="center" autoSize="none" text="">
+      <relation target="n18_r5hy" sidePair="width-width,center-center,middle-middle"/>
+    </text>
+    <component id="n7_o83g" name="ClickBtn" src="j6l4j8m" fileName="广告/原生广告/弹出原生/NativeAdViewCommandBtn.xml" xy="47,337" size="658,469" group="n17_r5hy"/>
+    <component id="n5_o83g" name="CloseBtn" src="j6l4j8m" fileName="广告/原生广告/弹出原生/NativeAdViewCommandBtn.xml" xy="44,331" size="80,80" group="n17_r5hy">
+      <Button icon="ui://2lldjolijixpj8i"/>
+    </component>
+    <component id="n28_j6l4" name="ConfirmBtn" src="j6l4j8l" fileName="广告/原生广告/弹出原生/NativeAdViewButton.xml" xy="251,841" group="n17_r5hy"/>
+    <group id="n17_r5hy" name="n17" xy="44,331" size="661,630" advanced="true"/>
+  </displayList>
+</component>

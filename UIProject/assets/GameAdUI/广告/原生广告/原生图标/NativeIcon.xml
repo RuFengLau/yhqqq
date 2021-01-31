@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button" remark="key">
+  <displayList>
+    <graph id="n1_lo4q" name="n1" xy="0,0" size="100,100" type="rect" lineSize="0" corner="10">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n0_lo4q" name="IconMask" src="lo4q3y" fileName="广告/原生广告/原生图标/MaskIcon.xml" xy="5,5" size="90,90">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n3_lo4q" name="n3" src="jixp1" fileName="广告/素材/广告标识.png" xy="55,75" size="40,20" aspect="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

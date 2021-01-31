@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://9kynrs2zs24q4u" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <graph id="n0_u634" name="n0" xy="0,0" size="750,1334" type="rect" lineSize="0" fillColor="#d8000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n30_fszs" name="n30" src="mpgu48" fileName="公用/素材/dadi.png" xy="52,316" size="648,424" group="n39_fszs"/>
+    <loader id="n33_fszs" name="ImageLoader" xy="69,386" size="609,277" group="n39_fszs" url="ui://9kynrs2zs24q4v" align="center" fill="scale" clearOnPublish="true"/>
+    <component id="n35_fszs" name="CloseBtn" src="s24q4l" fileName="公用/组件/CommandButton.xml" xy="612,302" size="100,100" group="n39_fszs">
+      <Button icon="ui://9kynrs2zs24q4m"/>
+    </component>
+    <component id="n42_s24q" name="n42" src="k0kn4a" fileName="公用/组件/BtnColor.xml" xy="242,784" group="n39_fszs"/>
+    <group id="n39_fszs" name="n39" xy="52,302" size="660,602" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0" autoPlay="true"/>
+</component>

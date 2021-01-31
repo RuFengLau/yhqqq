@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="689,45" extention="ProgressBar">
+  <displayList>
+    <image id="n0_sccs" name="n0" src="mpgu46" fileName="输出/J_游戏内加载/jiazaid.png" xy="0,0" size="689,45">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_sccs" name="bar" src="mpgu47" fileName="输出/J_游戏内加载/jiazai.png" xy="6,4" size="677,33"/>
+  </displayList>
+  <ProgressBar/>
+</component>

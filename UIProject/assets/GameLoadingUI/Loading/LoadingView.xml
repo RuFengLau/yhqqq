@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n10_mpgu" name="ColorBg" xy="0,0" size="750,1334" type="rect" lineSize="0" fillColor="#ff1494c7">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n2_fo2s" name="BigBgLoader" xy="0,0" size="750,1334" url="ui://lrq909uus2854i" align="center" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n11_mpgu" name="n11" src="mpgu43" fileName="Loading/jiazz.png" xy="296,1054">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <graph id="n12_mpgu" name="n12" xy="163,884" size="424,74" type="rect" lineSize="0" fillColor="#19000000" corner="10">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </graph>
+    <text id="n13_mpgu" name="TipLabel" xy="163,884" size="424,74" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="......货车正在装货中......">
+      <relation target="n12_mpgu" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n15_mpgu" name="LoadingBar" src="mpgu45" fileName="Loading/LoadingBar.xml" xy="30,1001">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <ProgressBar max="100"/>
+    </component>
+    <loader id="n0_fo2s" name="LogoLoader" xy="350,413" size="50,50" url="ui://lrq909uu9oij4k" align="center" vAlign="middle">
+      <relation target="" sidePair="center-center,top-top"/>
+    </loader>
+    <text id="n16_s285" name="CC" xy="277,1275" size="195,31" fontSize="22" color="#ffffff" align="center" vAlign="middle" text="POWERED BY LAYA">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <text id="n17_s285" name="TTT" xy="70,1196" size="609,60" fontSize="22" color="#ffffff" align="center" vAlign="middle" text="抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。&#xA;适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+  </displayList>
+</component>

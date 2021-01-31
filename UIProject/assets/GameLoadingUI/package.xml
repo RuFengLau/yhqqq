@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="lrq909uu">
+  <resources>
+    <component id="fo2s0" name="LoadingView.xml" path="/Loading/" exported="true"/>
+    <image id="mpgu43" name="jiazz.png" path="/Loading/"/>
+    <component id="mpgu45" name="LoadingBar.xml" path="/Loading/"/>
+    <image id="mpgu46" name="jiazaid.png" path="/Loading/"/>
+    <image id="mpgu47" name="jiazai.png" path="/Loading/"/>
+    <image id="s2854i" name="shouye_bj.jpg" path="/Loading/" exported="true"/>
+    <image id="9oij4k" name="Logo.png" path="/Loading/"/>
+  </resources>
+  <publish name="GameLoadingUI" path="..\LayaProject\bin\localRes\ui" packageCount="2" genCode="true"/>
+</packageDescription>

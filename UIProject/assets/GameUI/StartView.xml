@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="gameState" pages="0,准备,1,开始游戏" selected="0"/>
+  <displayList>
+    <image id="n1_tq6l" name="n1" src="s28521" fileName="素材/caksyx.png" xy="251,817" pivot="0.5,0.5" group="n3_tq6l">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n2_tq6l" name="n2" src="tq6l3" fileName="素材/gaming_08.png" xy="282,952" pivot="0.5,0.5" group="n3_tq6l">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <group id="n3_tq6l" name="Finger" xy="251,817" size="247,294" advanced="true">
+      <gearDisplay controller="gameState" pages="0"/>
+    </group>
+    <component id="n4_tq6l" name="Bot" src="tq6l4" fileName="GameButton.xml" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n5_5f7q" name="StageLabel" xy="323,187" size="103,40" font="ui://0lagqdfms2851t" fontSize="12" color="#ffffff" align="center" vAlign="middle" text="第1关">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <component id="n6_5f7q" name="CoinBar" src="5f7qa" fileName="ResourceBar.xml" xy="53,105" size="184,56">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Label title="0" icon="ui://0lagqdfms2851u"/>
+    </component>
+    <component id="n8_9oij" name="ShopBtn" src="tq6l4" fileName="GameButton.xml" xy="591,590" size="110,121" controller="isRedPoint,1">
+      <gearDisplay controller="gameState" pages="0"/>
+      <relation target="" sidePair="middle-middle,right-right"/>
+      <Button icon="ui://0lagqdfm9oij2p"/>
+    </component>
+    <component id="n11_am05" name="n11" src="8m0z7" fileName="广告组件/SdkIconButtonAd.xml" pkg="kd5ich5s" xy="20,203" size="140,140">
+      <gearDisplay controller="gameState" pages="0,1"/>
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n12_am05" name="n12" src="8m0z7" fileName="广告组件/SdkIconButtonAd.xml" pkg="kd5ich5s" xy="581,203" size="140,140">
+      <gearDisplay controller="gameState" pages="0"/>
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n13_am05" name="n13" src="8m0z7" fileName="广告组件/SdkIconButtonAd.xml" pkg="kd5ich5s" xy="20,361" size="140,140">
+      <gearDisplay controller="gameState" pages="0"/>
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n14_am05" name="n14" src="8m0z7" fileName="广告组件/SdkIconButtonAd.xml" pkg="kd5ich5s" xy="581,361" size="140,140">
+      <gearDisplay controller="gameState" pages="0"/>
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <image id="n15_am05" name="n15" src="am052u" fileName="素材/sd_biaoti.png" xy="556,593" size="187,100" aspect="true">
+      <gearDisplay controller="gameState" pages="0"/>
+      <relation target="n8_9oij" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n1_tq6l" tween="true" startValue="1,1" endValue="1.05,1.05" duration="12" repeat="-1" yoyo="true"/>
+    <item time="0" type="Scale" target="n2_tq6l" tween="true" startValue="1.1,1.1" endValue="1,1" duration="12" repeat="-1" yoyo="true"/>
+    <item time="0" type="Scale" target="n8_9oij" tween="true" startValue="1,1" endValue="1.1,1.1" duration="12"/>
+    <item time="0" type="XY" target="n2_tq6l" tween="true" startValue="305,976,0.407,0.732" endValue="282,952,0.376,0.714" duration="12" repeat="-1" yoyo="true"/>
+  </transition>
+</component>

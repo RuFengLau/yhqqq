@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n2_dtjr" name="n2" xy="0,0" size="1334,750" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n0_dtjr" name="n0" xy="0,0" size="1334,750" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <transition name="fadeIn">
+    <item time="0" type="Alpha" target="n2_dtjr" value="0"/>
+    <item time="0" type="XY" target="n0_dtjr" tween="true" startValue="1334,-,1,0" endValue="0,0,0,0" duration="24"/>
+    <item time="9" type="Alpha" target="n2_dtjr" tween="true" startValue="0" endValue="1" duration="8"/>
+  </transition>
+  <transition name="fadeOut">
+    <item time="0" type="Alpha" target="n2_dtjr" tween="true" startValue="1" endValue="0" duration="15"/>
+    <item time="0" type="XY" target="n0_dtjr" tween="true" startValue="0,-,0,0" endValue="-1334,-,-1,0" duration="30"/>
+  </transition>
+</component>

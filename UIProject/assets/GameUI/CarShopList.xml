@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="232,313" extention="Button">
+  <controller name="state" exported="true" homePageType="specific" homePage="2" pages="0,使用中,1,已拥有,2,未拥有" selected="0"/>
+  <controller name="button" pages="2,up,3,down,4,over,5,selectedOver" selected="3"/>
+  <displayList>
+    <image id="n7_9oij" name="n7" src="9oij2k" fileName="素材/kuang_sy.png" xy="0,0"/>
+    <loader id="n8_9oij" name="icon" xy="45,62" size="146,119" url="ui://0lagqdfm9oij2e" align="center" vAlign="middle" fill="scaleNoBorder" clearOnPublish="true"/>
+    <image id="n10_9oij" name="n10" src="s2851u" fileName="素材/jinbiicon.png" xy="64,209" size="55,60" aspect="true">
+      <gearDisplay controller="state" pages="2"/>
+      <relation target="n12_9oij" sidePair="middle-middle,right-left"/>
+    </image>
+    <text id="n12_9oij" name="CoinLabel" xy="121,219" size="36,40" font="ui://0lagqdfms2851t" fontSize="12" color="#ffffff" align="center" vAlign="middle" letterSpacing="-2" text="0">
+      <gearDisplay controller="state" pages="2"/>
+      <relation target="n7_9oij" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <text id="n13_9oij" name="n13" xy="69,216" size="93,41" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="已拥有">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <text id="n14_9oij" name="NameLabel" xy="75,19" size="81,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="车名字">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <image id="n15_9oij" name="n15" src="9oij2n" fileName="素材/NEW.png" xy="155,164">
+      <gearDisplay controller="state" pages="2"/>
+    </image>
+    <text id="n16_9oij" name="n16" xy="89,215" size="93,41" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="使用中">
+      <gearDisplay controller="state" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <image id="n17_9oij" name="n17" src="9oij2o" fileName="素材/buff-huangguan.png" xy="46,216">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <image id="n18_9oij" name="n18" src="9oij2q" fileName="素材/kuang_sy_xuanzhong.png" xy="-27,-33">
+      <gearDisplay controller="button" pages="3,5"/>
+    </image>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

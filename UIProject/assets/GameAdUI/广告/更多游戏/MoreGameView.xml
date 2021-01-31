@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n3_n4gp" name="n3" xy="0,0" size="750,1334" type="rect" lineSize="0" fillColor="#b3000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n6_n4gp" name="n6" src="jixpj8k" fileName="广告/更多游戏/背景底.png" xy="66,226" size="625,754" group="n5_n4gp"/>
+    <image id="n7_n4gp" name="n7" src="jixpj8j" fileName="广告/更多游戏/标题.png" xy="215,221" size="326,57" group="n5_n4gp">
+      <relation target="n6_n4gp" sidePair="center-center,top-top"/>
+    </image>
+    <component id="n4_n4gp" name="CloseBtn" src="jixpj8f" fileName="广告/更多游戏/MoreGameCloseBtn.xml" xy="58,213" size="80,80" group="n5_n4gp">
+      <relation target="n6_n4gp" sidePair="left-left,top-top"/>
+    </component>
+    <list id="n9_xjbw" name="List" xy="102,316" size="554,619" group="n5_n4gp" layout="flow_hz" overflow="scroll" lineGap="70" colGap="35" lineItemCount="3" defaultItem="ui://2lldjolijixpj8g" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n5_n4gp" name="n5" xy="58,213" size="633,767" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

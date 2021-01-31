@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="250,120" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n0_j6l4" name="n0" src="j6l44j" fileName="广告/蓝按钮.png" xy="2,1" size="250,120"/>
+    <image id="n1_j6l4" name="n1" src="jixp1" fileName="广告/广告标识.png" xy="187,76" size="60,30" aspect="true"/>
+    <text id="n2_j6l4" name="n2" xy="34,23" size="187,61" fontSize="46" color="#044e9c" text="点击查看"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

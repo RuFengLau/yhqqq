@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="511,118" overflow="hidden" extention="Label">
+  <displayList>
+    <loader id="n19_7k7b" name="icon" xy="0,0" size="511,118" url="ui://2lldjolijixp0" align="center" vAlign="middle" fill="scaleMatchWidth" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button">
+  <controller name="isRedPoint" exported="true" pages="0,没有,1,有" selected="1"/>
+  <displayList>
+    <loader id="n0_socn" name="icon" xy="0,0" size="100,100" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n1_s285" name="title" xy="45,35" size="10,29" fontSize="20" align="center" vAlign="middle" text="">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <image id="n3_am05" name="n3" src="am052t" fileName="素材/tishiicon.png" xy="70,-2" size="30,30" aspect="true">
+      <gearDisplay controller="isRedPoint" pages="1"/>
+      <relation target="" sidePair="right-right,top-top"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

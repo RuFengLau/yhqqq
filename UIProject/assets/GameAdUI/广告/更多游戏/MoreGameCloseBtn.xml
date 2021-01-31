@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n0_j4no" name="icon" xy="0,0" size="100,100" url="ui://2lldjolijixpj8i" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+  <transition name="t0" autoPlayRepeat="-1"/>
+  <customProperty target="bgIcon" propertyId="1"/>
+</component>

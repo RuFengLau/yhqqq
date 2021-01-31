@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0lagqdfm">
+  <resources>
+    <component id="s24q0" name="StartView.xml" path="/" exported="true"/>
+    <image id="tq6l2" name="gaming_15.png" path="/素材/"/>
+    <image id="tq6l3" name="gaming_08.png" path="/素材/"/>
+    <component id="tq6l4" name="GameButton.xml" path="/"/>
+    <component id="socn5" name="ResultView.xml" path="/" exported="true"/>
+    <image id="socn8" name="result_08.png" path="/素材/"/>
+    <image id="socn9" name="result_01.png" path="/素材/"/>
+    <component id="5f7qa" name="ResourceBar.xml" path="/"/>
+    <image id="s285b" name="slice_kuang1_00.png" path="/素材/" scale="9grid" scale9grid="33,28,3,5"/>
+    <image id="s285c" name="jia.png" path="/素材/"/>
+    <image id="s285d" name="..png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285e" name="0.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285f" name="1.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285g" name="2.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285h" name="3.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285i" name="4.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285j" name="5.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285k" name="6.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285l" name="7.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285m" name="8.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285n" name="9.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285o" name="a.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285p" name="b.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285q" name="c.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285r" name="d.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285s" name="e.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285t" name="f.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285u" name="g.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285v" name="h.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285w" name="i.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285x" name="j.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285y" name="k.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s285z" name="l.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28510" name="m.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28511" name="n.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28512" name="o.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28513" name="p.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28514" name="q.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28515" name="r.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28516" name="s.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28517" name="t.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28518" name="u.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s28519" name="v.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851a" name="w.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851b" name="x.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851c" name="xie.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851d" name="y.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851e" name="z.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851f" name="关.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851g" name="发.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851h" name="秒.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851i" name="第.png" path="/素材/白色蓝描边数字/"/>
+    <image id="s2851j" name="0.png" path="/素材/白色数字/"/>
+    <image id="s2851k" name="1.png" path="/素材/白色数字/"/>
+    <image id="s2851l" name="2.png" path="/素材/白色数字/"/>
+    <image id="s2851m" name="3.png" path="/素材/白色数字/"/>
+    <image id="s2851n" name="4.png" path="/素材/白色数字/"/>
+    <image id="s2851o" name="5.png" path="/素材/白色数字/"/>
+    <image id="s2851p" name="6.png" path="/素材/白色数字/"/>
+    <image id="s2851q" name="7.png" path="/素材/白色数字/"/>
+    <image id="s2851r" name="8.png" path="/素材/白色数字/"/>
+    <image id="s2851s" name="9.png" path="/素材/白色数字/"/>
+    <font id="s2851t" name="Font1.fnt" path="/" exported="true"/>
+    <image id="s2851u" name="jinbiicon.png" path="/素材/"/>
+    <image id="s2851v" name="dikuang1.png" path="/素材/" scale="9grid" scale9grid="40,40,50,49"/>
+    <image id="s2851w" name="caidai.png" path="/素材/"/>
+    <image id="s2851x" name="paodepiaoliang.png" path="/素材/"/>
+    <image id="s2851y" name="kuang4.png" path="/素材/" scale="9grid" scale9grid="25,30,22,14"/>
+    <font id="s2851z" name="Font2.fnt" path="/" exported="true"/>
+    <image id="s28520" name="benjujiesu1.png" path="/素材/"/>
+    <image id="s28521" name="caksyx.png" path="/素材/"/>
+    <image id="s28522" name="fh_yuanxingdikuang.png" path="/素材/"/>
+    <image id="s28523" name="button6.png" path="/素材/" scale="9grid" scale9grid="66,22,132,44"/>
+    <image id="s28524" name="button1.png" path="/素材/"/>
+    <image id="s28525" name="bofang.png" path="/素材/"/>
+    <image id="s28527" name="mianfeifuhuo.png" path="/素材/"/>
+    <component id="s28528" name="GameBlueBtn.xml" path="/"/>
+    <component id="s28529" name="GameBigBtn.xml" path="/"/>
+    <image id="s2852a" name="dianwofanbei.png" path="/素材/"/>
+    <image id="9oij2b" name="huoche_xiayiguan.png" path="/素材/"/>
+    <component id="9oij2c" name="ShopView.xml" path="/" exported="true"/>
+    <image id="9oij2d" name="shouye_22.png" path="/素材/"/>
+    <image id="9oij2e" name="trucks_00.png" path="/素材/trucks/" exported="true"/>
+    <image id="9oij2f" name="trucks_01.png" path="/素材/trucks/" exported="true"/>
+    <image id="9oij2g" name="trucks_02.png" path="/素材/trucks/" exported="true"/>
+    <image id="9oij2h" name="trucks_03.png" path="/素材/trucks/" exported="true"/>
+    <image id="9oij2i" name="trucks_04.png" path="/素材/trucks/" exported="true"/>
+    <image id="9oij2j" name="trucks_05.png" path="/素材/trucks/" exported="true"/>
+    <image id="9oij2k" name="kuang_sy.png" path="/素材/"/>
+    <component id="9oij2l" name="CarShopList.xml" path="/"/>
+    <image id="9oij2m" name="fanhui.png" path="/素材/"/>
+    <image id="9oij2n" name="NEW.png" path="/素材/"/>
+    <image id="9oij2o" name="buff-huangguan.png" path="/素材/"/>
+    <image id="9oij2p" name="shangdian.png" path="/素材/"/>
+    <image id="9oij2q" name="kuang_sy_xuanzhong.png" path="/素材/"/>
+    <image id="9oij2r" name="lijigoumai.png" path="/素材/"/>
+    <image id="9oij2s" name="mianfeihuode.png" path="/素材/"/>
+    <image id="am052t" name="tishiicon.png" path="/素材/"/>
+    <image id="am052u" name="sd_biaoti.png" path="/素材/"/>
+    <image id="am052v" name="lijishiyong.png" path="/素材/"/>
+  </resources>
+  <publish name="" path="..\LayaProject\bin\res\ui" packageCount="2" genCode="true"/>
+</packageDescription>

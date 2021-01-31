@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kd5ich5s">
+  <resources>
+    <image id="s4080" name="anniu.png" path="/素材/"/>
+    <image id="s4081" name="guangbi.png" path="/素材/"/>
+    <image id="s4082" name="biankuang.png" path="/素材/" scale="9grid" scale9grid="40,40,80,80"/>
+    <component id="s4083" name="SdkStartIconListView.xml" path="/广告组件/" exported="true"/>
+    <component id="s4084" name="SdkIconButton.xml" path="/组件/"/>
+    <component id="s4085" name="SdkButton.xml" path="/组件/"/>
+    <image id="s4086" name="icon256.png" path="/素材/"/>
+    <component id="8m0z7" name="SdkIconButtonAd.xml" path="/广告组件/" exported="true"/>
+    <component id="mzap8" name="SdkOneLineBanner.xml" path="/广告组件/" exported="true"/>
+    <component id="mzap9" name="SdkResultIconListView.xml" path="/广告组件/" exported="true"/>
+    <component id="mzapa" name="SdkPowerView.xml" path="/广告组件/" exported="true"/>
+    <image id="mzapb" name="横幅.png" path="/素材/"/>
+    <image id="mzapc" name="n7.png" path="/素材/"/>
+    <component id="mzapd" name="ProgressBar1.xml" path="/组件/"/>
+    <image id="am05e" name="huoche_yinliu.png" path="/素材/"/>
+  </resources>
+  <publish name="" path="..\LayaProject\bin\res\sdkAssets" packageCount="2" genCode="true" codePath="..\LayaProject\src\gameCore\ymsdk\ui"/>
+</packageDescription>

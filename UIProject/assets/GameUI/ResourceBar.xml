@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="143,56" extention="Label">
+  <displayList>
+    <image id="n7_s285" name="n7" src="s285b" fileName="素材/slice_kuang1_00.png" xy="0,0" size="143,56">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n6_5f7q" name="title" xy="59,11" size="25,28" font="ui://0lagqdfms2851t" fontSize="8" color="#ffcc00" align="center" vAlign="middle" letterSpacing="-2" text="0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n9_s285" name="AddBtn" src="tq6l4" fileName="GameButton.xml" xy="102,-13" size="80,80" visible="false">
+      <relation target="" sidePair="middle-middle,right-right"/>
+      <Button icon="ui://0lagqdfms285c"/>
+    </component>
+    <loader id="n10_s285" name="icon" xy="-21,3" size="50,50" align="center" vAlign="middle"/>
+  </displayList>
+</component>

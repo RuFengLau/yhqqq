@@ -101,6 +101,8 @@
     <image id="am052t" name="tishiicon.png" path="/素材/"/>
     <image id="am052u" name="sd_biaoti.png" path="/素材/"/>
     <image id="am052v" name="lijishiyong.png" path="/素材/"/>
+    <image id="p0w92w" name="caksyx(1).png" path="/素材/"/>
+    <image id="p0w92x" name="songkai (1).png" path="/素材/"/>
   </resources>
   <publish name="" path="..\LayaProject\bin\res\ui" packageCount="2" genCode="true"/>
 </packageDescription>

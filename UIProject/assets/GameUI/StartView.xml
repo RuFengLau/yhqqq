@@ -2,13 +2,16 @@
 <component size="750,1334">
   <controller name="gameState" pages="0,准备,1,开始游戏" selected="0"/>
   <displayList>
-    <image id="n1_tq6l" name="n1" src="s28521" fileName="素材/caksyx.png" xy="251,817" pivot="0.5,0.5" group="n3_tq6l">
-      <relation target="" sidePair="center-center,bottom-bottom"/>
-    </image>
     <image id="n2_tq6l" name="n2" src="tq6l3" fileName="素材/gaming_08.png" xy="282,952" pivot="0.5,0.5" group="n3_tq6l">
       <relation target="" sidePair="center-center,bottom-bottom"/>
     </image>
-    <group id="n3_tq6l" name="Finger" xy="251,817" size="247,294" advanced="true">
+    <image id="n16_p0w9" name="n16" src="p0w92w" fileName="素材/caksyx(1).png" xy="194,815" group="n3_tq6l">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n17_p0w9" name="n17" src="p0w92x" fileName="素材/songkai (1).png" xy="389,816" group="n3_tq6l">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <group id="n3_tq6l" name="Finger" xy="194,815" size="373,296" advanced="true">
       <gearDisplay controller="gameState" pages="0"/>
     </group>
     <component id="n4_tq6l" name="Bot" src="tq6l4" fileName="GameButton.xml" xy="0,0" size="750,1334">
@@ -48,7 +51,6 @@
     </image>
   </displayList>
   <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
-    <item time="0" type="Scale" target="n1_tq6l" tween="true" startValue="1,1" endValue="1.05,1.05" duration="12" repeat="-1" yoyo="true"/>
     <item time="0" type="Scale" target="n2_tq6l" tween="true" startValue="1.1,1.1" endValue="1,1" duration="12" repeat="-1" yoyo="true"/>
     <item time="0" type="Scale" target="n8_9oij" tween="true" startValue="1,1" endValue="1.1,1.1" duration="12"/>
     <item time="0" type="XY" target="n2_tq6l" tween="true" startValue="305,976,0.407,0.732" endValue="282,952,0.376,0.714" duration="12" repeat="-1" yoyo="true"/>

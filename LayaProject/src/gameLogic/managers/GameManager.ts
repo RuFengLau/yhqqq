@@ -26,7 +26,7 @@ export default class GameManager {
         Laya.Shader3D.debugMode = false;//开启Shader3D调试
         GameEngine.inst.isLocal = true;//读取本地资源
         GameEngine.inst.useZipAssets = false;//启用zip加载
-        GameEngine.inst.platform = Platform.weixin_h5;//设置渠道,渠道配置表在 bin/localRes/data/platformConfigs.json
+        GameEngine.inst.platform = Platform.web_h5;//设置渠道,渠道配置表在 bin/localRes/data/platformConfigs.json
         Platforms.inst.init();//初始化Platform
         if (GameEngine.inst.useZipAssets) {
             await ResourcesManager.inst.readHashFile();

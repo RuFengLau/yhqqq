@@ -3,14 +3,14 @@
         "../bin/**/*.*"
     ],
     "openDataZone": false,
-    "compressJson": true,
+    "compressJson": false,
     "compressJsonFilter": [
         "$basePath/**/*.{json,atlas}"
     ],
     "compressJsonNoteList": [
         ""
     ],
-    "compressImage": true,
+    "compressImage": false,
     "compressImageFilter": [
         "$basePath/**/*.{png,jpg}"
     ],
@@ -52,36 +52,44 @@
         ""
     ],
     "packfileFullValue": [
-        "$basePath/**/*.*",
-        "$basePath/game.js",
-        "$basePath/game.json",
-        "$basePath/project.config.json",
-        "$basePath/weapp-adapter.js"
+        "$basePath/**/*.*"
     ],
     "packfileTargetValue": "",
     "packfileNoteList": [
         ""
     ],
     "clearReleaseDir": true,
-    "compile": false,
+    "compile": true,
     "forceCompile": false,
     "onlyIndexJS": true,
     "useMinJsLibs": false,
-    "es6toes5": true,
+    "es6toes5": false,
     "projectType": "ts",
-    "pubTime": 1612233548527,
-    "uesEnginePlugin": false,
-    "wxOptimize": {
-        "useOptimizeOpen": false,
-        "preloadRes": false,
-        "preloadResRootDomain": "",
-        "preloadResList": [
-            {
-                "path": "wxfile://usr/",
-                "url": ""
-            }
-        ],
-        "preloadSubpack": false,
-        "preloadSubpackList": []
-    }
+    "pubTime": 1612279172494,
+    "hwInfo": {
+        "name": "运货强强强",
+        "projName": "quickgame",
+        "package": "com.yumegame.yhqqq",
+        "icon": "E:\\Project\\h5\\layabox\\games\\SaveMyPrincess_huawei\\Laya_SaveMyPrincess\\icon256.png",
+        "versionName": "1.0.0",
+        "versionCode": 1,
+        "minPlatformVersion": 1075,
+        "orientation": "portrait",
+        "logLevel": "log",
+        "adbDebug": true,
+        "apkUpdate": true,
+        "useReleaseSign": true,
+        "subpack": false
+    },
+    "hwSign": {
+        "generateSign": false,
+        "countryName": "CN",
+        "provinceName": "",
+        "localityName": "",
+        "orgName": "",
+        "orgUnitName": "",
+        "commonName": "",
+        "emailAddr": ""
+    },
+    "hwSubpack": []
 }

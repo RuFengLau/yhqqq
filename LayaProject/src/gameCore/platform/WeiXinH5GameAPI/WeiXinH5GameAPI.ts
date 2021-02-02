@@ -476,7 +476,18 @@ export default class WeiXinH5GameAPI implements PlatformsAPI {
         //throw new Error("Method not implemented.");
     }
     navigateToMiniGame(object: any) {
-        //throw new Error("Method not implemented.");
+        if (this.wx) {
+            console.log("微信跳转...", object.appId);
+            this.wx.navigateToMiniProgram({
+                appId: object.appId,
+                path: object.path,
+                extraData: object.extraData,
+
+                success(res) {
+                    console.log("跳转成功...", object.appId);
+                }
+            })
+        }
     }
     pay(paymentData: PaymentData, callback: (success: boolean, msg: string) => void) {
         //throw new Error("Method not implemented.");

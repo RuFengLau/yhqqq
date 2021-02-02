@@ -7,6 +7,8 @@ import EventManager from "../../../gameCore/managers/eventManager/EventManager";
 import GameEvents from "../../../gameCore/events/GameEvents";
 import UIManager from "../../../gameCore/managers/UIManager";
 import ShopViewController from "./ShopViewController";
+import PlatformAdManager from "../../../gameCore/platform/PlatformAdManager";
+import PlatformEvents from "../../../gameCore/platform/PlatformEvents";
 
 export default class StartViewController extends ViewControllerGeneric<UI_StartView> {
     public get URL(): string {
@@ -22,20 +24,31 @@ export default class StartViewController extends ViewControllerGeneric<UI_StartV
     private unbind() {
         this.view.m_Bot.displayObject.off(Laya.Event.MOUSE_DOWN,this,this.onTouchStart);
         this.view.m_Bot.displayObject.off(Laya.Event.MOUSE_UP,this,this.onRelease);
-       
         CustomEventDispatcher.instance.off("gameUI", this, this.showPage);
-        
     }
 
     private bind() {
         EventManager.inst.AddEventListener(GameEvents.ON_UPDATE_USERINFO_EVENT,this,this.updateUserInfo);
+        EventManager.inst.AddEventListener(PlatformEvents.ON_BANNER_SUCCESS_EVENT,this,this.onBannerSuccess);
+        EventManager.inst.AddEventListener(PlatformEvents.ON_BANNER_FAIL_EVENT,this,this.onBannerFail);
         this.view.m_Bot.displayObject.on(Laya.Event.MOUSE_DOWN,this,this.onTouchStart);
         this.view.m_Bot.displayObject.on(Laya.Event.MOUSE_UP,this,this.onRelease);
         CustomEventDispatcher.instance.on("gameUI", this, this.showPage);
 
         this.view.m_ShopBtn.onClick(this,this.onShopBtnClick);
         this.updateUserInfo();
+        PlatformAdManager.inst.showBanner();
     }
+
+    private onBannerSuccess() {
+        
+    }
+
+    private onBannerFail() {
+        
+    }
+
+
 
     private onShopBtnClick() {
         UIManager.inst.showPopupView(new ShopViewController());
@@ -54,6 +67,9 @@ export default class StartViewController extends ViewControllerGeneric<UI_StartV
 
     private onTouchStart() {
         TruckGameManager.instance().OnSpeedDownEnter();
+        if(this.view.m_gameState.selectedIndex == 0){
+            PlatformAdManager.inst.destroyBanner();
+        }
         this.view.m_gameState.selectedIndex = 1;
     }
 

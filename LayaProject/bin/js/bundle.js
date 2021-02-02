@@ -1,1 +1,8024 @@
-const a0a=['currentNativeAd','res/ui/GameCommandUI.bin','loadProgress','MdhjV','ADDED','onCountTime','bLeht','hqwwK','FJUma','OOykJ','readFile','pzhNL','ckTpi','EgYuU','charAt','JuJLi','m_Lose','now','getAudio','count','xqbIo','getKeyValue','hXSqF','trackEvent','RDUQM','nkiSB','KWsrC','没有原生三图广告数据!!!','BUFFER','sub1/res/cars/Cars.lh','KMUUp','pOWns','UZihI','dwQxZ','VivoH5GameAPI.onInit','Mechine','visible','开始游戏1分钟内不展示原生Icon广告','SetTarget','ozCUJ','saveDataToCache','onVideoAdFailCallback','createInterstitialAd','CorrectionWheelPosition','bannerAdId','CarShopList','_asset.json','srhCi','isShowBanner','qZyui','bGSIY','localPositionY','OkSdS','2472ZQMVVJ','animator','WGKTm','random','getEnvColor','没有Banner广告数据','DkPnA','closeHander','CaTpQ','nativeAdOnLoad','loadUI','wwaVY','qBlmP','MyLoZ','ResourceManager\x20-\x20加载本地内容','adZvH','OwZDd','GProgressBar','jwBiK','warn','xEoRQ','FsQiK','addFadeView','PYkYD','TouTiaoH5GameAPI.onShowInsertAd\x20显示插屏广告','localRes/ui/GameLoadingUI_atlas_nqsz4g.jpg','zfJgd','RdgJb','gameUI','GUjzQ','VIVO没有隐藏插屏广告方法','m_CountTimeLabel','DaeKt','res/ui/GameAdUI_atlas0.png','fileConfigs','clientWidth','LcrsP','geuyg','nativeImageAdData','canLoadInsertAd','加载UI资源完成','AkIrX','iYvLg','ClJqO','S_生命','ViOEf','KubYf','WebH5GameAPI\x20createNativeAd','onRewardAdClose','HusRH','_gameObject','ui://2lldjolijixpj8h','setValue','Ovfuy','getImageThumb','banner广告展示失败\x20','VivoH5GameAPI.NativeAd.OnError\x20原生广告错误','RyaxK','hMdox','hide','onStop','toString','@hit\x20waypoint\x20%d','loadScreenImagesComplete','GUrAM','LpnSH','WeiXinH5GameAPI\x20createNativeAd','URL','addChild','https://mini.coschat.com/api/sdk/','ios','EWBYK','isUnlockCar','lRjkW','carScene','onHideBanner','EyiiU','onNativeIconAdClick','odokl','xRarv','dfnaQ','是否开启广告:','addChildAt','Z_召唤','ttPAP','没有原生图标广告数据!!!','iXnVx','apply','isToutiaio','onItemClick','onNativeIconAdError','window','Platforms','Solider','qwOKF','点击上报原生图标id:','pWWqd','CkkPV','原生广告加载完成-onload触发','OAbtS','iJpMU','rewardAdShowCD','pingPong','open\x20other\x20games','LmdBS','BurIM','gAUCi','m_ImageLoader','获取SDK\x20value:','AKPdi','coisResourceKey','getSoundMuted','hVMwK','dwtdm','SdkIconButtonAd','cLaHG','OPPOH5GameAPI.onShowNativeIconAd','WxgAI','eeEto','WttJq','jvbLV','src','uWGpK','Iigzl','GPlMy','countDowwInsertTime','web_h5','test\x20consol\x20warn','Y_友方单体','RemoveEventListener','platform','535pqHGsO','HcFxx','OWJYI','Front','cRnvh','zZutk','xaFft','HGzFR','cvFZK','VivoH5GameAPI.onShow\x20进入前台','onList1Renderer','Stat','OPPOH5GameAPI.reportAdClick\x20原生广告上报点击','SWopb','VivoH5GameAPI.hasShortcutInstalled\x20已安装图标','userDataKey','getDevicePlatform','LoaderFillType','onQQMiniGame','nBPko','TWsEP','fnicH','BGM','BGEjJ','luvRp','ektow','pow','附带数据:','onComplete','M_木材','assign','99e555608e754cca9725a3c9d2a7945b','offHide','roQPO','lQKlb','isVertify','Utils','banner广告可以再次显示了','NwCnM','parent','SxjdM','PhysicsDebugDraw','localRotationEulerX','CpGyV','downloadHash.json','GPMjP','setMap','Stop','设置Laya.URL.basePath\x20','nowCoin','SXJzW','decorate','RCmGI','handling\x20success:\x20','RzcQK','oreyB','gkPHW','images','destroyNativeIconAd','XBscg','qqtFy','YvAWM','CEIQR','_instance','RHxYM','DebugPanel','ShareVideoView','Wheels/BL','localProjectkey','msnlQ','oPgER','qtoBh','aiZAq','ocrbj','utf-8','parseInt','linearNone','onSoundPlayComplete','setEnableDebug','soundMuteDataKey','mtMmF','clearAll','VpsSl','uGNHl','获得奖励','speedUpdaPosition','EMklS','WsvaM','ndMxO','concat','uSuUp','nNDZA','已经有id','getCarIndex','data','regClass','cloneTo','useCar','swylG','Scene3D','qOTJF','ON_HIDE','foWny','getRandomSequence','currentStage','Infantry','udPTP','height','handling\x20fail,\x20error\x20message\x20=\x20','resetBannerCDTimer','SoundManager','Physics','NCvaO','hbs','onConstruct','RWXwE','clickEvent','qHYle','m_n45','RndLY','RxXvg','View','OPPOH5GameAPI.onNativeAdClick\x20','Down','PYcQk','car','EugiH','MaskIcon','onTriggerExit','gAThn','CarConfigs','guideRecordKey','shareImage','{0}','m_NextBtn','ResultView','m_DescLabel','Xtkyc','volume','albedoColor','none','quDfX','FmdRc','wMETH','getNotchHeightSync','shareAppMessage','NQPTY','WPUJV','m_CC','nowCarIndex','DdnCD','广告显示成功','ZfAst','twzON','offResize','onVideoFailCallback','PlayCurrentMusic','BvgMv','lENrs','tt_123456','canAd','WKbSh','QFNSK','changeCar','uYKjX','removeAfter','LlNTx','qqplay_123456','VivoH5GameAPI.onShowNativeAd\x20没到指定时间不能显示原生插屏广告','WidMm','恢复游戏','Default','SDK版本过低！你的版本为：','msg','getNativeAdData','next','generalUser','onScroll','getStorageSync','Approximately','mgAVC','ohsaS','m_nativeIconAd','cjLlS','localRes/ui/GameLoadingUI.bin','OPPOH5GameAPI.onLogin\x20成功:','OPPOH5GameAPI.installShortcut\x20安装图标','平台信息:','分享视频失败','setMaxPointCount','res/assets/','m_isRedPoint','shaderName','initPos','OPPOH5GameAPI.hasShortcutInstalled\x20安装图标失败\x20','createLoadingView','WDqcb','ui://9kynrs2zs24q4w','layerMask','getBannerAdData','paySign','showBanner','gameModelURLS','getMenuButtonLayout','m_bannerIsShow','nativeIconAdList','Video','token','YmSdkUI','fromCharCode','服务器验证支付失败','onShopBtnClick','nsOau','doFadeOut','Wheels/FL','res/sdkAssets/YmSdkUI','bHtlf','startScene','WeiXinH5GameAPI\x20onShowInsertAd','CcPAK','topViewContainer','init','onLateUpdate','getZipData','Cyoth','handling\x20fail,\x20result\x20=\x20','eblSC','fogStart','date','wfpWn','VivoH5GameAPI.onDestroyNativeAd\x20没有销毁原生广告方法','m_n11','screenWidth','SiHUC','onTriggerEnter','OkXOv','YgIsP','m_videoAdIsLoaded','PrbfZ','isUnlock','soundMuted','downloadFile','USgGg','physicsDebug','addColorSign','m_n28','getScreenSize','JGuFd','oppo_h5','KNDVk','OPPOH5GameAPI.onShowBanner','Events','AoJDX','confirm','EpdGl','VyWcM','localRotationEulerY','tweenValue','CompareVersion','IOEOP','mmuoV','yZUaV','D_敌方单体','RaNPn','qQXwF','发起支付:','mAFKg','OPPOH5GameAPI.onDestroyNativeAd','registerGameUIInfo','OPPOH5GameAPI.RewardedVideo.onError\x20激励视频加载错误\x20','yjfrW','showModal','getApps','m_n30','displayObject','RolLZ','IeHvs','.zip','xRAVS','endingObj','ui://kd5ich5ss4084','ui://kd5ich5smzap9','WUqxl','zcDNz','Magic','getFullYear','huEHX','OPPOH5GameAPI.onNativeAdLoad\x20原生ICON广告加载成功\x20','_colorSign','qabDO','getOwnPropertyDescriptor','m_ContentLabel','AyKLd','getTransitionAt','backWheels','parentRoadScript','yjMRt','prefabs','DaxhF','location','PjfQn','currentP','SumString','GameBigBtn','canShowAd','nsjVj','WQFLM','头条ios版本不支持更多游戏','fPdMR','yDqXx','TouTiaoH5GameAPI\x20onInitAdService','发送事件需要1.8.0以上','drivehill_','ytayE','ervOb','EEyij','getTimer','BannerAd\x20onHide,剩余隐藏次数:','switch','YxNhK','bQvTN','VIVO没有销毁插屏广告方法','getNativeIconAdData','onHide','OPPOH5GameAPI.hasShortcutInstalled\x20安装图标成功','Uhvtq','setSoundVolume','YNjkU','load','gZPhl','JwCUp','HttpRequest','IAKtX','XMMVv','NjXoW','VBmZs','英雄冲突','nvHdb','fTyEL','BOndP','addPackage','loadLocalFiles','yDUSW','getDayCountEnterGame','enable','oMZUW','jKdBz','writeFileSync:','pEhcE','download','rWaaV','gnzhT','WeiXinH5GameAPI\x20InsertAd\x20展示成功','fail','XPzAh','banner广告展示成功','getSystemTime','payTempRecordKey','resetUser','onLoad','onShow','sign','VivoH5GameAPI.onRewardAdLoad\x20视频加载成功','resultIconListShow','xDGht','loadingView','m_button','OPPOH5GameAPI.onNativeIconAdClose','createFromQuaternion','game_scene','bISKw','onNativeAdClose','WebH5GameAPI\x20onShare','iRmaU','getCarData','canInsertAdErroShowBanner','YUDpF','trys','backgroundImage','WeiXinH5GameAPI\x20onLogin','m_TTT','isEnded','KSIsj','gridIconShow','m_n17','randomIcon','wwmaa','nowCargos','ohDTJ','unbind','VivoH5GameAPI\x20onLogin','uaRFN','SuspensionLength','owkbq','owbfZ','malzH','VuyAY','gameViewContainer','globalConfigs','gameScene','BossVal','showPopupView','RAsHR','setSoundMuted','ResourceBar','激励视频倒计完成，可以再次显示','XTcDW','tKmbJ','buffers','tmFZp','ZWpUd','GZBTB','GXYuv','HFDNR','ejIni','sub1/res/LayaScene_map0/Conventional/','eUZug','setStorageSync','logo','onUpdateReady','ZqOhR','UJajQ','jQTOZ','IsOr','getUpdateManager','WeiXinH5GameAPI\x20onInit','kKHiQ','RzwGM','激励视频广告完成，发放奖励','IvvNF','GButton','loadImage','res/ui/GameAdUI.bin','createFromAxisAngle','createRewardedVideoAd','onTouchStart','UIYfF','ycFSZ','onShareAppMessage','UUfQj','CQDaM','timers','onStopRecord','OPPOH5GameAPI.onDestroyNativeIconAd','setJSON','shift','手动加载成功','BZjpI','unzip','ojRRV','Laya3D','Qumki','跳转失败:','run','hVMKT','getComponent','GusLb','激励视频需要最小平台号1041','ewnWL','onShareCallback','163852SglBkJ','setItem','P_普通宝箱','ZEZWF','getSystemInfoSync','VivoH5GameAPI.onHide\x20进入后台','deepCopy','registerSound','TxLuZ','initRoads','followSpeed','defineNames','qZYvz','tMFGS','gtPga','m_n25','原生AdData数据空','bnQeA','wOiDU','DAHuS','getChildAt','sub1/res/LayaScene_cargos/Conventional/cargos.lh','screenMode','ui://lrq909uumpgu45','ui://kd5ich5ss4085','VivoH5GameAPI\x20插屏需要倒计:','BSWkq','drawRect','Matrix4x4','m_CoinBar','头条系统信息:','Vector3Angle','Woods','res/sounds/buyButtonSE.ogg','initRotate','SESoN','video','m_State','bjdXT','stopRecord','style','enabled','ui://lrq909uufo2s0','S_伤害','Event','loadModel','diMlL','currentPlatform','distance','TouTiaoH5GameAPI\x20onDestoryBanner','tzPxA','qHSqK','BXpXi','LeftWheel','lbige','TvIcz','HtDUb','JplPP','onHideToastViewComplete','EQFrn','EoXwI','rotation','OneDq','ceil','getQueryVariable','TouTiaoH5GameAPI.onStartRecord\x20开始录屏30秒','debugIndex','Coin','mVdYF','BtnColor','checkBanner','nrZJT','cargoTrigger','carConfigs','uma','Y_野怪Boss','WYMYn','chtTH','是否显示banner：','PjdlG','length','激励广告展示失败','stage','reportMonitor','onNavigateToMiniProgram','setVolume','m_CoinLabel','FJdLQ','m_n27','stateMachine','没广告版本','startsWith','rmlFY','top','\x20AppID:','eventDispatcher','录屏错误','加载模型资源完成','cbbqV','WWgDk','HoaCM','QvKMl','m_BackBtn','Heading','onResize','m_bannerAd','cost','WeiXinH5GameAPI\x20onShowNativeAd','GetTransformUp','CGojz','Banner广告需要1.3.0以上','onBDMiniGame','whBrO','m_n8','loop','bQyRd','offAllCaller','iioBX','BztVZ','CorrectionWheelRotation','Udkbk','send','TBEkL','SRfjk','倒计结束,广告可以显示了','onVideoAdSuccessCallback','ZnFwB','substring','handleOneCargo','LZSjr','xTRxO','Free','useAudioMusic','IsBack','YFKFD','hVAeZ','EfDgj','swPwN','yWaZc','hSDLr','autoStopMusic','switches','ui://9kynrs2zlo4q3','JlAtC','GpxzR','GQjQM','m_TipLabel','SDDgC','CZShL','ui://9kynrs2zlo4qe','JeSuf','rIIrm','moreGameList','getSprite3d','https://mini.coschat.com/api/sdk/click','Ohvxn','nIfFx','ui://0lagqdfms24q0','tmZKG','DbEXT','loadingIconListShow','gXcPS','获取失败','HUgrs','WebH5GameAPI\x20updateHighScore','TouTiaoH5GameAPI.onDestoryInsertAd\x20移除插屏广告','dTLDz','loadedMap','lzkBP','zoomout','cargosPath','toastViewUpdate','Fzptb','SpJuE','shareTemplateId','ILLmi','GameConfigRes','resolve','PresentViewController','onItemClick0','bhUzc','Get','frameLoop','XTjsi','pop','CommandButton','TsVQp','dngqb','DlwGo','获取原生图标数据:','OnEndingEnter','abs','enterGame','onNativeAdLoad','XjZXf','maoJE','yCoYP','YPQWG','NZmET','cTpmm','alWRG','res/data/shader.json','下载zip包失败','ZwOHb','createWithPoint','getDate','insertAdId不能为空','ui://2lldjolijixpj8b','eFspY','soundPools','RlThX','onShowInsertAd','onRewardAdLoad','mFFBa','unzipFile','adShowTime','WeiXinH5GameAPI\x20RewardedVideo\x20load\x20Error:','onViewAdded','isZero','find','PeopleChange','setSize','width','addCoins','getDefaultCarLockData','_countDownInsertTime','WzXSt','fYKTB','rxCga','onItemRenderer','zqtny','m_n12','游戏中','VFLET','gUPHu','m_n6','dTBUp','qtGBB','vIXID','installShortcut','setExtension','SendEvent','FAIL','m_gameState','review','ON_LOAD_PROGRESS_EVENT','catch','clearVideoCallback','selectCar','doFadeIn','split','WebH5GameAPI\x20createBannerAd','OPPOH5GameAPI.onBannerAdError\x20Banner广告错误\x20','onLogin','vLuxv','解压zip包成功!!!!!','onWeiXin','RightWheel','_transform','packageName','AmPaU','SRxFF','number2BigNumber','repeat','Play','tmpfile:','JbTIm','请稍等','开始游戏','rotateSpeed','jpeQU','addGems','STEno','onBannerLoaded','onIOS','rxyzk','GetRandomFloat','MoreGameIcon','WuEJf','create','m_ShopBtn','onViewAddedEvent','SVQjn','awQwB','downloadTask','carsScenePath','XGlwz','m_instance','OZcOj','insertAdId','OrientationTarget','addRecordCount','dGHjS','mNvhf','hpSZf','394703lFTBea','QiYDn','xQIJg','left','小程序下一次「冷启动」时会使用新版本','ui://kd5ich5smzapd','isVideoAdPlaying','826lgmqxl','removeTimer','packageFileExtension','游戏格子','onBannerError','cELOi','destroy','HWmsp','ggpGr','开始ICON导出页面','Rad2Deg','WeiXinH5GameAPI\x20onNativeAdClick:','setup','当前渠道是\x20','showSplashScreen','BxWJU','curretnType','qqplay_h5','loadData','GviOI','sThbS','onBannerHide','m_nativeAd','PlKiw','AwtGR','invert','CoinChange','min','TryUpdateBuffer','ccbNy','idgHo','Z_子弹范围敌军','prototype','dummyTarPos','Dklcz','onBannerLoaded\x20广告显示成功','adId','exduI','randomFloat','RNXNC','APP','list1','pRgLf','Z_自身范围敌军','currentCarId','HlNgP','clearStage','friction','vibrateLong','tmsjf','NativeIcon','ClassUtils','m_n4','Handler','loadFiles','iterator','view','bPprj','1275YBrHzs','B_Boss出生点','AXxmv','resultCode','musicVolume','getSeconds','showToast','ULGlg','XSpHo','GameButton','viewController','Enemy','None','录屏结束,视频地址：','AxyQZ','nlhvM','ForwardAcceleration','GxKGI','danqiEffect','destroyBanner','qGPTY','XbJEh','sqrt','SE_Win','cRRfF','IToBa','ui://0lagqdfm5f7qa','TIiav','GhNSE','AYNFr','recoveryCargos','OPPOH5GameAPI.installShortcut\x20安装图标成功','onShowNativeAd','loader','nickName','onInit','EqFlD','m_SdkOneLineBanner','m_UseBtn','pauseGame','aCCdT','NBidI','raw','kLIOe','createSplashComponent','Qqqfh','JAtNU','pSWPg','localRes/ui/GameLoadingUI','TouTiaoH5GameAPI.onInsertAdError\x20插屏广告加载失败,','removeCargos','gtwYH','WeiXinH5GameAPI\x20InsertAd\x20展示失败:','iSPPC','isVideoAdFirstPlay','TzfXJ','WeiXinH5GameAPI\x20createInsertAd','bannerRecordKey','kEUeH','mcFmS','removeChild','ebvzE','BAxTD','GetGroundBasedForward','ssYLu','deskTopRecord','getRes','bdtEH','FeMTu','数据上报需要最小平台号1060','XRMSx','ScaleNoBorder','m_groundForward','clipName','WQKue','Mqyms','OwrpP','localRotationEuler','adList','TouTiaoH5GameAPI.onShowInsertAd\x20没到指定时间不能显示插屏广告','zoUIT','VQrFQ','startRecord','addComponentIntance','dVcYI','k_k2','pause','CQJxr','m_recordVideoPath','aXDIl','.mp3','Middle','loadingComplete','F_防御力','VivoH5GameAPI\x20onShowRewardedVideo','服务器验证返回','insertAdReadyInterval','onDestoryInsertAd','头条小游戏','_woodResource','host','constructor','sQSzF','gameUIPacakge','CjRBs','SDKICONBanner点击','bcBiE','OPPOH5GameAPI\x20原生插屏需要倒计:','toutiao_h5','mPCDe','iEnmQ','VivoH5GameAPI.hasShortcutInstalled\x20安装桌面图标出错\x20','getAngleSpace','doScaleIn','m_insertAd','onShowAppBox','getLanguage','scioJ','initApi','carBags','KUsmI','m_moreButton','offClose','fill','EkFUd','m_title','test\x20consol\x20log','goSxS','FromToRotation','buyCar','ui://0lagqdfm9oij2c','GGraph','onBannerSuccess','G_攻击速度','ehbWv','FWobN','onShortCutInstallEvent','res/images/splash.jpg','lrfsJ','FTrYP','aZnrx','handling\x20success','lvmuf','videoAdId','onNativeIconAdLoad','slice','GTween','replace','aqzvb','iwbgQ','Turbx','wgPQX','mwgFl','OKQqk','appVersion','gIvTv','onShowRewardedVideo','m_n26','添加桌面图标成功，获得50钻石','UdVzO','m_n46','Hero','rZLZp','HHROL','TNTYD','showNativeIconAd','TouTiaoH5GameAPI\x20onHide','PgjRW','smLid','nIwFy','WebH5GameAPI\x20onNativeAdClick:','PlayMusic','1.4.1','kOqGw','touchable','nnHFd','Script3D','HShrb','roadS2','FgVXV','clamp','showRewardedVideo','Round','sgLFB','HxNHN','platforms','MobkO','notchHeight','lIPgO','mAaJE','systemInfo','m_data','onStartRecord','conch','Sovqg','IBAui','startQueue','YrhxB','m_n39','m_TitleLabel','m_n24','getDefaultTartget','D_敌方全体','IsSet','onInsertAdError','FnBAE','localRes/data/platformConfigs.json','Mesh','linearFactor','检查是否可以显示插屏广告:','ivate','SDKICON点击','playingList','start','setScale','fadeView','ui://2lldjolij6l4j8m','kEicO','ifXgd','httpRequest','internal://files/assets/','ldJdY','Banner本地记录:','XSlGf','VivoH5GameAPI.onInsertAdClose\x20插屏广告关闭','destroyUnusedResources','res/sounds/bgm.mp3','container','bannerRecord','addLabel','mUEgb','klzNn','ARdeY','SwvRa','onJumpPage','exzJW','overrideGravity','Tween','m_recorder','hzvDi','default','TurnStrength','ON_BANNER_SUCCESS_EVENT','fogRange','offError','checkOldData','GvmqI','pYsYr','errMsg','桌面图标已创建','shortcutKey','genPositons','yoSly','pGAbe','onBuyBtnClick','录屏需要1.4.1以上','reportAdClick','isWin','Stage','Wheels/FR','OnSpeedDownEnter','readHashFile','MSilU','未完整看完视频无法获得奖励','EbOso','res/ui/GameUI.bin','iconUrlList','xiaomi_h5','m_n21','linearVelocity','head','hhqDp','subtract','m_IconMask','PDvEQ','m_Finger','nxNUs','OPPOH5GameAPI.onInit','K_空','m_CancelBtn','vertical','wCuxJ','poSyW','VmdMx','是否开启导流:','res/ui/GameUI_atlas0.png','showShareMenu','kcLWT','mgYNx','res/sounds/win.ogg','ui://9kynrs2zk0kn4a','HSGfd','jwtWe','imgUrlList','THvCj','icon','ui://2lldjolijixpj8f','ui://kd5ich5ss4083','FsnlT','m_n7','GameCommandUI','onBannerShowSuccess','UNDISPLAY','jtiku','TouTiaoH5GameAPI\x20sendEvent','randShowBanner','currentAppId','createNativeIconAd','basePath','gBvaz','test\x20consol\x20error','getForwardVector','FKPDD','nowLevel','msGFF','SdkPowerView','qohjj','maxLeveLCount','VSBAs','TouTiaoH5GameAPI.onHideInsertAd\x20头条的插屏没有hide方法','EventDispatcher','onInitRecorder','showStartView','ialXb','Yovqh','广告组件有问题','imAUv','getJSON','abort','soundList','GFvdN','getJsonPath','_payTempyRecord','m_color','vQWBs','currentBgAudio','Vector3','VivoH5GameAPI.NativeIconAd.OnError\x20原生图标广告错误','m_ClickBtn','success','UKCJS','VivoH5GameAPI.onInitAdService','alignH','useLotteryShareBtn','sendEvent','RiERT','getStorage','fogColors','SpeedUpPosition','getControllerAt','rNvjt','pay','push','LoadingView','add','user','tweener','Jgpoz','jHWyV','onNativeIconAdClose','result','QNilK','fadeDuration','gravity','getTime','numItems','nRRBX','onFreeGetBtnClick','LoadZipAndUnZip','scaleMode','onClose','ui://2lldjolijixpj8c','getRandomInArr','url','GPLTS','npKfL','mrQcq','TouTiaoH5GameAPI.onError\x20激励广告组件出现问题,','hasShortcutInstalled','getCurrentAppId','ZHQWH','colorSignKey','hjfgl','applyForce','Rxeml','UIObjectFactory','onKGMiniGame','WCwFe','qKnXX','onStart','Size','resetData','OPPOH5GameAPI.onDestoryBanner\x20销毁Banner广告','onClickHandler','mWRNz','foo=bar&baz=qux','QuaternionVector3','.ogg','YaqMf','ON_COMPLETE_EVENT','LgVra','then','getPlatform','onUpdateFailed','target','插屏广告展示成功','SbWOR','getMonth','WjfEA','VivoH5GameAPI.show\x20激励广告显示错误','off','[YMSDK]初始化渠道信息:','Rvnyi','CJBzM','m_fadeOut','_parent','TimeLine','kZrts','金币不足','OGcrS','throw','RxQvW','LoadingBar','bXxTg','XNuhd','VivoH5GameAPI\x20插屏倒计完成\x20','tDIfa','_checkIn','record','GameBlueBtn','m_LoadingBar','onShowNativeIconAd','engineVersion','iaUIh','sjaHw','TFFTp','_children','VlndX','VdmbX','updateHighScore','clone','btNtS','ProgressBar1','vYVcO','AddFrontWheel','SEewS','BXtLw','stageBags','rewardVideoOnError','gAwdL','banner广告销毁成功','eERPH','HandleBalance','eQDaI','StartView','更新失败，下次启动继续...','inst','onBannerLoaded\x20广告组件出现问题','加载UI资源失败,重试','Result','WeiXinH5GameAPI\x20updateHighScore','devtools','appInfo','m_forward','RBjfD','pMaVu','itemRenderer','dstHZ','reportAnalytics','Ease','onBannerAdError','NfnVJ','Symbol.asyncIterator\x20is\x20not\x20defined.','Car','NativeAdViewButton','createInsertAd','VivoH5GameAPI\x20原生插屏需要倒计:','zVogA','getItem','qTFbZ','createFromYawPitchRoll','kVnVa','tZkpg','initData','phrFV','Gkynv','omrXb','SdkButton','cargox','OPPOH5GameAPI.RewardedVideo.onClose\x20激励视频广告完成，发放奖励','showResultIconListView','findIndex','getMusicMuted','判断图标是否已经超过一日:','kFxQN','createAppBox','SdkIconButton','\x20已经有了','UBymM','uIFyb','SUCCESS','Buff','mAGJb','onInitAdService','key','即将有更新请留意','rYYwd','openId','m_t0','SodAh','eXTwR','metadata','setConfig','bannerHeight','bGWWR','tIMiL','origin','AVSpb','position','NJYiG','LerpNumber','ymehv','Resource','clearColor','vibrateShort','aBTpJ','substr','m_FreeGetBtn','vnXeU','makeCargos','UIPackage','kNKGw','cfollow','m_n2','Main\x20Camera','showMoreGamesModal','ovaZy','tQpRQ','InverseTransformPoint','views','没有安装过图标','TUIhm','onFreeGetCoinBtnClick','m_n18','Hit','vkpXV','350235bRXBLA','LamxH','debug','registerModels','useGetFreeCoinBtn','play','激励视频广告取消关闭，不发放奖励','tbaLd','ujtQR','probability','Spear','__proto__','XPuos','gBxJN','TovXw','sdkVersion','type','开始页面导流按钮','UpdateBuffers','LjElO','canShowBannerAd','huawei_h5','OPPOH5GameAPI.onShowNativeAd','OXAoA','Nwiug','compileShader','C_藏宝图','addForce','SubString','roadColors','KGzwC','TouTiaoH5GameAPI.onShowInsertAd\x20插屏广告显示成功','tKaaV','cross','instance','onCheckForUpdate','RGVEq','lxaMk','LTYFa','1RwebDA','khhWx','onVideoSuccessCallback','OPPOH5GameAPI\x20navigateToMiniGame','orderNo','undefined','gameState','m_Win','OPPOH5GameAPI.onShowRewardedVideo','atdOZ','ZFpTG','GetHeaders','@stop\x20the\x20car','GRoot','ogDRK','kOLZW','T_体力','SozMb','cJnFe','rigidbody','insertAdShowCD','m_AddBtn','ssLaH','[ResourcesManager\x20loadResource]\x20加载资源完成','Anzsi','原生图标AdData数据空','dIAxr','PlatfromConfig','LbmSH','Quaternion','EBItp','1.33.0','onUpdate','offsetPosition','ON_NATIVE_AD_READY_EVENT','lgCWw','weixin_h5','cargosCnt','res/sounds/fail.ogg','jJZEW','WRKjl','aRmsF','stopSound','KZNZT','WebH5GameAPI\x20onInitAdService','aDIuz','VivoH5GameAPI.onRewardAdError\x20','ZH_CN','SE_BuyItem','getRoundPoint','VivoH5GameAPI.onNativeAdClose\x20关闭原生广告-暂时没执行什么内容','PbuJH','RTpyf','MfrTf','ReppM','getHours','fileList','scale','pTVIB','NFCor','timeId','Diamond','banner广告隐藏成功','vXTcD','res/ui/GameUI','FindChild','nYlET','m_n14','dZgqa','Generator\x20is\x20already\x20executing.','kkFus','更新提示','Head','对面太强了，老铁快来帮忙啊！','addCargo','getUp','nativeAdId不能为空','BtYIN','stnkv','Uclsy','map','setLoadingProgress','gameObject','跳转其他小游戏','bind','kOGDt','desc','支付成功:','onDestroyNativeIconAd','音乐本地数据：','ghNiD','appId','lLorg','selectedIndex','Y_移动速度','videoAdList','TewJG','CBbzD','k_k5','zcyiR','showNativeIconButton','#ff0000','OPPOH5GameAPI\x20reportMonitor','pCatI','iuBhr','aUTmM','ui://0lagqdfm9oij2l','woodResourceKey','stop','开始游戏1分钟内不展示Banner广告','OPPOH5GameAPI\x20onInitAdService','CompareString','aihKH','m_n20','platformVersionCode','SdkOneLineBanner','destroyNativeAd','onViewWillDestory','BMkYJ','pqaBo','kdAdz','createMoreGamesButton','OYGmS','Role','tSECv','nativeIconAdOnLoad','splice','createObject','getNextPointPosInWorld','zFRgD','platformConfig','Ending','onItemClick1','VsyBd','DGdzw','SE_Lose','m_List','TeRnD','MainViewBGM','m_ButtomBar','getZipPath','658BCIYTb','m_n3','点击更多游戏','StandBy','读取缓存的广告数据','XLZYi','QrtNx','done','getChildByName','onAwake','CLICK_ITEM','没到指定时间不能显示视频广告','_soundMuted','localPosition','FbAnc','AmCGA','camera','vHyjr','ui://2lldjolilo4q3y','QTgZh','install','VtcUt','hlhoH','ZLQyk','hasUpdate','onShowBanner','getFileSystemManager','TransformPoint','nogdI','twupM','xxQgz','GLabel','onUseBtnClick','pIpyG','m_List1','addComponent','WeiXinH5GameAPI\x20onShowRewardedVideo','FPJeL','ePElJ','rayCast','ui://2lldjolilo4qb','post','NNXcz','rRQBL','onFailCallback','AtJuQ','DismissViewController','[YMSDK]设置Map:','11秒内调用广告次数超过1次，11秒后再调用','原生图标广告加载完成-onload触发','vkeqY','aGYuS','TCQGy','TouTiaoH5GameAPI\x20onShow','IMAGE','debugMode','uiViewContainer','CargoPosition','model','m_n99','Plane','zdRbc','shareStartTime','FpxWR','cVLGY','QuaternionEuler','ym_','jJlTS','RNMLl','ayJAH','WebH5GameAPI\x20onShowInsertAd','canShowRewardAd','addTimer','Post','#ff000000','nowCarData','NativeAdView','string','AddTurnForce','D_友方全体','MMCGE','桌面图标本地记录信息:','localPositionX','getGameRecorderManager','LoDuG','远程兵营','addRecord','用户信息:','queueIndex','NativeImageLoader','ILscc','thDKW','m_ConfirmBtn','pUBKO','isZeroByValue','OPPOH5GameAPI.onLogin\x20失败:','oAEiL','m_n10','treasureKey','开始录屏','applyUpdate','STyFO','onUpdateUserInfo','H_恢复','TouTiaoH5GameAPI.onInsertAdClose\x20关闭插屏广告\x20','IiAPw','cEhzZ','removeSelf','getDayLocalRecord','setMusicVolume','ukjnN','m_n16','VivoH5GameAPI.onShowInsertAd\x20没到指定时间不能显示插屏广告','colorTable','Wheels/BR','qMXzC','桌面图标未创建','verticalAlign','gRyXL','HitResult','FtZMD','hashData','bannerAdShowCD','ncUGs','test\x20consol\x20debug','platformAPI','PWElL','rjKKw','Other','zoomCameraObj','playMusic','IsFront','ui://2lldjolij6l4j8q','CyPPf','nSYzO','m_List0','res/ui/GameCommandUI','checkIfFail','m_BigBgLoader','SwCvu','DdnlI','IjSkP','rPxXb','title','新版本已经准备好，是否立即使用？','AddEventListener','pXqkb','广告组件出现问题','gameURLS','indexOf','VivoH5GameAPI.installShortcut\x20安装图标成功','getAD:','TaKrR','asyncIterator','zUzPV','WeiXinH5GameAPI\x20onShare','localRes/ui/GameLoadingUI_atlas0.png','KFWJA','jGoND','onContinuBtnClick','baidu_h5','服务器验证成功','fogColor','gVOcU','idCfg','NativeImage','axleInfos','getLanguageData','BsByN','qDwgb','navigateToMiniGame','Z_钻石','_id','VivoH5GameAPI.onInsertAdError\x20插屏广告错误\x20','onSubProgress','ui://2lldjolij6l4j8l','Bow','__esModule','m_videoAd','alignV','Banner广告加载失败:','[YMSDK]发送事件111111:','wyEhS','VIVO系统信息:','近战兵营','addSounds','BWwrr','coins','ControllerName','1.8.0','F_范围友军','aawiI','rtMaG','point','m_ProgressBar','dot','m_state','VivoH5GameAPI.onShowRewardedVideo\x20没到指定时间不能显示视频广告','rewardVideoOnClose','onShare','OPPOH5GameAPI.RewardedVideo.onLoad\x20激励视频加载成功','getMinutes','text','UIConfig','equals','qoxAz','SDSbK','ui://9kynrs2zs24q4l','ylUjE','info','onInsertAdClose','_musicMuted','floor','onRelease','PassChange','_user','m_fadeIn','FOuMY','Building','backTrails','OnDefaultEnter','defRotateSpeed','transformV3ToV3','游戏结算','ON_INSERT_AD_ERROR_EVENT','writeFileSync','tEAqX','wx.onHide=====================================','DYbID','bin','LynJv','getItemURL','iLihf','不存在原生广告列表','UmTPx','crAbD','OPPOH5GameAPI.onBannerAdShow\x20显示Banner广告成功','GLoader','hOUTL','TouTiaoH5GameAPI.onShowInsertAd\x20插屏广告显示失败\x20','EWjkH','readFileSync','.json','BPuwA','timer','qCCPT','openid','callLater','ON_BANNER_FAIL_EVENT','&iconId=','m_Bot','STwSX','UpUdF','countDay','userDataPath','cELwD','Banner广告数据:','naqJa','VUfbQ','linearDamping','audio','clearRes','cmJWK','m_ContinueBtn','原生广告点击','G_攻击力','hideResultIconListView','onBannerResize','MOUSE_DOWN','function','findTargetComplete','原生图标AdData:','onList2Renderer','VivoH5GameAPI.show\x20激励广告显示成功','randomValue','m_ColorBg','m_n5','rGlMq','bannerAdList','bindAll','onHideAppBox','RRsLz','PcZEU','onInsertAdLoaded','removeCargo','sgHOn','Deg2Rad','slLDH','setStorage','onNextBtnClick','GsyuG','fTKMQ','rIBft','m_BuyBtn','OPPO系统信息:','m_n13','iZLWY','iconId','max','m_adState','Loader','Mopva','reportAdShow','igTMQ','lbEFA','banner广告隐藏失败\x20','onLoadProgressEvent','readFileSync:','sBXYm','name','rbyfM','eeWie','GameUI','OPPOH5GameAPI.onNativeAdError\x20','completeHandler','onShowAppBoxAd','index','_countDownNativeAdTime','dfVhk','handling\x20fail,\x20code\x20=\x20','res/data/configs.json','gbhLO','GLVmR','m_ImageTitle','frameOnce','TouTiaoH5GameAPI.onShowRewardedVideo\x20显示激励视频广告','插屏广告需要最小平台号1031','hideCount','激励广告加载失败','addFguiExtends','FadeView','res/ui/GameCommandUI_atlas0.png','GmIOl','onQGMiniGame','OPPOH5GameAPI\x20原生插屏倒计完成\x20','AqRNE','tYTli','onEnable','addToScene','RemoveEventListenerWithCaller','MoreGameCloseBtn','initConfigs','EzVer','scrollToView','TouTiaoH5GameAPI\x20onShare','getZipBundlePath','m_icon','Qgoue','Banner广告加载完成================','RCwbK','获取原生三图数据:','oOiPV','激励视频广告1.3.0以上','m_FreeGetCoinBtn','list2','nlsFj','zdtRn','[YMSDK]点击sdk:','Friend','IXYSR','autoSize','acos','CUaHU','onBannerAdShow','meshRenderer','lHshk','event','showNativeAd','LastRightWheelResult','LastLeftWheelResult','Browser','m_GetCoinBtn','angularDamping','projectKey','下载资源zip成功:','HandleWheel','res/sdkAssets/YmSdkUI.bin','1.3.0','dmjWQ','xafWG','LCGsQ','center','offLoad','HhTWl','hasOwnProperty','GameAdUI','ERROR','normalize','ACMlu','sharedMaterial','GameLoadingUI','moHdj','IFVCD','vivo_h5','.ls','isReview','SuspensionForce','onSuccessCallback','TouTiaoH5GameAPI\x20updateHighScore','log','screenHeight','结算误点进度页面','MFNNk','loadScreenImages','xZGtp','_enterGame','localPositionZ','Uoyzu','Back','sendEventApi','endTrigger','qIWYb','error','cQYNt','carPos','GnPtK','physicsSimulation','ARRNL','offShow','worldMatrix','vdiSZ','TouTiaoH5GameAPI\x20onShowBanner','gems','XLiYu','radius','bQAIY','_inst','label','playSound','once','OPPOH5GameAPI.onHideBanner\x20隐藏Banner广告','m_n15','NativeAdViewCommandBtn','JgPCA','maxPoint','CAKvx','MzJZA','onRewardAdError','get','runWith','nEYej','dSZQb','clearVideoCallbacks','rBMFC','[YMSDK]点击跳转:','DRWlg','ui://2lldjolilo4q40','backgroundColor','kFfID','一起来勇闯世界遗迹吧','[YMSDK]加载UI完成','gDfNK','ShopView','J_技能伤害','QlrvW','Ahzlu','200','njVgk','COMPLETE','伐木场','m_bannerHeight','vMrgR','nQZNw','JSON','clear','VPdCT','ON_INSERT_AD_CLOSE_EVENT','ZcbCN','aZmhe','jSzwE','ON_SHOW','Z_自身','apps','OPPOH5GameAPI.hasShortcutInstalled\x20已安装图标','onVVMiniGame','cFSOK','Rigidbody3D','versionCompareUsage','NkMJf','moPfv','LYDaO','dJmUV','loadLevel','env','iPhone\x20X','randRate','return','alpha','YxXoW','addWayPoints','OPPOH5GameAPI.loadingComplete','加载模型资源失败,重试','sGVOO','DZeGH','vNsjG','视频尚未准备好，请稍后再试','pfBJk','m_n44','StageAndRMB','ops','DdWpG','idoVJ','LZgQK','unlockCar','qPUtK','value','onClick','duration','setPivot','Cavalry','delayCheckShortCut','没有该timer\x20id','[ResourcesManager\x20loadResource]\x20加载系统所需资源','dGUXL','rQZQQ','Shader3D','m_n42','createInnerAudioContext','createBannerAd','x4399_h5','WebH5GameAPI\x20onShowRewardedVideo','S_视频宝箱','WFAmM','LocalStorage','UwCky','WUEWG','onShareVideo','targetPosition','MathUtils3D','m_NameLabel','HWHQr','结算ICON导出页面','stringify','platformDisplayName','deskTopRecordKey','xtAjn','other','owner','k_k4','miHSF','statusBarHeight','show','showPage','SetShutDown','save','WeiXinH5GameAPI\x20createRewardedVideoAd','lerp','UdvBV','endingCamera','OPPO小游戏','bAJuP','NSfho','scalarLength','updateUserInfo','B_冰冻','onDestroyNativeAd','KMHxn','showNativeOrInsertAd','ui://2lldjolij6l4j8o','SGSXS','下载文件到本地:','WaqfD','onDisable','Ray','getOwnPropertySymbols','nativeAdList','jzOTt','SAgSb','Point','sRvWT','TTutJ','Fwggd','_shortcut','userInfo','Timer','ON_UPDATE_USERINFO_EVENT','Hkryq','initSDK','加载本地内容成功','gURIm','isGet','Ppbcv','useZipAssets','isVectorZeroLength','tjCuO','VJPIF','pPXBK','checkRecord','2.6.0','zEIOm',':\x20广州游梦\x20-\x20','saveData','jJzpc','vLtuY','zgFqQ','NGvKo','WebH5GameAPI\x20onShowBanner','isLocal','2YgbBDA','soundVolume','exportSceneToJson','frVMo','zawSe','game_app','createInstance','32315uzHRQi','OAzSV','支付成功','defineProperty','Qubte','tVdWW','MTiBK','OPPOH5GameAPI.onNativeIconAdError\x20','mglok','Gbyab','微信小游戏','RZaxM','加载本地内容失败','banner广告销毁失败\x20','setData','onHideInsertAd','createObjectFromURL','TouTiaoH5GameAPI\x20激励视频广告完成，发放奖励','m_CloseBtn','YPteg','CdFZm','sGLJL','GNeqq','res/ui/GameAdUI','m_StageLabel','sin','languageType','getForward','NotSet','m_isBannerShow','USER_DATA_PATH','roadObj','onNativeAdClick','DeMdK','KbIdK','MOUSE_UP','WebH5GameAPI\x20createInsertAd','addLevel','cloBH','DunNZ','readDataFromCache','zdhic','m_n97','AddBackWheel','appName','sceneBasePath','wNdbJ','reslutProgressShow','onError','application/json','EWyIK','setStartPos','sdkConfig','checkDesktop','XzAVy','getChildIndex','UpdateCurrentGroundForward','xxzaM','pointIndexByName','nativeIconData','Method\x20not\x20implemented.','解压zip包失败','MxHsL','m_maskBg','rnxAX','m_bar','WPdEV','rHpaM','search','ELdvI','ui://kd5ich5smzap8','onTap','DuOub','fadeViewContainer','carScript','_platform','countDownNativeAdTime','plYlx','statusCode','hideMoreGameButton','cgmMQ','hidePopupView','SDKVersion','今日已经领取了ICON奖励','GComponent','true','ui://0lagqdfmtq6l4','systemFileList','DmkyN','sub1/res/LayaScene_map0/Conventional/map0.ls','parse','m_n1','videoId不能为空','LSSVM','rewardVideoOnLoad','iQjmL','[YMSDK]初始化SDK完成','web','getZipURL','ccppF','?gameid=','jMaXp','HlXXt','GotGs','frontWheels','yheIB','k_k6','loadResource','StageAndVideo','mass','微信版本','oGDlX','aXgqp','206kbthhs','pdXWG','WebH5GameAPI\x20onHideBanner','KmBVP','游戏胜利失败:','vWXgr','SdkResultIconListView','m_n0','newGuid','KhPJh','_soundMute','getVideoAdData','PJLBW','cZGuM','initAsync','CompressionRatio','vRnmw','transform','CargoTrigger','uunGq','onNativeAdError','dUGpd','iXXdM','NIPWc','createNativeAd','removeToScene','bottom','cHYRy','AoRbr','XGrrw','cargo','getLanguageString','closeHandler','code','enableFog','OnCarTransform','DzzOp','showStartIconListView','zQGaO','test\x20console\x20info','stat','IyRvY','m_LogoLoader','clampAngle','onDestoryBanner','lpsBr','getAd','nyBZj','ImpactPoint','WeiXinH5GameAPI\x20onShowBanner','call','onUnitSphere','TBwbX','WlTJo','fMPSR','setMusicMuted','gpiwn','MiHsn','OPPOH5GameAPI.hasShortcutInstalled\x20安装桌面图标出错\x20','HSArn'];const a0b=function(a,b){a=a-0xef;let c=a0a[a];return c;};(function(a,b){const bU=a0b,bV=a0b;while(!![]){try{const c=parseInt(bU(0x103))*parseInt(bU(0x70d))+parseInt(bU(0x659))+-parseInt(bV(0x2cf))*parseInt(bV(0x963))+parseInt(bV(0xa4c))*parseInt(bV(0x9db))+-parseInt(bU(0x3f6))*-parseInt(bU(0x680))+parseInt(bU(0x96a))+-parseInt(bU(0x3fd))*parseInt(bU(0x437));if(c===b)break;else a['push'](a['shift']());}catch(d){a['push'](a['shift']());}}}(a0a,0x3ee7d),function(){'use strict';const bW=a0b,c1=a0b;class a{constructor(){}static[bW(0x1e0)](){const bX=bW,bY=bW;if(bX(0x3dd)===bY(0x47a)){function bB(){const bZ=bY,c0=bY;let bC=this[bZ(0x50b)]['indexOf'](b);this[bZ(0x50b)][c0(0x6fe)](bC,0x1);}}else var bA=Laya[bY(0x430)][bY(0x162)];}}a[bW(0x3ad)]=0x2ee,a['height']=0x536,a[c1(0x5a8)]='fixedauto',a[c1(0x2e5)]=bW(0x54f),a[bW(0x7c0)]=bW(0x32c),a[bW(0x58d)]=bW(0x3f9),a[c1(0x1dc)]='',a['sceneRoot']='',a[bW(0x65b)]=![],a[c1(0xa03)]=![],a['physicsDebug']=![],a['exportSceneToJson']=!![],a[bW(0x1e0)]();var b=function(bA,bB){return b=Object['setPrototypeOf']||{'__proto__':[]}instanceof Array&&function(bC,bD){bC['__proto__']=bD;}||function(bC,bD){for(var bE in bD)if(bD['hasOwnProperty'](bE))bC[bE]=bD[bE];},b(bA,bB);};function d(bA,bB){const c3=c1,c4=bW;b(bA,bB);function bC(){const c2=a0b;this[c2(0x49c)]=bA;}bA['prototype']=bB===null?Object[c3(0x3e6)](bB):(bC[c3(0x41d)]=bB[c3(0x41d)],new bC());}var e=function(){const c5=bW,c6=c1;if(c5(0x54b)!==c5(0x54b)){function bA(){const c7=c6,c8=c6;this[c7(0x1b9)]&&(this[c7(0x6fd)]=null,this[c8(0x1b9)][c8(0x52b)](this[c7(0xaa6)]),this[c7(0x1b9)]['offLoad'](this['onNativeIconAdLoad']),this[c7(0x1b9)][c8(0x403)](),this[c8(0x1b9)]=null),b[c7(0x5ff)][c8(0x65b)](c8(0x2be));}}else return e=Object[c5(0x121)]||function bB(bC){const c9=c6,ca=c5;if('KMUUp'===c9(0xa35)){for(var bD,bE=0x1,bF=arguments[ca(0x31f)];bE<bF;bE++){if(ca(0x53f)!==c9(0x53f)){function bH(){const cb=c9,cc=c9;return this['platformAPI']&&this[cb(0x78a)][cc(0x4f2)]();}}else{bD=arguments[bE];for(var bG in bD)if(Object[c9(0x41d)][ca(0x88d)][ca(0xa0d)](bD,bG))bC[bG]=bD[bG];}}return bC;}else{function bI(){const cd=c9;this[cd(0x142)]=new b();}}},e['apply'](this,arguments);};function f(bA,bB){const ce=bW,cf=c1;var bC={};for(var bD in bA)if(Object[ce(0x41d)][cf(0x88d)]['call'](bA,bD)&&bB[cf(0x7a2)](bD)<0x0)bC[bD]=bA[bD];if(bA!=null&&typeof Object[ce(0x941)]===cf(0x81a))for(var bE=0x0,bD=Object[cf(0x941)](bA);bE<bD[ce(0x31f)];bE++)if(bB['indexOf'](bD[bE])<0x0)bC[bD[bE]]=bA[bD[bE]];return bC;}function g(bA,bB,bC,bD){const cg=c1,ch=bW;if(cg(0x17a)===cg(0x17a)){var bE=arguments['length'],bF=bE<0x3?bB:bD===null?bD=Object[cg(0x225)](bB,bC):bD,bG;if(typeof Reflect==='object'&&typeof Reflect[cg(0x136)]===cg(0x81a))bF=Reflect[ch(0x136)](bA,bB,bC,bD);else for(var bH=bA[cg(0x31f)]-0x1;bH>=0x0;bH--)if(bG=bA[bH])bF=(bE<0x3?bG(bF):bE>0x3?bG(bB,bC,bF):bG(bB,bC))||bF;return bE>0x3&&bF&&Object[ch(0x96d)](bB,bC,bF),bF;}else{function bI(){const ci=ch;throw new b(ci(0x9a6));}}}function h(bA,bB){const cj=bW;if('HMTtU'!==cj(0x2ad))return function(bC,bD){bB(bC,bD,bA);};else{function bC(){const ck=cj;d&&e(!![]),f['log'](ck(0x289));}}}function i(bA,bB){const cl=bW;if(typeof Reflect==='object'&&typeof Reflect[cl(0x636)]==='function')return Reflect['metadata'](bA,bB);}function j(bA,bB,bC,bD){return new(bC||(bC=Promise))(function(bE,bF){const cv=a0b,cw=a0b;function bG(bJ){try{bI(bD['next'](bJ));}catch(bK){bF(bK);}}function bH(bJ){const cm=a0b;try{if('wxYAd'===cm(0x2cd)){function bK(){const cn=cm,co=cm;for(let bL=0x0;bL<this['soundPools'][cn(0x31f)];bL++){const bM=this[co(0x3a0)][bL];bM[cn(0x669)]==e&&bM['audio']['pause']();}}}else bI(bD['throw'](bJ));}catch(bL){bF(bL);}}function bI(bJ){const cp=a0b,cq=a0b;bJ[cp(0x714)]?bE(bJ[cq(0x906)]):new bC(function(bK){const cr=cq,cs=cq;if(cr(0x5c1)===cs(0x8c5)){function bL(){const ct=cr,cu=cr;this['m_nativeIconAd']&&(this[ct(0x1b9)]['reportAdClick']({'adId':i}),this['onNativeIconAdClose']()),f[cu(0x5ff)][ct(0x65b)](ct(0x222)+g[cu(0x921)](h));}}else bK(bJ['value']);})[cq(0x5c8)](bG,bH);}bI((bD=bD[cv(0xaa3)](bA,bB||[]))[cv(0x1b2)]());});}function k(bA,bB){const cB=bW;var bC={'label':0x0,'sent':function(){const cx=a0b,cy=a0b;if(cx(0x7b1)===cx(0x303)){function bJ(){const cz=cx,cA=cx;b[cz(0x5ff)][cA(0x1cc)]();}}else{if(bF[0x0]&0x1)throw bF[0x1];return bF[0x1];}},'trys':[],'ops':[]},bD,bE,bF,bG;return bG={'next':bH(0x0),'throw':bH(0x1),'return':bH(0x2)},typeof Symbol==='function'&&(bG[Symbol[cB(0x434)]]=function(){if('qwOjj'!=='ksdCU')return this;else{function bJ(){const cC=a0b;return b[cC(0x801)];}}}),bG;function bH(bJ){return function(bK){const cD=a0b;if(cD(0x9ba)!=='cgmMQ'){function bL(){return new b['Size'](0x2ee,0x536);}}else return bI([bJ,bK]);};}function bI(bJ){const cE=cB,cF=cB;if('QdMvW'!==cE(0x9a8)){if(bD)throw new TypeError(cE(0x6c5));while(bC)try{if('YRbUy'==='YRbUy'){if(bD=0x1,bE&&(bF=bJ[0x0]&0x2?bE[cE(0x8f3)]:bJ[0x0]?bE['throw']||((bF=bE[cE(0x8f3)])&&bF['call'](bE),0x0):bE[cF(0x1b2)])&&!(bF=bF[cE(0xa0d)](bE,bJ[0x1]))[cE(0x714)])return bF;if(bE=0x0,bF)bJ=[bJ[0x0]&0x2,bF[cE(0x906)]];switch(bJ[0x0]){case 0x0:case 0x1:bF=bJ;break;case 0x4:bC[cF(0x8b8)]++;return{'value':bJ[0x1],'done':![]};case 0x5:bC['label']++,bE=bJ[0x1],bJ=[0x0];continue;case 0x7:bJ=bC[cE(0x900)][cF(0x387)](),bC['trys'][cE(0x387)]();continue;default:if(!(bF=bC['trys'],bF=bF[cE(0x31f)]>0x0&&bF[bF[cF(0x31f)]-0x1])&&(bJ[0x0]===0x6||bJ[0x0]===0x2)){bC=0x0;continue;}if(bJ[0x0]===0x3&&(!bF||bJ[0x1]>bF[0x0]&&bJ[0x1]<bF[0x3])){if(cF(0x62a)===cF(0x62a)){bC['label']=bJ[0x1];break;}else{function bK(){const cG=cF,cH=cE;this[cG(0x32e)]=new b[(cG(0x577))]();}}}if(bJ[0x0]===0x6&&bC[cF(0x8b8)]<bF[0x1]){bC['label']=bF[0x1],bF=bJ;break;}if(bF&&bC['label']<bF[0x2]){bC[cF(0x8b8)]=bF[0x2],bC[cF(0x900)][cE(0x597)](bJ);break;}if(bF[0x2])bC[cE(0x900)][cF(0x387)]();bC[cE(0x27c)]['pop']();continue;}bJ=bB[cE(0xa0d)](bA,bC);}else{function bL(){const cI=cF,cJ=cF;if(this['wx']){let bM=bm[cI(0x87f)]['height']/this[cI(0x4f5)][cJ(0x89d)];return this[cI(0x4f5)][cJ(0x929)]*bM;}return 0x14;}}}catch(bM){if('sWBXG'!==cF(0x9f0))bJ=[0x6,bM],bE=0x0;else{function bN(){const cK=cF,cL=cE;this[cK(0x4a9)][cK(0x92a)]()[cK(0x5c8)](()=>{const cM=cL,cN=cK;i['inst'][cM(0x65b)](cN(0x678)),this[cN(0xa73)]=![];})[cL(0x3c5)](bO=>{const cO=cK,cP=cK;i[cO(0x5ff)][cP(0x65b)]('TouTiaoH5GameAPI.onShowInsertAd\x20插屏广告显示失败\x20'+j['stringify'](bO));});;h[cK(0x5ff)][cL(0x65b)](cL(0xa64));}}}finally{bD=bF=0x0;}if(bJ[0x0]&0x5)throw bJ[0x1];return{'value':bJ[0x0]?bJ[0x1]:void 0x0,'done':!![]};}else{function bO(){const cQ=cF,cR=cE;e[cQ(0x89c)](cR(0x6ac)),bD&&bG(),h[cQ(0x89c)]('WebH5GameAPI\x20onInitAdService');}}}}function l(bA,bB){const cS=bW;for(var bC in bA)if(!bB[cS(0x88d)](bC))bB[bC]=bA[bC];}function m(bA){const cT=c1;var bB=typeof Symbol==='function'&&bA[Symbol['iterator']],bC=0x0;if(bB)return bB[cT(0xa0d)](bA);return{'next':function(){const cU=cT;if(bA&&bC>=bA[cU(0x31f)])bA=void 0x0;return{'value':bA&&bA[bC++],'done':!bA};}};}function n(bA,bB){const cV=bW,cW=bW;var bC=typeof Symbol===cV(0x81a)&&bA[Symbol[cW(0x434)]];if(!bC)return bA;var bD=bC[cV(0xa0d)](bA),bE,bF=[],bG;try{while((bB===void 0x0||bB-->0x0)&&!(bE=bD[cV(0x1b2)]())[cW(0x714)])bF[cV(0x597)](bE['value']);}catch(bH){bG={'error':bH};}finally{try{if(bE&&!bE[cV(0x714)]&&(bC=bD[cW(0x8f3)]))bC[cW(0xa0d)](bD);}finally{if(cV(0x3b1)!==cW(0x36d)){if(bG)throw bG['error'];}else{function bI(){const cX=cW,cY=cV;d[cX(0x926)][cX(0x842)][cX(0x32a)]('cargox')&&(this[cX(0x6a5)]++,g[cX(0x67b)]()[cY(0x6ca)](h[cX(0x926)][cX(0x12a)]));}}}}return bF;}function o(){const cZ=bW,d0=bW;for(var bA=[],bB=0x0;bB<arguments[cZ(0x31f)];bB++)bA=bA[cZ(0x15c)](n(arguments[bB]));return bA;}function p(bA){return this instanceof p?(this['v']=bA,this):new p(bA);}function q(bA,bB,bC){const d1=c1,d2=c1;if(!Symbol[d1(0x7a6)])throw new TypeError(d1(0x60f));var bD=bC[d1(0xaa3)](bA,bB||[]),bE,bF=[];return bE={},bG(d1(0x1b2)),bG('throw'),bG(d2(0x8f3)),bE[Symbol[d1(0x7a6)]]=function(){const d3=d1;if(d3(0x8d0)==='XcVas'){function bM(){const d4=d3,d5=d3;return b[d4(0x649)][d4(0x6ff)](d4(0x88e),'ShortcutBtn');}}else return this;},bE;function bG(bM){if(bD[bM])bE[bM]=function(bN){return new Promise(function(bO,bP){if('jKfsh'==='jKfsh')bF['push']([bM,bN,bO,bP])>0x1||bH(bM,bN);else{function bQ(){const d6=a0b,d7=a0b;this[d6(0x435)][d6(0xab7)][d6(0x55e)]=bP[d6(0x55e)];}}});};}function bH(bM,bN){try{bI(bD[bM](bN));}catch(bO){bL(bF[0x0][0x3],bO);}}function bI(bM){const d8=d2,db=d1;if(d8(0x1b8)!=='ohsaS'){function bN(){const d9=d8,da=d8;return b[d9(0x649)][d9(0x6ff)](d9(0x563),'ShareVideoView');}}else bM['value']instanceof p?Promise[d8(0x380)](bM[db(0x906)]['v'])[d8(0x5c8)](bJ,bK):bL(bF[0x0][0x2],bM);}function bJ(bM){const dc=d2;bH(dc(0x1b2),bM);}function bK(bM){const dd=d1;bH(dd(0x5db),bM);}function bL(bM,bN){const de=d1,dh=d2;if('gMyeU'===de(0x1de)){function bO(){const df=de,dg=de;this[df(0x78a)]&&this[df(0x78a)][df(0x457)](bm,d);}}else{if(bM(bN),bF[de(0x2c0)](),bF[de(0x31f)])bH(bF[0x0][0x0],bF[0x0][0x1]);}}}function r(bA){const di=c1,dj=bW;var bB,bC;return bB={},bD(di(0x1b2)),bD(di(0x5db),function(bE){const dk=di;if('VoUeR'!==dk(0x750))throw bE;else{function bF(){const dl=dk;b['inst'][dl(0x65b)]('VIVO没有销毁插屏广告方法');}}}),bD('return'),bB[Symbol['iterator']]=function(){return this;},bB;function bD(bE,bF){bB[bE]=bA[bE]?function(bG){const dm=a0b;return(bC=!bC)?{'value':p(bA[bE](bG)),'done':bE===dm(0x8f3)}:bF?bF(bG):bG;}:bF;}}function s(bA){const dn=bW,dp=c1;if(!Symbol[dn(0x7a6)])throw new TypeError('Symbol.asyncIterator\x20is\x20not\x20defined.');var bB=bA[Symbol['asyncIterator']],bC;return bB?bB[dp(0xa0d)](bA):(bA=typeof m===dp(0x81a)?m(bA):bA[Symbol[dn(0x434)]](),bC={},bD(dp(0x1b2)),bD(dn(0x5db)),bD('return'),bC[Symbol[dn(0x7a6)]]=function(){return this;},bC);function bD(bF){const dq=dp,dr=dn;if(dq(0x1e5)===dr(0x217)){function bG(){const ds=dr,dt=dq;if(g&&!h[ds(0x714)]&&(bC=j[dt(0x8f3)]))k[dt(0xa0d)](l);}}else bC[bF]=bA[bF]&&function(bH){const du=dq;if('yGIIV'!==du(0x393))return new Promise(function(bI,bJ){const dv=du;bH=bA[bF](bH),bE(bI,bJ,bH['done'],bH[dv(0x906)]);});else{function bI(){const dw=du,dx=du;d[dw(0x5ff)][dx(0x65b)]('banner广告销毁失败\x20'+e[dx(0x921)](f)),this['onHideBanner']();}}};}function bE(bF,bG,bH,bI){const dy=dp,dz=dn;if(dy(0x71c)===dy(0x61b)){function bJ(){bH=e-(0x168-f);}}else Promise[dz(0x380)](bI)['then'](function(bK){bF({'value':bK,'done':bH});},bG);}}function t(bA,bB){const dA=bW,dB=bW;if('JwCUp'===dA(0x24d)){if(Object[dA(0x96d)]){if(dA(0x15a)!==dA(0x6cd))Object['defineProperty'](bA,dA(0x461),{'value':bB});else{function bC(){const dC=dA,dD=dA;this[dC(0x413)]&&(this['nativeAdOnLoad']=null,this['m_nativeAd'][dC(0x52b)](this[dD(0x9ef)]),this[dD(0x413)][dD(0x88b)](this['onNativeAdLoad']),this[dD(0x413)][dD(0x403)](),this[dD(0x413)]=null),b[dD(0x5ff)][dC(0x65b)]('OPPOH5GameAPI.onDestroyNativeAd');}}}else{if(dA(0x3b8)===dB(0x3b8))bA['raw']=bB;else{function bD(){const dE=dA,dF=dB;this['tt'][dE(0x194)]({'templateId':d[dE(0x5ff)][dE(0x2fe)]['shareTemplateId'],'title':'','desc':'','imageUrl':'','query':'','success'(){g(!![]);},'fail'(bE){g(![]);}});}}}return bA;}else{function bE(){const dG=dB,dH=dA;b[dG(0x5ff)][dG(0x65b)](dG(0x9bd));return;}}};function u(bA){const dI=c1,dJ=bW;if(dI(0x608)!==dJ(0x608)){function bD(){const dK=dI,dL=dJ;this['fadeView']['visible']=!![],this[dK(0x50e)][dL(0x4e5)]=!![],this[dL(0x50e)]['m_fadeIn'][dK(0x65e)](e[dK(0x432)][dK(0x3e6)](this,()=>{const dM=dL,dN=dK;i&&j[dM(0x2c8)](),bC[dM(0x5ff)]['doFadeOut']();}));}}else{if(bA&&bA[dJ(0x7be)])return bA;var bB={};if(bA!=null)for(var bC in bA)if(Object[dI(0x88d)]['call'](bA,bC))bB[bC]=bA[bC];return bB[dI(0x527)]=bA,bB;}}function v(bA){const dO=bW,dP=c1;if('VyWcM'===dO(0x202))return bA&&bA[dP(0x7be)]?bA:{'default':bA};else{function bB(){const dQ=dP,dR=dO;b[dQ(0x5ff)][dQ(0x65b)](dR(0x33d));return;}}}class w{constructor(){const dU=bW;if('IIbvL'==='uvlzN'){function bA(){const dS=a0b,dT=a0b;for(let bB=0x0;bB<this[dS(0x2fe)][dT(0x823)][dT(0x31f)];bB++){let bC=this[dS(0x2fe)][dS(0x823)][bB];if(bC[dS(0x62f)]==e)return bC;}return null;}}else this[dU(0x4f0)]=[];}static get['inst'](){const dV=bW,dW=bW;if(this[dV(0x8b7)]==null){if(dW(0x67d)===dW(0x1d7)){function bA(){const dX=dW,dY=dV;if(typeof this[dX(0x2fe)][dY(0x35c)][dX(0x3c3)]!==dY(0x685))return this['currentPlatform'][dY(0x35c)][dY(0x3c3)];}}else this['_inst']=new w();}return this[dV(0x8b7)];}get[c1(0x69b)](){const dZ=bW,e0=bW;if(dZ(0xa2f)!==dZ(0xaaf))return e0(0x505);else{function bA(){b(!![]);}}}[c1(0x1e0)](bA){const e1=c1,e2=bW;this[e1(0x161)]=Laya[e2(0x458)][e1(0x479)](w[e1(0x5ff)]['PlatfromConfig']),this[e1(0x4f0)]=this[e1(0x161)]['Platforms'],this[e2(0x2fe)]=this[e1(0x4f0)][bA],be['inst'][e2(0x65b)]('平台信息:'+JSON[e2(0x921)](this[e1(0x2fe)]));}get[c1(0x291)](){const e3=bW,e4=c1;if('WjOWt'!==e3(0x195))return this[e4(0x161)]['GlobalConfigs'];else{function bA(){const e5=e4,e6=e3;if(e[e5(0x5ff)]['enabled']==![]){this[e5(0xa3b)]=![];return;}this[e5(0x907)](this,this[e6(0x5c0)]),this['randomIcon'](),f[e6(0x801)][e6(0x341)](0x1388,this,this['randomIcon']),this[e5(0xa3b)]=g[e6(0x5ff)]['getKeyValue'](h[e6(0x400)]);}}}get['switches'](){const e7=c1,e8=c1;if(e7(0x919)!==e7(0x581))return this[e7(0x2fe)][e8(0x35c)];else{function bA(){const e9=e8,ea=e8;if(h['getChildAt'](0x0))i[e9(0x2e3)](0x0)[e9(0x2ca)](j[e9(0x8e9)])[ea(0x2f8)]=![];var bB=k[e9(0x9ec)],bC=bB[e9(0xa4a)]+0x7,bD=bB[e9(0x75f)],bE=bB[e9(0x8a3)];l[ea(0x524)]['to'](bB,{'localPositionY':bC,'localPositionX':bD,'localPositionZ':bE},0x1f4,null,m['Handler']['create'](this,()=>{o['destroy']();}));}}}['useFreeCoinBtn'](){const eb=bW,ec=c1;if(this[eb(0x2fe)]['switches']){if(typeof this[eb(0x2fe)]['switches'][eb(0x65d)]!==eb(0x685))return this[ec(0x2fe)][eb(0x35c)][eb(0x65d)];}return!![];}[bW(0x58e)](){const ed=bW,ee=c1;if(ed(0x894)!==ee(0x894)){function bA(){return this;}}else{if(this[ee(0x2fe)][ee(0x35c)]){if(typeof this[ed(0x2fe)][ed(0x35c)]['useLotteryShareBtn']!=='undefined'){if(ed(0x8d6)!=='lJJgU')return this[ee(0x2fe)][ee(0x35c)][ee(0x58e)];else{function bB(){const ef=ee,eg=ed;d[ef(0x5ff)][eg(0x65b)](ef(0x77d)),e[ef(0x5ff)][ef(0x3c0)](f[eg(0x7ed)]);return;}}}}return![];}}[c1(0x1ca)](bA){const eh=bW,ei=bW;for(let bB=0x0;bB<this[eh(0x2fe)]['bannerAdList'][ei(0x31f)];bB++){if(eh(0xa30)===eh(0x242)){function bC(){const ej=ei,ek=ei;return b[ej(0x649)][ek(0x6ff)](ej(0x845),ek(0x8d1));}}else{let bD=this['currentPlatform'][ei(0x823)][bB];if(bD[eh(0x62f)]==bA){if(ei(0x39f)!==ei(0x29c))return bD;else{function bE(){const el=ei;m[el(0x597)](new n['Point'](o['sin'](p*q)*r+s['x'],t['cos'](u*v)*w+x['y']));}}}}}return null;}[bW(0x9e6)](bA){const em=bW,en=bW;for(let bB=0x0;bB<this[em(0x2fe)][en(0x6df)][em(0x31f)];bB++){if(em(0x165)!==em(0x9f7)){let bC=this[en(0x2fe)][em(0x6df)][bB];if(bC[en(0x62f)]==bA)return bC;}else{function bD(){const eo=en;bm&&d(0x1,eo(0x65f));}}}return null;}[c1(0x1b1)](bA){const ep=c1,er=c1;if(ep(0x176)!=='RWXwE'){function bB(){const eq=ep;return this['qg'][eq(0x912)]();}}else{for(let bC=0x0;bC<this[ep(0x2fe)]['nativeAdList'][er(0x31f)];bC++){if(ep(0x74a)!==er(0x446)){let bD=this['currentPlatform']['nativeAdList'][bC];if(bD[ep(0x62f)]==bA)return bD;}else{function bE(){b=!![];}}}return null;}}[c1(0x245)](bA){const es=c1,et=c1;for(let bB=0x0;bB<this[es(0x2fe)][et(0x1d0)][es(0x31f)];bB++){if(et(0x2ae)!=='nefzF'){let bC=this[es(0x2fe)]['nativeIconAdList'][bB];if(bC[et(0x62f)]==bA)return bC;}else{function bD(){throw b;}}}return null;}[c1(0x898)](){const eu=c1,ev=c1;if(aV[eu(0x5ff)][ev(0x102)]==aU['game_app'])return aV['inst'][ev(0x126)]();else{if(eu(0x843)==='rbyfM'){if(this['currentPlatform'][eu(0x35c)]){if(ev(0x72b)==='RsMOG'){function bA(){const ew=eu;d[ew(0x5ff)]['showPopupView'](new e()),f['instance']()['loadLevel']();}}else{if(typeof this['currentPlatform'][eu(0x35c)][ev(0x3c3)]!==eu(0x685)){if(ev(0x55a)!==eu(0x55a)){function bB(){const ex=eu,ey=eu;d[ex(0x5ff)][ey(0x42b)](),e['instance']()[ey(0x8ef)](),this[ey(0x1a8)](()=>{const ez=ey,eA=ex;g[ez(0x67b)][ez(0x87b)](eA(0xa68));});}}else return this[ev(0x2fe)]['switches'][ev(0x3c3)];}}}}else{function bC(){const eB=eu,eC=ev;var bD=e[eB(0x9ec)][eC(0x63d)];f['Vector3'][eC(0x547)](this['transform']['position'],bD,this[eB(0x6a1)]),g['transform'][eC(0x63d)][eB(0x163)](bD),this['transform'][eC(0x63d)]=bD,this[eB(0x5cb)]=h;}}}return![];}}class x{constructor(){const eD=bW,eE=c1;this[eD(0x32e)]=new Laya[(eD(0x577))]();}static get[c1(0x5ff)](){const eF=c1;return x['instance']==null&&(x['instance']=new x()),x[eF(0x67b)];}[c1(0x3c0)](bA,bB=null){this['eventDispatcher']['event'](bA,bB);}['AddEventListener'](bA,bB,bC,bD){this['eventDispatcher']['on'](bA,bB,bC,bD);}[c1(0x101)](bA,bB,bC){const eG=c1,eH=c1;if(eG(0x28f)!==eG(0x8ee))this[eH(0x32e)][eG(0x5d1)](bA,bB,bC);else{function bD(){return'';}}}[c1(0x860)](bA){const eI=bW,eJ=c1;this[eI(0x32e)][eJ(0x343)](bA);}}class y{}y[bW(0x529)]=bW(0x4bb),y['ON_BANNER_FAIL_EVENT']='onBannerFail',y[bW(0x6a2)]='onNativeAdReady',y[c1(0x7ed)]=c1(0x503),y[c1(0x8df)]=c1(0x7df),y[bW(0x4bf)]=bW(0x4bf),y['ON_SHOW']='onShow',y[c1(0x168)]=bW(0x246);class z{static[bW(0x6b1)](bA,bB,bC){const eK=bW,eL=bW;if(eK(0x5de)==='bXxTg'){let bD=new Array(),bE=0x168/bB*z[eL(0x82b)];for(let bF=0x0;bF<bB;bF++){if('LeYbs'===eK(0xa14)){function bG(){const eM=eK;b[eM(0xa2a)]++;}}else bD['push'](new Laya[(eK(0x945))](Math[eK(0x983)](bE*bF)*bC+bA['x'],Math['cos'](bE*bF)*bC+bA['y']));}return bD;}else{function bH(){const eN=eK;this[eN(0x8b7)]=new b();}}}static[bW(0x4a7)](bA,bB){const eO=bW;let bC=Math['abs'](bA-bB);if(bC<0xb4)return bC;else{if(eO(0x7c7)==='tfiyj'){function bD(){const eP=eO,eQ=eO;bE=bE['split'](''),bF=bF[eP(0x3c9)]('');var bE=0x0,bF='';while(bE[eP(0x31f)]||bF[eP(0x31f)]||bE){var bG=g(bE[eP(0x387)]()||0x0)+h(bF[eQ(0x387)]()||0x0)+bE;bF=bG%0xa+bF,bE=i['floor'](bG/0xa);}return bF;}}else return(bA+bB+0x168)%0x168;}}static[c1(0xa0e)](bA){const eR=c1,eS=c1;var bB=this[eR(0xa4f)](-bA,bA),bC=this[eR(0xa4f)](-bA,bA),bD=this[eS(0xa4f)](-bA,bA),bE=new Laya[(eR(0x587))](bB,bC,bD);return Laya[eS(0x587)]['scale'](bE,bA,bE),bE;}static[c1(0x423)](bA,bB){return Math['random']()*(bB-bA)+bA;}static['randomTotal2N'](bA,bB){const eT=c1;var bC=[],bD=bB,bE=0x0;for(var bF=0x0;bF<bA-0x1;bF++){var bG=Math['ceil'](Math['random']()*(bD/0x2));bC[eT(0x597)](bG),bD-=bG,bE+=bG;}return bC['push'](bB-bE),bC;}static[c1(0x16a)](bA,bB){const eU=bW,eV=c1;if(eU(0x4af)!==eU(0x4af)){function bC(){const eW=eV,eX=eV;d['log'](eW(0x2c7),e[eX(0x921)](f));}}else{let bD=[bA],bE=[bB];for(let bG=0x0;bG<bA;bG++){bD[bG]=bG;}let bF=bA-0x1;for(let bH=0x0;bH<bB;bH++){let bI=this['random'](0x0,bF);bE[bH]=bD[bI],bD[bI]=bD[bF],bF--;}return bE;}}static[c1(0xa4f)](bA,bB){const eY=bW,eZ=c1;return Math[eY(0x7e1)](Math[eY(0xa4f)]()*(bB-bA+0x1))+bA;}static[c1(0x81f)](bA){const f0=c1,f1=c1;if(f0(0x41f)===f1(0x701)){function bB(){const f2=f1,f3=f0;return this['platformAPI']&&this[f2(0x78a)][f3(0x126)]();}}else{let bC=bA[f0(0x31f)],bD=bC*Math[f0(0xa4f)]()>>0x0;if(bD<bC)return bA[bD];return null;}}static[bW(0x8f2)](bA,bB){const f4=bW,f5=c1;if(f4(0x64a)===f5(0x64a)){let bC=this['random'](0x1,bB),bD=0x0;for(let bE=0x0;bE<bA[f4(0x31f)];bE++){if(f5(0xaac)===f5(0xaac)){bD+=bA[bE];if(bC<bD){if(f4(0x534)==='aZAZV'){function bF(){const f6=f5,f7=f4;let bG=b[f6(0x87f)]['height']/this[f6(0x4f5)][f6(0x89d)];return this[f7(0x4f5)][f6(0x929)]*bG;}}else return bE;}}else{function bG(){const f8=f4,f9=f5;g[f8(0x55e)]=this['list1'][h][f9(0x55e)],bE['title']=this[f8(0x426)][j][f8(0x842)],k[f9(0x161)]=this[f9(0x426)][l];}}}return 0x0;}else{function bH(){const fa=f4,fb=f5;let bI=d[fa(0x5ff)][fb(0x2fe)][fb(0x367)][e];f['icon']=bI[fa(0x55e)];}}}static[c1(0xa06)](bA,bB,bC){const fc=c1,fd=c1;if(bA<bB){if(fc(0x5b7)!==fc(0x2e2))bA=bB;else{function bD(){const fe=fd,ff=fd;b['wx'][fe(0x43d)]({'icon':fe(0x18f),'title':ff(0x3fa)});}}}else{if(bA>bC){if(fc(0xa11)!==fc(0x299))bA=bC;else{function bE(){bm&&d();}}}}return bA;}static['clamp'](bA,bB,bC){const fg=bW,fj=c1;if(bA<bB){if(fg(0x97e)==='CdFZm')bA=bB;else{function bD(){const fh=fg,fi=fg;this[fh(0x13c)][fh(0x597)](b['icon']);}}}else{if(bA>bC){if(fj(0x2f2)==='SESoN')bA=bC;else{function bE(){const fk=fj,fl=fg;this[fk(0x48d)]=![],this[fk(0x3dc)]=0x0;if(this[fk(0x229)][fl(0x31f)]>0x0)for(var bF=0x0;bF<this[fk(0x229)][fk(0x31f)];bF++){this[fk(0x229)][bF][fk(0x9ec)][fk(0x12d)]=0x0;}this[fl(0x3dc)]=this['defRotateSpeed'],this[fl(0x7b3)][0x1];var bG=new e['Vector3']();f[fl(0x587)][fk(0x890)](this[fk(0x606)],bG);var bH=new g[(fk(0x587))]();h[fl(0x587)][fl(0x890)](this[fl(0x693)][fl(0x544)],bH);}}}}return bA;}static[c1(0x3d6)](bA,bB){const fm=bW,fn=bW;return this[fm(0x4eb)](bA-Math[fm(0x7e1)](bA/bB)*bB,0x0,bB);}static[bW(0xab2)](bA,bB){const fo=c1,fq=c1;if('qPUtK'!==fo(0x905)){function bC(){const fp=fo;let bD=this['currentPlatform']['bannerAdList'][bm];if(bD[fp(0x62f)]==d)return bD;}}else return bA=this['repeat'](bA,bB*0x2),bB-Math[fq(0x38e)](bA-bB);}static[bW(0x1b6)](bA,bB){const fr=bW;return Laya[fr(0x91d)]['nearEqual'](bA,bB);}static[c1(0x3d5)](bA,bB=0x4){const fs=bW,ft=c1;if('GUjzQ'===fs(0xa69)){let bC,bD=0x3e8,bE=bD,bF=0x0;for(bF=0x0;;bF++){if('jJZEW'!==ft(0x6a7)){function bH(){const fu=ft,fv=fs;b[fu(0x5ff)]['debug'](fv(0x329));return;}}else{if(bA<bE){if(fs(0x585)===fs(0x8f5)){function bI(){const fw=fs,fx=ft;var bJ=this['GetTransformUp'](bN),bK=bN[fw(0x9ec)][fx(0x63d)][fx(0x5ef)](),bL=new bA[(fw(0x587))]();o[fw(0x587)][fw(0x6b9)](bJ,-0x1,bL);var bM=new p[(fw(0x940))](bK,bL),bN=new q[(fx(0x784))]();if(!r[fw(0x67b)]()[fx(0x292)][fw(0x8ad)][fx(0x734)](bM,bN,this[fx(0x28b)],0x1,0x1))return null;var bO=s['Vector3'][fx(0x2ff)](bM['origin'],bN['point']),bP=this['Round'](0x1-bO/this[fx(0x28b)],0x2),bQ={'Hit':new t[(fw(0x784))](),'CompressionRatio':0x0,'ImpactPoint':''};bQ['Hit']=bN,bQ[fw(0x9ea)]=bP,bQ[fx(0xa0b)]=bN[fx(0x7ce)][fx(0x5ef)]();var bR=new u[(fx(0x587))]();v['Vector3']['scale'](bJ,this[fx(0x899)]*bP,bR);var bS=bN['transform'][fw(0x71a)][fw(0x5ef)]();w['Vector3'][fw(0x547)](bS,new x[(fx(0x587))](0x0,0x5,0x0),bS),y[fx(0x728)](bN['transform'],bS,bS);var bT=bS;return z[fw(0x587)]['subtract'](bT,this[fw(0x9ec)][fx(0x63d)],bT),this[fx(0x693)][fw(0x5b6)](bR,bT),bQ;}}else break;}bE*=bD;}}let bG='';if(bF<0x5){if(ft(0x43e)!==fs(0x43e)){function bJ(){const fy=ft;this['images'][fy(0x597)](b['icon']);}}else bG=bF==0x0?'':bF==0x1?'K':bF==0x2?'M':bF==0x3?'B':'T';}else{if(ft(0x9a3)!=='xxzaM'){function bK(){const fz=fs,fA=ft;d[fz(0x5ff)][fA(0x65b)](fz(0x770)+e[fz(0x921)](f));}}else{let bL=0x61,bM=0x41,bN=Math[fs(0x7e1)]((bF-0x5)/0x1a),bO=(bF-0x5)%0x1a;bG=bN==0x0?String[ft(0x1d4)](bL+bO,bL+bO):bN==0x1?String['fromCharCode'](bM+bO,bL+bO):String['fromCharCode'](bM+bO,bM+bO);}}return bC=String(bA/(bE*0.001)),'.'==(bC=bC[fs(0x645)](0x0,bB))[ft(0xa25)](bC[ft(0x31f)]-0x1)?bC[fs(0x4ca)]('.',bG):bC+bG;}else{function bP(){const fB=ft;this['m_n0']=this[fB(0x2e3)](0x0);}}}static[bW(0x231)](bA,bB){const fC=c1,fF=bW;if(fC(0x9e7)==='lXHqj'){function bF(){const fD=fC,fE=fC;if(this['tt']){let bG=this['tt'][fD(0x8f0)][fE(0x988)]+'/';this['tt']['getFileSystemManager']()[fD(0x2c3)]({'zipFilePath':m,'targetPath':bG,'success'(bH){q['log'](bH),r&&s(!![]);}});}else q&&r(![]);}}else{bA=bA[fF(0x3c9)](''),bB=bB[fC(0x3c9)]('');var bC=0x0,bD='';while(bA[fF(0x31f)]||bB[fC(0x31f)]||bC){var bE=parseInt(bA[fC(0x387)]()||0x0)+parseInt(bB['pop']()||0x0)+bC;bD=bE%0xa+bD,bC=Math[fF(0x7e1)](bE/0xa);}return bD;}}static[c1(0x675)](bA,bB){const fG=bW,fJ=bW;if('zBHWP'===fG(0x8ac)){function bH(){const fH=fG,fI=fG;if(typeof this['currentPlatform'][fH(0x35c)][fI(0x58e)]!==fH(0x685))return this['currentPlatform'][fI(0x35c)][fH(0x58e)];}}else{bA=bA[fG(0x3c9)](''),bB=bB[fJ(0x3c9)]('');var bC=bA[fG(0x31f)]>bB[fG(0x31f)];if(bA[fJ(0x31f)]==bB[fJ(0x31f)])for(var bD=0x0,bE=bA[fJ(0x31f)];bD<bE;bD++){if(bA[bD]==bB[bD])continue;bC=bA[bD]>bB[bD];break;}if(!bC)bA=[bB,bB=bA][0x0];var bF='';while(bA[fJ(0x31f)]){var bG=parseInt(bA[fG(0x387)]())-parseInt(bB['pop']()||0x0);if(bG>=0x0)bF=bG+bF;else bF=bG+0xa+bF,bA[bA[fJ(0x31f)]-0x1]--;}bF=(bC?'':'-')+bF['replace'](/^0*/g,'');if(bF=='-'){if(fJ(0x169)===fJ(0x169))bF='0';else{function bI(){d=[0x6,e],f=0x0;}}}return bF;}}static[c1(0x6ef)](bA,bB){const fK=bW,fL=c1;let bC=this[fK(0x675)](bA,bB);if(bC=='0'){if(fK(0x12e)!==fL(0x6e3))return 0x0;else{function bD(){const fM=fL,fN=fL;return bB[fM(0x649)][fM(0x6ff)]('GameAdUI',fM(0x182));}}}else{if(bC[fL(0x7a2)]('-')==0x0){if('baayB'!=='baayB'){function bE(){f=g==0x0?'':h==0x1?'K':i==0x2?'M':j==0x3?'B':'T';}}else return-0x1;}else return 0x1;}}static[bW(0x9e3)](){const fO=bW,fP=bW;if('plYlx'===fO(0x9b7))return'xxxxxxxxxxxx4xxxyxxxxxxx'[fO(0x4ca)](/[xy]/g,function(bA){const fQ=fO,fR=fO;var bB=Math[fQ(0xa4f)]()*0x10|0x0,bC=bA=='x'?bB:bB&0x3|0x8;return bC[fQ(0xa89)](0x10);});else{function bA(){const fS=fP,fT=fO;i['deskTopRecord'][fS(0x951)]=!![],j['deskTopRecord']['date']=k['getTime'](),l[fS(0xa3f)](m[fS(0x923)],n[fT(0x478)]),o(!![]),p[fT(0x5ff)][fT(0x65b)](fT(0x247));}}}static[bW(0x80a)](bA,bB){const fU=c1,fV=bW;let bC=new Date(bA),bD=new Date(bB);var bE=bC[fU(0x5a3)]()-bD[fU(0x5a3)](),bF=bE/(0x3e8*0x3c*0x3c*0x18);return bF;}static[c1(0x205)](bA,bB){const g2=bW,g3=c1;if('IamGN'!=='IamGN'){function bI(){const fW=a0b,fX=a0b;k[fW(0x89c)]('Banner广告加载完成================'),l['m_bannerAd'][fW(0x92a)]()[fX(0x5c8)](()=>{const fY=fX,fZ=fW;u['log'](fY(0x19a)),v['m_bannerHeight']=0xdc,w[fZ(0x5ff)][fZ(0x3c0)](x[fY(0x529)]);})[fX(0x3c5)](bJ=>{const g0=fW,g1=fX;u[g0(0x89c)](g0(0x7a0),bJ),v[g0(0x8d9)]=0x14,w[g0(0x5ff)][g1(0x3c0)](x[g1(0x805)]);});}}else{var bC=bA['split']('.'),bD=bB[g2(0x3c9)]('.'),bE=Math[g2(0x837)](bC[g3(0x31f)],bD[g3(0x31f)]);while(bC[g3(0x31f)]<bE){bC[g2(0x597)]('0');}while(bD[g2(0x31f)]<bE){bD[g3(0x597)]('0');}for(var bF=0x0;bF<bE;bF++){var bG=parseInt(bC[bF]),bH=parseInt(bD[bF]);if(bG>bH)return 0x1;else{if(bG<bH)return-0x1;}}return 0x0;}}static[c1(0x92f)](bA,bB,bC){const g4=c1,g5=c1;if(g4(0x28d)===g5(0x28d)){if(bC>0x1){if(g5(0x72e)!==g4(0x96b))bC=0x1;else{function bD(){const g6=g5;return this['projectKey']+g6(0x223);}}}else{if(bC<0x0){if(g5(0x262)!==g4(0x45f))bC=0x0;else{function bE(){const g7=g5,g8=g4;this[g7(0x4b0)]&&this[g8(0x4b0)][g7(0xa87)]();}}}}return bA*(0x1-bC)+bB*bC;}else{function bF(){const g9=g4,ga=g4;this[g9(0x3d1)]=this[ga(0x926)][ga(0x9ec)];}}}static['lerpAngle'](bA,bB,bC){const gb=c1;bA%=0x168,bB%=0x168;var bD=bB-bA;if(bD>0xb4){if('XBFrJ'!==gb(0x79b))bB=bA-(0x168-bD);else{function bE(){const gc=gb,ge=gb;this[gc(0x1a8)](()=>{const gd=gc;e['instance']['event'](gd(0xa68));}),d['instance'][gc(0x87b)](gc(0xa68));}}}else bD<-0xb4&&(bB=bA+(0x168+bD));return(this['lerp'](bA,bB,bC)%0x168+0x168)%0x168;}static['angleTowards'](bA,bB,bC){const gf=c1,gg=bW;if(gf(0x57a)!==gf(0x738)){bA%=0x168,bB%=0x168;var bD=bB-bA;if(bD>0xb4){if(gf(0xa5e)===gg(0x943)){function bF(){const gh=gf;return b[gh(0xa8f)];}}else bB=bA-(0x168-bD);}else bD<-0xb4&&(bB=bA+(0x168+bD));var bE=bB-bA;if(bC>Math[gg(0x38e)](bE))return bB;return((bA+bC*this[gf(0x26c)](bE))%0x168+0x168)%0x168;}else{function bG(){const gi=gg,gj=gf;this['tt']=b['tt'],this[gi(0x102)]='',this['isToutiaio']=!![],this['m_bannerAd']=null,this['m_bannerHeight']=0xdc,this['m_videoAd']=null,this['m_videoAdIsLoaded']=![],this[gi(0x4a9)]=null,this[gi(0x497)]=0x2710,this[gj(0xa73)]=![],this[gi(0x694)]=0x2710,this[gi(0x4b0)]=null,this[gi(0x668)]='';}}}static[c1(0x26c)](bA){const gk=bW,gl=c1;if(bA>0x0)return 0x1;if(bA<0x0){if(gk(0x84f)!==gk(0x89f))return-0x1;else{function bB(){const gm=gl,gn=gk;return this[gm(0x652)][b][gm(0x441)];}}}return 0x0;}static[bW(0x662)](bA){const go=bW;return Math[go(0xa4f)]()<bA;}}z[c1(0x82b)]=0.01745329,z[bW(0x407)]=57.29578;class A extends fgui[c1(0x9be)]{static[c1(0x969)](){const gp=c1,gq=c1;return fgui[gp(0x649)][gp(0x6ff)](gq(0x563),'ToastView');}[bW(0x175)](){const gr=bW,gs=bW;this[gr(0x9a9)]=this[gs(0x2e3)](0x0),this['m_n2']=this[gs(0x2e3)](0x1),this[gs(0x4b4)]=this[gr(0x2e3)](0x2);}}A['URL']=c1(0x364);class B{constructor(){const gt=c1,gu=c1;this[gt(0x5a1)]=0.3,this[gt(0x801)]=new Laya[(gt(0x94b))]();}static get[c1(0x5ff)](){const gv=bW,gw=bW;if(this[gv(0x67b)]==null){if('bEcTw'!==gw(0x785))this[gw(0x67b)]=new B();else{function bA(){b(!![]);}}}return this[gv(0x67b)];}[bW(0x92a)](bA,bB=![],bC=0x7d0){const gx=c1,gA=bW;if(this['container']==null){if(gx(0x65a)!=='LamxH'){function bD(){const gy=gx,gz=gx;b[gy(0x5ff)][gy(0x65b)]('TouTiaoH5GameAPI.onShowInsertAd\x20插屏广告显示成功'),this[gy(0xa73)]=![];}}else this[gA(0x51a)]=fairygui['GRoot'][gx(0x5ff)];}this[gx(0x435)]==null&&(this['view']=A[gA(0x969)](),this['view'][gA(0x3ac)](fairygui['GRoot'][gA(0x5ff)][gA(0x3ad)],fairygui[gA(0x68d)]['inst'][gx(0x16e)]));this[gA(0x51a)][gx(0xa90)](this['view']),this[gx(0x435)][gA(0x8f4)]=0x0,this['view'][gx(0x4b4)][gx(0x7d7)]=bA,this[gA(0x435)][gA(0x9a9)][gx(0x4e5)]=bB;if(this['tweener']){if(gA(0x73a)!=='ATmet')this[gA(0x59b)][gx(0x8dd)]();else{function bE(){const gB=gA,gC=gA;e[gB(0x5ff)]['debug'](gB(0x4a6)+f[gB(0x921)](g)),h(![]);}}}this[gA(0x435)]['visible']=!![];bA==''?this[gx(0x435)]['m_n2'][gA(0xa3b)]=![]:this[gA(0x435)][gx(0x64c)]['visible']=!![];this[gA(0x59b)]=Laya['Tween']['to'](this[gA(0x435)],{'alpha':0x1},this[gA(0x5a1)]*0x3e8);if(bC>0x0){if(gA(0x802)===gx(0x427)){function bF(){const gD=gx,gE=gx;bm[gD(0x5ff)][gD(0x65b)]('激励视频倒计完成，可以再次显示'),d[gE(0x5ff)][gD(0x754)]=!![];}}else this[gA(0x801)][gA(0x8dd)](this,this[gA(0xa87)]),this[gx(0x801)][gx(0x8ba)](bC,this,this[gA(0xa87)]);}}[c1(0xa87)](){const gF=c1,gG=bW;if(gF(0x14b)===gF(0x14b))this[gF(0x801)]['clear'](this,this[gG(0xa87)]),this[gF(0x435)]['alpha']=0x0,this['onHideToastViewComplete']();else{function bA(){bm&&d(![],'');}}}[bW(0x37a)](bA){const gH=c1,gI=c1;if(gH(0x980)!==gH(0x889))this[gH(0x435)][gI(0x8f4)]=bA['value']['x'];else{function bB(){const gJ=gI;b['log'](gJ(0x961));}}}[bW(0x309)](){const gK=bW,gL=bW;this[gK(0x435)][gL(0xa3b)]=![];}}class C{constructor(){const gM=bW,gN=bW;if(gM(0x17f)!==gN(0x798))this[gN(0x27d)]='',this[gN(0x2a5)]='',this['backgroundColor']='',this['duration']=0x0;else{function bA(){const gO=gN,gP=gM;this[gO(0x78a)]&&this[gO(0x78a)][gO(0xa07)]();}}}}class D{constructor(){const gQ=c1,gR=bW;if('oXuVX'!=='ylFDQ')this[gQ(0x161)]=[],this[gR(0x765)]=0x0;else{function bA(){const gS=gQ,gT=gQ;g=h[gS(0x485)][gT(0x387)](),i['inst']['m_nativeIconAd'][gS(0x83b)]({'adId':j['adId'][gS(0xa89)]()}),k[gT(0x5ff)][gS(0x6fd)](l);}}}static get[bW(0x5ff)](){const gU=bW,gV=bW;return this[gU(0x8b7)]==null&&(this[gU(0x8b7)]=new D()),this[gV(0x8b7)];}[bW(0x978)](bA){const gW=c1,gX=c1;if(gW(0x729)!==gW(0xa63))this[gX(0x161)]=bA,this[gX(0x8a0)]();else{function bB(){const gY=gW,gZ=gW;return b[gY(0x649)][gZ(0x6ff)](gY(0x88e),gY(0x611));}}}['loadScreenImages'](){const h0=bW,h3=c1;if(h0(0x7cc)!=='aawiI'){function bD(){const h1=h0,h2=h0;if(this['tt']){if(this[h1(0x8ea)](h1(0x4e3))==![]){f[h1(0x5ff)][h2(0x65b)](h1(0x536));return;}this[h1(0x525)][h1(0x6ec)]();}d[h2(0x5ff)]['debug']('TouTiaoH5GameAPI.onStopRecord\x20停止录屏');}}else{var bA=[];for(var bB in this[h0(0x161)]){var bC=this['data'][bB];if(bC[h0(0x2a5)]!=''){if(h0(0x36a)!=='Ohvxn'){function bE(){const h4=h0,h5=h3;return this[h4(0x78a)]&&this[h5(0x78a)][h5(0xa21)](bm,d);}}else bA[h3(0x597)]({'url':bC[h0(0x2a5)],'type':Laya[h3(0x839)]['IMAGE']});}bC[h3(0x27d)]!=''&&bA[h0(0x597)]({'url':bC['backgroundImage'],'type':Laya[h0(0x839)][h0(0x743)]});}Laya[h0(0x458)]['load'](bA,Laya[h3(0x432)][h3(0x3e6)](this,this['loadScreenImagesComplete']));}}[bW(0xa8b)](){const h6=c1,h8=bW;if('VJoHl'===h6(0x28a)){function bA(){const h7=h6;p%=0x168,q%=0x168;var bB=r-s;if(bB>0xb4)E=F-(0x168-bB);else bB<-0xb4&&(G=H+(0x168+bB));var bC=x-y;if(z>A['abs'](bC))return I;return((C+D*this[h7(0x26c)](bC))%0x168+0x168)%0x168;}}else this[h8(0x4fb)]();}['startQueue'](){const h9=bW,ha=c1;var bA=this['data'][this[h9(0x765)]],bB=this[h9(0x463)](bA);let bC=new Laya[(h9(0x5d7))]();bC[ha(0x51c)]('出现',0x0)['to'](bB,{'alpha':0x1},0x1f4),bB[ha(0x8f4)]=0x0,Laya[h9(0x524)]['to'](bB,{'alpha':0x1},0x1f4,Laya[ha(0x60c)][ha(0x14f)]),fairygui[h9(0x4c9)]['to'](0x1,0x0,0x1)[h9(0x6a0)](bD=>{const hb=h9,hc=h9;bB[hb(0x8f4)]=bD[hb(0x906)]['x'];},this)[ha(0x11f)](()=>{const hd=h9,hg=ha;if(hd(0x61c)!=='Gkynv'){function bD(){const he=hd,hf=hd;b[he(0x89c)](hf(0x7f6));}}else{fairygui['GRoot']['inst'][hg(0x473)](bB,!![]),this[hg(0x765)]++;if(this[hg(0x765)]>this['data'][hg(0x31f)]-0x1){x[hd(0x5ff)][hg(0x3c0)](D['ON_COMPLETE_EVENT']);return;}else this[hd(0x4fb)]();}},this)['setDelay'](bA[ha(0x908)]+0.5);}[c1(0x463)](bA){const hh=c1,hi=bW;Laya[hh(0x321)]['addChild'](fairygui[hi(0x68d)][hh(0x5ff)][hh(0x215)]);var bB=new fairygui['GComponent']();bB[hh(0x3ac)](fairygui[hh(0x68d)]['inst']['width'],fairygui[hh(0x68d)]['inst'][hh(0x16e)]);var bC=new fairygui[(hh(0x4ba))]();bC[hh(0x2ea)](0x0,'0xFFFFFF',bA['backgroundColor']),bC[hi(0x3ac)](fairygui[hi(0x68d)][hi(0x5ff)][hi(0x3ad)],fairygui[hi(0x68d)][hh(0x5ff)][hi(0x16e)]),bB[hi(0xa90)](bC);if(bA['logo']!=''){if('fIHbw'!==hh(0x363)){let bD=new fairygui['GLoader']();bD[hi(0x782)]='Middle',bD[hi(0x55e)]=bA[hh(0x2a5)],bD[hh(0x875)]=!![],bD['center'](!![]),bB[hh(0xa90)](bD);}else{function bE(){const hj=hi,hk=hi;this[hj(0xa73)]=!![],this[hj(0x4a9)]['offLoad'](this[hk(0x828)]),this['m_insertAd'][hk(0x52b)](this[hk(0x503)]),this[hj(0x4a9)]['offClose'](this['onInsertAdClose']),this['m_insertAd'][hj(0x403)](),this[hk(0x4a9)]=null,b['inst'][hj(0x65b)]('TouTiaoH5GameAPI.onDestoryInsertAd\x20移除插屏广告');}}}if(bA[hi(0x27d)]!=''){let bF=new fairygui[(hh(0x7fa))]();bF[hh(0x3ac)](fairygui['GRoot'][hh(0x5ff)][hh(0x3ad)],fairygui['GRoot'][hi(0x5ff)]['height']),bF[hi(0x4b2)]=fairygui[hh(0x114)][hi(0x47e)],bF[hh(0x55e)]=bA['backgroundImage'],bF[hi(0x782)]=hh(0x492),bF['autoSize']=!![],bF[hi(0x88a)](!![]),bB[hi(0xa90)](bF);}return fairygui[hh(0x68d)][hh(0x5ff)][hh(0xa90)](bB),bB;}}D[c1(0x5c6)]='onCompleteEvent';class E{constructor(){const hl=bW,hm=bW;if(hl(0x331)===hm(0x8d4)){function bA(){bm={'error':d};}}else this[hm(0x7c9)]='',this[hl(0x1e0)]();}[c1(0x4a8)](){const hn=bW,ho=bW;if('vRnmw'===hn(0x9eb))this[hn(0x17c)][hn(0x909)](0.5,0.5),this[ho(0x17c)][hn(0x50d)](0x0,0x0),fairygui[ho(0x4c9)]['to'](0x0,0x1,0.35)[hn(0x6a0)](bA=>{const hp=hn,hq=ho;if(hp(0x13e)===hq(0x13e))this[hq(0x17c)][hp(0x50d)](bA[hp(0x906)]['x'],bA[hq(0x906)]['x']);else{function bB(){const hr=hq,hs=hq;this[hr(0x435)]=d['createInstance'](),this[hs(0x435)][hr(0x3ac)](e[hs(0x68d)]['inst'][hs(0x3ad)],f[hr(0x68d)][hs(0x5ff)]['height']);}}},this);else{function bA(){bm&&d(![],null);}}}['removeSelf'](){const ht=bW,hu=c1;J[ht(0x5ff)][hu(0x9bb)](this[hu(0x7c9)]);}[c1(0x1e0)](){const hv=bW,hw=c1;if(hv(0xa8d)!==hv(0x5ad))this[hw(0x7c9)]=this[hw(0xa8f)],this[hv(0x17c)]=fairygui['UIPackage'][hw(0x97a)](this[hw(0xa8f)]),this['View']['setSize'](fairygui[hw(0x68d)]['inst'][hw(0x3ad)],fairygui[hw(0x68d)][hw(0x5ff)][hv(0x16e)]),this[hv(0x17c)]['on'](Laya[hv(0x2fb)]['ADDED'],this,this['onViewAddedEvent']),J[hw(0x5ff)][hw(0x745)][hv(0xa90)](this[hw(0x17c)]);else{function bA(){const hx=hw,hy=hw;bm[hx(0x67b)]['on'](d[hy(0x7e3)],this,this[hx(0x99d)]),this[hx(0x1c4)]=this[hy(0x9ec)][hx(0x71a)][hx(0x5ef)](),this[hx(0x2f1)]=this[hy(0x9ec)][hy(0x484)][hy(0x5ef)]();}}}[c1(0x3e8)](){const hz=bW,hA=c1;this[hz(0x17c)]['off'](Laya[hz(0x2fb)][hA(0xa1b)],this,this['onViewAddedEvent']),Laya['timer'][hz(0x804)](this,()=>{const hB=hz,hC=hz;if(hB(0xab4)==='LmdBS')this[hC(0x3a8)]&&this['onViewAdded'][hB(0x2c8)]();else{function bA(){const hD=hC;this[hD(0x4f0)]=[];}}});}[c1(0x381)](){const hE=c1,hF=c1;this['View'][hE(0x215)][hE(0xa3b)]=!![];}[c1(0x73b)](bA=![]){const hG=bW,hH=c1;if(hG(0xa9c)===hG(0x55b)){function bB(){const hI=hH;return this[hI(0x99e)]['apps'];}}else{Laya[hH(0x801)][hH(0x154)](this),x[hG(0x5ff)][hG(0x860)](this);if(this[hH(0x6f5)]){if(hH(0x6f8)!==hH(0x6f8)){function bC(){const hJ=hH,hK=hG;b[hJ(0x7d1)][hJ(0x6dd)]=0x0;}}else this[hG(0x6f5)][hH(0x2c8)]();}if(bA)this[hH(0x3a8)]=null,this[hG(0x6f5)]=null,J['inst'][hH(0x745)]['removeChild'](this['View'],bA);else{if(hH(0x40c)===hH(0xa67)){function bD(){const hL=hG,hM=hH;b['inst'][hL(0x65b)](hL(0x536));return;}}else this[hG(0x17c)][hH(0x215)][hG(0xa3b)]=![];}}}}class F extends E{get[c1(0x435)](){const hN=c1;return this[hN(0x17c)];}}class G extends fgui[c1(0x9be)]{static[bW(0x969)](){const hO=bW,hP=c1;return fgui[hO(0x649)][hO(0x6ff)](hO(0x88e),hO(0x759));}['onConstruct'](){const hQ=bW,hR=bW;this[hQ(0x9e2)]=this[hQ(0x2e3)](0x0),this[hR(0x4fe)]=this[hR(0x2e3)](0x1),this['m_n23']=this['getChildAt'](0x2),this[hQ(0x327)]=this[hR(0x2e3)](0x3),this['m_ImageLoader']=this[hQ(0x2e3)](0x4),this[hQ(0x656)]=this[hQ(0x2e3)](0x5),this['m_n29']=this[hR(0x2e3)](0x6),this[hR(0x18b)]=this[hR(0x2e3)](0x7),this[hR(0x589)]=this['getChildAt'](0x8),this[hR(0x97c)]=this[hQ(0x2e3)](0x9),this[hR(0x769)]=this['getChildAt'](0xa),this[hR(0x283)]=this['getChildAt'](0xb);}}G['URL']=c1(0x735);class H extends F{get['URL'](){const hS=c1;return G[hS(0xa8f)];}[bW(0x1e0)](){const hT=c1,hU=c1;this[hT(0x3a8)]=Laya[hU(0x432)][hU(0x3e6)](this,this[hT(0x6d4)]),super[hT(0x1e0)]();}['bind'](){const hV=bW,hY=bW;this['view']['m_CloseBtn'][hV(0x907)](this,()=>{const hW=hV,hX=hV;if(hW(0x3f5)!=='tbZvY')aV[hW(0x5ff)][hX(0x276)](),this[hX(0x778)]();else{function bA(){bm&&d(!![]);}}}),J['inst']['topViewContainer'][hY(0xa90)](this[hY(0x435)]);}['setData'](bA){const hZ=bW,i0=bW;if(aV[hZ(0x5ff)][hZ(0x102)]==aU['vivo_h5']){if(i0(0x25c)===hZ(0x25c)){if(bA[hZ(0x55c)]&&bA[i0(0x55c)][hZ(0x31f)]>0x0)this[hZ(0x435)]['m_ImageLoader']['icon']=bA[hZ(0x55c)][0x0];else{if(bA[hZ(0x55e)]&&bA['icon']!=''){if(hZ(0xa66)!==hZ(0xa66)){function bB(){const i1=hZ,i2=hZ;bm['inst'][i1(0x65b)](i2(0x530)),d(!![]);}}else this[hZ(0x435)][hZ(0xab7)][i0(0x55e)]=bA[i0(0x55e)];}}}else{function bC(){const i3=i0,i4=i0;this['wx']=b['wx'],this[i3(0x338)]=null,this[i3(0x7bf)]=null,this['m_insertAd']=null,this['m_gridAd']=null,this[i4(0x1f0)]=![],this[i4(0x4b0)]=null,this[i3(0x8d9)]=0xdc,this['shareStartTime']=0x0;}}}else{if(aV[i0(0x5ff)][hZ(0x102)]==aU['oppo_h5']){if(bA[i0(0x55c)]&&bA[i0(0x55c)]['length']>0x0)this['view'][hZ(0xab7)]['icon']=bA[hZ(0x55c)][0x0];else{if(bA['iconUrlList']&&bA['iconUrlList']['length']>0x0)this[i0(0x435)]['m_ImageLoader'][i0(0x55e)]=bA['iconUrlList'][0x0];else bA[i0(0x55e)]&&(this[i0(0x435)]['m_ImageLoader'][hZ(0x55e)]=bA['icon']);}}}this[i0(0x435)][hZ(0x589)]['onClick'](this,()=>{const i5=hZ,i6=i0;aV[i5(0x5ff)]['onNativeAdClick'](bA[i5(0x421)]),this[i5(0x778)]();}),this[hZ(0x435)]['m_ConfirmBtn'][hZ(0x907)](this,()=>{const i7=hZ,i8=hZ;if('rsYzY'!=='EtASn')aV[i7(0x5ff)]['onNativeAdClick'](bA[i8(0x421)]),this[i7(0x778)]();else{function bD(){return new b['Size'](0x2d0,0x500);}}});}[c1(0x778)](){J['inst']['topViewContainer']['removeChild'](this['view']);}}class I extends fgui[bW(0x9be)]{static[c1(0x969)](){const i9=bW,ia=bW;return fgui[i9(0x649)][ia(0x6ff)](ia(0x563),i9(0x857));}[bW(0x175)](){const ib=bW,ic=c1;if(ib(0x350)===ic(0x350))this['m_n2']=this[ic(0x2e3)](0x0),this[ib(0x9e2)]=this[ic(0x2e3)](0x1),this['m_fadeIn']=this[ib(0x228)](0x0),this[ib(0x5d5)]=this['getTransitionAt'](0x1);else{function bA(){const id=ic;b[id(0x89c)]('WebH5GameAPI\x20updateHighScore');}}}}I['URL']=bW(0x1c8);class J{constructor(){const ie=bW,ig=c1;if(ie(0x474)===ig(0x5da)){function bA(){const ih=ie,ii=ig;g[h[ih(0x3db)]=0x0]='开始游戏',i[j[ii(0x3b7)]=0x1]=ii(0x3b7),k[l[ii(0x7ec)]=0x2]=ih(0x7ec);}}else this['views']=new Array(),this[ie(0x5e3)]=[];}static get[c1(0x5ff)](){const ij=bW,ik=c1;if(ij(0x3a1)!==ij(0x3a1)){function bA(){const il=ik,im=ij;d[il(0x5ff)]['debug'](il(0x5b0)+e['stringify'](f)),this[il(0x19e)]&&this['onVideoFailCallback'](0x1,im(0x7a0)),this[im(0x1f0)]=![],this[im(0x3c6)]();}}else return this[ik(0x8b7)]==null&&(this[ik(0x8b7)]=new J()),this['_inst'];}[bW(0x1e0)](){const io=bW,ip=c1;if(io(0x78b)!==io(0x143))Laya[ip(0x321)]['addChild'](fairygui[ip(0x68d)]['inst']['displayObject']),this['gameViewContainer']=new fairygui['GComponent'](),this[io(0x290)]['setSize'](fairygui[io(0x68d)][ip(0x5ff)][ip(0x3ad)],fairygui[ip(0x68d)][ip(0x5ff)][ip(0x16e)]),this['uiViewContainer']=new fairygui[(io(0x9be))](),this[ip(0x745)][io(0x3ac)](fairygui[io(0x68d)]['inst']['width'],fairygui[ip(0x68d)]['inst'][ip(0x16e)]),this[ip(0x1df)]=new fairygui[(io(0x9be))](),this[io(0x1df)][ip(0x3ac)](fairygui[io(0x68d)][io(0x5ff)][ip(0x3ad)],fairygui[io(0x68d)]['inst'][io(0x16e)]),this['fadeViewContainer']=new fairygui[(ip(0x9be))](),this['fadeViewContainer']['setSize'](fairygui[io(0x68d)][ip(0x5ff)][ip(0x3ad)],fairygui[ip(0x68d)][ip(0x5ff)]['height']),fairygui[ip(0x68d)][ip(0x5ff)][io(0xa90)](this[ip(0x290)]),fairygui['GRoot'][ip(0x5ff)]['addChild'](this[io(0x745)]),fairygui['GRoot'][io(0x5ff)]['addChild'](this['topViewContainer']),fairygui[ip(0x68d)][io(0x5ff)][io(0xa90)](this['fadeViewContainer']);else{function bA(){const iq=io,ir=ip;this['_user']=this[iq(0x1b3)](),this[iq(0x92d)]();}}}[c1(0xa62)](){const is=bW,it=c1;if(is(0x5f0)!==it(0x671))this['fadeView']=fairygui['UIPackage'][it(0x97a)](I['URL']),this['fadeView'][is(0x3ac)](Laya[is(0x321)][is(0x3ad)],Laya[it(0x321)][is(0x16e)]),this['fadeViewContainer'][it(0xa90)](this['fadeView']),this[is(0x50e)][it(0xa3b)]=![];else{function bA(){const iu=is,iv=is;return this[iu(0x882)]+iv(0x9e5);}}}[bW(0x3c8)](bA){const iw=bW,ix=bW;this[iw(0x50e)][ix(0xa3b)]=!![],this[iw(0x50e)][iw(0x4e5)]=!![],this[iw(0x50e)][ix(0x7e5)][iw(0x65e)](Laya[iw(0x432)][iw(0x3e6)](this,()=>{const iy=ix,iz=ix;if('pYZNV'!==iy(0xf3))bA&&bA[iz(0x2c8)](),J[iy(0x5ff)]['doFadeOut']();else{function bB(){const iA=iy,iB=iz;let bC=this[iA(0x80b)]()+e;f[iA(0x89c)](iA(0x25e),bC,g),this['tt'][iA(0x727)]()[iB(0x7ee)](bC,h,iB(0x14d));}}}));}[c1(0x1d8)](){const iC=c1,iE=bW;if(iC(0xaaa)!=='qwOKF'){function bA(){const iD=iC;bm&&d(0x1,iD(0x57c));}}else this[iC(0x50e)][iE(0x5d5)][iE(0x65e)](Laya['Handler']['create'](this,()=>{const iF=iC,iG=iE;this[iF(0x50e)][iG(0xa3b)]=![],this[iF(0x50e)][iF(0x4e5)]=![];}));}['getView'](bA){const iH=bW,iI=c1;if(iH(0x74c)===iI(0x74c)){for(var bB=0x0;bB<this['views']['length'];bB++){if(bA===this['views'][bB][iH(0x842)])return this[iH(0x652)][bB]['viewController'];}return null;}else{function bC(){const iJ=iI,iK=iH;this[iJ(0x9e2)]=this['getChildAt'](0x0),this[iJ(0x9c5)]=this[iJ(0x2e3)](0x1),this[iK(0x64c)]=this['getChildAt'](0x2);}}}[c1(0x294)](bA){const iL=bW,iM=bW;this[iL(0x652)]['push']({'name':bA[iM(0x7c9)],'viewController':bA}),this[iL(0x958)](bA[iM(0x7c9)])?this[iM(0x3f2)](bA[iL(0x7c9)]):this[iM(0x763)](bA['ControllerName']);}['getViewRecordCount'](bA){const iN=bW,iO=c1;if(iN(0x557)===iO(0x557)){for(let bB=0x0;bB<this[iO(0x5e3)]['length'];bB++){if('RolLZ'!==iO(0x216)){function bC(){const iP=iO,iQ=iN;var bD=this['qg'][iP(0x1b5)]({'key':bm});if(bD)return e[iQ(0x9c4)](bD);return null;}}else{const bD=this[iO(0x5e3)][bB];if(bD[iO(0x842)]==bA)return bD['count'];}}return 0x0;}else{function bE(){const iR=iN,iS=iO;this[iR(0x78a)]&&this[iR(0x78a)][iR(0x4d3)](()=>{const iT=iS,iU=iS;o[iT(0x801)][iT(0x6b9)]=0x1,p&&q();},(bF,bG)=>{const iV=iR,iW=iS;o[iV(0x801)][iW(0x6b9)]=0x1,p&&q(bF,bG);},n);}}}[c1(0x9bb)](bA){const iX=c1,iY=bW;let bB=-0x1;for(var bC=0x0;bC<this[iX(0x652)][iY(0x31f)];bC++){if(bA==this[iX(0x652)][bC]['name']){var bD=this[iX(0x652)][bC][iY(0x441)];bD[iX(0x73b)](!![]),bB=bC;}}if(bB!=-0x1){if('Qubte'===iX(0x96e))this[iY(0x652)][iX(0x6fe)](bB,0x1);else{function bE(){const iZ=iY,j0=iY;this[iZ(0x838)]=this[iZ(0x594)](0x0),this[iZ(0x9e2)]=this[iZ(0x2e3)](0x0),this[iZ(0x2ec)]=this[iZ(0x2e3)](0x1),this['m_n2']=this['getChildAt'](0x2),this[iZ(0x708)]=this[iZ(0x2e3)](0x3),this[iZ(0x335)]=this['getChildAt'](0x4),this[j0(0x646)]=this[j0(0x2e3)](0x5),this[iZ(0x832)]=this[iZ(0x2e3)](0x6),this[j0(0x45d)]=this[j0(0x2e3)](0x7),this['m_ImageLoader']=this[iZ(0x2e3)](0x8),this['m_n24']=this[iZ(0x2e3)](0x9),this['m_n25']=this[iZ(0x2e3)](0xa),this['m_n26']=this[iZ(0x2e3)](0xb),this['m_n27']=this[j0(0x2e3)](0xc),this[j0(0x70b)]=this[j0(0x2e3)](0xd);}}}}['showLoading'](bA=bW(0x3da)){}['hideLoading'](){}[c1(0x43d)](bA,bB=0xbb8,bC=![]){const j1=c1,j2=c1;B[j1(0x5ff)][j2(0x92a)](bA,bC);}[bW(0x212)](bA,bB,bC,bD){}[bW(0x87c)](){const j3=bW,j4=bW;if('iRmaU'===j3(0x278)){if(w['inst']['isReview']())return;aV[j4(0x5ff)][j4(0x457)](bA=>{const j5=j3,j6=j4;let bB=new H();J[j5(0x5ff)]['showPopupView'](bB),bB[j6(0x978)](bA);});}else{function bA(){const j7=j4,j8=j4;for(var bB=[],bC=0x0;bC<arguments[j7(0x31f)];bC++)bB=bB[j7(0x15c)](bm(arguments[bC]));return bB;}}}[bW(0x6e4)](bA){const j9=c1,ja=bW;if(j9(0x295)!=='RAsHR'){function bB(){return'';}}else bA[j9(0xa3b)]=![],aV['inst'][ja(0x102)]==aU[ja(0x1fb)]&&aV[ja(0x5ff)][ja(0x457)](bC=>{const jb=ja,jc=j9;bA[jb(0xa3b)]=!![],console[jb(0x89c)]('addata:',JSON['stringify'](bC));let bD=bC[jc(0x421)],bE=bC[jc(0x79c)],bF=bC[jc(0x6d6)],bG='';if(aV['inst'][jb(0x102)]==aU[jc(0x896)]){if('PDvEQ'!==jb(0x549)){function bH(){const jd=jb;return new b[(jd(0x5bd))](0x2d0,0x500);}}else{if(bC[jb(0x55e)]&&bC[jc(0x55e)][jc(0x31f)]>0x0){if(jc(0xf0)===jb(0x2a0)){function bI(){const je=jc,jf=jb;this[je(0x1b9)][jf(0x24b)]();}}else bG=bC[jb(0x55e)];}else{if(bC['imgUrlList']){if('mYZpZ'===jb(0x25f)){function bJ(){const jg=jc,jh=jc;o[jg(0x649)][jh(0x257)](jh(0x981)),p[jh(0x824)](),q['UIObjectFactory']['setExtension'](r[jg(0xa8f)],s),t[jh(0x5b8)][jg(0x3bf)](u[jh(0xa8f)],v),w[jg(0x5b8)]['setExtension'](x[jh(0xa8f)],y),z[jh(0x5b8)][jh(0x3bf)](A[jg(0xa8f)],B);}}else bG=bC[jc(0x55c)][0x0];}}}}else{if(aV['inst'][jc(0x102)]==aU[jc(0x1fb)]){if(jc(0x665)!==jc(0x571)){if(bC['iconUrlList'][jc(0x31f)]>0x0){if(jc(0x8c0)===jc(0x8c0))bG=bC['iconUrlList'][0x0];else{function bK(){const ji=jb,jj=jc;this[ji(0x78a)]&&this[jj(0x78a)][ji(0x322)](bm,d);}}}else{if(bC[jb(0x55c)]){if(jc(0xa95)!=='wkDIP')bG=bC['imgUrlList'][0x0];else{function bL(){return e['random']()*(f-g)+h;}}}}}else{function bM(){this['qg']['vibrateShort']();}}}}bA[jc(0x55e)]=bG,bA[jb(0x79c)]=bE,bA['onClick'](this,()=>{const jk=jb,jl=jc;if(jk(0x3b9)===jl(0x3b9))bA[jl(0xa3b)]=![],aV[jk(0x5ff)][jl(0x98a)](bD);else{function bN(){const jm=jk;this['_platform']=b[jm(0x896)];}}});});}[c1(0x40b)](){const jn=c1,jo=c1;let bA=new Array(),bB=new C();bB['backgroundImage']=jn(0x4c0),bB[jo(0x908)]=0x2,bA[jn(0x597)](bB),D[jn(0x5ff)][jo(0x978)](bA);}[bW(0x1c6)](bA){const jp=c1,js=bW;if('DLluI'===jp(0x33c)){function bB(){const jq=jp,jr=jp;if(this['tt'])return this['tt'][jq(0x8f0)][jq(0x988)]+'/';return'';}}else this['loadingView']=bA,this[js(0x1df)][jp(0xa90)](this['loadingView'][js(0x17c)]),this[js(0x270)]['View'][jp(0xa3b)]=![];}['showGameLoading'](bA,bB=!![]){const jt=bW,ju=bW;if(this[jt(0x270)]==null){}if(this[ju(0x270)]&&bB){if(ju(0x375)!=='dTLDz'){function bC(){const jv=jt,jw=ju;h[jv(0x89c)](jv(0x7c2),i[jw(0x921)](j)),k[jw(0x161)]?this['wx'][jw(0x319)][jw(0xa2e)](o['key'],p[jv(0x161)]):this['wx'][jw(0x319)][jv(0xa2e)](q[jv(0x62f)]);}}else this[ju(0x270)]['View'][jt(0xa3b)]=!![],this[jt(0x270)][ju(0x17c)][jt(0x8f4)]=0x0,Laya[ju(0x524)]['to'](this[ju(0x270)][jt(0x17c)],{'alpha':0x1},0x1f4,Laya[jt(0x60c)]['linearNone'],Laya[ju(0x432)][jt(0x3e6)](this,()=>{const jx=ju,jy=ju;if(jx(0x3e2)!==jx(0x3e2)){function bD(){return b['appId'];}}else bA&&bA();}));}else bA&&bA();}['hideGameLoading'](bA=0x3e8,bB=null){const jz=c1,jA=c1;if(jz(0x950)!==jA(0x2e0)){if(this[jz(0x270)]){if(jz(0x8de)!==jA(0x8de)){function bC(){return g['x']*h['x']+i['y']*j['y']+k['z']*l['z']<1e-12;}}else Laya['Tween']['to'](this[jA(0x270)][jz(0x17c)],{'alpha':0x0},0x1f4,Laya[jz(0x60c)][jz(0x14f)],Laya[jz(0x432)][jz(0x3e6)](this,()=>{const jB=jA,jC=jA;if('Cgmcd'!==jB(0x1ac))this[jB(0x270)][jC(0x17c)]['visible']=![],bB&&bB[jC(0x2c8)]();else{function bD(){this['qg']=null;}}}),bA);}else bB&&bB[jz(0x2c8)]();}else{function bD(){const jD=jz,jE=jA;let bE=this[jD(0x23f)](bm);bE[jE(0x8dd)]();let bF=this[jE(0x9a1)](d);this[jD(0x2bc)][jE(0x6fe)](bF,0x1);}}}['addRecord'](bA){const jF=c1,jG=bW;if(jF(0x22b)!==jF(0xa5c))this[jG(0x5e3)][jG(0x597)]({'name':bA,'count':0x1});else{function bB(){const jH=jF,jI=jG;this[jH(0xa73)]=![],d[jH(0x801)][jI(0x8dd)](this,this['_countDownInsertTime']),e[jH(0x801)][jH(0x8ba)](this[jI(0x694)],this,this['_countDownInsertTime']),f['inst'][jH(0x65b)](jI(0x2e8)+this[jI(0x694)]+'秒');}}}[bW(0x958)](bA){const jJ=bW,jK=bW;if('GdGOE'!==jJ(0x91f)){for(let bB=0x0;bB<this[jK(0x5e3)][jJ(0x31f)];bB++){const bC=this[jK(0x5e3)][bB];if(bC['name']==bA)return!![];}return![];}else{function bD(){const jL=jJ,jM=jK;this[jL(0x5d1)](d['Event']['ADDED'],this,this[jM(0x85f)]),this[jL(0x5d1)](e[jM(0x2fb)][jL(0x565)],this,this[jL(0x9f4)]),f['timer'][jL(0x8dd)](this,this[jM(0x1b4)]);}}}['addRecordCount'](bA){const jN=bW,jO=bW;if(jN(0xa1d)===jN(0x1ee)){function bB(){const jP=jO;this['addRecordCount'](b[jP(0x7c9)]);}}else for(let bC=0x0;bC<this[jN(0x5e3)][jO(0x31f)];bC++){const bD=this['record'][bC];bD['name']==bA&&bD[jO(0xa2a)]++;}}}class K{constructor(){const jQ=bW,jR=c1;if(jQ(0x13f)!==jR(0xa4b))this[jR(0x43a)]=0x1;else{function bA(){const jS=jR,jT=jR;b['timer']['clear'](this,this[jS(0x521)]),this['closeHandler']&&this[jT(0x9fb)][jS(0x8c4)](!![]);}}}}K[c1(0x62b)]=0x1,K[bW(0x3c1)]=0x0;class L extends Laya[c1(0x24e)]{constructor(){const jU=bW,jV=bW;super(),this[jU(0x512)]=new Laya[(jV(0x24e))]();}[c1(0x68b)](){const jW=c1;var bA=['Content-Type',jW(0x99b)];return bA;}['Get'](bA,bB,bC){const jX=c1,jY=c1;if(jX(0x261)!==jX(0x261)){function bD(){const jZ=jX,k0=jX;let bE=this[jZ(0xa4f)](0x1,d),bF=0x0;for(let bG=0x0;bG<g[jZ(0x31f)];bG++){bF+=i[bG];if(bE<bF)return bG;}return 0x0;}}else return this['httpRequest'][jX(0x8ba)](Laya[jY(0x2fb)][jX(0x8d7)],this,function(bE){const k1=jX,k2=jX;if(k1(0x2cb)!==k2(0x2cb)){function bF(){const k3=k2,k4=k2;b[k3(0x67b)][k3(0x87b)](k3(0xa68));}}else bC['apply'](bB,[JSON['parse'](bE)]);}),this[jY(0x512)][jX(0x8ba)](Laya['Event'][jX(0x88f)],this,function(bE){const k5=jX,k6=jY;if(k5(0x511)===k5(0x511)){var bF=new K();bF[k5(0x1b0)]='获取失败',bF[k5(0x161)]=null,bF[k6(0x43a)]=K['FAIL'],bC[k5(0xaa3)](bB,[bF]);}else{function bG(){const k7=k5,k8=k6;b[k7(0x5ff)][k7(0x65b)](k8(0x329));return;}}}),this['httpRequest']['send'](bA,null,jY(0x8c3),jY(0x99b),this[jY(0x68b)]()),this;}['Post'](bA,bB,bC,bD){const k9=c1,ka=c1;return this[k9(0x512)]['once'](Laya[k9(0x2fb)][k9(0x8d7)],this,function(bE){const kb=ka,kc=k9;if(kb(0x9c7)===kb(0x5a0)){function bF(){const kd=kc,ke=kb;return this[kd(0x2fe)][ke(0x35c)][kd(0x3c3)];}}else bD[kc(0xaa3)](bC,[JSON[kb(0x9c4)](bE)]);}),this[k9(0x512)][k9(0x8ba)](Laya[ka(0x2fb)][k9(0x88f)],this,function(bE){const kf=ka,kg=k9;var bF=new K();bF[kf(0x1b0)]=kg(0x371),bF[kg(0x161)]=null,bF['resultCode']=K[kf(0x3c1)],bD[kf(0xaa3)](bC,[bF]);}),this[ka(0x512)][k9(0x348)](bA,JSON['stringify'](bB),ka(0x736),k9(0x99b),this['GetHeaders']()),this;}}class M extends fgui[c1(0x2b1)]{static['createInstance'](){const kh=c1,kk=bW;if('wZwSX'===kh(0x156)){function bA(){const ki=kh,kj=kh;d[ki(0xa3b)]=![],e[kj(0x5ff)][ki(0x98a)](f);}}else return fgui['UIPackage'][kk(0x6ff)](kk(0x1d3),kh(0xf2));}[bW(0x175)](){const kl=c1,km=c1;this[kl(0x64c)]=this[kl(0x2e3)](0x0),this[km(0x867)]=this['getChildAt'](0x1),this['m_n4']=this['getChildAt'](0x2),this[kl(0x4b4)]=this[kl(0x2e3)](0x3),this[km(0x633)]=this[km(0x228)](0x0);}}M[bW(0xa8f)]='ui://kd5ich5s8m0z7';class N extends M{[c1(0x175)](){const kn=c1,ko=bW;if(kn(0x410)===kn(0x410))super[kn(0x175)](),this['on'](Laya[ko(0x2fb)][ko(0xa1b)],this,this[ko(0x85f)]),this['on'](Laya['Event'][kn(0x565)],this,this[ko(0x9f4)]);else{function bA(){const kp=kn,kq=kn;this['m_n0']=this[kp(0x2e3)](0x0),this[kq(0x9ab)]=this[kp(0x2e3)](0x1);}}}[c1(0x85f)](){const kr=bW,ks=c1;if(a2[kr(0x5ff)][ks(0x2f8)]==![]){this[kr(0xa3b)]=![];return;}this[kr(0x907)](this,this[kr(0x5c0)]),this[ks(0x284)](),Laya[kr(0x801)][kr(0x341)](0x1388,this,this[ks(0x284)]),this[kr(0xa3b)]=a2['inst'][ks(0xa2c)](a1[ks(0x400)]);}[c1(0x284)](){const kt=c1,ku=c1;if(kt(0x250)!=='wZUaq'){let bA=z[ku(0xa4f)](0x0,a2[ku(0x5ff)][ku(0x213)]()[ku(0x31f)]-0x1);this[kt(0x605)]=a2['inst'][ku(0x213)]()[bA],this[ku(0x55e)]=this['appInfo']['icon'],this[ku(0x79c)]=this[ku(0x605)][ku(0x842)];}else{function bB(){const kv=ku,kw=ku;this[kv(0x34c)]=null,this[kw(0xa40)]=null;}}}['onClickHandler'](){const kx=bW,ky=c1;console[kx(0x89c)]('[YMSDK]点击跳转:',this['appInfo']['appId']);let bA=this['data'];console[ky(0x89c)](kx(0x11e),bA);if(bA){if(ky(0x650)!==ky(0x650)){function bB(){const kz=ky,kA=kx;o[kz(0x89c)](kA(0x9d8)),this['sdkConfig']=p['data'],this[kA(0x2f8)]=this[kA(0x99e)][kz(0x241)],q[kA(0x5ff)]['currentPlatform']['canAd']=this['sdkConfig']['ad'],this['setMap'](r[kz(0x406)],this[kz(0x2f8)]),this[kA(0x131)](bA[kz(0x400)],this[kz(0x2f8)]),this[kz(0x131)](t['结算ICON导出页面'],this['enabled']),this[kA(0x131)](u['结算误点进度页面'],this[kz(0x2f8)]);let bC=this[kA(0x213)]();if(bC&&bC[kz(0x31f)]==0x0)this[kA(0x131)](C['开始ICON导出页面'],![]),this[kA(0x131)](D[kz(0x400)],![]),this[kA(0x131)](E[kz(0x920)],![]);else for(let bD=0x0;bD<bC[kA(0x31f)];bD++){const bE=bC[bD];bE[kA(0x842)]=bE[kz(0x842)][kA(0x4c8)](0x0,0x6);}y(this[kA(0x99e)]),z[kz(0x89c)](kz(0xa9d),A[kA(0x5ff)][kA(0x2fe)]['canAd']),B[kA(0x89c)]('是否开启导流:',this[kA(0x2f8)]);}}else a2[ky(0x5ff)][ky(0x177)](bA,this[kx(0x605)]);}else a2[kx(0x5ff)][ky(0x177)](kx(0x50a),this[ky(0x605)]);}[bW(0x9f4)](){const kB=bW,kC=bW;Laya[kB(0x801)][kB(0x8dd)](this,this[kB(0x284)]),this[kC(0x5d1)](Laya['Event'][kB(0xa1b)],this,this[kB(0x85f)]),this[kB(0x5d1)](Laya['Event'][kB(0x565)],this,this[kB(0x9f4)]);}}class O extends fgui[bW(0x9be)]{static[c1(0x969)](){const kD=c1,kE=c1;if(kD(0x44c)!==kE(0x44c)){function bA(){const kF=kD,kG=kE;let bB=this['soundList'][f];if(bB['type']==g){if(this[kF(0x50b)][kG(0x7a2)](bB[kG(0x480)])==-0x1){let bC=n['SoundManager']['playSound'](bB[kG(0x480)],o);this[kF(0x50b)][kG(0x597)](bB[kG(0x480)]),bC[kG(0x847)]=p['Handler']['create'](this,this[kF(0x150)],[bB[kF(0x480)]]);}else{}this['setVolume'](this[kG(0x964)],'SE');}}}else return fgui[kE(0x649)]['createObject'](kD(0x1d3),kD(0x6f3));}[c1(0x175)](){const kH=c1,kI=c1;if(kH(0xa04)!==kI(0x191))this[kI(0x708)]=this[kH(0x2e3)](0x0);else{function bA(){b['onShareCallback'](![]);}}}}O['URL']=c1(0x9b0);class P extends O{constructor(){const kJ=bW;super(...arguments),this[kJ(0x849)]=0x0;}[c1(0x175)](){const kK=bW,kL=c1;if(kK(0x767)!==kK(0x767)){function bA(){const kM=kK,kN=kK;if(d[kM(0x5ff)][kM(0x2fe)][kM(0x1a3)]==![]){g['inst'][kM(0x65b)](kM(0x329));return;}f['inst'][kM(0x65b)]('TouTiaoH5GameAPI.onHideInsertAd\x20头条的插屏没有hide方法');}}else super[kK(0x175)](),this['on'](Laya[kK(0x2fb)][kK(0xa1b)],this,this[kL(0x85f)]),this['on'](Laya[kL(0x2fb)][kL(0x565)],this,this['removeToScene']);}['addToScene'](){const kO=bW,kQ=bW;if('FEDZB'===kO(0x8be)){function bA(){const kP=kO;return b[kP(0xa8f)];}}else{if(a2[kO(0x5ff)][kO(0x2f8)]==![]){if(kO(0x6f0)===kQ(0x6f0)){this[kO(0xa3b)]=![];return;}else{function bB(){const kR=kO,kS=kQ;for(let bC=0x0;bC<this[kR(0x786)][kS(0x31f)];bC++){const bD=this[kS(0x786)][bC];p==bD&&(u['log'](v,'\x20已经有了'),w(!![]),x=![]);}}}}this['m_List'][kO(0x609)]=Laya['Handler'][kO(0x3e6)](this,this['onItemRenderer'],null,![]),this[kO(0x708)][kQ(0x5a4)]=a2[kO(0x5ff)][kQ(0x213)]()['length'],this[kO(0x708)]['on'](fairygui[kO(0x1fe)]['CLICK_ITEM'],this,this[kQ(0x5c0)]),this[kQ(0xa3b)]=a2['inst'][kO(0xa2c)](a1[kO(0x920)]),Laya[kO(0x801)]['loop'](0xbb8,this,this[kQ(0x1b4)]);}}[bW(0x1b4)](){const kT=bW,kW=c1;if(kT(0x477)!=='ssYLu'){function bA(){const kU=kT,kV=kT;y[kU(0x5b8)][kV(0x3bf)](z['URL'],A),B[kU(0x5b8)][kV(0x3bf)](C['URL'],D),E[kV(0x5b8)][kU(0x3bf)](F[kU(0xa8f)],G),H['UIObjectFactory']['setExtension'](I[kU(0xa8f)],J),K['UIObjectFactory'][kV(0x3bf)](L['URL'],M),N[kU(0x5b8)][kV(0x3bf)](O[kV(0xa8f)],P),Q[kV(0x5b8)][kV(0x3bf)](R['URL'],S),T[kV(0x5b8)][kV(0x3bf)](U['URL'],V);}}else this[kT(0x849)]++,this[kW(0x849)]>=a2[kW(0x5ff)][kW(0x213)]()['length']&&(this[kT(0x849)]=0x0),this[kT(0x708)][kT(0x864)](this[kW(0x849)],!![]);}[c1(0x3b4)](bA,bB){const kX=c1,kY=bW;let bC=a2['inst'][kX(0x213)]()[bA];bB[kY(0x79c)]=bC[kX(0x842)],bB[kY(0x55e)]=bC['icon'];}['onClickHandler'](){const kZ=bW,l0=bW;let bA=a2['inst'][kZ(0x213)]()[this['m_List'][kZ(0x6dd)]];console[l0(0x89c)](l0(0x8c9),bA['appId']);let bB=this['data'];console['log'](l0(0x11e),bB),bB?a2[kZ(0x5ff)][l0(0x177)](bB,bA):a2[kZ(0x5ff)][kZ(0x177)](l0(0x4a0),bA);}['removeToScene'](){const l1=c1,l2=bW;this[l1(0x5d1)](Laya[l1(0x2fb)]['ADDED'],this,this[l2(0x85f)]),this[l1(0x5d1)](Laya[l2(0x2fb)][l1(0x565)],this,this[l1(0x9f4)]),Laya[l2(0x801)]['clear'](this,this[l1(0x1b4)]);}}class Q{static get['inst'](){const l3=c1,l4=c1;if(l3(0x44b)===l4(0x389)){function bA(){const l5=l3,l6=l4;d[l5(0x89c)]('TouTiaoH5GameAPI\x20onShow'),e['inst'][l6(0x3c0)](f[l6(0x8e3)]);}}else return this['_inst']==null&&(this[l4(0x8b7)]=new Q()),this[l3(0x8b7)];}[c1(0x1e0)](){}[c1(0x1cc)](bA=![],bB){const l7=c1,l8=bW;let bC=!![];if((aV[l7(0x5ff)][l7(0x102)]==aU[l8(0x1fb)]||aV['inst'][l8(0x102)]==aU[l8(0x896)])&&bA==![]){if(l7(0x6b6)!=='ReppM'){function bD(){const l9=l8;return this['qg'][l9(0x912)]();}}else bC=![];}console[l8(0x89c)](l8(0x31d),bC);if(bC)aV['inst'][l7(0x726)](bB);}['destroyBanner'](){const la=c1,lb=c1;if(la(0x4e4)===lb(0x4e4))aV[la(0x5ff)]['onDestoryBanner']();else{function bA(){const lc=lb,ld=lb;b[lc(0x5ff)][ld(0x65b)]('更多游戏需要1.33.0以上');return;}}}[c1(0x87c)](){const le=bW,lf=bW;aV[le(0x5ff)][le(0x457)](bA=>{const lg=le,lh=le;let bB=new H();J[lg(0x5ff)][lg(0x294)](bB),bB['setData'](bA);});}[c1(0x6f4)](){const li=c1,lj=c1;aV[li(0x5ff)][li(0x938)]();}[c1(0x93a)](){const lk=c1,ll=c1;if(aV[lk(0x5ff)][lk(0x102)]==aU[ll(0x40e)]||aV['inst']['platform']==aU[lk(0x4a3)])aV[lk(0x5ff)][ll(0x3a2)]();else{if(ll(0x712)===lk(0xf7)){function bA(){const lm=lk;this[lm(0x4fb)]();}}else this['showNativeAd']();}}[bW(0x4dc)](bA,bB){const ln=c1,lo=bW;(aV[ln(0x5ff)][lo(0x102)]==aU['oppo_h5']||aV[ln(0x5ff)][ln(0x102)]==aU[ln(0x896)])&&bA[ln(0xa09)](bB);}[c1(0x13d)](){const lp=c1,lq=c1;if(aV[lp(0x5ff)]['platform']==aU[lq(0x1fb)]){if('ooRoA'==='ooRoA')aV[lq(0x5ff)]['onDestroyNativeIconAd']();else{function bA(){const lr=lp,ls=lp;d[lr(0x89c)](lr(0x46b),e[ls(0x921)](f));}}}}[c1(0x58f)](bA){const lt=c1;aV['inst'][lt(0x58f)](bA);}[c1(0x4ec)](bA){const lu=c1,lv=bW;J[lu(0x5ff)][lv(0x43d)]('视频正在加载中',0xbb8,!![]),Laya[lu(0x801)]['once'](0x3e8,this,()=>{const lw=lv,lx=lv;aV[lw(0x5ff)][lw(0x4d3)](()=>{const ly=lx,lz=lx;J['inst'][ly(0x43d)](ly(0x157)),bA&&bA(!![]);},(bB,bC)=>{const lA=lw,lB=lx;if(bB==0x1)J[lA(0x5ff)][lA(0x43d)](lA(0x8fc));else{if(bB==0x4){if(lA(0x60a)!==lA(0x7ef))J[lA(0x5ff)]['showToast'](lA(0x53e));else{function bD(){const lC=lA,lD=lB;for(let bE=0x0;bE<this[lC(0xa6e)][lC(0x6b8)][lD(0x31f)];bE++){const bF=this[lD(0xa6e)][lC(0x6b8)][bE];if(bF[lD(0x62f)]==e)return bF[lD(0x5ac)];}return'';}}}}bA&&bA(![]);});});}}class R extends fgui[c1(0x9be)]{static['createInstance'](){const lE=bW,lF=bW;return fgui[lE(0x649)][lE(0x6ff)](lE(0x1d3),lF(0x572));}['onConstruct'](){const lG=c1,lH=c1;this[lG(0x9e2)]=this[lG(0x2e3)](0x0),this[lH(0x9c5)]=this['getChildAt'](0x1),this[lG(0xab7)]=this[lH(0x2e3)](0x2),this[lG(0x589)]=this[lH(0x2e3)](0x3),this[lG(0x361)]=this[lH(0x2e3)](0x4),this[lG(0x7cf)]=this[lG(0x2e3)](0x5),this['m_ButtomBar']=this['getChildAt'](0x6);}}R[c1(0xa8f)]='ui://kd5ich5smzapa';class S extends F{constructor(){const lI=bW,lJ=c1;super(...arguments),this[lI(0xa47)]=![],this[lI(0x230)]=0x0,this[lI(0x568)]=0x0;}get[bW(0xa8f)](){return R['URL'];}[c1(0x1e0)](){const lK=c1,lL=c1;this[lK(0x6f5)]=Laya[lK(0x432)][lK(0x3e6)](this,this['unbind']),this[lL(0x3a8)]=Laya['Handler']['create'](this,this[lK(0x6d4)]),super[lK(0x1e0)]();}[c1(0x288)](){const lM=c1,lN=c1;if('tTpID'!=='gturV')Q[lM(0x5ff)][lN(0x44a)](),Laya[lM(0x801)]['clear'](this,this[lM(0x7bb)]);else{function bA(){const lO=lN,lP=lN;b['inst'][lO(0x65b)](lO(0x329));return;}}}[c1(0x6d4)](){const lQ=bW,lT=c1;if(lQ(0x944)!=='SAgSb'){function bA(){const lR=lQ,lS=lQ;this['platformAPI']&&this[lR(0x78a)][lS(0x1f4)](bm,d);}}else{if(a2[lQ(0x5ff)][lT(0x2f8)]==![]){if(lQ(0x7b0)!==lT(0x252)){this[lT(0x778)]();return;}else{function bB(){const lU=lQ;return b[lU(0xa8f)];}}}if(a2['inst'][lT(0xa2c)](a1[lQ(0x89e)])==![]){this[lQ(0x778)]();return;}x[lQ(0x5ff)]['AddEventListener'](y[lT(0x529)],this,this[lT(0x564)]),Q[lT(0x5ff)][lQ(0x44a)](),this[lT(0x568)]=z[lQ(0xa4f)](0x1e,0x32),this[lT(0x435)][lT(0x589)][lQ(0x907)](this,this[lT(0x907)]),Laya[lQ(0x801)][lQ(0x341)](0x3e8,this,this[lT(0x7bb)]);}}[bW(0x564)](){const lV=c1,lW=bW;if('shOSH'!==lV(0x516))this[lV(0x435)][lW(0x70b)][lW(0x16e)]=aV[lW(0x5ff)][lW(0x638)]();else{function bA(){const lX=lV,lY=lV;e[lX(0x5ff)][lY(0x3ae)](0x32),f[lY(0x5ff)][lY(0x43d)](lX(0x4d5)),g['inst']['SendEvent'](h['onShortCutInstallEvent']);}}}[c1(0x7bb)](){const lZ=bW,m0=c1;if('IjSkP'===lZ(0x79a))this[m0(0x230)]-=0x3,this[lZ(0x230)]<=0x0&&(this[lZ(0x230)]=0x0),this[m0(0x435)][m0(0x7cf)][lZ(0x204)](this['currentP'],0.3);else{function bA(){const m1=m0;this[m1(0x867)]=this['getChildAt'](0x0);}}}[bW(0x907)](){const m2=c1,m3=c1;if(m2(0x365)!==m3(0x365)){function bA(){const m4=m2;return this['_inst']==null&&(this[m4(0x8b7)]=new bm()),this['_inst'];}}else{this[m2(0x230)]+=0xa;if(this[m2(0x230)]>=0x64){this[m2(0x230)]=0x64,this[m3(0x778)](),this[m3(0xa53)]&&this[m2(0xa53)][m3(0x8c4)](!![]);return;}else this['currentP']>=this['randShowBanner']&&this[m3(0x1cc)]();this[m3(0x435)][m3(0x7cf)]['tweenValue'](this['currentP'],0.3);}}[c1(0x1cc)](){const m5=c1,m6=c1;this[m5(0xa47)]==![]&&(this[m5(0xa47)]=!![],Q[m5(0x5ff)][m5(0x1cc)]());}}class T extends fgui['GComponent']{static['createInstance'](){const m7=c1,m8=bW;if(m7(0x9af)===m7(0x9af))return fgui[m8(0x649)]['createObject'](m7(0x1d3),m7(0x9e1));else{function bA(){const m9=m8,ma=m8;g[m9(0x5ff)][m9(0x338)][m9(0x2f7)][ma(0x3f9)]=h['inst']['screenWidth']-i[m9(0x3ad)]/0x2,j['inst'][m9(0x338)][ma(0x2f7)][m9(0x32c)]=k[m9(0x5ff)][m9(0x89d)]-l['height'];}}}[c1(0x175)](){const mb=c1,mc=bW;this[mb(0x45c)]=this[mb(0x2e3)](0x0);}}T[bW(0xa8f)]=bW(0x21c);class U extends F{get[bW(0xa8f)](){const md=c1;if(md(0x10b)!=='cvFZK'){function bA(){bm&&d(!![]);}}else return T['URL'];}[c1(0x1e0)](){const me=bW,mf=c1;this[me(0x6f5)]=Laya[me(0x432)][mf(0x3e6)](this,this[mf(0x288)]),this['onViewAdded']=Laya[me(0x432)]['create'](this,this[mf(0x6d4)]),super[mf(0x1e0)]();}[c1(0x288)](){const mg=c1,mh=c1;Q[mg(0x5ff)][mg(0x44a)]();}[c1(0x6d4)](){const mi=c1,ml=c1;if('cirGZ'===mi(0x51d)){function bA(){const mj=mi,mk=mi;o[mj(0x5ff)][mk(0x51b)][mj(0x854)]>0x0&&(C[mk(0x5ff)][mj(0x51b)][mj(0x854)]--,D[mj(0x5ff)]['bannerRecord'][mk(0x854)]==0x0&&(J[mk(0x5ff)]['bannerRecord']['date']=K[mj(0x5a3)]()),G[mk(0x5ff)][mk(0xa3f)](H[mj(0x5ff)][mk(0x470)],I[mk(0x5ff)][mk(0x51b)])),w[mk(0x5ff)][mj(0x987)]=![],x[mk(0x5ff)][mj(0x8d9)]=0xaa,y[mj(0x5ff)][mj(0x3c0)](z[mj(0x805)]),A[mk(0x89c)](mk(0x240),B[mj(0x5ff)]['bannerRecord'][mj(0x854)]);}}else{if(a2[mi(0x5ff)][mi(0x2f8)]==![]){if('yKunc'!==mi(0x46c)){this['removeSelf']();return;}else{function bB(){const mm=ml,mn=mi;b[mm(0x67b)]['event'](mn(0xa68));}}}if(a2[mi(0x5ff)][mi(0xa2c)](a1[mi(0x920)])==![]){this[mi(0x778)]();return;}Q[ml(0x5ff)][ml(0x1cc)]();}}}class V extends fgui[c1(0x9be)]{static[bW(0x969)](){const mo=c1,mp=bW;return fgui[mo(0x649)][mo(0x6ff)](mo(0x1d3),'SdkStartIconListView');}['onConstruct'](){const mq=c1,mr=bW;this[mq(0x821)]=this['getChildAt'](0x0),this[mr(0x794)]=this[mr(0x2e3)](0x1),this[mq(0x72f)]=this[mq(0x2e3)](0x2),this['m_CloseBtn']=this[mr(0x2e3)](0x3);}}V['URL']=c1(0x560);class W extends F{constructor(){const ms=bW;super(...arguments),this['list1']=new Array(),this[ms(0x86f)]=new Array(),this['index']=0x0;}get[c1(0xa8f)](){const mt=bW,mu=bW;if(mt(0x68e)!==mt(0x68e)){function bA(){const mv=mt,mw=mu;this[mv(0x648)](this[mv(0x180)]);}}else return V['URL'];}[c1(0x1e0)](){const mx=bW,my=bW;if(mx(0x77b)===mx(0x8b4)){function bA(){const mz=my,mA=my;this[mz(0x59a)][mz(0x16b)]++,bm['inst'][mA(0x3c0)](d[mz(0x94c)]),this[mA(0x92d)]();}}else this[mx(0x6f5)]=Laya['Handler']['create'](this,this[mx(0x288)]),this['onViewAdded']=Laya['Handler'][mx(0x3e6)](this,this[mx(0x6d4)]),super['init']();}[c1(0x288)](){const mB=bW,mC=bW;Laya['timer'][mB(0x8dd)](this,this['onJumpPage']),this[mC(0x9fb)]&&this[mB(0x9fb)][mB(0x8c4)](!![]);}['bind'](){const mD=c1,mE=bW;this[mD(0x435)][mD(0x97c)][mD(0x907)](this,this[mE(0x5a9)]);let bA=a2['inst'][mE(0x213)](),bB=Math[mD(0x30e)](bA[mE(0x31f)]/0x2);for(let bD=0x0;bD<bA[mD(0x31f)];bD++){const bE=bA[bD];bD<bB?this['list1'][mE(0x597)](bE):this[mD(0x86f)][mE(0x597)](bE);}this[mD(0x435)][mD(0x794)][mD(0x609)]=Laya[mD(0x432)]['create'](this,this[mD(0x10d)],null,![]),this['view'][mE(0x794)][mD(0x5a4)]=this[mE(0x426)][mD(0x31f)],this[mE(0x435)][mD(0x72f)]['itemRenderer']=Laya[mE(0x432)][mE(0x3e6)](this,this[mE(0x81d)],null,![]),this[mE(0x435)][mD(0x72f)]['numItems']=this[mE(0x86f)][mD(0x31f)],this[mE(0x435)]['m_List0']['on'](fairygui[mD(0x1fe)][mD(0x717)],this,this[mE(0x382)]),this[mE(0x435)][mE(0x72f)]['on'](fairygui[mD(0x1fe)][mD(0x717)],this,this[mD(0x704)]);if(a2[mE(0x5ff)][mE(0xa2c)](a1['开始ICON导出页面'])==![]){if(mE(0x5e1)==='tDIfa')this[mD(0x778)]();else{function bF(){const mF=mD,mG=mE;e[mF(0x918)][mF(0x2d0)](f,g[mG(0x921)](h));}}}let bC=Math[mD(0x30e)](bB/0x6);bC>0x1&&Laya[mE(0x801)][mD(0x341)](0xbb8,this,this[mD(0x521)]);}[c1(0x521)](){const mH=bW,mI=bW;if(mH(0x16d)===mH(0x16d)){console[mH(0x89c)]('1111'),this[mI(0x849)]+=0x6;let bA=a2['inst']['getApps'](),bB=Math[mI(0x30e)](bA[mH(0x31f)]/0x2),bC=Math['ceil'](bB/0x6);this['index']>=bC*0x6&&(this[mI(0x849)]=0x0),this[mI(0x435)]['m_List0'][mH(0x864)](this['index'],!![]),this[mI(0x435)][mI(0x72f)]['scrollToView'](this['index'],!![]);}else{function bD(){const mJ=mH,mK=mH;this[mJ(0x674)]();for(var bE=0x0;bE<this[mJ(0x7b3)][mK(0x31f)];bE++){var bF=this[mJ(0x7b3)][bE];bF['LastLeftWheelResult']=this[mJ(0x884)](bF[mK(0x304)]),bF[mJ(0x87d)]=this['HandleWheel'](bF[mK(0x3d0)]);}for(bE=0x0;bE<this['axleInfos']['length'];bE++)this['HandleBalance'](this[mK(0x7b3)][bE]);this[mK(0x9fe)]();}}}[c1(0x10d)](bA,bB){const mL=c1,mM=c1;if(mL(0x36e)===mM(0x86c)){function bC(){b(!![]);}}else bB[mM(0x55e)]=this[mL(0x426)][bA][mL(0x55e)],bB[mM(0x79c)]=this[mL(0x426)][bA][mM(0x842)],bB['data']=this[mL(0x426)][bA];}[bW(0x81d)](bA,bB){const mN=bW,mO=bW;bB['icon']=this['list2'][bA][mN(0x55e)],bB[mO(0x79c)]=this[mO(0x86f)][bA][mO(0x842)],bB[mO(0x161)]=this['list2'][bA];}['onItemClick0'](bA){const mP=c1,mQ=bW;if('RZaxM'===mP(0x975))console[mQ(0x89c)](mQ(0x8c9),bA[mQ(0x161)]),a2['inst'][mP(0x177)](mP(0x66a),bA['data']);else{function bB(){const mR=mP;this[mR(0x3eb)]['abort']();}}}['onItemClick1'](bA){const mS=c1,mT=bW;if(mS(0x235)!=='bAlmd')console['log'](mT(0x8c9),bA[mT(0x161)]),a2['inst'][mT(0x177)]('开始页面导流按钮',bA[mT(0x161)]);else{function bB(){const mU=mT,mV=mT;e[mU(0x89c)](mV(0x67c),f['hasUpdate']),g[mV(0x725)]&&i['wx'][mU(0x43d)]({'title':mV(0x630)});}}}[c1(0x5a9)](){const mW=bW;this[mW(0x778)]();}}class X extends fgui[c1(0xa5d)]{static[c1(0x969)](){const mX=c1;return fgui['UIPackage']['createObject']('YmSdkUI',mX(0x5f1));}[c1(0x175)](){const mY=bW,mZ=c1;if(mY(0x256)===mZ(0x256))this[mY(0x70e)]=this[mY(0x2e3)](0x0),this['m_bar']=this[mZ(0x2e3)](0x1);else{function bA(){const n0=mZ,n1=mZ;b[n0(0x5ff)][n0(0x65b)](n0(0x329));return;}}}}X['URL']=bW(0x3fb);class Y extends fgui[bW(0x2b1)]{static[bW(0x969)](){const n2=bW,n3=bW;if(n2(0x799)===n2(0x799))return fgui[n3(0x649)][n2(0x6ff)]('YmSdkUI',n3(0x627));else{function bA(){const n4=n3,n5=n3;this[n4(0x70e)]=this[n5(0x2e3)](0x0),this[n5(0x3ba)]=this[n4(0x2e3)](0x1),this[n4(0x562)]=this['getChildAt'](0x2),this['m_CloseBtn']=this[n5(0x2e3)](0x3),this['m_List']=this[n4(0x2e3)](0x4),this['m_n5']=this['getChildAt'](0x5);}}}['onConstruct'](){const n6=c1,n7=c1;this[n6(0x64c)]=this[n6(0x2e3)](0x0),this[n6(0x867)]=this[n6(0x2e3)](0x1),this['m_n4']=this[n7(0x2e3)](0x2),this[n6(0x4b4)]=this[n7(0x2e3)](0x3);}}Y['URL']=bW(0x21b);class Z extends fgui[c1(0x2b1)]{static[c1(0x969)](){const n8=c1,n9=c1;if('lThtB'!==n8(0x6f7))return fgui[n9(0x649)][n9(0x6ff)]('YmSdkUI',n9(0x61e));else{function bA(){bm&&d(![],'');}}}[c1(0x175)](){const na=bW,nb=bW;if(na(0x464)===nb(0x464))this['m_n0']=this[nb(0x2e3)](0x0),this[na(0x850)]=this['getChildAt'](0x1),this[na(0x4b4)]=this[na(0x2e3)](0x2);else{function bA(){const nc=na,nd=nb;this[nc(0x6fd)]=null,this['m_nativeIconAd']['offError'](this['onNativeIconAdError']),this['m_nativeIconAd'][nd(0x88b)](this[nd(0x4c7)]),this[nd(0x1b9)][nc(0x403)](),this['m_nativeIconAd']=null;}}}}Z[c1(0xa8f)]=bW(0x2e7);class a0{static[bW(0x824)](){const ne=c1,nf=c1;fgui[ne(0x5b8)][ne(0x3bf)](M[nf(0xa8f)],M),fgui[ne(0x5b8)][nf(0x3bf)](O[nf(0xa8f)],O),fgui[nf(0x5b8)][ne(0x3bf)](T[nf(0xa8f)],T),fgui[nf(0x5b8)][ne(0x3bf)](R[ne(0xa8f)],R),fgui[nf(0x5b8)][ne(0x3bf)](X[ne(0xa8f)],X),fgui['UIObjectFactory'][ne(0x3bf)](V['URL'],V),fgui['UIObjectFactory'][ne(0x3bf)](Y[nf(0xa8f)],Y),fgui[nf(0x5b8)][ne(0x3bf)](Z['URL'],Z);}}var a1;(function(bA){const ng=bW,nh=c1;bA[ng(0x406)]=ng(0x36f),bA[ng(0x400)]=nh(0x282),bA[ng(0x920)]=nh(0x26e),bA[ng(0x89e)]=nh(0x999);}(a1||(a1={})));class a2{constructor(){const ni=c1,nj=bW;this[ni(0x4ad)]='https://mini.coschat.com/api/sdk/',this[ni(0x8a6)]=nj(0x369),this['enabled']=!![],this['wx']=window['wx'],this[ni(0x569)]='',this[ni(0x702)]=[],this[nj(0x6d0)]={'loadingIconListShow':![],'gridIconShow':![],'resultIconListShow':![],'reslutProgressShow':![]};}static get['inst'](){const nk=bW,nl=bW;return this[nk(0x8b7)]==null&&(this[nk(0x8b7)]=new a2()),this[nk(0x8b7)];}['setMap'](bA,bB){const nm=bW,nn=bW;this[nm(0x6d0)][bA]=bB,console[nm(0x89c)](nm(0x73c),bA,this[nm(0x6d0)][bA]);}['getKeyValue'](bA){const no=bW;return this[no(0x6d0)][bA];}[bW(0x637)](bA){const np=bW;this[np(0x702)]=bA;}[c1(0x9e9)](bA){const nq=bW;if(nq(0x3ed)!=='XGlwz'){function bB(){return{0x0:{'p':0x64,'s':![]},0x1:{'p':0x64,'s':![]},0x2:{'p':0x64,'s':![]},0x3:{'p':0x64,'s':![]},0x4:{'p':0x64,'s':![]},0x5:{'p':0x64,'s':![]}};}}else return j(this,void 0x0,void 0x0,function*(){const nr=nq,ns=nq;if(nr(0x11c)!==nr(0x11c)){function bC(){const nt=ns,nu=ns;return this['wx'][nt(0x8f0)][nu(0x988)]+'/';}}else this[ns(0x702)]=bA,this['currentAppId']=this[nr(0x5b2)](),console[ns(0x89c)](ns(0x5d2),this[nr(0x702)]),console[nr(0x89c)](ns(0x40a)+aV[nr(0x5ff)][nr(0x922)]+nr(0x32d)+this[ns(0x569)]),yield this[nr(0xa56)](),console[ns(0x89c)](nr(0x8cf)),yield this[ns(0x94e)](bA),console['log'](ns(0x9ca));});}['getCurrentAppId'](){const nv=c1,nw=c1;for(let bA=0x0;bA<this[nv(0x702)][nv(0x31f)];bA++){if(nv(0x104)!==nw(0x93c)){const bB=this['platformConfig'][bA];if(bB[nw(0x102)]==aU[nw(0x6a4)])return bB[nv(0x6db)];}else{function bC(){const nx=nv;for(let bD=0x0;bD<this['soundPools'][nx(0x31f)];bD++){const bE=this['soundPools'][bD];bE['type']==e&&bE['audio']['pause']();}}}}return'';}[bW(0x213)](){const ny=c1,nz=bW;return this[ny(0x99e)][ny(0x8e5)];}[bW(0xa00)](bA){const nA=bW,nB=bW;console[nA(0x89c)](nA(0xab8),a2['inst'][nA(0xa2c)](a1[nB(0x406)]));if(this[nB(0xa2c)](a1[nB(0x406)])){if(nB(0x67e)!==nA(0x934))Laya['timer']['callLater'](this,()=>{const nC=nA,nD=nA;if(nC(0x255)===nD(0x333)){function bB(){const nE=nC,nF=nD;return b[nE(0x649)][nE(0x6ff)](nF(0x88e),nE(0x8bd));}}else{let bC=new W();J[nC(0x5ff)][nC(0x294)](bC),bC['closeHandler']=Laya[nD(0x432)][nD(0x3e6)](this,()=>{bA&&bA(!![]);});}});else{function bB(){const nG=nA,nH=nA;bm[nG(0x89c)](nH(0x58a),d[nG(0x52f)]);}}}else bA&&bA(!![]);}['showResultIconListView'](bA){const nI=bW,nJ=c1;if(this['getKeyValue'](a1[nI(0x920)]))Laya[nJ(0x801)][nJ(0x804)](this,()=>{const nK=nJ,nL=nI;let bB=new U();J[nK(0x5ff)][nK(0x294)](bB);}),bA&&bA(!![]);else{if(nJ(0xa3e)!==nJ(0xa3e)){function bB(){const nM=nJ,nN=nJ;if(i[nM(0x55c)]&&j['imgUrlList'][nN(0x31f)]>0x0)this[nN(0x435)]['m_ImageLoader'][nM(0x55e)]=q[nM(0x55c)][0x0];else{if(l[nM(0x541)]&&m[nM(0x541)][nN(0x31f)]>0x0)this[nM(0x435)][nM(0xab7)][nM(0x55e)]=r[nN(0x541)][0x0];else o[nN(0x55e)]&&(this['view'][nM(0xab7)][nM(0x55e)]=s[nM(0x55e)]);}}}else bA&&bA(![]);}}[c1(0x817)](){const nO=c1,nP=c1;if('BOTUA'==='BOTUA')J[nO(0x5ff)][nO(0x9bb)](T[nO(0xa8f)]);else{function bA(){const nQ=nP;this[nQ(0x849)]=0x0;}}}['showPowerView'](bA){const nR=bW,nS=bW;if(this[nR(0xa2c)](a1[nS(0x89e)])){if('PYftv'===nS(0x80c)){function bB(){const nT=nR,nU=nS;b[nT(0x89c)](nT(0x2af)),this[nU(0x89a)]&&this[nU(0x89a)](),this[nT(0x1f0)]=![];}}else Laya[nR(0x801)][nR(0x804)](this,()=>{const nV=nS,nW=nR;if(nV(0x2c9)!==nW(0xaad)){let bC=new S();J[nW(0x5ff)]['showPopupView'](bC),bC[nW(0xa53)]=Laya['Handler']['create'](this,()=>{bA&&bA(!![]);});}else{function bD(){const nX=nV,nY=nV;var bE='p'+(bm+0x1),bF=this['roadObj'][nX(0x715)](bE);return null==bF?d[nX(0x67b)]()[nY(0x500)]():bF[nY(0x9ec)]['position'];}}});}else bA&&bA(![]);}[bW(0xa56)](){return j(this,void 0x0,void 0x0,function*(){return new Promise((bA,bB)=>{const nZ=a0b,o0=a0b;let bC=[];bC[nZ(0x597)]({'url':nZ(0x885),'type':Laya[o0(0x839)][o0(0xa33)]}),bC[o0(0x597)]({'url':'res/sdkAssets/YmSdkUI_atlas0.png','type':Laya['Loader'][o0(0x743)]}),Laya[o0(0x458)][o0(0x24b)](bC,Laya[nZ(0x432)][nZ(0x3e6)](this,bD=>j(this,void 0x0,void 0x0,function*(){const o1=nZ,o2=nZ;if(bD){if(o1(0x64f)!=='XCUDi')fairygui[o2(0x649)][o1(0x257)](o1(0x1da)),a0[o1(0x824)](),fgui['UIObjectFactory'][o1(0x3bf)](M[o2(0xa8f)],N),fgui[o1(0x5b8)][o2(0x3bf)](O[o2(0xa8f)],P),bA(!![]);else{function bE(){const o3=o2;bm[o3(0xa5f)](d);}}}else console['log'](o2(0x601)),yield this[o2(0xa56)]();})));});});}[bW(0x94e)](bA){const o4=c1,o5=bW;if(o4(0xa7a)===o5(0x62d)){function bB(){const o6=o5,o7=o5;this[o6(0x1c2)]=this[o6(0x594)](0x0),this[o6(0x867)]=this['getChildAt'](0x0),this['m_title']=this[o7(0x2e3)](0x1),this[o7(0x70e)]=this[o7(0x2e3)](0x2);}}else return j(this,void 0x0,void 0x0,function*(){return new Promise((bC,bD)=>{const o8=a0b,o9=a0b;let bE=new L(),bF=this['initApi']+this[o8(0x569)];console[o8(0x89c)]('[YMSDK]发送获取sdk:'+bF),bE[o8(0x384)](bF,null,bG=>{const oa=o9,od=o8;console['log']('[YMSDK]initSDK返回信息:',bG);if(bG['code']==0x0){if(oa(0x46a)==='HJaxr'){function bH(){const ob=oa,oc=oa;this[ob(0x4f6)]=new bm(),this[ob(0x984)]=d['CN'];}}else{if(be['inst'][oa(0x962)]){if(oa(0x644)===od(0x28c)){function bI(){const oe=od,of=oa;this[oe(0x435)][oe(0x45d)][of(0xa3b)]=!![];}}else{this[od(0x99e)]=bG[oa(0x161)],this[oa(0x2f8)]=this[od(0x99e)][oa(0x241)],w[od(0x5ff)]['currentPlatform']['canAd']=this[oa(0x99e)]['ad'];if(this[od(0x2f8)]){if(od(0x629)===oa(0x831)){function bK(){const og=oa;this['roadObj']=this[og(0x6d2)];}}else this[od(0x131)](a1['开始ICON导出页面'],this[oa(0x99e)][od(0x35c)][0x0]),this[od(0x131)](a1['游戏格子'],this['sdkConfig'][oa(0x35c)][0x1]),this[od(0x131)](a1[od(0x920)],this[od(0x99e)][oa(0x35c)][0x2]),this[od(0x131)](a1[od(0x89e)],this['sdkConfig'][od(0x35c)][0x3]);}else{if(oa(0x4e0)!==oa(0x487))this['setMap'](a1[oa(0x406)],![]),this[od(0x131)](a1[od(0x400)],![]),this[oa(0x131)](a1[oa(0x920)],![]),this[oa(0x131)](a1[od(0x89e)],![]);else{function bL(){const oh=oa,oi=oa;f['log'](oh(0x3ce)),this[oi(0x786)]['push'](g),h[oi(0x5ff)][oh(0x7ee)](oi(0x12f),i['stringify'](this['hashData'])),j(!![]);}}}let bJ=this['getApps']();if(bJ&&bJ[od(0x31f)]==0x0)this[od(0x131)](a1[oa(0x406)],![]),this[od(0x131)](a1[od(0x400)],![]),this[od(0x131)](a1['结算ICON导出页面'],![]);else for(let bM=0x0;bM<bJ['length'];bM++){const bN=bJ[bM];bN[od(0x842)]=bN[od(0x842)][od(0x4c8)](0x0,0x6);}bC(this[oa(0x99e)]),console[od(0x89c)](od(0xa9d),w['inst'][oa(0x2fe)]['canAd']),console[oa(0x89c)]('是否开启导流:',this[oa(0x2f8)]);}}else{if(this['wx']){console['log'](oa(0x9d8)),this['sdkConfig']=bG[oa(0x161)],this[oa(0x2f8)]=this[oa(0x99e)][oa(0x241)],w[oa(0x5ff)][od(0x2fe)]['canAd']=this[od(0x99e)]['ad'],this['setMap'](a1['开始ICON导出页面'],this[oa(0x2f8)]),this['setMap'](a1[od(0x400)],this[od(0x2f8)]),this[oa(0x131)](a1[od(0x920)],this['enabled']),this[oa(0x131)](a1['结算误点进度页面'],this[od(0x2f8)]);let bO=this[od(0x213)]();if(bO&&bO[oa(0x31f)]==0x0){if(oa(0x4a4)==='nYrbv'){function bP(){const oj=od,ok=od;for(var bQ in this[oj(0x29b)]){(this['buffers'][bQ]['TryUpdateBuffer'](this)||this[ok(0x29b)][bQ][ok(0x132)](this))&&delete this[oj(0x29b)][bQ];}}}else this['setMap'](a1[od(0x406)],![]),this[od(0x131)](a1[od(0x400)],![]),this['setMap'](a1['结算ICON导出页面'],![]);}else for(let bQ=0x0;bQ<bO[oa(0x31f)];bQ++){const bR=bO[bQ];bR[oa(0x842)]=bR['name'][od(0x4c8)](0x0,0x6);}bC(this[od(0x99e)]),console[oa(0x89c)](oa(0xa9d),w[oa(0x5ff)]['currentPlatform'][od(0x1a3)]),console[oa(0x89c)](od(0x553),this[oa(0x2f8)]);}else{if(oa(0x30d)!==od(0x30d)){function bS(){const ol=od;this[ol(0x8b7)]=new b();}}else this[od(0x2f8)]=![],bC(null);}}}}else this[od(0x2f8)]=![],bC(null);});});});}[bW(0x58f)](bA){const om=bW,on=c1;if(om(0x9e0)===om(0x9dc)){function bB(){return b;}}else{if(this['wx']&&this['wx'][om(0x319)]){console[om(0x89c)](om(0x7c2),JSON['stringify'](bA));if(bA['data'])this['wx'][om(0x319)][on(0xa2e)](bA[on(0x62f)],bA[om(0x161)]);else{if(on(0x902)===om(0xa86)){function bC(){const oo=on,op=om;f[oo(0x801)][oo(0x154)](this),g['inst']['RemoveEventListenerWithCaller'](this),this['onViewWillDestory']&&this[op(0x6f5)][op(0x2c8)](),h?(this[op(0x3a8)]=null,this['onViewWillDestory']=null,k['inst']['uiViewContainer'][oo(0x473)](this[op(0x17c)],l)):this[op(0x17c)][op(0x215)][oo(0xa3b)]=![];}}else this['wx'][om(0x319)]['trackEvent'](bA[on(0x62f)]);}}}}['clickEvent'](bA,bB){const oq=bW,os=bW;if(oq(0x859)!=='GmIOl'){function bC(){const or=oq;this['m_moreButton'][or(0xa87)]();}}else{aV['inst'][os(0x7b7)]({'appId':bB[os(0x6db)]});let bD=new L(),bE=this['sendEventApi']+os(0x9ce)+this[os(0x569)]+'&appid='+bB[os(0x6db)]+os(0x806)+bB[oq(0x836)];console['log'](oq(0x872)+bE),bD[oq(0x756)](bE,null,this,bF=>{const ot=oq;console[ot(0xa5f)](bF);}),this[oq(0x58f)]({'key':'SDKIconClickEvent','data':{'gameId':this[oq(0x569)],'appName':bB[os(0x842)],'scene':bA,'appId':bB['appId'],'iconId':bB[oq(0x836)]}});}}}class a3{}class a4{constructor(bA,bB){const ou=bW;this['platform']=bB,this[ou(0x6db)]=bA;}}class a5 extends a3{}class a6{}class a7{}class a8{constructor(){const ov=c1,ow=c1;this['wx']=window['wx'],this[ov(0x338)]=null,this['m_videoAd']=null,this['m_insertAd']=null,this['m_gridAd']=null,this[ov(0x1f0)]=![],this[ov(0x4b0)]=null,this[ov(0x8d9)]=0xdc,this[ov(0x74b)]=0x0;}['userDataPath'](){const ox=c1,oy=bW;if(ox(0x439)===oy(0x439)){if(this['wx'])return this['wx'][oy(0x8f0)][ox(0x988)]+'/';return'';}else{function bA(){return'';}}}[bW(0x1f4)](bA,bB){const oz=bW,oA=bW;if(this['wx']){if(oz(0x23e)==='EEyij')this[oz(0x3eb)]!=null&&this[oz(0x3eb)][oA(0x57f)](),this[oz(0x3eb)]=this['wx'][oA(0x1f4)]({'url':bA,'success'(bC){const oB=oA,oC=oz;if(bC[oB(0x9b8)]===0xc8){if(oB(0x895)===oC(0x595)){function bD(){const oD=oC,oE=oB;f[oD(0x5ff)][oD(0x102)]==g[oD(0x40e)]||h['inst']['platform']==i['toutiao_h5']?k[oD(0x5ff)][oD(0x3a2)]():this['showNativeAd']();}}else bB&&bB(!![],bC);}else bB&&bB(![],null);}});else{function bC(){const oF=oz,oG=oA;b[oF(0x5ff)][oG(0x65b)](oF(0x536));return;}}}else bB&&bB(![],null);}[bW(0xa21)](bA,bB){const oH=bW,oI=bW;if(this['wx']){let bC=this['userDataPath']()+bA;this['wx'][oH(0x727)]()[oH(0xa21)]({'filePath':bC,'encoding':oI(0x14d),'success'(bD){const oJ=oI;bB&&bB(!![],bD[oJ(0x161)]);},'fail'(bD){bB&&bB(![],'');}});}else bB&&bB(![],'');}[c1(0x7ee)](bA,bB){const oK=c1,oL=c1;if(this['wx']){let bC=this['userDataPath']()+bA;this['wx']['getFileSystemManager']()[oK(0x7ee)](bC,bB,oK(0x14d));}}[c1(0x2c3)](bA,bB){const oM=bW,oN=bW;if(oM(0x6ce)!==oN(0x13a))this['wx']?this['wx'][oN(0x727)]()['unzip']({'zipFilePath':bA,'targetPath':this['wx'][oN(0x8f0)][oN(0x988)],'success'(bC){const oO=oN,oP=oN;if(oO(0x509)!==oP(0x313))console[oO(0x89c)](bC),bB&&bB(!![]);else{function bD(){const oQ=oP;return this[oQ(0x6a5)]>0x0;}}}}):bB&&bB(![]);else{function bC(){const oR=oM,oS=oM;f&&(k[oR(0x5ff)][oS(0x3ae)](0x32),l[oS(0x5ff)][oS(0x43d)]('添加桌面图标成功，获得50钻石'),m[oS(0x5ff)][oR(0x3c0)](n[oS(0x4bf)]));}}}[c1(0x45a)](bA){const oT=c1,oU=c1;if(this['wx']){if('iQjmL'===oT(0x9c9)){let bB=this;this[oU(0x4f5)]=this['wx']['getSystemInfoSync'](),this[oT(0x67c)](),this['wx'][oT(0x555)]({'withShareTicket':!![]}),this['wx'][oU(0x2b9)](function(bC){const oV=oU,oW=oT;if(oV(0x108)!==oV(0x7f7))return{'title':oW(0x8ce),'desc':oW(0x8ce),'imageUrl':w[oW(0x5ff)][oV(0x2fe)][oW(0x187)],'imageUrlId':w['inst']['currentPlatform'][oV(0x37d)],'query':''};else{function bD(){const oX=oV,oY=oW;let bE=this[oX(0x435)][oX(0x708)][oX(0x6dd)];this[oY(0x3c7)](bE);}}}),this['wx'][oT(0x26b)](function(bC){const oZ=oT,p0=oU;console[oZ(0x89c)]('wx.onShow=====================================');if(bB[p0(0x74b)]>0x0&&Date[p0(0xa28)]()-bB[oZ(0x74b)]>=0x7d0){if(p0(0x607)===oZ(0xa59)){function bD(){const p1=oZ,p2=p0;b[p1(0x5ff)][p1(0x65b)]('没广告版本');return;}}else{if(bB[oZ(0x2ce)]){if('PAypA'!==oZ(0x780))bB['onShareCallback'](!![]);else{function bE(){const p3=p0;throw new b(p3(0x9a6));}}}}}else{if(p0(0x3ef)!==p0(0x3ef)){function bF(){return'';}}else bB[p0(0x2ce)]&&bB['onShareCallback'](![]);}bB['onShareCallback']=null,bB[p0(0x74b)]=0x0;}),this['wx'][oU(0x246)](function(){const p4=oU,p5=oU;console[p4(0x89c)](p5(0x7f0));});}else{function bC(){const p6=oU;return this[p6(0x78a)]&&this['platformAPI']['readDataFromCache'](b);}}}console['log'](oT(0x2ac));}[bW(0x67c)](){const p7=bW,p8=c1;let bA=this;const bB=this['wx'][p7(0x2ab)]();bB[p8(0x67c)](function(bC){const p9=p8,pa=p7;console[p9(0x89c)](pa(0x67c),bC[pa(0x725)]);if(bC[pa(0x725)]){if(pa(0x99c)!==pa(0x99c)){function bD(){b(![]);}}else bA['wx']['showToast']({'title':pa(0x630)});}}),bB[p8(0x2a6)](()=>{const pb=p8,pc=p7;if(pb(0x960)!=='nsypK')bA['wx'][pc(0x212)]({'title':pc(0x6c7),'content':pc(0x79d),'success':function(bC){const pd=pb,pe=pc;if('GhNSE'===pd(0x453))bC[pd(0x200)]?bB[pe(0x771)]():bA['wx']['showToast']({'icon':pe(0x18f),'title':pe(0x3fa)});else{function bD(){const pf=pe,pg=pe;this[pf(0x131)](e[pf(0x406)],![]),this[pf(0x131)](f['游戏格子'],![]),this[pg(0x131)](g['结算ICON导出页面'],![]),this[pg(0x131)](h[pf(0x89e)],![]);}}}});else{function bC(){const ph=pb,pi=pb;b[ph(0x5ff)][pi(0x65b)]('没广告版本');return;}}}),bB['onUpdateFailed'](()=>{const pj=p8;bA['wx']['showToast']({'title':pj(0x5fe)});});}[bW(0x62e)](bA){const pk=bW,pl=c1;if(pk(0x347)===pl(0x347))this[pl(0x913)](),this[pk(0x2b5)](),this[pl(0x612)](),bA(),console[pl(0x89c)]('WeiXinH5GameAPI\x20onInitAdService');else{function bB(){e(f,g,h);}}}[c1(0x7d4)](bA){const pm=c1,pn=bW;if(pm(0x4e8)===pn(0x4f1)){function bB(){const po=pn,pp=pn;var bC=e['Vector3'][po(0x7d9)](this[po(0x106)],new f[(pp(0x587))]()),bD=g['Vector3'][po(0x7d9)](this[pp(0x8a5)],new h[(po(0x587))]());return!bC||!bD;}}else this['wx']?(this[pm(0x74b)]=Date[pn(0xa28)](),this[pm(0x2ce)]=bA,this['wx'][pm(0x194)]({'title':pn(0x8ce),'desc':pn(0x8ce),'imageUrl':w[pm(0x5ff)][pm(0x2fe)][pn(0x187)],'imageUrlId':w[pm(0x5ff)]['currentPlatform'][pn(0x37d)],'query':''})):bA&&bA(!![]),console[pm(0x89c)](pm(0x7a8));}[c1(0x626)](){const pq=c1;throw new Error(pq(0x9a6));}[c1(0x4aa)](){const pr=bW;if('SsmmH'!=='lqCJj')throw new Error(pr(0x9a6));else{function bA(){b(![]);}}}[c1(0x825)](){const ps=c1,pt=c1;if(ps(0xa20)===ps(0x414)){function bA(){const pu=ps,pv=ps;this[pu(0xa73)]=![],d[pv(0x801)][pv(0x8dd)](this,this[pu(0x84a)]),e['timer'][pv(0x8ba)](this[pu(0x694)],this,this[pu(0x84a)]),f['inst'][pu(0x65b)](pu(0x613)+this[pv(0x694)]+'秒');}}else throw new Error('Method\x20not\x20implemented.');}[c1(0x5b1)](bA){bA(!![]);}[bW(0x3be)](bA){if('DTEEs'!=='vuPTs')bA(!![]);else{function bB(){const pw=a0b,px=a0b;for(let bC=0x0;bC<this['soundPools'][pw(0x31f)];bC++){const bD=this[px(0x3a0)][bC];bD[pw(0x811)]['volume']=n;}h[px(0x171)]['setMusicVolume'](i),j[px(0x171)][pw(0x249)](k),this[px(0x586)]&&(this[pw(0x586)][pw(0x18d)]=o);}}}['createMoreGamesButton'](bA){}[c1(0x9b9)](){}[c1(0x91b)](bA){}[c1(0x638)](){const py=bW,pz=bW;if(py(0x208)!==pz(0x208)){function bA(){return'';}}else return this['m_bannerHeight'];}[bW(0x4f2)](){const pA=c1,pB=c1;if(this['wx']){let bA=Laya[pA(0x87f)]['height']/this[pB(0x4f5)]['screenHeight'];return this[pB(0x4f5)][pA(0x929)]*bA;}return 0x14;}[bW(0x58f)](bA){const pC=bW,pF=c1;if('jCuZd'===pC(0x36b)){function bB(){const pD=pC,pE=pC;this[pD(0x9e2)]=this[pD(0x2e3)](0x0),this[pD(0x214)]=this[pE(0x2e3)](0x1),this[pE(0xab7)]=this[pE(0x2e3)](0x2),this[pE(0x97c)]=this[pD(0x2e3)](0x3),this[pE(0x911)]=this[pD(0x2e3)](0x4),this[pE(0x4fd)]=this[pE(0x2e3)](0x5),this[pD(0x633)]=this[pD(0x228)](0x0);}}else a2[pF(0x5ff)]['sendEvent'](bA);}[bW(0x643)](){}['onStartRecord'](){}[c1(0x2bd)](){}['getScreenSize'](){const pG=c1,pH=c1;if(pG(0xfc)!==pH(0xfc)){function bA(){const pI=pG;return this['platformAPI']&&this[pI(0x78a)]['addColorSign']();}}else return new Laya[(pG(0x5bd))](0x2ee,0x536);}[bW(0x126)](){return!![];}[bW(0x3cc)](){const pJ=bW,pK=c1;console[pJ(0x89c)](pJ(0x27e));}[bW(0x5ee)](bA){const pL=c1,pM=c1;console[pL(0x89c)](pL(0x603));}[bW(0x913)](){const pN=c1;console[pN(0x89c)]('WeiXinH5GameAPI\x20createBannerAd');}[bW(0x726)](){const pO=c1,pP=bW;if(pO(0x63e)==='NJYiG'){if(this['wx']&&w[pP(0x5ff)]['currentPlatform'][pP(0x1a3)]){if(this[pO(0x338)]){if(pP(0x868)===pO(0x11b)){function bG(){const pQ=pO,pR=pO;if(this['tt']){let bH=this[pQ(0x80b)]()+i;j[pQ(0x89c)](pQ(0x25e),bH,k),this['tt']['getFileSystemManager']()['writeFileSync'](bH,l,pR(0x14d));}}}else this[pP(0x338)][pP(0x403)](),this[pP(0x338)]=null;}let bB=this,bC={'left':0x0,'top':0x0,'width':0xc8,'height':0x0};var bA=this['wx'][pP(0x2d3)]();let bD=bA[pO(0x747)],bE=bA[pO(0x1eb)]/0x2,bF=bA['screenHeight'];if(bD[pP(0x9ae)](pO(0x8f1))!=-0x1)bC['width']=bE*1.1;else{if(pO(0x3d3)===pO(0x394)){function bH(){const pS=pP,pT=pO;var bI=bF(bI[pS(0x387)]())-i(j[pS(0x387)]()||0x0);if(bI>=0x0)k=bI+l;else o=bI+0xa+p,bI[bI[pS(0x31f)]-0x1]--;}}else bC['width']=bE*1.71;}this[pO(0x338)]=this['wx']['createBannerAd']({'adUnitId':w['inst']['currentPlatform'][pO(0xa43)],'style':bC}),this[pP(0x338)][pP(0x337)](function(bI){const pU=pO,pV=pO;bB[pU(0x338)][pU(0x2f7)]['left']=bE-bI[pV(0x3ad)]/0x2,bB[pV(0x338)]['style'][pV(0x32c)]=bF-bI['height'];}),this['m_bannerAd'][pP(0x26a)](function(){const pW=pP,pX=pO;console['log']('Banner广告加载完成================'),bB[pW(0x338)][pW(0x92a)]()[pW(0x5c8)](()=>{const pY=pX,pZ=pW;if(pY(0x4df)!=='smLid'){function bI(){this['index']=0x0;}}else console[pY(0x89c)](pZ(0x19a)),bB[pY(0x8d9)]=0xdc,x['inst'][pY(0x3c0)](y[pY(0x529)]);})[pX(0x3c5)](bI=>{const q0=pW,q1=pW;if(q0(0x196)==='WPUJV')console[q0(0x89c)](q1(0x7a0),bI),bB[q1(0x8d9)]=0x14,x['inst'][q0(0x3c0)](y[q0(0x805)]);else{function bJ(){const q2=q0,q3=q1;f['inst'][q2(0x987)]=!![],g[q3(0x5ff)][q3(0x8d9)]=0xaa,bF[q3(0x5ff)][q3(0x3c0)](i[q2(0x529)]),j[q3(0x5ff)][q2(0x65b)](q2(0x7f9));}}});}),this[pP(0x338)][pP(0x99a)](function(bI){const q4=pP,q7=pO;if('iHSKv'===q4(0x95a)){function bJ(){const q5=q4,q6=q4;g[q5(0x338)][q5(0x2f7)]['left']=bF-i[q5(0x3ad)]/0x2,j[q5(0x338)][q5(0x2f7)][q5(0x32c)]=k-l[q5(0x16e)];}}else console[q7(0x89c)]('Banner广告加载失败================='),bB[q7(0x8d9)]=0x14,x[q4(0x5ff)][q4(0x3c0)](y[q7(0x805)]);});}console['log'](pP(0xa0c));}else{function bI(){const q8=pP;this['soundVolume']=0.001,this[q8(0x324)](this['soundVolume'],'SE');}}}['onHideBanner'](){const q9=bW,qa=c1;this[q9(0x338)]&&(this[q9(0x8d9)]=0x14,x['inst'][q9(0x3c0)](y['ON_BANNER_FAIL_EVENT']),this[q9(0x338)][qa(0x403)](),this['m_bannerAd']=null),console[qa(0x89c)]('WeiXinH5GameAPI\x20onHideBanner');}[bW(0x2b5)](){const qb=c1,qc=bW;if(qb(0x6b3)==='dSxvp'){function bA(){return this['m_bannerHeight'];}}else{if(this['wx']&&w[qc(0x5ff)][qc(0x2fe)][qb(0x1a3)]){this['m_videoAd']=this['wx'][qb(0x2b5)]({'adUnitId':w[qb(0x5ff)][qb(0x2fe)][qb(0x4c6)]});if(this['m_videoAd']==null)return;this[qb(0x7bf)][qb(0x24b)]()[qb(0x5c8)](()=>{const qd=qb;console[qd(0x89c)]('广告显示成功');})[qc(0x3c5)](bB=>{const qe=qc,qf=qb;if(qe(0x8c1)==='MzJZA')console[qf(0x89c)](qf(0x7a0),bB),this['onFailCallback']&&this[qe(0x739)](0x1,qf(0x65f));else{function bC(){const qg=qe,qh=qf;i[qg(0xf9)]=j[qg(0xa8f)]['basePath']+k[qh(0x480)],l[qh(0x341)]=!![],m['volume']=this[qh(0x43b)],n['play'](),this[qh(0x3a0)][qg(0x597)]({'key':o['clipName'],'audio':p,'type':'BGM','canplay':![]});}}}),this[qc(0x7bf)][qc(0x26a)](()=>{const qi=qb;console['log']('WeiXinH5GameAPI\x20RewardedVideo\x20load\x20success'),this[qi(0x1f0)]=!![];}),this[qc(0x7bf)]['onError'](bB=>{const qj=qb;console['log'](qj(0x3a7)+bB),this['m_videoAdIsLoaded']=![];}),this['m_videoAd']['onClose'](bB=>{const qk=qc,ql=qc;if(bB[qk(0x280)]){if(qk(0x874)!==qk(0x874)){function bC(){const qm=qk;b['inst']['debug'](qm(0x329));return;}}else console[ql(0x89c)](ql(0x2af)),this[ql(0x89a)]&&this[qk(0x89a)](),this['m_videoAdIsLoaded']=![];}else{if('NWTWb'==='NWTWb')console[ql(0x89c)](qk(0x65f)),this['onFailCallback']&&this['onFailCallback'](0x4,qk(0x65f));else{function bD(){const qn=ql,qo=qk;e[qn(0xaa3)](f,[g[qo(0x9c4)](h)]);}}}this[qk(0x3c6)]();});}console[qc(0x89c)](qc(0x92e));}}[c1(0x3c6)](){const qp=bW;this[qp(0x89a)]=null,this['onFailCallback']=null;}[bW(0x4d3)](bA,bB){const qq=bW,qr=c1;if(qq(0x422)===qr(0x691)){function bC(){const qs=qr,qt=qr;var bD={'IsFront':![],'LeftWheel':'','RightWheel':''};bD[qs(0x790)]=!![],bD[qt(0x304)]=bm,bD[qt(0x3d0)]=d,this[qs(0x7b3)][qs(0x597)](bD);}}else{if(this['wx']&&this['m_videoAd']){this[qq(0x89a)]=bA,this[qq(0x739)]=bB;if(this['m_videoAd']){if(this[qr(0x1f0)]){if(qr(0x259)!==qq(0x4fc))this[qq(0x7bf)]['show']();else{function bD(){const qu=qq,qv=qq;bm[qu(0x5ff)]['addCoins'](0x64),d[qv(0x67b)]()['addLevel']();}}}else{if(qr(0x8a8)===qq(0x20b)){function bE(){return bm[d];}}else this['m_videoAd'][qr(0x24b)]();}}else{if('FiBcZ'!==qr(0x24c))bB&&bB(0x1,'激励视频广告取消关闭，不发放奖励');else{function bF(){const qw=qq,qx=qq;this[qw(0x230)]-=0x3,this['currentP']<=0x0&&(this[qx(0x230)]=0x0),this[qx(0x435)][qx(0x7cf)][qw(0x204)](this[qx(0x230)],0.3);}}}}else bA&&bA();console[qr(0x89c)](qr(0x731));}}['createInsertAd'](){const qy=bW,qz=c1;if(qy(0x551)!==qz(0x551)){function bA(){const qA=qz;this[qA(0x4e2)](this['curretnType']);}}else{if(this['wx']&&z[qy(0x205)](this[qy(0x4f5)][qy(0x9bc)],qz(0x959))==0x1){if(qz(0x5d4)!==qy(0x5d4)){function bB(){bm&&d();}}else{let bC=this;this[qz(0x4a9)]=this['wx'][qy(0xa41)]({'adUnitId':w[qz(0x5ff)][qz(0x2fe)][qy(0x3f0)]});}}console['log'](qy(0x46f));}}[c1(0x3a2)](){const qB=c1,qC=bW;this[qB(0x4a9)]&&this[qB(0x4a9)][qB(0x92a)]()[qC(0x5c8)](()=>{const qD=qC,qE=qB;console[qD(0x89c)](qD(0x263));})[qC(0x3c5)](bA=>{const qF=qB,qG=qC;if(qF(0x522)===qF(0x167)){function bB(){const qH=qG,qI=qF;bm[qH(0x5ff)][qI(0x98a)](d[qI(0x421)]),this[qH(0x778)]();}}else console[qG(0x89c)](qF(0x46b),JSON[qF(0x921)](bA));}),console[qC(0x89c)](qB(0x1dd));}['createNativeAd'](){const qJ=bW,qK=bW;console[qJ(0x89c)](qJ(0xa8e));}[c1(0x457)](){const qL=bW,qM=bW;if(qL(0xa5b)!==qL(0x4ce))console['log'](qL(0x33a));else{function bA(){const qN=qM,qO=qL;var bB=0x1,bC=0x1,bD=bF[qN(0x87e)];bD&&(bB=bD[qO(0x9ea)]);var bE=bF[qN(0x87e)];bE&&(bC=bD[qO(0x9ea)]);var bF=(bB-bC)*this['AntiRollForce'];if(bD){var bG=new n['Vector3']();o[qO(0x587)]['scale'](this[qO(0x33b)](bF['LeftWheel']),-bF,bG);var bH=bF['LeftWheel']['transform']['position'][qN(0x5ef)]();p['Vector3'][qN(0x547)](bH,this[qN(0x9ec)]['position'],bH),this[qN(0x693)][qO(0x5b6)](bG,bH);}bE&&(bG=new q[(qN(0x587))](),r[qN(0x587)][qN(0x6b9)](this['GetTransformUp'](bF['RightWheel']),bF,bG),bH=bF[qN(0x3d0)][qN(0x9ec)][qO(0x63d)][qN(0x5ef)](),(s['Vector3'][qN(0x547)](bH,this[qO(0x9ec)][qN(0x63d)],bH),this[qO(0x693)]['applyForce'](bG,bH)));}}}[c1(0x98a)](bA){const qP=bW,qQ=c1;if(qP(0x75d)===qQ(0x31c)){function bB(){const qR=qQ,bC=this[qR(0x4f6)][bm];if(bC['key']==d)return bC;}}else console[qP(0x89c)](qP(0x408)+bA);}[c1(0xa3f)](bA,bB){const qS=c1,qT=c1;Laya[qS(0x918)][qS(0x2d0)](bA,JSON[qT(0x921)](bB));}[bW(0x992)](bA){const qU=bW,qV=c1;let bB=Laya[qU(0x918)]['getItem'](bA);if(bB){if(typeof bB==qV(0x75a))return JSON[qU(0x9c4)](Laya[qV(0x918)][qU(0x615)](bA));}return null;}[c1(0x938)](){}[c1(0x6d8)](){}[c1(0xa07)](){const qW=c1,qX=bW;if(qW(0x8aa)!=='pzItO'){if(this['wx']&&this[qX(0x338)]){if(qX(0x24a)!==qX(0x1db))this[qX(0x338)][qX(0x403)]();else{function bA(){const qY=qX,qZ=qW;d[qY(0x5ff)][qY(0x177)](e,f);}}}}else{function bB(){const r0=qX,r1=qX;let bC=new d();bC[r0(0x669)]=e,bC['clipName']=f,this[r1(0x580)][r0(0x597)](bC);}}}[c1(0x498)](){}[bW(0x912)](){const r2=c1,r3=bW;if(r2(0x35e)!==r3(0x35e)){function bA(){const r4=r2,r5=r2;this[r4(0xa3f)](d[r4(0x5ff)][r4(0x268)],null),e&&f(!![],'支付成功');}}else return null;}[c1(0x979)](){}[bW(0x7b7)](bA){}[bW(0x596)](bA,bB){}[bW(0x5c9)](){const r6=bW,r7=c1;if(r6(0x822)===r7(0x109)){function bA(){const r8=r6,r9=r6;d[r8(0x5ff)]['showToast'](r9(0x157)),e&&f(!![]);}}else return'';}[bW(0x64e)](){}[bW(0x322)](bA,bB){}['createNativeIconAd'](){}[bW(0x5e6)](bA){}[c1(0xa99)](bA){}[bW(0x59e)](){}[c1(0x113)](){return'';}[c1(0x1f7)](){}[c1(0x276)](){}}class a9{}class aa{}class ab{}ab[bW(0x94c)]=bW(0x773),ab[c1(0x3c4)]=c1(0x83f);class ac{static[bW(0x267)](){const ra=c1,rb=c1;var bA=new Date(),bB=bA[ra(0x220)](),bC=bA['getMonth']()+0x1,bD=bA[ra(0x39c)](),bE=bA[ra(0x6b7)](),bF=bA[ra(0x7d6)](),bG=bA['getSeconds'](),bH=bB+'年'+bC+'月'+bD+'日'+bE+'时'+bF+'分'+bG+'秒';return bH;}static[c1(0x5a3)](){const rc=c1,rd=c1;let bA=new Date(),bB=bA[rc(0x220)](),bC=bA[rd(0x5ce)]()+0x1,bD=bA[rd(0x39c)]();if(bC<0xa){}var bE=bB+'/'+(bC<0xa?'0'+bC:bC)+'/'+(bD<0xa?'0'+bD:bD);return bE;}}class ad{constructor(){const re=bW;this[re(0x882)]='';}static get['inst'](){const rf=bW,rg=c1;if('RcssV'!==rf(0x76a)){if(this[rg(0x8b7)]==null){if('uWGpK'===rg(0xfa))this[rf(0x8b7)]=new ad();else{function bA(){return;}}}return this[rg(0x8b7)];}else{function bB(){const rh=rf,ri=rg;this[rh(0x78a)]&&this[ri(0x78a)][ri(0x276)]();}}}get[bW(0x112)](){const rj=c1;return this['projectKey']+rj(0x7e4);}get['soundMuteDataKey'](){const rk=bW,rl=c1;return this[rk(0x882)]+rl(0x9e5);}get['shareVideoKey'](){const rm=c1;return this[rm(0x882)]+'_shareVideo';}get[c1(0x531)](){const rn=c1,ro=c1;return this[rn(0x882)]+rn(0x949);}get[c1(0x5b4)](){const rp=c1;return this[rp(0x882)]+'_colorSign';}get[bW(0x268)](){const rq=c1;return this[rq(0x882)]+'_payTempyRecord';}get[c1(0x470)](){const rr=bW;return this[rr(0x882)]+'_bannerRecord';}get['checkInRecordKey'](){const rs=bW,rx=c1;if('qhxPh'===rs(0x1c7)){function bA(){const rt=rs,ru=rs;f[rt(0x5ff)][rt(0x3be)](bB=>{const rv=rt,rw=rt;bB&&(o[rv(0x5ff)][rv(0x3ae)](0x32),p[rw(0x5ff)][rv(0x43d)]('添加桌面图标成功，获得50钻石'),q[rw(0x5ff)][rw(0x3c0)](r[rw(0x4bf)]));});}}else return this[rx(0x882)]+rs(0x5e2);}get[c1(0xaba)](){const ry=bW;return this[ry(0x882)]+'_coinResource';}get[bW(0x6eb)](){const rz=bW,rA=c1;return this[rz(0x882)]+rA(0x49a);}get['spinKey'](){const rB=c1;return this[rB(0x882)]+'_spin_';}get[c1(0x76f)](){const rC=c1;return this[rC(0x882)]+'_treasure';}get[c1(0x186)](){return this['projectKey']+'_guide';}[bW(0x779)](bA){const rD=c1,rE=bW;let bB=be[rD(0x5ff)][rE(0x40f)](this[rE(0x882)]+'_'+bA),bC=![];if(bB){if(rE(0x777)!==rD(0x287)){let bD=z[rE(0x80a)](ac[rD(0x5a3)](),bB['date']);if(bD>=0x1){if(rD(0x9d9)!==rD(0x4a1))be[rD(0x5ff)][rE(0x95c)](this['projectKey']+'_'+bA,{'date':ac['getTime']()});else{function bE(){const rF=rD,rG=rD;let bF=h[rF(0x80a)](i[rG(0x5a3)](),j[rF(0x1e7)]);bF>=0x1?o['inst'][rG(0x95c)](this[rG(0x882)]+'_'+p,{'date':q[rF(0x5a3)]()}):r=!![];}}}else bC=!![];}else{function bF(){const rH=rE,rI=rE;this[rH(0x131)](d[rI(0x406)],![]),this['setMap'](e['游戏格子'],![]),this[rI(0x131)](f[rH(0x920)],![]);}}}else{if(rE(0x556)!==rE(0x556)){function bG(){const rJ=rD,rK=rD;while((g===void 0x0||h-->0x0)&&!(i=j[rJ(0x1b2)]())[rK(0x714)])k[rJ(0x597)](l['value']);}}else be[rD(0x5ff)][rE(0x95c)](this[rE(0x882)]+'_'+bA,{'date':ac[rD(0x5a3)]()});}return bC;}[bW(0x25a)](){const rL=c1,rM=c1;let bA=0x1,bB=this['projectKey']+'_enterGame',bC=be[rL(0x5ff)][rM(0x40f)](bB);if(bC){if('SVQjn'===rM(0x3e9))bA=bC[rM(0xa2a)];else{function bD(){const rN=rL;b['inst'][rN(0x65b)]('头条ios版本不支持更多游戏');}}}else{if(rM(0x47d)===rM(0x47d))be[rL(0x5ff)][rL(0x95c)](bB,{'date':ac[rM(0x5a3)](),'count':0x1});else{function bE(){const rO=rL,rP=rM;if(e){let bF=0xc8;i[rO(0x5ff)][rP(0x3ae)](bF),this['removeAfter'](()=>{const rQ=rP;k['instance'][rQ(0x87b)]('gameUI');});}h['timer'][rP(0x341)](0x3e8,this,this[rO(0xa1c)]);}}}return bA;}[c1(0x38f)](){const rR=c1,rS=c1;let bA=this[rR(0x882)]+rR(0x8a2),bB=be[rR(0x5ff)][rS(0x40f)](bA);if(bB){let bC=bB[rS(0xa2a)];bC++,be['inst'][rR(0x95c)](bA,{'date':ac[rS(0x5a3)](),'count':bC});}else be[rR(0x5ff)][rR(0x95c)](bA,{'date':ac[rR(0x5a3)](),'count':0x1});}['setDayDailyShowSwitch'](){}}class ae extends fgui[c1(0x9be)]{static[c1(0x969)](){const rT=bW,rU=bW;return fgui[rT(0x649)][rT(0x6ff)](rT(0x893),rU(0x598));}[c1(0x175)](){const rV=bW,rW=bW;this[rV(0x820)]=this[rW(0x2e3)](0x0),this[rV(0x797)]=this[rV(0x2e3)](0x1),this['m_n11']=this[rW(0x2e3)](0x2),this[rV(0x3b6)]=this[rV(0x2e3)](0x3),this['m_TipLabel']=this['getChildAt'](0x4),this[rW(0x5e5)]=this['getChildAt'](0x5),this[rV(0xa05)]=this[rW(0x2e3)](0x6),this[rV(0x197)]=this[rV(0x2e3)](0x7),this[rV(0x27f)]=this[rV(0x2e3)](0x8);}}ae[c1(0xa8f)]=c1(0x2f9);class af extends fgui[c1(0xa5d)]{static['createInstance'](){const rX=bW,rY=bW;return fgui[rX(0x649)][rX(0x6ff)]('GameLoadingUI',rX(0x5dd));}[c1(0x175)](){const rZ=bW,s0=bW;this[rZ(0x9e2)]=this[rZ(0x2e3)](0x0),this[s0(0x9ab)]=this[rZ(0x2e3)](0x1);}}af[c1(0xa8f)]=bW(0x2e6);class ag{static[bW(0x824)](){const s1=c1,s2=bW;fgui['UIObjectFactory'][s1(0x3bf)](ae[s2(0xa8f)],ae),fgui[s2(0x5b8)][s2(0x3bf)](af[s2(0xa8f)],af);}}class ah extends fgui[c1(0x72c)]{static[bW(0x969)](){const s3=c1,s4=bW;if(s3(0x362)===s4(0x991)){function bA(){const s5=s4,s6=s4;bm[s5(0x5ff)][s6(0x294)](new d());}}else return fgui[s4(0x649)][s3(0x6ff)]('GameUI',s3(0x297));}['onConstruct'](){const s7=c1,s8=bW;if(s7(0x424)===s8(0x424))this[s7(0x562)]=this[s7(0x2e3)](0x0),this[s8(0x4b4)]=this['getChildAt'](0x1),this[s7(0x695)]=this[s7(0x2e3)](0x2),this['m_icon']=this['getChildAt'](0x3);else{function bA(){const s9=s8,sa=s8;this['platformAPI']&&this[s9(0x78a)][s9(0x2c3)](bm,d);}}}}ah[c1(0xa8f)]=c1(0x451);class ai extends fgui[c1(0x9be)]{static[bW(0x969)](){const sb=c1,sc=bW;return fgui[sb(0x649)][sb(0x6ff)]('GameUI',sb(0x8d1));}['onConstruct'](){const sd=bW,se=bW;if(sd(0x192)!==sd(0x192)){function bA(){const sf=sd,sg=se;let bB=this[sf(0x59a)][sf(0x4ae)][sf(0x3aa)](bC=>bC[sg(0x7b9)]==g);if(bB==null){let bC=new g();bC[sg(0x7b9)]=h,bC[sg(0x1f2)]=!![],this[sf(0x59a)][sg(0x4ae)][sg(0x597)](bC),this[sf(0x92d)]();}}}else this[se(0x838)]=this[sd(0x594)](0x0),this[sd(0x9e2)]=this[se(0x2e3)](0x0),this[sd(0x2ec)]=this[se(0x2e3)](0x1),this[sd(0x64c)]=this[se(0x2e3)](0x2),this[sd(0x708)]=this[se(0x2e3)](0x3),this[se(0x335)]=this['getChildAt'](0x4),this['m_FreeGetBtn']=this['getChildAt'](0x5),this[se(0x832)]=this[sd(0x2e3)](0x6),this[se(0x45d)]=this[sd(0x2e3)](0x7),this[sd(0xab7)]=this[se(0x2e3)](0x8),this[se(0x4ff)]=this['getChildAt'](0x9),this[se(0x2de)]=this[sd(0x2e3)](0xa),this[se(0x4d4)]=this[sd(0x2e3)](0xb),this[se(0x327)]=this[sd(0x2e3)](0xc),this[se(0x70b)]=this[se(0x2e3)](0xd);}}ai[bW(0xa8f)]=c1(0x4b9);class aj extends fgui[bW(0x2b1)]{static['createInstance'](){const sh=c1,si=c1;if(sh(0x7f8)!==si(0x7f8)){function bA(){const sj=sh,sk=sh;this[sj(0xab7)][sk(0x867)]['url']=this['images'][this['index']],this['index']++,this[sk(0x849)]>=this[sj(0x13c)][sk(0x31f)]-0x1&&(this[sk(0x849)]=0x0);}}else return fgui[si(0x649)][si(0x6ff)](sh(0x845),'CarShopList');}[bW(0x175)](){const sl=bW,sm=c1;this['m_state']=this[sl(0x594)](0x0),this[sm(0x271)]=this[sl(0x594)](0x1),this['m_n7']=this[sl(0x2e3)](0x0),this[sl(0x867)]=this['getChildAt'](0x1),this['m_n10']=this['getChildAt'](0x2),this[sl(0x325)]=this[sl(0x2e3)](0x3),this[sm(0x834)]=this[sm(0x2e3)](0x4),this[sl(0x91e)]=this[sm(0x2e3)](0x5),this['m_n15']=this['getChildAt'](0x6),this[sm(0x77c)]=this[sm(0x2e3)](0x7),this[sm(0x283)]=this[sm(0x2e3)](0x8),this[sl(0x656)]=this[sl(0x2e3)](0x9);}}aj[c1(0xa8f)]=bW(0x6ea);class ak extends fgui[bW(0x9be)]{static['createInstance'](){const sn=bW,so=c1;return fgui['UIPackage'][sn(0x6ff)](sn(0x845),sn(0x5fd));}[bW(0x175)](){const sp=c1,sq=c1;this[sp(0x3c2)]=this[sp(0x594)](0x0),this[sq(0x9c5)]=this[sq(0x2e3)](0x0),this['m_n2']=this[sp(0x2e3)](0x1),this[sq(0x54a)]=this[sq(0x2e3)](0x2),this[sq(0x807)]=this[sq(0x2e3)](0x3),this[sp(0x982)]=this[sq(0x2e3)](0x4),this[sp(0x2ec)]=this[sq(0x2e3)](0x5),this['m_ShopBtn']=this[sp(0x2e3)](0x6),this[sq(0x1ea)]=this['getChildAt'](0x7),this['m_n12']=this['getChildAt'](0x8),this[sq(0x834)]=this[sp(0x2e3)](0x9),this[sp(0x6c3)]=this[sp(0x2e3)](0xa),this['m_n15']=this[sp(0x2e3)](0xb),this['m_t0']=this[sp(0x228)](0x0);}}ak[bW(0xa8f)]=c1(0x36c);class al extends fgui[c1(0x2b1)]{static[c1(0x969)](){const sr=c1,ss=bW;return fgui[sr(0x649)]['createObject']('GameUI',sr(0x5e4));}[c1(0x175)](){const st=c1,su=c1;if(st(0x1ec)!=='SiHUC'){function bA(){bm&&d();}}else this[su(0x656)]=this[su(0x2e3)](0x0),this['m_title']=this['getChildAt'](0x1);}}al[c1(0xa8f)]='ui://0lagqdfms28528';class am extends fgui['GButton']{static[c1(0x969)](){const sv=bW,sw=c1;return fgui['UIPackage']['createObject'](sv(0x845),sv(0x232));}[c1(0x175)](){const sx=bW,sy=bW;if(sx(0x8e1)===sx(0x8e1))this[sy(0x7d1)]=this['getControllerAt'](0x0),this[sy(0x6f1)]=this['getChildAt'](0x0),this[sy(0x543)]=this['getChildAt'](0x1),this['m_imageTitle']=this['getChildAt'](0x2);else{function bA(){const sz=sy,sA=sx;this[sz(0x161)]=f['loader'][sA(0x479)](g[sA(0x5ff)][sz(0x69b)]),this['platforms']=this['data'][sA(0xaa8)],this['currentPlatform']=this['platforms'][h],i['inst'][sA(0x65b)](sA(0x1be)+j[sz(0x921)](this['currentPlatform']));}}}}am['URL']='ui://0lagqdfms28529';class an extends fgui['GComponent']{static[c1(0x969)](){const sB=c1,sC=bW;return fgui[sB(0x649)][sC(0x6ff)](sC(0x845),'ResultView');}['onConstruct'](){const sD=bW,sE=bW;if('lFGVU'===sD(0xa71)){function bA(){bm&&d(!![]);}}else this['m_State']=this[sE(0x594)](0x0),this['m_adState']=this[sE(0x594)](0x1),this[sE(0x820)]=this['getChildAt'](0x0),this[sE(0x1f8)]=this[sD(0x2e3)](0x1),this[sD(0x340)]=this[sD(0x2e3)](0x2),this[sD(0x1ea)]=this[sE(0x2e3)](0x3),this['m_n9']=this['getChildAt'](0x4),this[sD(0x76e)]=this[sE(0x2e3)](0x5),this[sD(0x327)]=this[sD(0x2e3)](0x6),this['m_CoinLabel']=this[sD(0x2e3)](0x7),this[sD(0x3b6)]=this[sE(0x2e3)](0x8),this[sE(0x880)]=this['getChildAt'](0x9),this['m_FreeGetCoinBtn']=this[sE(0x2e3)](0xa),this[sE(0x687)]=this[sE(0x2e3)](0xb),this[sE(0x834)]=this[sE(0x2e3)](0xc),this[sE(0x8bc)]=this[sD(0x2e3)](0xd),this['m_n16']=this[sE(0x2e3)](0xe),this['m_CountTimeLabel']=this[sD(0x2e3)](0xf),this['m_n14']=this[sD(0x2e3)](0x10),this[sE(0x821)]=this[sD(0x2e3)](0x11),this[sE(0x814)]=this[sE(0x2e3)](0x12),this[sE(0x189)]=this['getChildAt'](0x13),this[sE(0xa27)]=this['getChildAt'](0x14);}}an[c1(0xa8f)]='ui://0lagqdfmsocn5';class ao extends fgui[bW(0x2b1)]{static['createInstance'](){const sF=c1,sG=c1;return fgui[sF(0x649)][sF(0x6ff)](sG(0x845),sG(0x440));}[bW(0x175)](){const sH=c1,sI=bW;if(sH(0x4e6)===sI(0x9a0)){function bA(){return b;}}else this['m_isRedPoint']=this[sI(0x594)](0x0),this[sI(0x867)]=this[sH(0x2e3)](0x0),this['m_title']=this['getChildAt'](0x1),this[sH(0x70e)]=this[sH(0x2e3)](0x2);}}ao[c1(0xa8f)]=bW(0x9c0);class ap{static[c1(0x824)](){const sJ=c1,sK=c1;fgui[sJ(0x5b8)][sK(0x3bf)](ah['URL'],ah),fgui[sK(0x5b8)][sJ(0x3bf)](ai['URL'],ai),fgui['UIObjectFactory'][sK(0x3bf)](aj[sK(0xa8f)],aj),fgui[sK(0x5b8)][sJ(0x3bf)](ak['URL'],ak),fgui[sJ(0x5b8)]['setExtension'](al[sJ(0xa8f)],al),fgui[sK(0x5b8)][sJ(0x3bf)](am[sJ(0xa8f)],am),fgui[sJ(0x5b8)][sK(0x3bf)](an['URL'],an),fgui['UIObjectFactory'][sJ(0x3bf)](ao[sJ(0xa8f)],ao);}}class aq extends F{get[c1(0xa8f)](){const sL=bW,sM=c1;if(sL(0x4d9)===sL(0x14c)){function bA(){var bB=g(h[i]),bC=j(k[l]);if(bB>bC)return 0x1;else{if(bB<bC)return-0x1;}}}else return ae[sM(0xa8f)];}['init'](){const sN=c1,sO=bW;if(sN(0x9da)==='zGKQd'){function bA(){let bB=this['platformAPI'];bB&&bB['hideMoreGameButton']();}}else super[sN(0x1e0)](),this['bind']();}[bW(0x6d4)](){const sP=bW,sQ=bW;x[sP(0x5ff)][sP(0x79e)](ab[sP(0x3c4)],this,this[sQ(0xa19)]);}[bW(0xa19)](bA){const sR=bW,sS=c1;this['view'][sR(0x5e5)][sR(0x204)](Math[sR(0x30e)](bA),0.35);}}class ar extends fgui[c1(0x2b1)]{static[bW(0x969)](){const sT=bW,sU=c1;return fgui[sT(0x649)][sT(0x6ff)](sU(0x563),sT(0x314));}[c1(0x175)](){const sV=bW,sW=bW;if(sV(0x4bd)===sW(0x4bd))this[sV(0x584)]=this[sV(0x594)](0x0),this['m_videoStatus']=this['getControllerAt'](0x1),this[sW(0x994)]=this[sW(0x2e3)](0x0),this['m_n98']=this[sV(0x2e3)](0x1),this[sV(0x867)]=this[sV(0x2e3)](0x2),this[sW(0x748)]=this['getChildAt'](0x3);else{function bA(){const sX=sV,sY=sW;var bB=i(bB['pop']()||0x0)+j(k[sX(0x387)]()||0x0)+l;m=bB%0xa+n,o=p[sY(0x7e1)](bB/0xa);}}}}ar[bW(0xa8f)]=c1(0x559);class as extends fgui[bW(0x9be)]{static[bW(0x969)](){const sZ=bW,t0=bW;return fgui[sZ(0x649)][t0(0x6ff)]('GameCommandUI','MessageBoxView');}[bW(0x175)](){const t1=bW,t2=c1;this[t1(0x8fe)]=this[t1(0x2e3)](0x0),this[t2(0x179)]=this[t1(0x2e3)](0x1),this[t2(0x4d7)]=this[t1(0x2e3)](0x2),this[t1(0x226)]=this[t2(0x2e3)](0x3),this[t1(0x4fe)]=this[t1(0x2e3)](0x4),this[t2(0x54e)]=this['getChildAt'](0x5),this[t1(0x769)]=this[t1(0x2e3)](0x6),this[t2(0x4fd)]=this['getChildAt'](0x7),this[t2(0x633)]=this[t1(0x228)](0x0);}}as[c1(0xa8f)]=c1(0x35d);class at extends fgui[bW(0x9be)]{static[c1(0x969)](){const t3=bW,t4=bW;return fgui['UIPackage'][t3(0x6ff)](t3(0x563),t3(0x145));}[c1(0x175)](){const t5=c1,t6=bW;this[t5(0x9e2)]=this[t6(0x2e3)](0x0),this[t6(0x214)]=this[t5(0x2e3)](0x1),this[t5(0xab7)]=this[t6(0x2e3)](0x2),this[t5(0x97c)]=this[t5(0x2e3)](0x3),this[t5(0x911)]=this[t5(0x2e3)](0x4),this[t6(0x4fd)]=this[t5(0x2e3)](0x5),this[t6(0x633)]=this[t6(0x228)](0x0);}}at[bW(0xa8f)]='ui://9kynrs2zs24q4g';class au extends fgui[bW(0x2b1)]{static['createInstance'](){const t7=bW,t8=bW;return fgui[t7(0x649)][t7(0x6ff)](t8(0x563),t7(0x388));}[bW(0x175)](){const t9=bW,ta=c1;this[t9(0x867)]=this[t9(0x2e3)](0x0),this[t9(0x4b4)]=this[ta(0x2e3)](0x1);}}au[bW(0xa8f)]=bW(0x7dc);class av{static['bindAll'](){const tc=bW,td=bW;if('ZVKnF'==='liIsy'){function bA(){const tb=a0b;this[tb(0xa3b)]=!![];}}else fgui[tc(0x5b8)][td(0x3bf)](ar[td(0xa8f)],ar),fgui[td(0x5b8)][tc(0x3bf)](as[tc(0xa8f)],as),fgui[tc(0x5b8)][tc(0x3bf)](A[td(0xa8f)],A),fgui[tc(0x5b8)]['setExtension'](at[td(0xa8f)],at),fgui[td(0x5b8)][tc(0x3bf)](au['URL'],au),fgui[td(0x5b8)][tc(0x3bf)](I[td(0xa8f)],I);}}class aw{constructor(){const te=bW,tf=bW;this['hashData']=[],this[te(0x49e)]='',this[tf(0x7a1)]=[],this[tf(0x1cd)]=[];}static get['inst'](){const tg=bW,th=c1;if(this[tg(0x8b7)]==null){if(th(0x342)===tg(0x342))this[tg(0x8b7)]=new aw();else{function bA(){const ti=tg,tj=th;this['qg'][ti(0x3a5)]({'srcUri':h,'dstUri':this[ti(0x80b)](),'success':function(bB){const tk=tj;o[tk(0x89c)]('handling\x20success:\x20'+bB),p&&q(!![]);},'fail':function(bB,bC){const tl=tj,tm=tj;o[tl(0x89c)](tl(0x84c)+bC),p&&q(![]);}});}}}return this[th(0x8b7)];}get[bW(0x37f)](){const tn=bW;return tn(0x84d);}['readHashFile'](){return j(this,void 0x0,void 0x0,function*(){return new Promise((bA,bB)=>{const to=a0b,tp=a0b;let bC=aV['inst'][to(0x80b)]()+tp(0x12f);Laya['loader'][tp(0x24b)](bC,Laya['Handler'][tp(0x3e6)](this,bD=>{const tq=to,tr=to;if(tq(0x4f9)===tr(0x4f9)){if(bD){if(tr(0x5c7)!=='ZkkoY')this[tr(0x786)]=Laya[tq(0x458)][tr(0x479)](bC),bA(JSON['stringify'](this[tr(0x786)]));else{function bE(){const ts=tr,tt=tr;this[ts(0x78a)]&&this[tt(0x78a)][ts(0x4f7)]();}}}else aV[tr(0x5ff)]['writeFileSync']('downloadHash.json',JSON['stringify']([])),bA('[]');}else{function bF(){const tu=tr,tv=tq;b[tu(0x5ff)]['debug'](tv(0x329));return;}}}));});});}[c1(0x20f)](bA,bB){const tw=bW,tx=c1;this[tw(0x49e)]=bA,this[tx(0x7a1)]=bB;}[c1(0x65c)](bA){const ty=c1;this[ty(0x1cd)]=bA;}[c1(0x9d5)](){const tz=c1,tA=c1;if(tz(0x1a4)!==tA(0x4b6))return j(this,void 0x0,void 0x0,function*(){const tB=tz,tC=tA;if(tB(0x8a1)===tB(0x526)){function bA(){return-0x1;}}else{console[tB(0x89c)](tC(0x90d));if(be[tB(0x5ff)]['useZipAssets']){if(tC(0x5cf)!==tB(0x5cf)){function bB(){d({'value':e,'done':f});}}else{let bC=aA[tC(0x5ff)][tB(0x2d5)](this[tB(0xa6e)][tC(0x9c1)]),bD=0x64/bC[tC(0x31f)];for(let bE=0x0;bE<bC[tC(0x31f)];bE++){const bF=bC[bE];x[tB(0x5ff)][tB(0x3c0)](ab[tB(0x3c4)],(bE+0x1)*bD),yield this[tB(0x5a7)](bF[tC(0x5ac)]);}if(aV[tC(0x5ff)][tC(0x102)]==aU[tC(0x6a4)]||aV[tB(0x5ff)][tC(0x102)]==aU[tC(0x4a3)]||aV[tC(0x5ff)][tB(0x102)]==aU[tB(0x896)]){if(tB(0x45b)!==tB(0x45b)){function bG(){const tD=tC,tE=tB;this['canLoadInsertAd']=![],d[tD(0x801)][tE(0x8dd)](this,this[tE(0x84a)]),e[tE(0x801)][tE(0x8ba)](this[tE(0x694)],this,this[tD(0x84a)]),f[tD(0x5ff)][tE(0x65b)](tD(0x4a2)+this[tE(0x694)]+'秒');}}else Laya['URL'][tC(0x56b)]=aV['inst'][tB(0x80b)]();}yield this['loadUI'](),yield this[tC(0x2fc)](),console[tB(0x89c)](tB(0x697));}}else yield this[tC(0xa56)](),yield this[tC(0x2fc)](),console['log'](tB(0x697));}});else{function bA(){const tF=tz,tG=tA;f[tF(0x5ff)][tF(0x3c0)](g[tF(0x6a2)]),h[tF(0x5ff)]['SendEvent'](i[tF(0x7ed)]),j['inst'][tF(0x65b)](tF(0x1ab));return;}}}['getZipURL'](bA){const tH=bW,tI=bW;for(let bB=0x0;bB<this[tH(0xa6e)]['fileList']['length'];bB++){const bC=this[tI(0xa6e)][tH(0x6b8)][bB];if(bC[tI(0x62f)]==bA)return bC[tH(0x5ac)];}return'';}[bW(0x1e2)](bA){const tJ=c1,tK=c1;for(let bB=0x0;bB<this[tJ(0xa6e)]['fileList']['length'];bB++){if(tJ(0x957)===tJ(0x723)){function bC(){const tL=tJ,tM=tK;e[tL(0x5ff)][tL(0x101)](f[tM(0x4bf)],this,this['onShortCutInstallEvent']),this[tL(0x5d1)](g[tM(0x2fb)][tL(0xa1b)],this,this[tL(0x85f)]),this[tM(0x5d1)](h['Event']['UNDISPLAY'],this,this[tL(0x9f4)]);}}else{const bD=this[tJ(0xa6e)]['fileList'][bB];if(bD[tJ(0x62f)]==bA){if('SgDTc'!==tJ(0x618))return bD;else{function bE(){const tN=tJ,tO=tJ;bD[tN(0x5ff)][tO(0x3c0)](e[tO(0x3c4)],0x32+f*0x32);}}}}}return null;}[bW(0xa56)](){return j(this,void 0x0,void 0x0,function*(){return new Promise((bA,bB)=>{const tP=a0b,tQ=a0b;Laya['loader'][tP(0x24b)](this[tP(0x7a1)],Laya[tP(0x432)][tP(0x3e6)](this,bC=>j(this,void 0x0,void 0x0,function*(){const tR=tQ,tS=tP;if(bC){if(tR(0x237)!==tS(0x237)){function bD(){const tT=tR;return this[tT(0x882)]+'_coinResource';}}else console['log'](tR(0xa74)),fairygui['UIPackage'][tS(0x257)](this[tR(0x49e)]),ap[tS(0x824)](),fairygui[tS(0x649)][tR(0x257)](tS(0x795)),av['bindAll'](),bA(!![]);}else{if(tS(0x7a5)===tR(0x9ac)){function bE(){const tU=tS,tV=tS;this[tU(0x6a5)]--,d[tV(0x67b)]()['removeCargo'](e[tV(0x926)][tU(0x12a)]),f[tV(0x801)][tU(0x8ba)](0x1f4,this,this[tU(0x796)]);}}else console[tS(0x89c)]('加载UI资源失败,重试'),yield this['loadUI']();}})),Laya[tQ(0x432)][tP(0x3e6)](this,bC=>{},null,![]));});});}[bW(0x2fc)](){const tW=c1,tX=bW;if(tW(0x7ab)===tX(0x7ab))return j(this,void 0x0,void 0x0,function*(){const tY=tW,tZ=tX;if(tY(0x9ad)!==tY(0x9ad)){function bA(){const u0=tZ;bm=d[u0(0x541)][0x0];}}else return new Promise((bB,bC)=>{const u1=tZ,u2=tZ;if(this[u1(0x1cd)]['length']==0x0){if(u2(0x12b)!=='SxjdM'){function bD(){this['createRewardedVideoAd']();}}else x[u2(0x5ff)][u1(0x3c0)](ab[u1(0x3c4)],0x64),bB(!![]);}else Laya[u1(0x458)]['create'](this['gameModelURLS'],Laya[u2(0x432)][u1(0x3e6)](this,bE=>j(this,void 0x0,void 0x0,function*(){const u3=u2,u4=u2;if(bE)console[u3(0x89c)](u3(0x330)),bB(!![]);else{if('yEEFk'!=='ZTaIH')console[u4(0x89c)](u4(0x8f8));else{function bF(){const u5=u4,u6=u3;b[u5(0x801)][u5(0x341)](0xbb8,this,this['onJumpPage']);}}}})),Laya[u2(0x432)][u2(0x3e6)](this,bE=>{const u7=u1,u8=u2;x[u7(0x5ff)]['SendEvent'](ab[u8(0x3c4)],0x32+bE*0x32);},null,![]));});});else{function bA(){const u9=tW;this[u9(0x8b7)]=new b();}}}[c1(0x258)](){const ua=bW;if(ua(0x8da)!=='SNEyI')return j(this,void 0x0,void 0x0,function*(){return new Promise((bA,bB)=>{const ub=a0b,uc=a0b;be[ub(0x5ff)]['debug'](uc(0xa5a)),fgui[ub(0x7d8)][uc(0x3ff)]=ub(0x7f2);let bC=[];bC[ub(0x597)]({'url':ub(0x7a9),'type':Laya[uc(0x839)]['IMAGE']}),bC['push']({'url':uc(0x1bb),'type':Laya[ub(0x839)][uc(0xa33)]}),bC[ub(0x597)]({'url':ub(0x505),'type':Laya['Loader'][ub(0x8dc)]}),Laya[uc(0x458)][ub(0x24b)](bC,Laya['Handler'][ub(0x3e6)](this,bD=>{const ud=ub,ue=ub;if(bD){if(ud(0x471)!=='uemxY')be[ud(0x5ff)]['debug'](ue(0x94f)),fairygui[ud(0x649)][ud(0x257)](ud(0x467)),ag[ud(0x824)](),J[ue(0x5ff)][ud(0x294)](new aq()),bA(!![]);else{function bE(){const uf=ud,ug=ue;bm[uf(0x5ff)][ug(0x3c0)](d['ON_UPDATE_USERINFO_EVENT']);}}}else be[ue(0x5ff)]['debug'](ud(0x976)),bA(![]);}));});});else{function bA(){const uh=ua,ui=ua;this[uh(0x270)][ui(0x17c)][uh(0xa3b)]=!![],this[ui(0x270)][ui(0x17c)][uh(0x8f4)]=0x0,f[ui(0x524)]['to'](this['loadingView']['View'],{'alpha':0x1},0x1f4,g[ui(0x60c)][ui(0x14f)],h['Handler'][uh(0x3e6)](this,()=>{k&&l();}));}}}[c1(0x368)](bA,bB){const uj=bW,uk=bW;if(this[uj(0x1cd)][uj(0x7a2)](bA)!=-0x1){if('VUfbQ'!==uk(0x80f)){function bC(){const ul=uk,um=uj;this['wx']?(this[ul(0x74b)]=o[ul(0xa28)](),this['onShareCallback']=p,this['wx'][um(0x194)]({'title':um(0x8ce),'desc':'一起来勇闯世界遗迹吧','imageUrl':q[um(0x5ff)][um(0x2fe)]['shareImage'],'imageUrlId':r[ul(0x5ff)][um(0x2fe)][ul(0x37d)],'query':''})):s&&t(!![]),n[ul(0x89c)]('WeiXinH5GameAPI\x20onShare');}}else bB[uj(0x8c4)](Laya['loader'][uj(0x479)](bA));}else Laya[uk(0x458)][uj(0x3e6)](bA,Laya[uj(0x432)][uj(0x3e6)](this,()=>{const un=uj,uo=uj;if(un(0x4f3)===uo(0x1a0)){function bD(){const up=un;this['tt'][up(0x643)]();}}else this[uo(0x1cd)][uo(0x597)](bA),bB[un(0x8c4)](Laya[un(0x458)]['getRes'](bA));}));}[c1(0xa82)](bA){const uq=bW,ur=bW;let bB=fairygui[uq(0x649)][uq(0x7f4)](uq(0x845),bA);return bB;}[c1(0x866)](bA){const us=c1,ut=c1;let bB=bA[us(0x3c9)]('/'),bC=bB[bB[us(0x31f)]-0x1][ut(0x3c9)]('.')[0x0],bD=us(0x1c1)+bC+ut(0x218);return bD;}[bW(0x582)](bA){const uu=bW,uv=c1;if(uu(0x316)===uv(0x155)){function bB(){const uw=uv,ux=uu;this[uw(0x686)]=e[uw(0x3db)],this[uw(0xa96)]=f['loader']['getRes'](this[uw(0x3ec)]);var bC=g[ux(0xa50)]();this[ux(0x292)][uw(0x9fd)]=!![],this[ux(0x292)][ux(0x1e6)]=0xf,this['gameScene'][ux(0x52a)]=0xc8,this[ux(0x292)]['fogColor']=bC['p'],this[ux(0x292)][ux(0x715)]('roadLong')[ux(0x715)]('road')[ux(0x879)][uw(0x892)][uw(0x18e)]=bC['r'],this[ux(0x292)][uw(0x715)]('Plane')[uw(0x879)][uw(0x892)]['albedoColor']=bC['p'];var bD=this[uw(0x292)][uw(0x715)](ux(0x71d));bD[uw(0x715)](ux(0x64d))[uw(0x642)]=bC['p'],this[uw(0x64b)]=bD[ux(0x730)](h),this[ux(0x409)](),this['initRoads'](),this[ux(0x1a6)](this[ux(0x198)]);}}else{let bC=bA['split']('/'),bD=bC[bC[uu(0x31f)]-0x1]['split']('.')[0x0],bE=uu(0x1c1)+bD+uv(0x7ff);return bE;}}['clearResAll'](bA,bB){const uy=bW,uz=bW;let bC=bA[uy(0x3c9)]('.')[0x0]+uz(0xa45);console['log']('清理lh文件所有显存:',bC);let bD=[];bD[uz(0x597)]({'url':bC,'type':Laya[uy(0x839)][uy(0x8dc)]}),Laya['loader'][uz(0x24b)](bD,Laya[uz(0x432)][uz(0x3e6)](this,bE=>{const uA=uz,uD=uz;if(bE){if(uA(0x149)!=='oPgER'){function bF(){const uB=uA,uC=uA;var bG=b[uB(0x39b)](0x3);bG[uB(0x48a)](bG),bG[uB(0x8f6)]();}}else{let bG=Laya[uA(0x458)][uA(0x479)](bC),bH=bG['assets'];for(let bI=0x0;bI<bH[uD(0x31f)];bI++){const bJ=Laya[uA(0xa8f)]['basePath']+bH[bI];for(const bK in Laya[uA(0x839)][uA(0x376)]){let bL=Laya[uA(0x839)]['loadedMap'][bK];if(bL[uA(0x5ac)]&&bL[uD(0x5ac)][uD(0x7a2)](bJ)!=-0x1){if(uD(0x481)!==uD(0x481)){function bM(){const uE=uD,uF=uA;b['inst'][uE(0x43d)](uF(0x53e));}}else{if(bL instanceof Laya['Texture2D'])bL[uA(0x403)]();else bL instanceof Laya[uD(0x506)]&&bL[uA(0x403)]();Laya[uA(0x839)][uA(0x812)](bL[uA(0x5ac)]);}}}}bB&&bB[uA(0x2c8)]();}}}));}[c1(0x70c)](bA){const uG=bW,uH=bW;let bB=bA['split']('/'),bC=bB[bB[uG(0x31f)]-0x1][uH(0x3c9)]('.')[0x0],bD=this[uH(0x9cc)](bC);return bD;}[c1(0x5a7)](bA){const uI=bW,uJ=c1;if(uI(0x358)===uI(0x358))return j(this,void 0x0,void 0x0,function*(){return new Promise((bB,bC)=>j(this,void 0x0,void 0x0,function*(){const uK=a0b,uL=a0b;if(aV[uK(0x5ff)][uK(0x102)]==aU['weixin_h5']||aV[uL(0x5ff)][uK(0x102)]==aU[uK(0x4a3)]||aV[uK(0x5ff)][uL(0x102)]==aU[uL(0x896)]){let bD=!![];if(this['hashData']&&this[uL(0x786)][uL(0x31f)]>0x0)for(let bE=0x0;bE<this[uL(0x786)][uK(0x31f)];bE++){const bF=this['hashData'][bE];bA==bF&&(console['log'](bA,uK(0x628)),bB(!![]),bD=![]);}if(bD){if('LLHnb'!==uK(0xa48))aV['inst']['downloadFile'](bA,(bG,bH)=>{const uM=uK,uN=uK;if(uM(0x1a7)===uM(0x326)){function bI(){const uO=uN,uP=uM;this[uO(0x3fc)]==![]&&(e[uP(0x5ff)][uP(0x324)](0x1),f['inst'][uO(0x19f)]());}}else{if(bG){if(uM(0x8f9)!=='sGVOO'){function bJ(){n[o]=p[q]?function(bK){const uQ=a0b;return(A=!B)?{'value':C(D[E](bK)),'done':F===uQ(0x8f3)}:G?H(bK):bK;}:z;}}else{let bK=bH['tempFilePath'];console[uN(0x89c)](uM(0x3d8),bK),aV[uN(0x5ff)][uM(0x2c3)](bK,bL=>{const uR=uM,uU=uN;if('zWTqg'===uR(0x5f8)){function bM(){const uS=uR,uT=uR;b[uS(0x89c)](uT(0x3ca));}}else{if(bL)console['log'](uU(0x3ce)),this[uU(0x786)][uR(0x597)](bA),aV['inst']['writeFileSync']('downloadHash.json',JSON[uU(0x921)](this[uU(0x786)])),bB(!![]);else{if('eScXi'!==uU(0x7db))console[uR(0xa5f)](uU(0x9a7)),bB(![]);else{function bN(){const uV=uR,uW=uU;d['inst'][uV(0x65b)](uV(0x2af)),e[uW(0x5ff)][uV(0x34c)]&&f[uW(0x5ff)]['onVideoAdSuccessCallback']();}}}}});}}else{if(uM(0x46e)!==uM(0x46e)){function bL(){const uX=uM,uY=uM;return this[uX(0x8b7)]==null&&(this[uY(0x8b7)]=new bm()),this[uY(0x8b7)];}}else console[uN(0xa5f)](uN(0x399)),bB(![]);}}});else{function bG(){const uZ=uK,v0=uL;f[uZ(0x5ff)][v0(0x79e)](g[uZ(0x94c)],this,this[uZ(0x936)]),this[uZ(0x435)][v0(0x807)][v0(0x215)]['on'](h['Event'][v0(0x819)],this,this[v0(0x2b6)]),this['view'][v0(0x807)][uZ(0x215)]['on'](i[v0(0x2fb)][v0(0x98d)],this,this[v0(0x7e2)]),j['instance']['on'](v0(0xa68),this,this['showPage']),this[uZ(0x435)][v0(0x3e7)][uZ(0x907)](this,this[v0(0x1d6)]),this[v0(0x936)]();}}}}else bB(!![]);}));});else{function bB(){const v1=uJ;bm[v1(0x461)]=d;}}}[bW(0x433)](bA){return j(this,void 0x0,void 0x0,function*(){const v2=a0b,v3=a0b;if(v2(0x490)!==v3(0x490)){function bB(){const v4=v2,v5=v3;this[v4(0x17c)][v5(0x50d)](bm[v4(0x906)]['x'],d['value']['x']);}}else return new Promise((bC,bD)=>{const v6=v3,v9=v3;if('pQccG'===v6(0x903)){function bE(){const v7=v6,v8=v6;let bF=f[v7(0x5ff)][v7(0x213)]()[this[v8(0x708)][v7(0x6dd)]];g['log'](v7(0x8c9),bF[v8(0x6db)]);let bG=this[v8(0x161)];h[v8(0x89c)](v8(0x11e),bG),bG?k[v7(0x5ff)][v7(0x177)](bG,bF):l['inst'][v7(0x177)]('SDKICONBanner点击',bF);}}else Laya[v9(0x458)][v6(0x24b)](bA,Laya['Handler']['create'](this,bF=>{const va=v9;if(bF)bC(!![]);else{if(va(0x647)==='yXjOa'){function bG(){const vb=va,vc=va;if(f[vb(0x5ff)][vb(0x2fe)]['canAd']==![]){k[vc(0x5ff)][vb(0x65b)](vc(0x329));return;}this['qg']&&(this[vb(0x338)]&&(this[vb(0x338)][vc(0xa87)](),this[vb(0x8d9)]=0xaa,this['m_isBannerShow']=![],o[vc(0x5ff)][vc(0x3c0)](p[vc(0x805)])),n['inst'][vb(0x65b)]('OPPOH5GameAPI.onHideBanner\x20隐藏Banner广告'));}}else bD(![]);}}));});});}}class ax{}class ay{}class az{}class aA{constructor(){const vd=c1,vf=bW;if('wenqT'===vd(0x29d)){function bA(){const ve=vd;this['tt'][ve(0x43d)]({'title':'即将有更新请留意'});}}else this[vd(0x7e4)]=new a9(),this[vd(0x318)]=[];}static get[c1(0x5ff)](){const vg=bW,vh=bW;if(this[vg(0x8b7)]==null){if(vg(0xa31)==='KWsrC')this[vg(0x8b7)]=new aA();else{function bA(){const vi=vg,vj=vh;g['icon']=this[vi(0x86f)][h][vj(0x55e)],i[vj(0x79c)]=this[vi(0x86f)][j][vi(0x842)],k[vj(0x161)]=this[vi(0x86f)][l];}}}return this['_inst'];}get['user'](){const vk=bW;return this[vk(0x7e4)];}[bW(0x1e0)](){}[bW(0x61a)](){const vl=bW,vm=c1;let bA=Laya[vl(0x458)][vm(0x479)](aw[vm(0x5ff)][vl(0x37f)]);this[vl(0x318)]=bA[vl(0x185)],this[vm(0x24b)](),this[vm(0x52c)](),console[vm(0x89c)](vm(0x764),this[vl(0x7e4)]);}[c1(0x1b3)](){const vn=bW,vo=bW;if(vn(0x550)!==vn(0x635)){let bA=new a9();bA[vo(0x94a)]=new aa(),bA['userInfo'][vo(0x459)]='ym_'+z[vo(0x9e3)](),bA['userInfo'][vn(0x803)]=z[vn(0x9e3)](),bA[vn(0x7c8)]=0x0,bA[vo(0x8b3)]=0x0,bA['score']=0x0,bA['currentStage']=0x0,bA[vn(0x429)]='1',bA['carBags']=new Array();let bB=new ax();return bB[vo(0x7b9)]='1',bB['isUnlock']=!![],bA[vn(0x4ae)][vn(0x597)](bB),bA['stageBags']=new Array(),bA;}else{function bC(){const vp=vo,vq=vo;for(let bD=0x0;bD<this[vp(0x2fe)][vq(0x6df)][vp(0x31f)];bD++){let bE=this[vp(0x2fe)]['videoAdList'][bD];if(bE[vp(0x62f)]==e)return bE;}return null;}}}[c1(0x5be)](){const vr=c1,vs=c1;if(vr(0x788)===vr(0x788))Laya['LocalStorage'][vs(0x8dd)](),this[vs(0x7e4)]=this[vr(0x1b3)](),this['save']();else{function bA(){const vt=vs,vu=vr;var bB=new d['Vector3']();return e[vt(0x587)][vt(0x599)](this[vu(0x180)][vt(0x9ec)][vu(0x63d)],new f[(vu(0x587))](0x0,0x0,0x1f4),bB),bB;}}}[c1(0x269)](){const vv=bW,vw=c1;if(vv(0x15e)===vv(0x15e))Laya[vv(0x918)]['clear'](),this[vw(0x7e4)]=this[vv(0x1b3)](),this[vv(0x92d)](),x['inst'][vw(0x3c0)](ab[vw(0x94c)]);else{function bA(){const vx=vv,bB=this[vx(0x5e3)][bm];if(bB['name']==d)return!![];}}}['addCoins'](bA,bB=!![]){const vy=c1,vz=c1;this[vy(0x7e4)][vz(0x7c8)]+=bA,bB&&x['inst'][vz(0x3c0)](ab[vy(0x94c)]),this[vy(0x92d)]();}[bW(0x3de)](bA){const vA=bW,vB=bW;this[vA(0x7e4)][vB(0x8b3)]+=bA,x['inst']['SendEvent'](ab[vB(0x94c)]),this[vA(0x92d)]();}[bW(0x92d)](){const vC=bW,vD=c1;be[vC(0x5ff)]['saveData'](ad[vD(0x5ff)][vC(0x112)],this[vC(0x7e4)]);}['load'](){const vE=bW,vF=bW;if('kWLoL'!==vE(0x98c)){let bA=be['inst'][vE(0x40f)](ad[vF(0x5ff)][vE(0x112)]);bA?this[vE(0x7e4)]=bA:(this['_user']=this['generalUser'](),this[vE(0x92d)]());}else{function bB(){const vG=vE,vH=vE;return this[vG(0x78a)]&&this[vH(0x78a)][vG(0x113)]();}}}[c1(0x52c)](){}[c1(0x42b)](){const vI=bW,vJ=bW;if(vI(0x619)===vI(0x619))this['user']['currentStage']++,x['inst']['SendEvent'](ab[vJ(0x94c)]),this[vI(0x92d)]();else{function bA(){const vK=vJ;return b[vK(0xa8f)];}}}[c1(0xa94)](bA){const vL=bW,vM=c1;let bB=this[vL(0x59a)][vL(0x4ae)]['find'](bC=>bC[vL(0x7b9)]==bA);if(bB&&bB['isUnlock'])return!![];return![];}[bW(0x279)](bA){}[c1(0x160)](bA){const vN=c1,vO=c1;if(vN(0x47b)!==vO(0x1a5)){let bB=this['user']['carBags'][vO(0x622)](bC=>bC[vO(0x7b9)]==bA);return bB==-0x1&&(bB=0x0),bB;}else{function bC(){const vP=vO,vQ=vO;let bD=!![];(i[vP(0x5ff)][vP(0x102)]==j[vQ(0x1fb)]||k['inst']['platform']==l['vivo_h5'])&&m==![]&&(bD=![]);n[vQ(0x89c)](vQ(0x31d),bD);if(bD)o['inst'][vP(0x726)](p);}}}[bW(0x4b8)](bA){const vR=bW,vS=bW;let bB=this[vR(0x59a)]['carBags'][vR(0x3aa)](bC=>bC[vR(0x7b9)]==bA);if(bB==null){let bC=new ax();bC[vR(0x7b9)]=bA,bC[vR(0x1f2)]=!![],this[vR(0x59a)][vR(0x4ae)][vR(0x597)](bC),this['save']();}}[c1(0x164)](bA){const vT=bW,vU=bW;this[vT(0x59a)][vU(0x429)]=bA,this['save']();}['deepCopy'](bA){const vV=c1,vW=c1;if(vV(0xa8c)===vV(0xa8c))return JSON[vW(0x9c4)](JSON[vW(0x921)](bA));else{function bB(){this['qg']&&this['qg']['setLoadingProgress']({'progress':bm});}}}}class aB{constructor(){const vX=c1,vY=bW;this['qg']=window['qg'],this['systemInfo']=null,this[vX(0x338)]=null,this[vY(0x8d9)]=0xaa,this[vX(0x987)]=![],this[vX(0x7bf)]=null,this[vX(0x1f0)]=![],this[vY(0x4a9)]=null,this[vY(0x413)]=null,this[vX(0x1b9)]=null,this[vY(0xa73)]=![],this[vY(0x497)]=0x2710,this['insertAdShowCD']=0x9c40,this[vY(0x27a)]=![],this[vX(0x923)]='',this[vX(0x470)]='',this[vX(0x3a6)]=0x3e8,this[vX(0x233)]=![];}['userDataPath'](){const vZ=c1,w0=c1;if(vZ(0x6a8)===vZ(0x6a8))throw new Error(vZ(0x9a6));else{function bA(){return 0x0;}}}[bW(0x1f4)](bA,bB){const w1=bW,w2=bW;if(w1(0x720)!==w2(0x5cd))throw new Error('Method\x20not\x20implemented.');else{function bC(){const w3=w1;return this['qg']['getNotchHeightSync']()[w3(0x16e)];}}}[c1(0x2c3)](bA,bB){const w4=c1;throw new Error(w4(0x9a6));}[c1(0xa21)](bA,bB){const w5=bW,w6=c1;if(w5(0x7da)!==w5(0x7da)){function bC(){const w7=w6;this[w7(0x586)]['volume']=b;}}else throw new Error(w6(0x9a6));}[bW(0x7ee)](bA,bB){const w8=c1,w9=bW;if(w8(0xa1f)!==w8(0xa1f)){function bC(){const wa=w9,wb=w9;bm[wa(0x5ff)][wb(0x65b)](wa(0x111)),d(![]);}}else throw new Error('Method\x20not\x20implemented.');}[c1(0x5b1)](bA){const wc=c1,wd=c1;if(this[wc(0x478)][wc(0x951)]==!![]){if('KKvnB'!=='TkKsJ'){be[wd(0x5ff)]['debug'](wc(0x9bd)),bA(!![]);return;}else{function bB(){const we=wd,wf=wd;this[we(0x5e3)][we(0x597)]({'name':b,'count':0x1});}}}this['qg']?this['qg'][wd(0x5b1)]({'success':function(bC){const wg=wd,wh=wd;bC?(be[wg(0x5ff)][wg(0x65b)](wg(0x530)),bA(!![])):(be[wh(0x5ff)]['debug'](wh(0x781)),bA(![]));}}):bA(![]);}[bW(0x3be)](bA){const wi=c1,wj=c1;if(this['qg']){if(wi(0x34d)!==wi(0x34d)){function bB(){const wk=wj,wl=wi;var bC=this[wk(0x338)][wk(0x403)]();bC&&bC['then'](()=>{const wm=wl,wn=wk;k['inst'][wm(0x65b)]('banner广告销毁成功'),this['m_bannerAd']=null,l[wm(0x5ff)][wm(0x3c0)](m[wm(0x805)]);})[wk(0x3c5)](bD=>{const wo=wk;k['inst'][wo(0x65b)]('banner广告销毁失败\x20'+l['stringify'](bD)),this['onHideBanner']();}),this[wl(0x170)]();}}else{if(this['deskTopRecord'][wi(0x951)]==!![]){be[wj(0x5ff)][wi(0x65b)]('今日已经领取了ICON奖励');return;}let bC=this;this['qg'][wj(0x5b1)]({'success':function(bD){const wp=wi,wq=wj;if('mmuoV'===wp(0x207)){if(bD==![]){if(wq(0x7a7)!=='ZOkSn')bC['qg'][wq(0x3be)]({'success':function(){const wr=wp,ws=wq;be[wr(0x5ff)][ws(0x65b)](wr(0x456));},'fail':function(bE){const wt=wp,wu=wp;be[wt(0x5ff)][wt(0x65b)]('OPPOH5GameAPI.installShortcut\x20安装图标失败\x20'+JSON['stringify'](bE));},'complete':function(){}}),Laya[wp(0x801)][wp(0x8ba)](0x3e8,this,()=>{const wv=wp;bC['qg'][wv(0x5b1)]({'success':bE=>{const ww=wv,wx=wv;bE==![]?bA(![]):(bC[ww(0x478)]['isGet']=!![],bC[ww(0x478)]['date']=ac[ww(0x5a3)](),bC[ww(0xa3f)](bC[ww(0x923)],bC['deskTopRecord']),bA(!![]),be[wx(0x5ff)]['debug'](wx(0x247)));},'fail':function(bE){const wy=wv,wz=wv;if(wy(0xa75)===wy(0xa75))be[wz(0x5ff)][wy(0x65b)](wy(0x1c5)+JSON[wz(0x921)](bE)),bA(![]);else{function bF(){const wA=wy,wB=wz;this[wA(0x34f)](e,f),g[wA(0x89c)](this[wA(0x286)][wB(0x31f)]),this[wB(0x286)][wB(0x31f)]==0x1&&i[wB(0x801)][wB(0x8ba)](0x1f4,this,()=>{const wC=wB;this[wC(0x59f)](!![]);});}}},'complete':function(){}});});else{function bE(){const wD=wp,wE=wq;if(this['qg']){let bF=bm[wD(0x87f)]['height']/this[wE(0x4f5)][wE(0x89d)];return this['systemInfo'][wD(0x929)]*bF;}return 0x14;}}}else{if(wq(0x69c)===wq(0x69c))be[wq(0x5ff)][wq(0x65b)](wq(0x8e6)),bA(![]);else{function bF(){const wF=wq,wG=wp;this[wF(0x913)](),this[wG(0x2b5)](),this[wF(0x612)](),this[wF(0x9f3)](),this[wF(0x56a)]();}}}}else{function bG(){const wH=wq,wI=wp;this[wH(0x4ad)]=wI(0xa91),this[wI(0x8a6)]='https://mini.coschat.com/api/sdk/click',this[wH(0x2f8)]=!![],this['wx']=b['wx'],this[wI(0x569)]='',this[wI(0x702)]=[],this[wI(0x6d0)]={'loadingIconListShow':![],'gridIconShow':![],'resultIconListShow':![],'reslutProgressShow':![]};}}},'fail':function(bD){const wJ=wi,wK=wj;if(wJ(0x137)===wJ(0x137))be[wJ(0x5ff)][wJ(0x65b)](wK(0xa15)+JSON[wJ(0x921)](bD)),bA(![]);else{function bE(){const wL=wJ,wM=wK;u[v['G_攻击力']=0x0]=wL(0x816),w[x[wL(0x494)]=0x1]='F_防御力',y[z[wL(0x774)]=0x2]=wL(0x774),A[B[wL(0xa9f)]=0x3]=wL(0xa9f),C[D[wL(0x2fa)]=0x4]=wL(0x2fa),E[F[wM(0x937)]=0x5]=wL(0x937),G[H[wL(0xa78)]=0x6]='S_生命',I[J[wM(0x8d2)]=0x7]=wM(0x8d2),K[L['Y_移动速度']=0x8]=wL(0x6de),M[N[wL(0x4bc)]=0x9]=wM(0x4bc);}}},'complete':function(){}});}}else this['deskTopRecord'][wi(0x951)]=!![],this[wi(0x478)]['date']=ac['getTime'](),this['saveDataToCache'](this['deskTopRecordKey'],this[wi(0x478)]),bA(!![]),be[wj(0x5ff)][wi(0x65b)](wi(0x456));be['inst'][wi(0x65b)](wj(0x1bd));}[bW(0x99f)](){const wN=bW,wO=bW;this['deskTopRecordKey']=ad[wN(0x5ff)][wO(0x531)],this['deskTopRecord']=this[wO(0x992)](this[wN(0x923)]);if(this[wN(0x478)]==null||this[wO(0x478)]==undefined)this[wN(0x478)]={'isGet':![],'date':''},this['saveDataToCache'](this[wN(0x923)],this['deskTopRecord']);else{let bA=z[wN(0x80a)](ac['getTime'](),this[wN(0x478)][wO(0x1e7)]);if(bA>=0x1){if(wO(0x844)===wO(0x844))this[wN(0xa3f)](this['deskTopRecordKey'],this['deskTopRecord']);else{function bB(){const wP=wO,wQ=wO;p[wP(0x5ff)][wP(0x65b)](wP(0xa5a)),q[wP(0x7d8)]['packageFileExtension']=wQ(0x7f2);let bC=[];bC[wQ(0x597)]({'url':wQ(0x7a9),'type':r[wP(0x839)][wP(0x743)]}),bC['push']({'url':wP(0x1bb),'type':s['Loader'][wQ(0xa33)]}),bC[wQ(0x597)]({'url':wP(0x505),'type':t[wP(0x839)][wQ(0x8dc)]}),u[wP(0x458)][wP(0x24b)](bC,v['Handler'][wP(0x3e6)](this,bD=>{const wR=wQ,wS=wP;bD?(M[wR(0x5ff)][wS(0x65b)](wS(0x94f)),N[wS(0x649)][wS(0x257)](wS(0x467)),O[wR(0x824)](),P[wR(0x5ff)][wS(0x294)](new Q()),R(!![])):(S['inst'][wR(0x65b)](wS(0x976)),T(![]));}));}}}}console[wO(0x89c)]('桌面图标本地记录信息:',this[wO(0x478)]);}[c1(0x6d1)](bA){const wT=bW,wU=bW;if(wT(0x8a4)===wT(0x483)){function bB(){const wV=wU,wW=wT;d[wV(0x171)][wV(0x77a)](e),this['currentBgAudio']&&(this[wW(0x586)][wW(0x18d)]=g);}}else this['qg']&&this['qg']['setLoadingProgress']({'progress':bA});}[bW(0x493)](){const wX=c1,wY=c1;if(this['qg']){if(wX(0x308)!=='ZPddS')this['qg'][wY(0x493)]({}),be['inst'][wX(0x65b)](wY(0x8f7));else{function bA(){const wZ=wY,x0=wY;i?(this['ad']=q,r['inst'][wZ(0x9a5)]=this['ad']):(this['ad']=s[x0(0x5ff)][x0(0x9a5)],t['log'](x0(0x711))),n[x0(0x89c)](o['name'],wZ(0x38c),p[wZ(0x921)](this['ad'])),this[wZ(0x978)](this['ad']);}}}}[bW(0x8ea)](bA){const x1=c1;if(this[x1(0x6f2)]>=bA)return!![];return![];}[bW(0x45a)](bA){const x2=c1,x3=c1;this[x2(0x99f)](),this[x2(0x315)](),this[x3(0x233)]=![],Laya['timer']['once'](this[x3(0x3a6)],this,()=>{const x4=x3,x5=x2;if(x4(0x5d3)!==x5(0x2e1))this[x5(0x233)]=!![],be['inst'][x4(0x65b)](x4(0x34b));else{function bB(){const x6=x4,x7=x5;b[x6(0x5ff)][x6(0x643)]();}}}),this['qg']?(aB[x2(0x5ff)]=this,this[x2(0x4f5)]=this['qg'][x2(0x2d3)](),be[x3(0x5ff)]['debug'](x2(0x833)+JSON[x3(0x921)](this['systemInfo'])),this['platformVersionCode']=this[x2(0x4f5)]['platformVersionCode'],this['qg'][x3(0x151)]({'enableDebug':![],'success':function(){const x8=x2,x9=x2;console[x8(0x89c)](x8(0x4b5)),console[x9(0x7de)](x9(0xa02)),console['warn'](x8(0xff)),console[x8(0x65b)](x9(0x789)),console[x8(0x8a9)](x9(0x56d));},'complete':function(){},'fail':function(){}}),this['qg'][x3(0x26b)](bB=>{const xa=x2;Laya[xa(0x801)]['scale']=0x1;}),this['qg']['onHide'](()=>{const xb=x3,xc=x2;if(xb(0x23c)===xc(0x23c))Laya['timer'][xc(0x6b9)]=0x0;else{function bB(){const xd=xc,xe=xb;let bC=this[xd(0x2fe)][xd(0x942)][bm];if(bC[xd(0x62f)]==d)return bC;}}}),this[x2(0x322)](x3(0x274),0x0)):this['qg']=null,bA&&bA(),be[x3(0x5ff)][x2(0x65b)](x3(0x54c));}[c1(0x62e)](bA){const xf=bW,xg=c1;if(this['qg']){}bA&&bA(),be[xf(0x5ff)]['debug'](xf(0x6ee));}['reportMonitor'](bA,bB){const xh=c1,xi=c1;if(xh(0x973)==='Gbyab'){if(this['qg']){if(xh(0x19b)===xh(0x19b)){if(this['versionCompareUsage'](0x424)==![]){if(xh(0xa22)===xi(0x173)){function bC(){const xj=xh;b['inst'][xj(0x65b)]('今天已经关闭了Banner5次，不再显示Banner');return;}}else{be[xh(0x5ff)][xh(0x65b)](xi(0x47c));return;}}this['qg'][xh(0x322)](bA,bB),be[xh(0x5ff)][xi(0x65b)](xh(0x6e6));}else{function bD(){const xk=xi;this[xk(0x579)]();}}}}else{function bE(){const xl=xi;this[xl(0x778)]();return;}}}[bW(0x3cc)](bA){const xq=c1,xr=c1;if(this['qg'])this['qg']['login']({'success':function(bB){const xm=a0b,xn=a0b;var bC=JSON[xm(0x921)](bB['data']);be[xm(0x5ff)][xm(0x65b)](xm(0x1bc)+JSON['stringify'](bC)),aA[xm(0x5ff)][xm(0x59a)][xn(0x94a)][xn(0x1d2)]=bB[xm(0x161)][xm(0x1d2)],aA['inst'][xn(0x92d)](),bA&&bA(!![]);},'fail':function(bB){const xo=a0b,xp=a0b;be['inst'][xo(0x65b)](xp(0x76c)+JSON[xp(0x921)](bB)),bA&&bA(![]);}});else{if(xq(0x4f4)===xr(0x4f4))bA&&bA(!![]);else{function bB(){const xs=xq,xt=xq;d[xs(0x918)][xt(0x2bf)](e,f);}}}}[bW(0x912)](){const xu=bW,xv=c1;if(xu(0x3b2)===xu(0x3b2)){if(this['qg'])return this['qg'][xu(0x912)]();return null;}else{function bA(){const xw=xv,xx=xu;return!this[xw(0x3d1)]&&(this[xw(0x3d1)]=this[xw(0x926)]['transform']),this['_transform'];}}}['pay'](bA,bB){const xy=bW,xz=c1;if(this['qg']){if(xy(0x952)===xy(0x952)){bA[xz(0x632)]=aA['inst'][xz(0x59a)][xy(0x94a)][xy(0x1d2)],bA[xy(0x5e7)]=this[xy(0x6f2)][xy(0xa89)](),bA[xz(0x4d1)]='1.0.0';let bD=this;var bC=new L();be[xz(0x5ff)][xz(0x65b)](xy(0x20c)+JSON[xy(0x921)](bA)),bC[xy(0x756)]('https://payment.coschat.com/api/Oppo/PreOrder',bA,this,function(bE){const xA=xz,xB=xy;if(xA(0x6ba)===xB(0x752)){function bF(){const xC=xB,xD=xA;e[xC(0x89c)](xC(0x84c)+f),g&&h(![]);}}else{be['inst'][xB(0x65b)](xA(0x496)+JSON[xA(0x921)](bE)),this[xA(0xa3f)](ad[xA(0x5ff)][xA(0x268)],{'orderNo':bE[xB(0x684)],'token':bA[xB(0x632)],'point':bA[xB(0x7ce)]});if(bE[xB(0x9fc)]==xA(0x8d5))be[xB(0x5ff)][xB(0x65b)](xA(0x7ae)),this['qg'][xA(0x596)]({'appId':parseInt(w['inst']['currentPlatform'][xA(0x6db)]),'token':bA[xA(0x632)],'timestamp':bE['timestamp'],'paySign':bE[xB(0x1cb)],'orderNo':bE[xB(0x684)],'success':function(bG){const xE=xA,xF=xB;bD[xE(0xa3f)](ad[xE(0x5ff)][xE(0x268)],null),be[xE(0x5ff)][xE(0x65b)](xE(0x6d7)+JSON[xE(0x921)](bG[xE(0x161)])),bB(!![],'支付成功');},'fail':function(bG){const xG=xA,xJ=xB;if('dWCIw'===xG(0x356)){function bH(){const xH=xG,xI=xG;this[xH(0x7e4)][xI(0x8b3)]+=d,e[xH(0x5ff)]['SendEvent'](f[xH(0x94c)]),this[xI(0x92d)]();}}else be[xJ(0x5ff)][xJ(0x65b)]('支付失败:'+JSON['stringify'](bG)),bB(![],bG['data']);}});else{if('ClJUA'===xA(0x3a4)){function bG(){const xK=xB,xL=xB;'endTrigger'==k[xK(0x926)][xK(0x842)]&&(u[xL(0x89c)](xK(0x68c)),this['SetShutDown'](),v[xK(0x67b)]()[xK(0x455)](),w[xK(0x2f8)]=![],this[xL(0x48d)]=!![]),xK(0x78e)==o['owner']['name']&&(x['instance'][xK(0x87b)]('Default'),y[xL(0x2f8)]=![]),xK(0x931)==r[xK(0x926)][xK(0x842)]&&(z[xL(0x67b)][xK(0x87b)](xK(0x703)),A[xK(0x2f8)]=![]);}}else be[xB(0x5ff)][xA(0x65b)](xA(0x1d5)+JSON[xA(0x921)](bE)),bB(![],bE[xB(0x1b0)]);}}});}else{function bE(){const xM=xy;b['inst']['hidePopupView'](this[xM(0x7c9)]);}}}else{if(xy(0xa0a)===xz(0xa0a))this[xy(0xa3f)](ad[xz(0x5ff)][xy(0x268)],null),bB&&bB(!![],xz(0x96c));else{function bF(){this['m_List']=this['getChildAt'](0x0);}}}}[bW(0x315)](){const xN=bW,xO=c1;if(xN(0x448)===xN(0x482)){function bA(){const xP=xN,xQ=xN;d['inst'][xP(0x65b)](xQ(0x329)),e&&f();return;}}else{this[xO(0x51b)]=this[xN(0x992)](this['bannerRecordKey']);if(this[xO(0x51b)]==null||this[xN(0x51b)]==undefined)this[xO(0x51b)]={'hideCount':0x5,'date':''},this['saveDataToCache'](this[xN(0x470)],this['bannerRecord']);else{if(xO(0xa60)!==xN(0xa60)){function bB(){const xR=xN;this[xR(0x1cd)]=b;}}else{let bC=z['countDay'](ac['getTime'](),this[xN(0x51b)][xO(0x1e7)]);bC>=0x1&&(this[xO(0x51b)]={'hideCount':0x5,'date':''},this[xN(0xa3f)](this[xN(0x470)],this['bannerRecord']));}}console[xO(0x89c)](xO(0x515),this[xO(0x51b)]);}}['createBannerAd'](){}[c1(0x726)](bA){const xS=bW,xT=bW;if(w[xS(0x5ff)][xS(0x2fe)]['canAd']==![]){be['inst']['debug'](xS(0x329));return;}if(this[xS(0x51b)][xS(0x854)]<=0x0){be[xT(0x5ff)][xS(0x65b)]('今天已经关闭了Banner5次，不再显示Banner');return;}if(this[xT(0x233)]==![]){be[xS(0x5ff)][xT(0x65b)](xT(0x6ed));return;}let bB=w[xS(0x5ff)][xT(0x1ca)](bA);if(bB==null){be['inst'][xS(0x65b)](xS(0xa51));return;}console[xT(0x89c)](xS(0x80d),bB[xS(0x62f)],bB[xT(0x421)]),this['qg']&&(this[xS(0xa07)](),this[xT(0x338)]=this['qg'][xS(0x913)]({'adUnitId':bB[xT(0x421)]}),this['m_bannerAd'][xS(0x26b)](this['onBannerAdShow']),this[xS(0x338)]['onError'](this[xS(0x60d)]),this['m_bannerAd'][xS(0x246)](this[xS(0x412)]),this[xS(0x338)]['show'](),be[xT(0x5ff)][xT(0x65b)]('OPPOH5GameAPI.onShowBanner'));}['onBannerAdShow'](){const xU=c1,xV=c1;aB[xU(0x5ff)]['m_isBannerShow']=!![],aB[xV(0x5ff)]['m_bannerHeight']=0xaa,x[xV(0x5ff)][xV(0x3c0)](y['ON_BANNER_SUCCESS_EVENT']),be[xV(0x5ff)][xV(0x65b)](xV(0x7f9));}['onBannerAdError'](bA){const xW=c1,xX=bW;if(xW(0xf5)===xX(0xf5))aB[xW(0x5ff)][xW(0x987)]=![],aB['inst'][xW(0x8d9)]=0xaa,x[xW(0x5ff)][xW(0x3c0)](y['ON_BANNER_FAIL_EVENT']),be[xW(0x5ff)]['debug'](xX(0x3cb)+JSON['stringify'](bA));else{function bB(){const xY=xW;this[xY(0x43a)]=0x1;}}}[c1(0x412)](){const xZ=bW,y0=bW;if(xZ(0x7aa)===y0(0x1a9)){function bA(){const y1=y0,y2=xZ;this[y1(0x435)][y1(0xa3b)]=![];}}else aB[y0(0x5ff)][xZ(0x51b)][y0(0x854)]>0x0&&(aB[y0(0x5ff)][xZ(0x51b)][xZ(0x854)]--,aB[y0(0x5ff)][y0(0x51b)]['hideCount']==0x0&&(aB[xZ(0x5ff)][xZ(0x51b)][y0(0x1e7)]=ac[y0(0x5a3)]()),aB['inst']['saveDataToCache'](aB[xZ(0x5ff)][xZ(0x470)],aB[xZ(0x5ff)]['bannerRecord'])),aB[xZ(0x5ff)]['m_isBannerShow']=![],aB[xZ(0x5ff)][xZ(0x8d9)]=0xaa,x['inst'][y0(0x3c0)](y[y0(0x805)]),console['log'](y0(0x240),aB[y0(0x5ff)]['bannerRecord'][xZ(0x854)]);}[bW(0xa97)](){const y3=c1,y4=bW;if(w[y3(0x5ff)][y3(0x2fe)]['canAd']==![]){if(y3(0x248)!==y3(0x37e)){be[y3(0x5ff)][y4(0x65b)](y3(0x329));return;}else{function bA(){return e+f*(g-h);}}}this['qg']&&(this[y3(0x338)]&&(this[y3(0x338)][y3(0xa87)](),this[y3(0x8d9)]=0xaa,this[y4(0x987)]=![],x[y4(0x5ff)][y4(0x3c0)](y[y3(0x805)])),be['inst'][y3(0x65b)](y4(0x8bb)));}[c1(0xa07)](){const y5=c1,y6=c1;if(y5(0x4cd)!==y6(0x4d6)){if(w[y6(0x5ff)][y6(0x2fe)]['canAd']==![]){be['inst'][y5(0x65b)](y5(0x329));return;}this['qg']&&(this[y6(0x338)]&&(this[y5(0x8d9)]=0xaa,this[y5(0x987)]=![],this['m_bannerAd'][y5(0x8af)](this[y6(0x878)]),this[y5(0x338)][y6(0x52b)](this[y6(0x60d)]),this[y6(0x338)][y5(0x123)](this[y6(0x412)]),this['m_bannerAd'][y5(0x403)](),this['m_bannerAd']=null,x['inst'][y5(0x3c0)](y[y6(0x805)]),be['inst'][y5(0x65b)]('OPPOH5GameAPI.onDestoryBanner\x20销毁Banner广告')));}else{function bA(){const y7=y6,y8=y6;this[y7(0x62f)]=this[y8(0x161)],this['getAd'](this[y7(0x62f)]);}}}[c1(0x2b5)](){const y9=c1,ya=bW;if(w[y9(0x5ff)][y9(0x2fe)][y9(0x1a3)]==![]){be[y9(0x5ff)][y9(0x65b)](y9(0x329));return;}}[bW(0x8c7)](){const yb=c1,yc=bW;if(yb(0x631)!=='cUoao')this['onVideoSuccessCallback']=null,this[yb(0x19e)]=null;else{function bA(){const yd=yb,ye=yc;return b[yd(0x649)]['createObject']('GameAdUI',ye(0x759));}}}[bW(0x4d3)](bA,bB,bC){const yf=c1,yg=bW;if(yf(0x8e8)==='cFSOK'){if(w[yf(0x5ff)][yg(0x2fe)][yg(0x1a3)]==![])return;if(this['qg']==null||this['qg']==undefined){bA&&bA();return;}let bD=null;bC&&bC[yg(0x31f)]>0x0&&(bD=w[yg(0x5ff)]['getVideoAdData'](bC));if(bD==null){bB&&bB(0x1,'');return;}this[yg(0x7bf)]&&(this['clearVideoCallbacks'](),this[yg(0x7bf)][yf(0x88b)](this[yg(0x9c8)]),this[yg(0x7bf)]['offError'](this[yg(0x5f7)]),this[yg(0x7bf)][yf(0x4b1)](this['rewardVideoOnClose']),this['m_videoAd'][yg(0x403)]()),this['onVideoSuccessCallback']=bA,this[yg(0x19e)]=bB,this[yf(0x7bf)]=this['qg'][yf(0x2b5)]({'adUnitId':bD[yf(0x421)]}),this[yg(0x7bf)]['load'](),this[yf(0x7bf)][yf(0x26a)](this[yf(0x9c8)]),this['m_videoAd']['onError'](this[yf(0x5f7)]),this['m_videoAd'][yg(0x5a9)](this[yg(0x7d3)]),be[yf(0x5ff)]['debug'](yg(0x688));}else{function bE(){const yh=yf,yi=yg;return this[yh(0x78a)]&&this[yi(0x78a)][yi(0x638)]();}}}['rewardVideoOnLoad'](){const yj=c1,yk=bW;if(yj(0x2a1)==='ejIni')be[yk(0x5ff)][yj(0x65b)](yk(0x7d5)),aB[yk(0x5ff)][yj(0x1f0)]=!![],aB[yj(0x5ff)][yj(0x7bf)][yj(0x92a)]();else{function bA(){b(![]);}}}[bW(0x5f7)](bA){const yl=bW,ym=bW;if(yl(0x20d)===ym(0x3b3)){function bB(){const yn=yl,yo=ym;this[yn(0x9e2)]=this[yo(0x2e3)](0x0),this[yo(0x850)]=this[yo(0x2e3)](0x1),this[yn(0x4b4)]=this[yo(0x2e3)](0x2);}}else be[ym(0x5ff)][ym(0x65b)](yl(0x210)+JSON['stringify'](bA)),aB[ym(0x5ff)][yl(0x1f0)]=![],aB['inst'][ym(0x19e)]&&aB[ym(0x5ff)][yl(0x19e)](0x1,''),aB['inst'][yl(0x8c7)]();}[bW(0x7d3)](bA){const yp=bW,yq=c1;if(yp(0x74d)!==yp(0x74d)){function bB(){const yr=yp,ys=yq;this[yr(0x286)][ys(0x6fe)](this[yr(0x286)]['indexOf'](b),0x1);}}else bA['isEnded']?(be['inst'][yq(0x65b)](yq(0x620)),aB['inst'][yq(0x682)]&&aB[yq(0x5ff)]['onVideoSuccessCallback'](),aB[yp(0x5ff)][yp(0x1f0)]=![],aB[yp(0x5ff)][yp(0x8c7)]()):(be['inst'][yq(0x65b)]('OPPOH5GameAPI.RewardedVideo.onClose\x20激励视频广告取消关闭，不发放奖励'),aB[yp(0x5ff)]['onVideoFailCallback']&&aB['inst'][yp(0x19e)](0x4,yp(0x65f)),aB['inst'][yq(0x8c7)]());}[bW(0x612)](){}['_createInsertAd'](){}[bW(0x3a2)](){}['onDestoryInsertAd'](){}[bW(0x828)](){}[c1(0xfd)](){}['_countDownInsertTime'](){}[c1(0x7df)](){}[bW(0x503)](bA){}['createNativeAd'](){}['onShowNativeAd'](bA,bB){const yt=bW,yu=bW;if('wYJgg'!==yt(0x124)){if(w[yu(0x5ff)][yu(0x2fe)][yt(0x1a3)]==![]){be[yt(0x5ff)][yu(0x65b)](yt(0x329));return;}if(this[yu(0x233)]==![]){be[yt(0x5ff)][yu(0x65b)]('开始游戏1分钟内不展示原生广告');return;}let bC=null;if(bB&&bB[yu(0x31f)]>0x0){if(yu(0x30b)!==yu(0x30b)){function bD(){const yv=yu,yw=yu;this[yv(0x9a4)]=bm[yv(0x14e)](this[yv(0x926)][yw(0x842)][yw(0x4ca)]('p','')),this[yv(0x22a)]=this[yv(0x926)][yw(0x12a)][yv(0x2ca)](d);}}else bC=w['inst']['getNativeAdData'](bB);}if(bC==null){be[yt(0x5ff)][yt(0x65b)](yt(0x2df));return;}console[yt(0x89c)]('原生AdData数据:',bC['key'],bC[yt(0x421)]);if(this['qg'])this['onDestroyNativeAd'](),this[yu(0x413)]=this['qg'][yt(0x9f3)]({'adUnitId':bC[yu(0x421)]}),this[yt(0x413)][yt(0x99a)](this['onNativeAdError']),this[yu(0x413)][yt(0x26a)](this[yu(0x390)]),this['m_nativeAd']&&(this['nativeAdOnLoad']=bA,this[yt(0x413)][yt(0x24b)]()),be['inst']['debug'](yu(0x66f));else{if(yu(0x939)!==yt(0x5e9))bA&&bA(null);else{function bE(){const yx=yt,yy=yt,bF=this[yx(0xa6e)]['fileList'][bm];if(bF[yy(0x62f)]==d)return bF;}}}}else{function bF(){const yz=yt,yA=yt;let bG=g[yz(0x171)][yz(0x8b9)](h,i);bG&&(this['playingList'][yz(0x597)](m),bG[yz(0x847)]=n[yA(0x432)][yz(0x3e6)](this,this[yA(0x150)],[o]));}}}[bW(0x938)](){const yB=c1,yC=c1;if(w[yB(0x5ff)][yC(0x2fe)]['canAd']==![]){be[yC(0x5ff)][yC(0x65b)](yC(0x329));return;}if(this['qg']){if(yB(0x933)===yC(0x667)){function bA(){const yD=yB,yE=yB;this[yD(0x7e0)]=![],this[yE(0x719)]=![],this['soundList']=[],this['musicVolume']=0x1,this[yE(0x964)]=0x1,this[yE(0x3a0)]=[],this['playingList']=[];}}else{if(this[yB(0x413)]){if(yB(0x1e3)===yB(0x1e3))this[yC(0xa55)]=null,this['m_nativeAd'][yB(0x52b)](this[yC(0x9ef)]),this['m_nativeAd'][yC(0x88b)](this[yC(0x390)]),this[yC(0x413)][yB(0x403)](),this[yC(0x413)]=null;else{function bB(){const yF=yC;if(i&&j>=k[yF(0x31f)])l=void 0x0;return{'value':m&&n[o++],'done':!p};}}}be[yC(0x5ff)][yC(0x65b)](yC(0x20e));}}}[c1(0x98a)](bA){const yG=c1,yH=c1;if(yG(0x2dc)!==yH(0x2dc)){function bB(){const yI=yH,yJ=yG;var bC=new i(),bD=bC[yI(0x220)](),bE=bC[yJ(0x5ce)]()+0x1,bF=bC[yI(0x39c)](),bG=bC[yJ(0x6b7)](),bH=bC[yJ(0x7d6)](),bI=bC[yJ(0x43c)](),bJ=bD+'年'+bE+'月'+bF+'日'+bG+'时'+bH+'分'+bI+'秒';return bJ;}}else{if(w[yH(0x5ff)][yH(0x2fe)][yH(0x1a3)]==![]){be['inst'][yH(0x65b)](yG(0x329));return;}if(this['qg']){if(this[yG(0x413)]){if(yG(0x5ec)===yG(0x5ec))be[yG(0x5ff)][yH(0x65b)](yG(0x10f)+bA),this[yG(0x413)][yH(0x537)]({'adId':bA}),this['onNativeAdClose']();else{function bC(){const yK=yH,yL=yG;h[yK(0x714)]?i(j[yK(0x906)]):new k(function(bD){const yM=yK;bD(o[yM(0x906)]);})[yL(0x5c8)](m,n);}}}be[yH(0x5ff)][yH(0x65b)](yG(0x17d)+bA);}}}[c1(0x276)](){const yN=bW,yO=c1;if(w[yN(0x5ff)]['currentPlatform'][yN(0x1a3)]==![]){if(yO(0x66c)===yN(0x6ab)){function bA(){const yP=yO,yQ=yN;b[yP(0x5ff)][yQ(0x65b)]('插屏广告需要最小平台号1031');return;}}else{be['inst'][yN(0x65b)](yN(0x329));return;}}this['onDestroyNativeAd'](),be['inst'][yO(0x65b)]('OPPOH5GameAPI.onNativeAdClose\x20关闭原生广告');}['countDownNativeAdTime'](){const yR=c1,yS=bW;this[yR(0xa73)]=![],Laya[yR(0x801)]['clear'](this,this[yS(0x84a)]),Laya[yR(0x801)]['once'](this[yR(0x694)],this,this[yS(0x84a)]),be['inst'][yR(0x65b)](yR(0x4a2)+this[yS(0x694)]+'秒');}[bW(0x84a)](){const yT=c1,yU=c1;this[yT(0xa73)]=!![],be[yT(0x5ff)][yT(0x65b)](yU(0x85b)+this[yT(0xa73)]);}['onNativeAdLoad'](bA){const yV=c1,yW=bW;if(yV(0x2b7)!==yV(0x301)){if(bA!==null&&bA!==undefined){if(yV(0x722)!==yW(0x227)){be[yV(0x5ff)][yV(0x65b)]('OPPOH5GameAPI.onNativeAdLoad\x20原生广告加载成功\x20'+JSON['stringify'](bA[yW(0x485)])),aB[yW(0x5ff)][yV(0xa07)]();let bB=bA['adList'][yW(0x387)]();aB[yW(0x5ff)]['m_nativeAd'][yW(0x83b)]({'adId':bB[yV(0x421)]}),aB['inst'][yW(0xa55)]&&aB[yV(0x5ff)][yV(0xa55)](bB);}else{function bC(){const yX=yV,yY=yW;var bD=new r[(yX(0x587))]();s['Vector3'][yX(0x890)](this[yY(0x606)],bD);var bE=new t[(yY(0x587))]();u['Vector3'][yX(0x890)](this[yY(0x693)][yY(0x544)],bE);var bF=v[yX(0x587)][yY(0x935)](this[yY(0x693)][yX(0x544)]),bG=w[yY(0x587)][yX(0x7d0)](bE,bD);if(bF>0x2&&bG>0.1){var bH=new I[(yX(0x587))]();J['InverseTransformPoint'](this['transform'],new K[(yY(0x587))](bH['x'],this[yY(0x9ec)]['position']['y'],bH['z']),bH),bH['y']=0x0;var bI=bH['x']/L[yY(0x587)][yY(0x935)](bH),bJ=new M['Vector3'](0x1,0x0,0x0);N[yX(0x5c3)](this[yY(0x9ec)][yX(0x30c)],bJ,bJ),O['Vector3'][yX(0x6b9)](bJ,bI*this['TurnStrength'],bJ),this[yY(0x75b)](bJ);}if(this['pause']==![]&&this[yY(0x47f)]&&this[yX(0x47f)][yX(0x502)]){var bK=new P[(yX(0x69d))]();Q['FromToRotation'](bE,bD,bK),R['QuaternionVector3'](bK,bE,bE),S['Vector3'][yX(0x6b9)](bE,bF,bE),this[yY(0x693)][yY(0x544)]=bE;}}}}}else{function bD(){const yZ=yV,z0=yV;bm[yZ(0x89c)](yZ(0x264),d[z0(0x52f)]);}}}[bW(0x9ef)](bA){const z1=c1,z2=c1;aB[z1(0x5ff)]['canLoadInsertAd']=!![],aB[z1(0x5ff)]['nativeAdOnLoad']&&aB['inst'][z2(0xa55)](null),be[z1(0x5ff)][z2(0x65b)](z1(0x846)+JSON[z1(0x921)](bA));}[c1(0x56a)](){}[bW(0x5e6)](bA,bB){const z3=c1,z4=bW;if(w['inst']['currentPlatform'][z3(0x1a3)]==![]){be[z3(0x5ff)]['debug']('没广告版本');return;}if(this[z4(0x233)]==![]){be['inst'][z3(0x65b)](z3(0xa3c));return;}let bC=null;bB&&bB[z4(0x31f)]>0x0&&(bC=w['inst'][z3(0x245)](bB));if(bC==null){if(z4(0xa61)===z4(0xa61)){be[z3(0x5ff)][z4(0x65b)](z4(0x699));return;}else{function bD(){bm&&d(!![]);}}}console[z4(0x89c)](z4(0x81c),bC['key'],bC[z4(0x421)]),this['qg']?(this['onDestroyNativeIconAd'](),this[z4(0x1b9)]=this['qg'][z3(0x9f3)]({'adUnitId':bC[z4(0x421)]}),this[z4(0x1b9)][z3(0x99a)](this[z4(0xaa6)]),this[z3(0x1b9)][z4(0x26a)](this[z4(0x4c7)]),this['m_nativeIconAd']&&(aB[z3(0x5ff)]['nativeIconAdOnLoad']=bA,this['m_nativeIconAd'][z4(0x24b)]()),be[z3(0x5ff)]['debug'](z4(0xf4))):bA&&bA(null);}['onDestroyNativeIconAd'](){const z5=c1,z6=c1;if(w[z5(0x5ff)]['currentPlatform'][z5(0x1a3)]==![]){if(z6(0x9de)==='neItK'){function bA(){const z7=z5,z8=z6;let bB=d[z7(0x80a)](e[z8(0x5a3)](),this[z8(0x478)][z7(0x1e7)]);f[z8(0x89c)](z8(0x624),bB),bB>=0x1&&this['saveDataToCache'](this[z8(0x923)],this[z7(0x478)]);}}else{be[z5(0x5ff)][z6(0x65b)](z6(0x329));return;}}if(this['qg']){if(this[z5(0x1b9)]){if(z5(0x57b)===z5(0x830)){function bB(){const z9=z6,za=z5;for(let bC=0x0;bC<this[z9(0x3a0)][z9(0x31f)];bC++){const bD=this[z9(0x3a0)][bC];bD[z9(0x811)][za(0x48d)]();}}}else this[z6(0x6fd)]=null,this[z6(0x1b9)][z5(0x52b)](this['onNativeIconAdError']),this[z6(0x1b9)][z5(0x88b)](this[z5(0x4c7)]),this[z5(0x1b9)][z6(0x403)](),this[z5(0x1b9)]=null;}be['inst'][z6(0x65b)]('OPPOH5GameAPI.onDestroyNativeIconAd');}}[bW(0xaa6)](bA){const zb=c1,zc=bW;be[zb(0x5ff)][zc(0x65b)](zb(0x971)+JSON[zc(0x921)](bA));}[bW(0x4c7)](bA){const zd=bW,ze=c1;if(bA!==null&&bA!==undefined){if('bQAIY'===zd(0x8b6)){let bB=bA[zd(0x485)][zd(0x387)]();aB[ze(0x5ff)]['m_nativeIconAd'][zd(0x83b)]({'adId':bB[ze(0x421)]}),aB[zd(0x5ff)][ze(0x6fd)]&&aB[zd(0x5ff)]['nativeIconAdOnLoad'](bB);}else{function bC(){const zf=ze,zg=zd;K[zf(0x5b8)]['setExtension'](L['URL'],M),N[zg(0x5b8)][zg(0x3bf)](O[zf(0xa8f)],P),Q[zg(0x5b8)][zg(0x3bf)](R[zg(0xa8f)],S),T[zf(0x5b8)][zf(0x3bf)](U[zf(0xa8f)],V),W[zg(0x5b8)][zg(0x3bf)](X[zf(0xa8f)],Y),Z[zg(0x5b8)]['setExtension'](a0[zf(0xa8f)],a1),a2[zf(0x5b8)][zg(0x3bf)](a3[zg(0xa8f)],a4),a5[zg(0x5b8)][zg(0x3bf)](a6['URL'],a7),a8[zf(0x5b8)][zg(0x3bf)](a9[zg(0xa8f)],aa),ab['UIObjectFactory']['setExtension'](ac[zg(0xa8f)],ad),ae['UIObjectFactory'][zg(0x3bf)](af[zg(0xa8f)],ag),ah['UIObjectFactory'][zf(0x3bf)](ai[zg(0xa8f)],aj);}}}}[bW(0xa99)](bA){const zh=c1,zi=bW;if(w[zh(0x5ff)][zi(0x2fe)][zi(0x1a3)]==![]){be['inst'][zh(0x65b)]('没广告版本');return;}if(this['qg']){if(this[zi(0x1b9)]){if('gLbEW'!==zi(0x2a8))this[zh(0x1b9)][zh(0x537)]({'adId':bA}),this[zi(0x59e)]();else{function bB(){const zj=zh,zk=zi;i?(this['ad']=q,r['inst'][zj(0xa72)]=this['ad'],this[zk(0xa3b)]=s['inst']['currentPlatform']['canAd']):(this['ad']=t[zj(0x5ff)][zk(0xa72)],u['log']('读取缓存的广告数据')),o[zk(0x89c)](zk(0x86b),p['stringify'](this['ad'])),this[zk(0x978)](this['ad']);}}}be[zh(0x5ff)][zh(0x65b)](zi(0x222)+JSON[zi(0x921)](bA));}}[c1(0x59e)](){const zl=c1,zm=bW;if(w['inst'][zl(0x2fe)][zl(0x1a3)]==![]){if('UZihI'===zm(0xa37)){be[zm(0x5ff)][zl(0x65b)](zl(0x329));return;}else{function bA(){const zn=zl,zo=zl;bm[zn(0x171)][zn(0x78f)](d[zn(0x480)],0x0);}}}this['qg']&&(this[zl(0x6d8)](),be[zm(0x5ff)][zl(0x65b)](zm(0x272)));}[bW(0x7b7)](bA){const zp=bW,zq=c1;if(this['qg']){if('cHYRy'===zp(0x9f6))this['qg'][zp(0x7b7)]({'pkgName':bA,'success':function(){},'fail':function(bB){const zr=zp;console['log']('跳转失败:',JSON[zr(0x921)](bB));}});else{function bB(){const zs=zp,zt=zq;this[zs(0x1f0)]?this[zt(0x7bf)]['show']():this[zs(0x7bf)]['load']();}}}console[zp(0x89c)](zp(0x683),JSON[zq(0x921)](bA));}[bW(0x643)](){const zu=bW;this['qg'][zu(0x643)]({'success':function(bA){},'fail':function(bA){},'complete':function(bA){}});}[c1(0xa3f)](bA,bB){const zv=c1,zw=c1;if('RyaxK'===zv(0xa85))Laya[zw(0x918)][zw(0x2d0)](bA,JSON['stringify'](bB));else{function bC(){bm&&d(![],null);}}}[bW(0x992)](bA){const zx=bW,zy=bW;if(zx(0xa70)===zx(0x91a)){function bB(){const zz=zx;bm['log'](zz(0x1e4)+d);}}else return JSON[zx(0x9c4)](Laya['LocalStorage'][zy(0x615)](bA));}[bW(0x638)](){const zA=bW,zB=bW;if(zA(0x956)!=='sVxwT')return this[zA(0x8d9)];else{function bA(){const zC=zB,zD=zB;let bB=new h();bB[zC(0x94a)]=new i(),bB[zD(0x94a)][zD(0x459)]=zC(0x74f)+j[zD(0x9e3)](),bB[zC(0x94a)][zD(0x803)]=k[zD(0x9e3)](),bB['coins']=0x0,bB[zD(0x8b3)]=0x0,bB['score']=0x0,bB[zD(0x16b)]=0x0,bB['currentCarId']='1',bB['carBags']=new l();let bC=new m();return bC[zD(0x7b9)]='1',bC['isUnlock']=!![],bB[zC(0x4ae)][zD(0x597)](bC),bB[zC(0x5f6)]=new n(),bB;}}}['notchHeight'](){const zE=bW,zF=c1;if(zE(0xa1e)!==zE(0xa1e)){function bA(){const zG=zF,zH=zF;bm[zG(0x5ff)][zG(0x44a)](),d[zH(0x801)][zH(0x8dd)](this,this[zG(0x7bb)]);}}else{if(this['qg']){let bB=Laya[zE(0x87f)]['height']/this[zE(0x4f5)][zE(0x89d)];return this[zF(0x4f5)][zE(0x929)]*bB;}return 0x14;}}[bW(0x1f9)](){const zI=bW,zL=c1;if(zI(0x5b3)!=='ZHQWH'){function bA(){const zJ=zI,zK=zI;if(d[zJ(0x5ff)][zJ(0x2fe)][zJ(0x1a3)]==![]){g[zK(0x5ff)]['debug'](zK(0x329));return;}this[zK(0x938)](),f[zK(0x5ff)][zK(0x65b)]('OPPOH5GameAPI.onNativeAdClose\x20关闭原生广告');}}else return new Laya[(zI(0x5bd))](0x2ee,0x536);}[bW(0x5c9)](){return'';}[bW(0x113)](){const zM=bW;if(zM(0x740)!=='jMpdu')return'';else{function bA(){const zN=zM,zO=zM;this[zN(0x867)]=this[zO(0x2e3)](0x0),this[zO(0x4b4)]=this[zN(0x2e3)](0x1);}}}['isVertify'](){return![];}[c1(0x58f)](bA){}[c1(0x7d4)](){}[c1(0x5ee)](bA){}['createAppBox'](){}[c1(0x4aa)](){}[c1(0x825)](){}[bW(0x6f9)](bA){}[c1(0x9b9)](){}[c1(0x91b)](bA){}['onStartRecord'](){}[c1(0x2bd)](){}[bW(0x64e)](){}[c1(0x1f7)](){}['onHideInsertAd'](){}[c1(0x42d)](){this['qg']&&this['qg']['vibrateLong']();}}var aC;(function(bA){const zP=c1,zQ=c1;bA[bA['None']=0x0]=zP(0x443),bA[bA[zQ(0x119)]=0x1]='BGM',bA[bA[zP(0x70a)]=0x2]='MainViewBGM',bA[bA[zQ(0x6b0)]=0x3]=zQ(0x6b0),bA[bA[zP(0x44e)]=0x4]='SE_Win',bA[bA['SE_Lose']=0x5]=zP(0x707);}(aC||(aC={})));var aD;(function(bA){const zR=bW,zS=c1;if(zR(0x107)!==zR(0x614))bA[bA[zS(0x312)]=0x0]=zR(0x312),bA[bA[zS(0x6fb)]=0x1]=zR(0x6fb),bA[bA[zR(0x62c)]=0x2]='Buff',bA[bA[zS(0x2ef)]=0x3]=zR(0x2ef),bA[bA[zS(0x6bd)]=0x4]=zR(0x6bd);else{function bB(){const zT=zR;return bm[zT(0x9c4)](d);}}}(aD||(aD={})));var aE;(function(bA){const zU=bW,zV=c1;if(zU(0x95f)!==zV(0x4ee))bA[bA[zV(0x352)]=0x0]=zV(0x352),bA[bA[zU(0x312)]=0x1]=zV(0x312),bA[bA['CoinOrVideo']=0x2]='CoinOrVideo',bA[bA['Video']=0x3]=zV(0x1d1),bA[bA[zV(0x6bd)]=0x4]=zV(0x6bd),bA[bA['Stage']=0x5]=zV(0x539),bA[bA[zU(0x9d6)]=0x6]=zU(0x9d6),bA[bA['StageAndRMB']=0x7]=zV(0x8ff),bA[bA[zV(0x78d)]=0xb]=zV(0x78d),bA[bA[zU(0x31a)]=0xc]='Y_野怪Boss';else{function bB(){const zW=zV;e[zW(0x89c)]('handling\x20success:\x20'+f),g&&h(!![]);}}}(aE||(aE={})));var aF;(function(bA){const zX=c1,zY=bW;if(zX(0x4d2)===zX(0x1f1)){function bB(){const zZ=zY,A0=zX;this['view'][zZ(0x97c)]['onClick'](this,this[zZ(0x5a9)]),this[zZ(0x435)][A0(0x708)][A0(0x609)]=d[A0(0x432)][A0(0x3e6)](this,this[A0(0x3b4)],null,![]),this[A0(0x435)][zZ(0x708)][zZ(0x5a4)]=e['inst'][A0(0x2fe)]['moreGameList']['length'],this[A0(0x435)]['m_List']['on'](f[A0(0x1fe)]['CLICK_ITEM'],this,this[zZ(0xaa5)]);}}else bA[bA[zY(0x710)]=0x0]='StandBy',bA[bA[zX(0x3d7)]=0x1]=zX(0x3d7),bA[bA[zX(0x602)]=0x2]=zX(0x602);}(aF||(aF={})));var aG;(function(bA){const A1=c1,A2=c1;if(A1(0x887)!==A1(0x887)){function bB(){const A3=A2,A4=A2;let bC=d['split']('/'),bD=bC[bC[A3(0x31f)]-0x1][A4(0x3c9)]('.')[0x0],bE=A4(0x1c1)+bD+A3(0x218);return bE;}}else bA[bA['None']=0x0]=A2(0x443),bA[bA[A1(0x442)]=0x1]='Enemy',bA[bA[A1(0x873)]=0x2]=A1(0x873);}(aG||(aG={})));var aH;(function(bA){const A5=c1;bA[bA[A5(0xaa9)]=0x0]='Solider',bA[bA['Hero']=0x1]='Hero';}(aH||(aH={})));var aI;(function(bA){const A6=c1,A7=bW;bA['空']='',bA['主城']='1',bA[A6(0x7c5)]='2',bA[A7(0x762)]='3',bA['祭坛']='4',bA['金矿']='5',bA[A7(0x8d8)]='6';}(aI||(aI={})));var aJ;(function(bA){bA[bA['近战']=0x0]='近战',bA[bA['远程']=0x1]='远程';}(aJ||(aJ={})));var aK;(function(bA){const A8=c1,A9=bW;bA[bA[A8(0x443)]=0x0]=A8(0x443),bA[bA[A9(0x16c)]=0x1]=A9(0x16c),bA[bA[A9(0x663)]=0x2]=A9(0x663),bA[bA['Bow']=0x3]=A8(0x7bd),bA[bA[A8(0x21f)]=0x4]='Magic',bA[bA['Cavalry']=0x5]=A8(0x90a),bA[bA[A9(0xa3a)]=0x6]=A9(0xa3a),bA[bA[A8(0x7e7)]=0x7]=A8(0x7e7),bA[bA[A9(0x4d8)]=0x8]=A8(0x4d8);}(aK||(aK={})));var aL;(function(bA){const Aa=c1,Ab=c1;bA[bA['J_金币']=0x3]='J_金币',bA[bA[Aa(0x120)]=0x4]=Aa(0x120),bA[bA[Ab(0x7b8)]=0x5]=Ab(0x7b8),bA[bA['Z_主角出生点']=0x6]='Z_主角出生点',bA[bA[Aa(0x438)]=0x7]=Ab(0x438),bA[bA['G_关卡']=0x8]='G_关卡',bA[bA[Ab(0x690)]=0x9]=Ab(0x690),bA[bA[Aa(0x673)]=0xa]=Aa(0x673),bA[bA[Aa(0x2d1)]=0xb]=Aa(0x2d1),bA[bA[Ab(0x916)]=0xc]=Ab(0x916),bA[bA['B_补充兵力']=0xd]='B_补充兵力';}(aL||(aL={})));var aM;(function(bA){const Ac=c1,Ae=c1;if('hyqWc'===Ac(0x9ff)){function bB(){const Ad=Ac;this[Ad(0x721)]();}}else bA[bA[Ac(0x816)]=0x0]='G_攻击力',bA[bA[Ac(0x494)]=0x1]=Ae(0x494),bA[bA[Ae(0x774)]=0x2]='H_恢复',bA[bA[Ae(0xa9f)]=0x3]=Ac(0xa9f),bA[bA['S_伤害']=0x4]='S_伤害',bA[bA['B_冰冻']=0x5]=Ae(0x937),bA[bA['S_生命']=0x6]='S_生命',bA[bA[Ac(0x8d2)]=0x7]='J_技能伤害',bA[bA['Y_移动速度']=0x8]=Ae(0x6de),bA[bA[Ae(0x4bc)]=0x9]=Ac(0x4bc);}(aM||(aM={})));var aN;(function(bA){const Af=bW,Ag=c1;if(Af(0x696)===Af(0x366)){function bB(){const Ah=Af,Ai=Ag;bm[Ah(0xa5f)](Ah(0x399)),d(![]);}}else bA[bA['Up']=0x0]='Up',bA[bA['Down']=0x1]=Af(0x17e);}(aN||(aN={})));var aO;(function(bA){const Aj=bW,Ak=bW;bA[bA[Aj(0x54d)]=0x0]=Aj(0x54d),bA[bA[Ak(0x8e4)]=0x1]=Aj(0x8e4),bA[bA[Aj(0x209)]=0x2]=Ak(0x209),bA[bA['Y_友方单体']=0x3]=Ak(0x100),bA[bA[Ak(0x7cb)]=0x4]=Aj(0x7cb),bA[bA[Aj(0x501)]=0x5]=Ak(0x501),bA[bA[Ak(0x75c)]=0x6]=Ak(0x75c),bA[bA[Aj(0x41c)]=0x7]=Ak(0x41c),bA[bA['Z_自身范围敌军']=0x8]=Ak(0x428);}(aO||(aO={})));class aP{constructor(){const Al=c1,Am=c1;this[Al(0x669)]=aC[Al(0x443)],this[Am(0x480)]='';}}class aQ{constructor(){const An=bW,Ao=c1;this[An(0x7e0)]=![],this[An(0x719)]=![],this[Ao(0x580)]=[],this['musicVolume']=0x1,this[Ao(0x964)]=0x1,this[An(0x3a0)]=[],this[An(0x50b)]=[];}static get[c1(0x5ff)](){const Ap=bW,Aq=c1;if(Ap(0x8b1)==='vdiSZ')return this[Aq(0x67b)]==null&&(Laya[Aq(0x171)][Aq(0x35b)]=!![],Laya[Aq(0x87f)][Ap(0x3e1)]&&(Laya[Ap(0x171)][Aq(0x353)]=![]),this[Aq(0x67b)]=new aQ()),this[Aq(0x67b)];else{function bA(){const Ar=Aq;let bB=new f(),bC=bB['getFullYear'](),bD=bB[Ar(0x5ce)]()+0x1,bE=bB['getDate']();if(bD<0xa){}var bF=bC+'/'+(bD<0xa?'0'+bD:bD)+'/'+(bE<0xa?'0'+bE:bE);return bF;}}}[c1(0x40f)](){const As=c1,At=bW;let bA=be[As(0x5ff)][As(0x40f)](ad[At(0x5ff)][At(0x152)]);bA&&(this[As(0x7e0)]=bA['musicMuted'],this['_soundMuted']=bA[As(0x1f3)]),be['inst'][At(0x65b)](At(0x6d9)+JSON['stringify'](bA)),this[At(0xa12)](this[At(0x7e0)]),this[As(0x296)](this[As(0x719)]);}['saveData'](){const Au=bW,Av=c1;be[Au(0x5ff)][Au(0x95c)](ad['inst'][Au(0x152)],{'musicMuted':this[Av(0x7e0)],'soundMuted':this[Au(0x719)]});}[c1(0xa12)](bA){const Aw=c1,Ax=bW;if(Aw(0x3f8)!=='lpVas'){this['_musicMuted']=bA;if(bA==![]){if(Ax(0x4fa)===Ax(0x888)){function bB(){const Ay=Aw,Az=Ax;for(let bC=0x0;bC<this[Ay(0x4f6)]['length'];bC++){const bD=this[Az(0x4f6)][bC];if(bD[Az(0x62f)]==e)return bD;}return null;}}else{this[Ax(0x43b)]=0x1,this[Aw(0x324)](this[Aw(0x43b)],Aw(0x119));if(aV[Aw(0x5ff)][Ax(0x102)]==aU[Ax(0x896)]){if(Aw(0x733)!==Ax(0x377))this[Ax(0x19f)]();else{function bC(){const AA=Aw,AB=Aw;d[AA(0x801)][AA(0x8dd)](this,this[AB(0x284)]),this[AB(0x5d1)](e[AA(0x2fb)][AA(0xa1b)],this,this[AA(0x85f)]),this[AA(0x5d1)](f[AB(0x2fb)][AB(0x565)],this,this[AB(0x9f4)]);}}}}}else this[Ax(0x43b)]=0.001,this[Aw(0x324)](this[Aw(0x43b)],'BGM');this[Ax(0x95c)]();}else{function bD(){const AC=Aw;b&&this[AC(0x579)]();}}}[c1(0x623)](){const AD=bW,AE=bW;if(AD(0x35a)!=='VUZUK')return this[AD(0x7e0)];else{function bA(){const AF=AE;return b['UIPackage']['createObject']('GameAdUI',AF(0x766));}}}[c1(0x296)](bA){const AG=c1,AH=bW;this[AG(0x719)]=bA;if(bA==![]){if('iYvLg'===AH(0xa76))this['soundVolume']=0x1,this[AH(0x324)](this[AG(0x964)],'SE');else{function bB(){const AI=AH;this['m_nativeAd']=this['qg'][AI(0x9f3)]({'posId':b});}}}else this[AH(0x964)]=0.001,this[AG(0x324)](this[AH(0x964)],'SE');this[AG(0x95c)]();}[c1(0xef)](){const AJ=c1;return this[AJ(0x719)];}[c1(0x2d6)](bA,bB){const AK=bW,AL=bW;let bC=new aP();bC[AK(0x669)]=bA,bC[AK(0x480)]=bB,this[AK(0x580)][AK(0x597)](bC);}[bW(0xa29)](bA){const AM=bW,AN=c1;for(let bB=0x0;bB<this[AM(0x3a0)][AM(0x31f)];bB++){const bC=this[AN(0x3a0)][bB];if(bC[AN(0x62f)]==bA){if('GXYuv'!==AM(0x29f)){function bD(){const AO=AN,AP=AN;g[h[AO(0x710)]=0x0]='StandBy',i[j[AO(0x3d7)]=0x1]=AP(0x3d7),k[l[AO(0x602)]=0x2]=AO(0x602);}}else return bC;}}return null;}[c1(0x6aa)](bA){const AQ=c1,AR=c1;this[AQ(0x586)]&&this['currentBgAudio']['pause']();if(bA=='')for(let bB=0x0;bB<this['soundPools'][AQ(0x31f)];bB++){const bC=this['soundPools'][bB];bC[AR(0x811)][AR(0x48d)]();}else for(let bD=0x0;bD<this[AR(0x3a0)][AR(0x31f)];bD++){const bE=this[AR(0x3a0)][bD];if(bE['type']==bA){if(AR(0x9f8)==='HzrQm'){function bF(){const AS=AR;this[AS(0x6f5)]['run']();}}else bE[AR(0x811)][AR(0x48d)]();}}}['pauseSound'](bA){const AT=bW,AU=c1;if(bA=='')for(let bB=0x0;bB<this['soundPools']['length'];bB++){if(AT(0x63c)==='AVSpb'){const bC=this[AU(0x3a0)][bB];bC['audio'][AT(0x48d)]();}else{function bD(){const AV=AU,AW=AU;for(let bE=0x0;bE<this[AV(0x2bc)][AW(0x31f)];bE++){const bF=this['timers'][bE];bF[AV(0x801)][AV(0x6a0)]();}}}}else for(let bE=0x0;bE<this[AU(0x3a0)][AU(0x31f)];bE++){if('TJNyw'===AU(0x345)){function bF(){const AX=AT;bm(AX(0x5db),d);}}else{const bG=this['soundPools'][bE];if(bG[AT(0x669)]==bA){if('ccppF'!==AU(0x9cd)){function bH(){const AY=AT,AZ=AU;d[AY(0x5ff)][AZ(0x65b)]('没广告版本'),e&&f();return;}}else bG[AU(0x811)][AU(0x48d)]();}}}}[bW(0x324)](bA,bB=''){const B0=bW,B1=bW;if(B0(0x510)==='kEicO'){if(bA<=0.001){if(B1(0x7c3)!==B1(0x7c3)){function bC(){const B2=B1,B3=B1;this[B2(0x652)]['push']({'name':f[B3(0x7c9)],'viewController':g}),this[B3(0x958)](h[B2(0x7c9)])?this[B2(0x3f2)](k['ControllerName']):this[B2(0x763)](l[B2(0x7c9)]);}}else bA=0.001;}if(bB==''){for(let bD=0x0;bD<this[B0(0x3a0)]['length'];bD++){const bE=this[B0(0x3a0)][bD];bE[B0(0x811)]['volume']=bA;}Laya[B0(0x171)][B0(0x77a)](bA),Laya[B1(0x171)][B0(0x249)](bA),this[B1(0x586)]&&(this['currentBgAudio'][B1(0x18d)]=bA);}else{if(bB=='BGM'){if(B1(0x44f)!==B1(0x44f)){function bF(){return this;}}else{Laya[B0(0x171)][B1(0x77a)](bA);if(this['currentBgAudio']){if('SvfMs'!==B0(0x670))this[B1(0x586)]['volume']=bA;else{function bG(){const B4=B0,B5=B0;for(let bH=0x0;bH<this[B4(0x702)][B5(0x31f)];bH++){const bI=this[B4(0x702)][bH];if(bI[B4(0x102)]==e['weixin_h5'])return bI[B4(0x6db)];}return'';}}}}}else bB=='SE'&&Laya[B0(0x171)][B1(0x249)](bA);for(let bH=0x0;bH<this[B0(0x3a0)][B0(0x31f)];bH++){if(B0(0x20a)!==B0(0x20a)){function bI(){const B6=B1;this[B6(0x4b8)]();}}else{const bJ=this[B1(0x3a0)][bH];bJ[B1(0x669)]==bB&&(bJ[B1(0x811)]['volume']=bA);}}}}else{function bK(){const B7=B0,B8=B0;bm[B7(0x801)][B8(0x8dd)](this,this[B7(0xa1c)]),d[B8(0x5ff)]['hideResultIconListView']();}}}[bW(0x19f)](){const B9=bW;this['curretnType']&&this['PlayMusic'](this[B9(0x40d)]);}[c1(0x4e2)](bA){const Ba=bW,Bb=bW;for(let bB=0x0;bB<this[Ba(0x580)]['length'];bB++){if('YXyFf'==='YXyFf'){let bC=this[Bb(0x580)][bB];if(bC[Bb(0x669)]==bA){if(aV[Ba(0x5ff)][Bb(0x102)]==aU[Ba(0x896)]){if('snhRY'==='snhRY'){this['curretnType']=bA;if(this[Bb(0x586)]){if(Ba(0xa0f)!==Bb(0xa0f)){function bD(){const Bc=Bb,Bd=Ba;this['view']['m_ImageLoader'][Bc(0x55e)]=b[Bc(0x541)][0x0];}}else this['currentBgAudio'][Bb(0x6ec)](),this[Bb(0x586)]=null;}this[Bb(0x586)]=aV[Ba(0x5ff)][Bb(0x912)]();if(this[Bb(0x586)]){if(Bb(0x97f)!==Ba(0xa2d))this['currentBgAudio']['src']=Laya['URL']['basePath']+bC[Bb(0x480)],this[Ba(0x586)][Bb(0x341)]=!![],this[Bb(0x586)][Bb(0x18d)]=this[Bb(0x43b)],this['currentBgAudio'][Bb(0x65e)]();else{function bE(){const Be=Ba;E[F['CN']=0x0]='CN',G[H['EN']=0x1]='EN',I[J['RU']=0x2]='RU',K[L['AR']=0x3]='AR',M[N['ZH_CN']=0x4]=Be(0x6af),O[P['KO']=0x5]='KO',Q[R['JA']=0x6]='JA',S[T['PT']=0x7]='PT',U[V['ES']=0x8]='ES',W[X['DE']=0x9]='DE',Y[Z['FR']=0xa]='FR',a0[a1['BN']=0xb]='BN',a2[a3['MS']=0xc]='MS',a4[a5['HI']=0xd]='HI',a6[a7['VI']=0xe]='VI';}}}else Laya[Ba(0x171)]['playMusic'](bC[Bb(0x480)],0x0);}else{function bF(){const Bf=Bb,Bg=Ba;this['tt'][Bf(0x212)]({'title':'更新提示','content':Bg(0x79d),'success':function(bG){const Bh=Bg,Bi=Bg;bG['confirm']?d['applyUpdate']():this['tt'][Bh(0x43d)]({'icon':Bi(0x18f),'title':Bi(0x3fa)});}});}}}else{this[Ba(0x6aa)](Bb(0x119));let bG=this[Bb(0xa29)](bC[Ba(0x480)]);if(bG)bG['audio'][Ba(0x18d)]=this[Bb(0x43b)],bG['audio']['play']();else{if(Ba(0x359)===Bb(0x83a)){function bH(){const Bj=Ba,Bk=Ba;this[Bj(0x230)]+=0xa;if(this[Bj(0x230)]>=0x64){this[Bk(0x230)]=0x64,this['removeSelf'](),this[Bk(0xa53)]&&this[Bk(0xa53)][Bk(0x8c4)](!![]);return;}else this[Bk(0x230)]>=this['randShowBanner']&&this[Bk(0x1cc)]();this['view'][Bj(0x7cf)][Bk(0x204)](this[Bk(0x230)],0.3);}}else{let bI=aV[Ba(0x5ff)][Ba(0x912)]();if(bI)bI['src']=Laya['URL']['basePath']+bC[Bb(0x480)],bI['loop']=!![],bI[Bb(0x18d)]=this[Ba(0x43b)],bI[Bb(0x65e)](),this[Ba(0x3a0)][Ba(0x597)]({'key':bC['clipName'],'audio':bI,'type':Ba(0x119),'canplay':![]});else{if('oskHq'!=='oskHq'){function bJ(){const Bl=Bb,Bm=Ba;m[Bl(0x3f9)]=n[Bl(0x3f9)]*o,p[Bm(0x32c)]=q[Bl(0x32c)]*r,s['width']=t['width']*u,v[Bl(0x16e)]=w['height']*x;}}else Laya['SoundManager']['playMusic'](bC[Bb(0x480)],0x0);}}}}this[Ba(0x324)](this[Ba(0x43b)],Ba(0x119));}}else{function bK(){const Bn=Ba,Bo=Bb;i?(q[Bn(0x89c)]('解压zip包成功!!!!!'),this[Bn(0x786)]['push'](r),s['inst'][Bn(0x7ee)](Bn(0x12f),t['stringify'](this['hashData'])),u(!![])):(v[Bo(0xa5f)](Bo(0x9a7)),w(![]));}}}}['Play'](bA,bB=0x1){const Bp=c1,Bq=bW;for(let bC=0x0;bC<this[Bp(0x580)][Bq(0x31f)];bC++){if(Bq(0x83c)!==Bq(0x83c)){function bD(){const Br=Bp,Bs=Bp;this[Br(0x78a)]&&this['platformAPI'][Br(0x59e)]();}}else{let bE=this[Bp(0x580)][bC];if(bE[Bq(0x669)]==bA){if(Bq(0x7f3)!==Bp(0x7f3)){function bF(){const Bt=Bq,Bu=Bq;this[Bt(0x27d)]='',this[Bt(0x2a5)]='',this[Bt(0x8cc)]='',this[Bu(0x908)]=0x0;}}else{if(this[Bq(0x50b)][Bp(0x7a2)](bE[Bq(0x480)])==-0x1){let bG=Laya[Bq(0x171)][Bq(0x8b9)](bE['clipName'],bB);this[Bp(0x50b)][Bq(0x597)](bE[Bq(0x480)]),bG['completeHandler']=Laya[Bp(0x432)][Bq(0x3e6)](this,this['onSoundPlayComplete'],[bE[Bq(0x480)]]);}else{}this['setVolume'](this[Bp(0x964)],'SE');}}}}}['PlayURL'](bA,bB=0x1){const Bv=bW,Bw=bW;if(Bv(0x52d)!=='cePGw'){if(this[Bw(0x50b)][Bw(0x7a2)](bA)==-0x1){let bC=Laya['SoundManager']['playSound'](bA,bB);bC&&(this[Bw(0x50b)]['push'](bA),bC[Bw(0x847)]=Laya[Bv(0x432)][Bv(0x3e6)](this,this[Bv(0x150)],[bA]));}else{}this['setVolume'](this[Bv(0x964)],'SE');}else{function bD(){e(f[g](h));}}}[bW(0x150)](bA){const Bx=c1,By=bW;let bB=this[Bx(0x50b)][By(0x7a2)](bA);this[Bx(0x50b)][By(0x6fe)](bB,0x1);}}class aR{constructor(){const Bz=c1,BA=bW;this['qg']=window['qg'],this[Bz(0x4f5)]=null,this[Bz(0x338)]=null,this[BA(0x7bf)]=null,this[Bz(0x4a9)]=null,this['m_nativeAd']=null,this[BA(0x1b9)]=null,this[Bz(0x1f0)]=![],this[BA(0x3fc)]=![],this[BA(0x8d9)]=0xaa,this[Bz(0x1cf)]=![],this['ishide']=![],this[BA(0x46d)]=!![],this['deskTopRecordKey']='',this['canLoadInsertAd']=![],this[BA(0x787)]=0x2710,this[Bz(0x66d)]=!![],this[BA(0xab1)]=0xea60,this['insertAdShowCD']=0x9c40,this['canShowRewardAd']=!![],this[Bz(0x497)]=0x2710,this[BA(0xa17)]=null,this['currentNativeIconAd']=null;}['downloadFile'](bA,bB){const BB=bW,BC=bW;this['qg']?(this[BB(0x3eb)]!=null&&this[BC(0x3eb)][BC(0x57f)](),this['downloadTask']=this['qg'][BB(0x260)]({'url':bA,'success'(bC){const BD=BB,BF=BB;if('yjfrW'!==BD(0x211)){function bD(){const BE=BD;bm['log'](BE(0x6d3),d);}}else console[BD(0x89c)](BD(0x883),bC),bB&&bB(!![],bC);},'fail':function(bC,bD){bB&&bB(![],null);}})):bB&&bB(![],null);}[c1(0x2c3)](bA,bB){const BG=c1,BH=c1;if(BG(0x9f2)!==BH(0x9f2)){function bC(){const BI=BH;this['timer']=new b[(BI(0x94b))]();}}else{if(this['qg'])this['qg'][BG(0x3a5)]({'srcUri':bA,'dstUri':this[BH(0x80b)](),'success':function(bD){const BJ=BG,BK=BH;console[BJ(0x89c)](BK(0x138)+bD),bB&&bB(!![]);},'fail':function(bD,bE){const BL=BG;if(BL(0x776)==='IiAPw')console['log']('handling\x20fail,\x20code\x20=\x20'+bE),bB&&bB(![]);else{function bF(){const BM=BL,BN=BL;let bG=new bm();bG[BM(0x7b9)]=d,bG[BN(0x1f2)]=!![],this[BN(0x59a)][BM(0x4ae)][BM(0x597)](bG),this[BM(0x92d)]();}}}});else{if(BH(0x11a)!==BH(0x7e6))bB&&bB(![]);else{function bD(){const BO=BH,BP=BG;this['m_nativeIconAd'][BO(0x537)]({'adId':e}),f[BO(0x5ff)]['debug'](BO(0xaab)+g[BO(0x921)](h));}}}}}[bW(0xa21)](bA,bB){const BQ=bW,BR=bW;if(this['qg']){let bC=this[BQ(0x80b)]()+bA;console[BR(0x89c)]('readFileSync:',bC);const bD=this['qg'][BQ(0x7fe)]({'uri':bC,'encoding':'utf8'});if(typeof bD===BQ(0x75a))console[BR(0x89c)](BQ(0x16f)+bD),bB&&bB(![],'');else{if(BR(0x841)!=='mxAON')bB&&bB(!![],bD['text']);else{function bE(){const BS=BQ,BT=BQ;let bF=this;this[BS(0x4a9)]=this['wx'][BS(0xa41)]({'adUnitId':b[BT(0x5ff)][BS(0x2fe)][BT(0x3f0)]});}}}}else bB&&bB(![],'');}[bW(0x7ee)](bA,bB){const BU=bW,BV=c1;if(this['qg']){let bC=this['userDataPath']()+bA;const bD=this['qg'][BU(0x7ee)]({'uri':bC,'text':bB});bD===BV(0x58a)?console[BU(0x89c)](BV(0x4c4)):console[BV(0x89c)](BU(0x1e4)+bD);}}[bW(0x80b)](){const BW=bW;return BW(0x513);}[c1(0x8ea)](bA){const BX=bW,BY=c1;if(BX(0x5df)===BY(0x5df)){if(this[BX(0x6f2)]>=bA)return!![];return![];}else{function bB(){const BZ=BX;this[BZ(0x9b5)]=b['baidu_h5'];}}}['onHide'](){const C0=bW,C1=bW;aQ[C0(0x5ff)][C0(0x324)](0x0),Laya[C1(0x801)][C1(0x6b9)]=0x0;}[bW(0x26b)](){const C2=c1,C3=c1;if(C2(0x4cb)===C2(0x1e8)){function bA(){const C4=C2,C5=C3;d[C4(0x5ff)][C4(0x65b)](C5(0x6be)),this[C5(0x338)]=null,e[C5(0x5ff)]['SendEvent'](f[C5(0x805)]);}}else{Laya['timer'][C3(0x6b9)]=0x1;if(aQ[C3(0x5ff)]['getMusicMuted']()==![]){if(C2(0xa01)!==C2(0x948)){if(this[C2(0x3fc)]==![]){if('TzhSD'!==C3(0x370))aQ[C3(0x5ff)][C2(0x324)](0x1),aQ[C3(0x5ff)][C2(0x19f)]();else{function bB(){const C6=C2,C7=C2;k==![]?u(![]):(v[C6(0x478)][C6(0x951)]=!![],w[C7(0x478)]['date']=x['getTime'](),y[C7(0xa3f)](z[C6(0x923)],A[C7(0x478)]),B(!![]),C[C6(0x5ff)][C6(0x65b)]('OPPOH5GameAPI.hasShortcutInstalled\x20安装图标成功'));}}}}else{function bC(){const C8=C2,C9=C3;this[C8(0x4a9)]&&this[C9(0x4a9)][C9(0x403)]?(this[C8(0x4a9)]['destroy'](),this[C9(0x4a9)]=null):bm[C8(0x5ff)][C8(0x65b)](C8(0x244));}}}}}['onInit'](bA){const Ca=c1,Cb=c1;this[Ca(0x99f)](),this['qg']&&(aR['inst']=this,this['systemInfo']=this['qg']['getSystemInfoSync'](),be[Ca(0x5ff)]['debug'](Ca(0x7c4)+JSON[Cb(0x921)](this[Ca(0x4f5)])),this[Cb(0x6f2)]=this[Cb(0x4f5)][Ca(0x6f2)],this[Ca(0x497)]=w[Cb(0x5ff)][Ca(0x2fe)][Cb(0x497)],this[Cb(0x787)]=w['inst'][Ca(0x2fe)]['bannerAdShowCD'],this[Ca(0xab1)]=w[Cb(0x5ff)][Ca(0x2fe)][Ca(0xab1)],this[Ca(0x694)]=w[Cb(0x5ff)][Ca(0x2fe)][Cb(0x694)],Laya[Ca(0x801)][Cb(0x8ba)](this[Ca(0x497)],this,()=>{const Cc=Ca,Cd=Cb;if(Cc(0x2c6)===Cc(0x2c6))this['canLoadInsertAd']=!![];else{function bB(){const Ce=Cd,Cf=Cd;return d[Ce(0x9c4)](e['LocalStorage'][Cf(0x615)](f));}}}),this['qg']['onShow'](()=>{const Cg=Cb,Ch=Ca;this[Cg(0x26b)](),be[Ch(0x5ff)][Cg(0x65b)](Ch(0x10c));}),this['qg']['onHide'](()=>{const Ci=Cb,Cj=Cb;this[Ci(0x246)](),be['inst'][Cj(0x65b)](Cj(0x2d4));})),be[Cb(0x5ff)][Cb(0x65b)](Cb(0xa39));}[c1(0x3cc)](bA){const Ck=bW;bA&&bA(!![]),console['log'](Ck(0x289));}[bW(0x62e)](bA){const Cl=bW,Cm=bW;if(Cl(0x33f)!=='ACvhv')this['qg']&&(this['createBannerAd'](),this[Cm(0x2b5)](),this[Cm(0x612)](),this['createNativeAd'](),this[Cm(0x56a)]()),bA(),be['inst'][Cl(0x65b)](Cm(0x58c));else{function bB(){const Cn=Cm,Co=Cl;b[Cn(0x5ff)]['debug'](Co(0x329));return;}}}[bW(0x596)](bA,bB){}[c1(0x912)](){const Cp=c1,Cq=bW;if(Cp(0x84e)===Cp(0x87a)){function bA(){const Cr=Cp,Cs=Cp;f['timer'][Cr(0x8dd)](this,this[Cs(0xa1c)]),g[Cr(0x5ff)][Cs(0x4ec)](bB=>{const Ct=Cs,Cu=Cs;if(bB){let bC=0xc8;n[Ct(0x5ff)][Cu(0x3ae)](bC),this[Cu(0x1a8)](()=>{const Cv=Cu,Cw=Cu;p[Cv(0x67b)][Cw(0x87b)]('gameUI');});}m[Ct(0x801)]['loop'](0x3e8,this,this[Cu(0xa1c)]);});}}else{if(this['qg']){if(Cq(0x90e)!==Cq(0x2a3))return this['qg'][Cp(0x912)]();else{function bB(){const Cx=Cp;throw new b(Cx(0x9a6));}}}return null;}}[c1(0x99f)](){const Cy=bW,Cz=c1;this[Cy(0x923)]=ad[Cy(0x5ff)][Cz(0x531)],this[Cz(0x478)]=this[Cz(0x992)](this[Cy(0x923)]);if(this[Cz(0x478)]==null||this[Cz(0x478)]==undefined||this['deskTopRecord']=='')this[Cz(0x478)]={'isGet':![],'date':''},this[Cy(0xa3f)](this['deskTopRecordKey'],this[Cy(0x478)]);else{let bA=z[Cy(0x80a)](ac[Cz(0x5a3)](),this[Cy(0x478)][Cz(0x1e7)]);console[Cz(0x89c)](Cy(0x624),bA);if(bA>=0x1){if(Cy(0xa98)!==Cy(0x69a))this['saveDataToCache'](this[Cy(0x923)],this['deskTopRecord']);else{function bB(){const CA=Cy;g['timer'][CA(0x804)](this,()=>{const CB=CA,CC=CA;let bC=new m();n['inst']['showPopupView'](bC),bC[CB(0x9fb)]=o[CC(0x432)]['create'](this,()=>{r&&s(!![]);});});}}}}console[Cy(0x89c)](Cz(0x75e),this[Cz(0x478)]);}['hasShortcutInstalled'](bA){const CD=c1,CE=c1;if(this[CD(0x478)]['isGet']==!![]){be[CE(0x5ff)][CD(0x65b)](CE(0x9bd)),bA(!![]);return;}if(this['qg'])this['qg'][CE(0x5b1)]({'success':function(bB){const CF=CD,CG=CE;bB?(be[CF(0x5ff)][CF(0x65b)](CF(0x530)),bA(!![])):(be[CG(0x5ff)][CG(0x65b)](CF(0x781)),bA(![]));}});else{if(CD(0x8ed)===CD(0xab0)){function bB(){const CH=CE,CI=CE;let bC=e[CH(0xa2a)];bC++,f[CI(0x5ff)][CI(0x95c)](g,{'date':h[CI(0x5a3)](),'count':bC});}}else bA(![]);}}[bW(0x90b)](bA){const CJ=c1,CK=bW;let bB=this;Laya[CJ(0x801)][CK(0x8ba)](0x3e8,this,()=>{const CL=CJ;bB['qg'][CL(0x5b1)]({'success':bC=>{const CM=CL,CN=CL;bC==![]?bA(![]):(bB[CM(0x478)][CN(0x951)]=!![],bB[CN(0x478)][CN(0x1e7)]=ac[CN(0x5a3)](),bB['saveDataToCache'](bB['deskTopRecordKey'],bB['deskTopRecord']),bA(!![]),be['inst'][CN(0x65b)](CN(0x247)));},'fail':function(bC){const CO=CL,CP=CL;be[CO(0x5ff)][CO(0x65b)](CO(0x1c5)+JSON[CO(0x921)](bC)),bA(![]);},'complete':function(){}});});}[bW(0x3be)](bA){const CQ=bW,CR=c1;if(CQ(0x677)!==CR(0xa2b)){if(this['qg']){if(this[CQ(0x478)][CQ(0x951)]==!![]){if(CQ(0x6c2)!==CQ(0x6c2)){function bC(){const CS=CQ,CT=CQ;return b[CS(0x649)][CS(0x6ff)](CT(0x893),'LoadingBar');}}else{console[CR(0x89c)](CQ(0x9bd));return;}}let bB=this;this['qg'][CQ(0x5b1)]({'success':function(bD){const CU=CR,CX=CQ;if(CU(0x792)!=='CyPPf'){function bE(){const CV=CU,CW=CU;return d[CV(0x9c4)](e[CV(0x921)](f));}}else{console['log'](CX(0x653));if(bD==![]){if(CU(0x79f)===CU(0x79f))bB['qg']['installShortcut']({'success':function(bF){const CY=CX,CZ=CU;be[CY(0x5ff)][CZ(0x65b)](CZ(0x7a3)),bB['delayCheckShortCut'](bA);},'fail':function(bF){const D0=CU,D1=CU;be['inst']['debug']('VivoH5GameAPI.installShortcut\x20安装图标失败\x20'+JSON[D0(0x921)](bF)),bB[D1(0x90b)](bA);},'complete':function(){}});else{function bF(){const D2=CU,D3=CU;bm['warn'](D2(0x1ad)),d[D3(0x801)][D3(0x6b9)]=0x1;}}}else{if('byznA'!==CU(0xa6c))be['inst'][CU(0x65b)](CX(0x111)),bA(![]);else{function bG(){const D4=CU,D5=CX;g[h[D4(0x443)]=0x0]=D4(0x443),i[j['Enemy']=0x1]=D5(0x442),k[l[D4(0x873)]=0x2]=D5(0x873);}}}}},'fail':function(bD){const D6=CR,Da=CR;if(D6(0x724)!=='ZLQyk'){function bE(){const D7=D6,D8=D6;var bF=typeof k==='function'&&l[m[D7(0x434)]],bG=0x0;if(bF)return bF[D8(0xa0d)](n);return{'next':function(){const D9=D7;if(u&&bG>=v[D9(0x31f)])w=void 0x0;return{'value':x&&y[bG++],'done':!z};}};}}else be[D6(0x5ff)]['debug'](Da(0x4a6)+JSON[D6(0x921)](bD)),bA(![]);},'complete':function(){}});}else{if('hgzzS'!==CQ(0x148))this[CR(0x478)]['isGet']=!![],this[CR(0x478)][CR(0x1e7)]=ac['getTime'](),this[CR(0xa3f)](this[CR(0x923)],this[CQ(0x478)]),bA(!![]),be[CQ(0x5ff)]['debug'](CQ(0x7a3));else{function bD(){const Db=CR,Dc=CQ;s['Vector3'][Db(0x890)](bI,bI),t[Dc(0x587)]['normalize'](u,v);var bE=w[Db(0x587)][Db(0x7d0)](bI,x);if(bE>=0x1)return new y['Quaternion']();if(bE<0.000001-0x1){var bF=new K[(Db(0x587))]();L[Dc(0x587)][Db(0x67a)](new M['Vector3'](0x1,0x0,0x0),bI,bF),this[Db(0x954)](bF),N[Dc(0x587)]['cross'](new O[(Dc(0x587))](0x0,0x1,0x0),bI,bF),P[Db(0x587)][Db(0x890)](bF,bF),Q['Quaternion'][Db(0x2b4)](bF,0xb4,bE);}else{var bG=R[Db(0x44d)](0x2*(0x1+bE)),bH=0x1/bG,bI=new S[(Dc(0x587))]();T['Vector3']['cross'](bI,U,bI),bE['x']=bI['x']*bH,bE['y']=bI['y']*bH,bE['z']=bI['z']*bH,bE['w']=0.5*bG,bE['normalize'](bE);}return bE;}}}console[CR(0x89c)]('installShortcut');}else{function bE(){this['eventDispatcher']['off'](d,e,f);}}}[c1(0x913)](){}[bW(0x726)](){const Dd=bW,Dg=c1;if(Dd(0x813)!=='cmJWK'){function bA(){const De=Dd,Df=Dd;d[De(0x96d)](e,Df(0x461),{'value':f});}}else{if(w[Dd(0x5ff)][Dg(0x2fe)][Dg(0x1a3)]==![]){if('SFTPJ'!==Dd(0x184)){be[Dg(0x5ff)][Dd(0x65b)](Dd(0x329));return;}else{function bB(){const Dh=Dg,Di=Dd,bC=this[Dh(0xa6e)]['fileList'][bm];if(bC[Dh(0x62f)]==d)return bC['url'];}}}if(this['qg']){let bC=w['inst'][Dg(0x2fe)][Dd(0xa43)];if(bC==undefined||bC==''){be['inst']['debug']('bannerId不能为空');return;}if(this['canShowBannerAd']==![]){if('hvHah'==='hvHah'){be['inst']['debug'](Dg(0x73d));return;}else{function bE(){const Dj=Dd,Dk=Dd;return this[Dj(0x2fe)][Dk(0x35c)]['useLotteryShareBtn'];}}}this[Dg(0xa07)](),this[Dd(0x338)]=this['qg']['createBannerAd']({'posId':bC,'style':{}});let bD=this[Dd(0x338)]['show']();bD&&bD['then'](()=>{const Dl=Dg,Dm=Dd;x[Dl(0x5ff)][Dl(0x3c0)](y[Dm(0x529)]),be['inst']['debug'](Dm(0x266)),this[Dl(0x1cf)]=!![];})[Dd(0x3c5)](bF=>{const Dn=Dg,Do=Dd;if(Dn(0x7cd)!==Dn(0x5b5))be[Dn(0x5ff)][Do(0x65b)](Do(0xa83)+JSON[Dn(0x921)](bF)),x[Dn(0x5ff)][Dn(0x3c0)](y[Dn(0x805)]),this['m_bannerIsShow']=![];else{function bG(){const Dp=Do,Dq=Do;for(var bH=0x0;bH<this[Dp(0x8bf)];bH++){var bI=bH+0x1;this[Dq(0x926)][Dp(0x715)]('p'+bI)[Dq(0x730)](d);}}}}),this[Dd(0x170)]();}}}['resetBannerCDTimer'](){const Dr=bW,Ds=c1;this['canShowBannerAd']=![],Laya[Dr(0x801)][Ds(0x8ba)](this[Ds(0x787)],this,()=>{const Dt=Ds,Du=Ds;this['canShowBannerAd']=!![],be[Dt(0x5ff)][Du(0x65b)](Dt(0x128));});}['onHideBanner'](){const Dv=bW,Dw=c1;if(w['inst'][Dv(0x2fe)]['canAd']==![]){be[Dw(0x5ff)][Dw(0x65b)]('没广告版本');return;}if(this['qg']){if(this[Dw(0x1cf)]&&this[Dv(0x338)]){var bA=this[Dv(0x338)][Dw(0xa87)]();bA&&bA[Dv(0x5c8)](()=>{const Dx=Dv,Dy=Dv;if(Dx(0x8db)==='nQZNw')be[Dx(0x5ff)][Dy(0x65b)](Dx(0x6be)),this[Dy(0x338)]=null,x[Dy(0x5ff)][Dx(0x3c0)](y[Dy(0x805)]);else{function bB(){const Dz=Dy,DA=Dy;var bC=f[Dz(0x918)]['getJSON'](g);return''==bC||null==bC||null==bC||DA(0x685)==bC?(this[DA(0x82d)](h,i),j):bC;}}})[Dw(0x3c5)](bB=>{const DB=Dv,DC=Dv;be[DB(0x5ff)][DC(0x65b)](DC(0x83e)+JSON['stringify'](bB));}),this[Dw(0x338)]=null,this[Dv(0x1cf)]=![],this['resetBannerCDTimer']();}}}[bW(0xa07)](){const DD=c1,DE=c1;if(DD(0x395)==='NZmET'){if(w[DD(0x5ff)][DD(0x2fe)][DD(0x1a3)]==![]){be[DD(0x5ff)][DD(0x65b)](DE(0x329));return;}if(this['qg']){if(this[DD(0x1cf)]&&this[DE(0x338)]){var bA=this[DD(0x338)]['destroy']();bA&&bA[DD(0x5c8)](()=>{const DF=DE,DG=DD;be[DF(0x5ff)]['debug']('banner广告销毁成功'),this[DF(0x338)]=null,x[DG(0x5ff)]['SendEvent'](y['ON_BANNER_FAIL_EVENT']);})['catch'](bB=>{const DH=DD,DI=DD;be[DH(0x5ff)][DI(0x65b)](DH(0x977)+JSON[DI(0x921)](bB)),this['onHideBanner']();}),this[DE(0x170)]();}}}else{function bB(){const DJ=DE,DK=DD;d[DJ(0x5ff)]['debug']('OPPOH5GameAPI.reportAdClick\x20原生广告上报点击'+e),this[DJ(0x413)][DK(0x537)]({'adId':f}),this[DK(0x276)]();}}}[bW(0x2b5)](){}[bW(0x4d3)](bA,bB){const DL=c1,DO=c1;if('tbaLd'!==DL(0x660)){function bC(){const DM=DL,DN=DL;this['m_n2']=this[DM(0x2e3)](0x0),this[DM(0x867)]=this[DM(0x2e3)](0x1);}}else{if(w[DO(0x5ff)][DL(0x2fe)]['canAd']==![]){be[DO(0x5ff)][DL(0x65b)]('没广告版本'),bA&&bA();return;}if(this['qg']){if(this['versionCompareUsage'](0x411)==![]){be[DO(0x5ff)][DO(0x65b)](DO(0x2cc)),bB&&bB(0x1,DL(0x718));return;}let bD=w[DO(0x5ff)][DL(0x2fe)][DL(0x4c6)];if(bD==undefined||bD==''){be['inst']['debug'](DL(0x9c6));return;}if(this[DL(0x754)]==![]){if(DL(0xaa0)!==DO(0xaa0)){function bE(){const DP=DO,DQ=DL;this[DP(0x5a1)]=0.3,this[DP(0x801)]=new b['Timer']();}}else{be['inst'][DL(0x65b)](DO(0x7d2)),bB&&bB(0x1,DO(0x718));return;}}if(this[DL(0x7bf)]==null){if('AzAfK'!=='ifiPn')this[DO(0x7bf)]=this['qg']['createRewardedVideoAd']({'posId':bD}),this[DO(0x7bf)]['onLoad'](this[DO(0x3a3)]),this[DL(0x7bf)][DL(0x99a)](this['onRewardAdError']),this[DL(0x7bf)][DL(0x5a9)](this[DO(0xa7c)]);else{function bF(){const DR=DL,DS=DO;this['tt']&&this['tt'][DR(0x194)]({'templateId':i['inst'][DS(0x2fe)][DS(0x37d)],'title':'','desc':'','imageUrl':'','query':'','success'(){l(!![]);},'fail'(bG){l(![]);}}),h[DR(0x89c)](DR(0x865));}}}this[DL(0x34c)]=bA,this[DO(0xa40)]=bB,this[DO(0x1f0)]?this[DO(0x7bf)][DL(0x92a)]()[DO(0x5c8)](()=>{const DT=DL,DU=DL;be[DT(0x5ff)][DT(0x65b)](DU(0x81e)),this[DT(0x3fc)]=!![],aR[DU(0x5ff)][DT(0x246)]();})[DL(0x3c5)](bG=>{const DV=DO,DW=DL;this['onVideoAdFailCallback']&&this[DV(0xa40)](0x1,''),this[DV(0x8c7)](),be['inst']['debug'](DV(0x320)+JSON['stringify'](bG));}):this[DL(0x7bf)][DL(0x24b)]()['catch'](bG=>{const DX=DO,DY=DO;this[DX(0x1f0)]=![],this['onVideoAdFailCallback']&&this[DY(0xa40)](0x1,''),this[DX(0x8c7)](),be[DX(0x5ff)][DY(0x65b)](DY(0x855)+JSON[DX(0x921)](bG));});}else bA&&bA();console[DL(0x89c)](DL(0x495));}}['onRewardAdLoad'](){const DZ=c1,E0=c1;let bA=aR[DZ(0x5ff)][DZ(0x7bf)]['show']();be[DZ(0x5ff)][E0(0x65b)](E0(0x26d)),bA&&bA[E0(0x5c8)](()=>{const E1=E0,E2=E0;if(E1(0x967)===E2(0x454)){function bB(){return b;}}else be['inst'][E1(0x65b)](E2(0x81e)),aR[E2(0x5ff)][E1(0x3fc)]=!![],aR[E1(0x5ff)][E1(0x246)]();})[E0(0x3c5)](bB=>{const E3=DZ,E4=E0;be[E3(0x5ff)][E4(0x65b)](E3(0x5d0)+JSON['stringify'](bB)),aR[E3(0x5ff)][E4(0xa40)]&&aR[E3(0x5ff)][E3(0xa40)](0x1,''),aR[E3(0x5ff)][E3(0x8c7)]();});}[bW(0x8c2)](bA){const E5=bW,E8=c1;if(E5(0x402)==='leoja'){function bB(){const E6=E5,E7=E5;this[E6(0x652)]=new b(),this[E7(0x5e3)]=[];}}else aR[E5(0x5ff)][E5(0x1f0)]=![],aR[E8(0x5ff)]['isVideoAdPlaying']=![],be[E8(0x5ff)][E8(0x65b)](E8(0x6ae)+JSON[E8(0x921)](bA));}[c1(0xa7c)](bA){const E9=c1,Ea=bW;if(E9(0x990)!==E9(0x990)){function bB(){const Eb=Ea,Ec=Ea;this[Eb(0x161)]=[],this[Eb(0x765)]=0x0;}}else{if(bA[E9(0x280)])be[Ea(0x5ff)][E9(0x65b)]('激励视频广告完成，发放奖励'),aR[E9(0x5ff)]['onVideoAdSuccessCallback']&&aR[Ea(0x5ff)][Ea(0x34c)]();else{if(E9(0x10a)===E9(0x360)){function bC(){b=![];}}else be[E9(0x5ff)][E9(0x65b)](E9(0x65f)),aR[Ea(0x5ff)][E9(0xa40)]&&aR['inst'][Ea(0xa40)](0x4,Ea(0x65f));}aR['inst'][E9(0x3fc)]=![],aR['inst'][Ea(0x1f0)]=![],aR[E9(0x5ff)][Ea(0x26b)](),aR[Ea(0x5ff)][Ea(0x8c7)](),aR[E9(0x5ff)][E9(0x754)]=![],Laya[Ea(0x801)][Ea(0x8ba)](aR[Ea(0x5ff)]['rewardAdShowCD'],this,()=>{const Ed=E9,Ee=E9;be[Ed(0x5ff)][Ee(0x65b)](Ed(0x298)),aR[Ee(0x5ff)]['canShowRewardAd']=!![];});}}[c1(0x8c7)](){const Ef=c1;if(Ef(0x2fd)!=='diMlL'){function bA(){const Eg=Ef,Eh=Ef;if(j&&k[Eg(0x7be)])return l;var bB={};if(m!=null)for(var bC in n)if(o[Eh(0x88d)][Eg(0xa0d)](p,bC))bB[bC]=q[bC];return bB['default']=r,bB;}}else this['onVideoAdSuccessCallback']=null,this['onVideoAdFailCallback']=null;}[c1(0xfd)](){const Ei=c1,Ej=bW;this[Ei(0xa73)]=![],Laya[Ej(0x801)][Ej(0x8dd)](this,this[Ej(0x3b0)]),Laya[Ej(0x801)]['once'](this[Ej(0x694)],this,this['_countDownInsertTime']),be['inst'][Ei(0x65b)](Ei(0x2e8)+this[Ei(0x694)]+'秒');}['_countDownInsertTime'](){const Ek=c1,El=c1;this[Ek(0xa73)]=!![],be[El(0x5ff)][El(0x65b)](El(0x5e0)+this['canLoadInsertAd']);}[c1(0x612)](){}['onShowInsertAd'](){const Em=c1,En=bW;if(Em(0x462)!==En(0x462)){function bB(){const Eo=Em,Ep=Em;for(let bC=0x0;bC<this['record'][Eo(0x31f)];bC++){const bD=this[Eo(0x5e3)][bC];if(bD[Ep(0x842)]==e)return bD['count'];}return 0x0;}}else{if(w[Em(0x5ff)]['currentPlatform']['canAd']==![]){be[Em(0x5ff)][Em(0x65b)]('没广告版本');return;}if(this[En(0x8ea)](0x407)==![]){be['inst'][En(0x65b)]('插屏广告需要最小平台号1031');return;}if(this['qg']){if(Em(0x72a)==='twupM'){let bC=w[En(0x5ff)][En(0x2fe)]['insertAdId'];if(bC==undefined||bC==''){if(En(0x4ac)!==En(0x1b7)){be[En(0x5ff)][En(0x65b)](Em(0x39d));return;}else{function bD(){bm&&d();}}}be[Em(0x5ff)][Em(0x65b)](En(0x508)+this['canLoadInsertAd']);if(this[En(0xa73)]==![]){if('USgGg'===En(0x1f5)){be[Em(0x5ff)]['debug']('VivoH5GameAPI.onShowInsertAd\x20没到指定时间不能显示插屏广告'),x[Em(0x5ff)][En(0x3c0)](y['ON_INSERT_AD_ERROR_EVENT']);return;}else{function bE(){const Eq=Em,Er=En;this['bannerRecord']={'hideCount':0x5,'date':''},this['saveDataToCache'](this[Eq(0x470)],this[Er(0x51b)]);}}}this['m_insertAd']!=null&&(this[En(0x4a9)][En(0x4b1)](this['onInsertAdClose']),this['m_insertAd'][Em(0x52b)](this[En(0x503)]),this[En(0x4a9)]=null);this[Em(0x4a9)]=this['qg'][Em(0xa41)]({'posId':bC}),this['m_insertAd'][En(0x5a9)](this[En(0x7df)]),this['m_insertAd']['onError'](this[En(0x503)]);var bA=this['m_insertAd']['show']();bA&&bA[Em(0x5c8)](()=>{const Es=En;be['inst']['debug'](Es(0x5cc));})[Em(0x3c5)](bF=>{});}else{function bF(){const Et=Em;b[Et(0x5ff)]['onNativeAdClose'](),this['removeSelf']();}}}}}[c1(0x7df)](){const Eu=bW,Ev=bW;aR['inst']['countDowwInsertTime'](),x[Eu(0x5ff)]['SendEvent'](y['ON_INSERT_AD_CLOSE_EVENT']),be['inst'][Ev(0x65b)](Eu(0x517));}[c1(0x503)](bA){const Ew=bW,Ex=bW;if(Ew(0x125)===Ew(0x6e0)){function bB(){const Ey=Ew,Ez=Ex;this['ad']=bm[Ey(0x5ff)][Ey(0xa72)],d[Ez(0x89c)](Ez(0x711));}}else aR['inst'][Ex(0xfd)](),x[Ex(0x5ff)][Ew(0x3c0)](y['ON_INSERT_AD_ERROR_EVENT']),be['inst'][Ew(0x65b)](Ex(0x7ba)+JSON[Ew(0x921)](bA));}[bW(0x498)](){const EA=bW,EB=c1;if(EA(0x82f)!==EB(0x82f)){function bA(){const EC=EA,ED=EA;this[EC(0xa2c)](i[ED(0x920)])?(q[EC(0x801)]['callLater'](this,()=>{const EE=ED,EF=ED;let bB=new v();w[EE(0x5ff)][EF(0x294)](bB);}),t&&u(!![])):v&&w(![]);}}else{be[EA(0x5ff)][EB(0x65b)]('暂时不提供销毁插屏广告方法');return;if(w['inst'][EA(0x2fe)][EB(0x1a3)]==![]){be[EB(0x5ff)][EA(0x65b)](EA(0x329));return;}if(this[EB(0x8ea)](0x407)==![]){be['inst']['debug'](EB(0x853));return;}if(this['qg']){if(this[EA(0x4a9)]&&this[EB(0x4a9)]['destroy'])this[EB(0x4a9)][EA(0x403)](),this['m_insertAd']=null;else{if('VNrMd'==='emzYi'){function bB(){const EG=EA,EH=EB;e['inst'][EG(0x65b)](EH(0x1c5)+f[EG(0x921)](g)),h(![]);}}else be['inst'][EB(0x65b)](EA(0x244));}}}}[c1(0x979)](){const EI=c1,EJ=c1;be['inst']['debug']('暂时不提供隐藏插屏广告方法');return;if(w[EI(0x5ff)][EI(0x2fe)]['canAd']==![]){if(EI(0x18c)!==EI(0x18c)){function bA(){const EK=EJ,EL=EJ;b[EK(0x5ff)][EL(0x65b)](EL(0x9c6));return;}}else{be['inst']['debug'](EJ(0x329));return;}}if(this[EJ(0x8ea)](0x407)==![]){be['inst'][EI(0x65b)]('插屏广告需要最小平台号1031');return;}if(this['qg']){if(EJ(0x78c)===EJ(0x488)){function bB(){const EM=EJ,EN=EJ;d[EM(0x89c)]('广告组件出现问题',e),this[EM(0x7bf)][EM(0x24b)]()[EM(0x5c8)](()=>{const EO=EN,EP=EM;g[EO(0x89c)]('手动加载成功'),this[EO(0x7bf)][EP(0x92a)]();});}}else{if(this[EI(0x4a9)]&&this[EI(0x4a9)][EJ(0xa87)]){if(EI(0x51e)==='klzNn')this['m_insertAd'][EJ(0xa87)]();else{function bC(){bm&&d(![],null);}}}else{if('MfrTf'!==EJ(0x6b5)){function bD(){const EQ=EI,ER=EJ;return this[EQ(0x882)]+ER(0x583);}}else be[EJ(0x5ff)][EJ(0x65b)](EJ(0xa6a));}}}}['createNativeAd'](){}[bW(0x9ef)](bA){const ES=c1,ET=bW;be[ES(0x5ff)][ET(0x65b)](ES(0xa84)+JSON[ET(0x921)](bA));}[bW(0x390)](bA){const EU=bW,EV=bW;if(EU(0x2a9)!==EU(0x2a9)){function bB(){const EW=EU,EX=EU;return b[EW(0x649)][EW(0x6ff)](EX(0x563),EX(0x314));}}else{console[EU(0x89c)](EU(0xaae),JSON[EV(0x921)](bA));let bC;if(bA&&bA['adList']){if('SpJuE'===EV(0x37c))bC=bA['adList'][EU(0x387)](),aR[EV(0x5ff)][EU(0xa17)]=bC,aR['inst'][EU(0x413)]['reportAdShow']({'adId':bC[EU(0x421)][EV(0xa89)]()}),aR['inst'][EU(0xa55)](aR['inst'][EV(0xa17)]),aR[EV(0x5ff)][EU(0x9b6)]();else{function bD(){const EY=EU;d['timer'][EY(0x6b9)]=0x1,e&&f();}}}else console[EV(0x89c)](EU(0x7f6));}}[c1(0x457)](bA,bB){const EZ=bW,F0=bW;if(w[EZ(0x5ff)][F0(0x2fe)]['canAd']==![]){if('UTOZl'===EZ(0x452)){function bC(){const F1=EZ;this[F1(0x778)]();}}else{be[F0(0x5ff)][F0(0x65b)](F0(0x329));return;}}if(this['qg']){if(this[EZ(0xa73)]==![]){if('atdOZ'===F0(0x689)){x[EZ(0x5ff)]['SendEvent'](y['ON_NATIVE_AD_READY_EVENT']),x['inst'][EZ(0x3c0)](y[F0(0x7ed)]),be['inst'][F0(0x65b)](EZ(0x1ab));return;}else{function bE(){const F2=EZ;e[f['Up']=0x0]='Up',g[h[F2(0x17e)]=0x1]='Down';}}}let bD=w[EZ(0x5ff)][F0(0x2fe)]['nativeAdId'];if(bD==undefined||bD==''){be['inst']['debug']('nativeAdId不能为空');return;}this[F0(0x413)]==null?this[EZ(0x413)]=this['qg'][EZ(0x9f3)]({'posId':bD}):this['m_nativeAd'][EZ(0x24b)](),aR['inst'][EZ(0xa55)]=bA,this[F0(0x413)][EZ(0x88b)](this[EZ(0x390)]),this[F0(0x413)][EZ(0x88b)](this['onNativeAdError']),this[F0(0x413)][F0(0x26a)](this[EZ(0x390)]),this['m_nativeAd'][F0(0x99a)](this[EZ(0x9ef)]);}}['countDownNativeAdTime'](){const F3=c1,F4=bW;this[F3(0xa73)]=![],Laya[F4(0x801)][F4(0x8dd)](this,this[F3(0x84a)]),Laya[F3(0x801)][F3(0x8ba)](this[F3(0x694)],this,this[F3(0x84a)]),be['inst'][F3(0x65b)](F4(0x613)+this[F3(0x694)]+'秒');}['_countDownNativeAdTime'](){const F5=bW,F6=c1;this[F5(0xa73)]=!![],be['inst']['debug']('VivoH5GameAPI\x20原生插屏倒计完成\x20'+this[F6(0xa73)]);}[bW(0x98a)](bA){const F7=c1,F8=c1;if(F7(0x6e7)!==F7(0x6e7)){function bB(){const F9=F7,Fa=F7;this[F9(0x801)]==null&&(this[Fa(0x801)]=new bm[(Fa(0x94b))]()),this[Fa(0x801)]['frameLoop'](0x1,this,this['onUpdate']);}}else{if(w[F8(0x5ff)][F7(0x2fe)][F8(0x1a3)]==![]){if('tASLM'==='tASLM'){be[F8(0x5ff)]['debug'](F8(0x329));return;}else{function bC(){const Fb=F8;b[Fb(0x89c)]('广告显示成功');}}}this['qg']&&this[F8(0x413)]&&(this[F8(0x413)][F8(0x537)]({'adId':bA}),be[F8(0x5ff)][F8(0x65b)]('点击上报原生id:'+JSON['stringify'](bA)));}}[bW(0x276)](){const Fc=bW,Fd=c1;if(w['inst']['currentPlatform'][Fc(0x1a3)]==![]){if('iLyrz'!==Fc(0x7dd)){be[Fd(0x5ff)][Fd(0x65b)](Fd(0x329));return;}else{function bA(){const Fe=Fc;b[Fe(0x5ff)]['onDestroyNativeAd']();}}}be[Fd(0x5ff)][Fd(0x65b)](Fc(0x6b2));}[c1(0x938)](){const Ff=c1,Fg=bW;if(w[Ff(0x5ff)][Ff(0x2fe)][Ff(0x1a3)]==![]){be[Fg(0x5ff)][Ff(0x65b)](Ff(0x329));return;}be[Ff(0x5ff)][Fg(0x65b)](Ff(0x1e9));}[bW(0x56a)](){}[c1(0xaa6)](bA){const Fh=bW,Fi=bW;be['inst']['debug'](Fh(0x588)+JSON[Fi(0x921)](bA));}[bW(0x4c7)](bA){const Fj=bW,Fk=bW;if(Fj(0x199)!=='hXGwP'){console[Fk(0x89c)](Fj(0x73e),JSON[Fk(0x921)](bA));let bB;if(bA&&bA[Fk(0x485)]){if(Fk(0x4de)===Fk(0x8fa)){function bC(){const Fl=Fj,Fm=Fk;var bD=this['random'](-j,k),bE=this[Fl(0xa4f)](-l,m),bF=this['random'](-n,o),bG=new p['Vector3'](bD,bE,bF);return q['Vector3'][Fl(0x6b9)](bG,r,bG),bG;}}else bB=bA[Fk(0x485)][Fk(0x387)](),aR[Fk(0x5ff)][Fj(0x1b9)][Fk(0x83b)]({'adId':bB[Fj(0x421)][Fk(0xa89)]()}),aR[Fk(0x5ff)][Fk(0x6fd)](bB);}else console[Fj(0x89c)]('不存在原生广告列表');}else{function bD(){const Fn=Fk,Fo=Fj,bE=bm[d];bE[Fn(0x842)]=bE[Fo(0x842)][Fn(0x4c8)](0x0,0x6);}}}[bW(0x5e6)](bA){const Fp=c1,Fq=bW;if(Fp(0x732)===Fq(0x732)){if(w[Fq(0x5ff)][Fp(0x2fe)][Fp(0x1a3)]==![]){if(Fp(0x6bb)!==Fq(0x5a5)){be[Fp(0x5ff)][Fp(0x65b)](Fp(0x329));return;}else{function bB(){this['enabled']=![],b(null);}}}if(this['qg']){if('RxQvW'===Fq(0x5dc)){let bC=w[Fq(0x5ff)][Fp(0x2fe)]['nativeIconAdId'];if(bC==undefined||bC==''){be[Fq(0x5ff)][Fq(0x65b)](Fq(0x6cc));return;}this['m_nativeIconAd']==null?this['m_nativeIconAd']=this['qg'][Fp(0x9f3)]({'posId':bC}):this[Fp(0x1b9)][Fp(0x24b)](),aR[Fq(0x5ff)]['nativeIconAdOnLoad']=bA,this[Fq(0x1b9)][Fq(0x52b)](this[Fq(0xaa6)]),this[Fp(0x1b9)][Fq(0x88b)](this[Fp(0x4c7)]),this[Fq(0x1b9)][Fq(0x26a)](this[Fq(0x4c7)]),this['m_nativeIconAd'][Fp(0x99a)](this[Fp(0xaa6)]);}else{function bD(){const Fr=Fp,Fs=Fp;return b['UIPackage'][Fr(0x6ff)](Fr(0x563),Fs(0x388));}}}}else{function bE(){const Ft=Fp;return this['_inst']==null&&(this['_inst']=new bm()),this[Ft(0x8b7)];}}}[c1(0xa99)](bA){const Fu=bW,Fv=bW;if(Fu(0x4be)===Fu(0x4be)){if(w[Fu(0x5ff)][Fv(0x2fe)][Fu(0x1a3)]==![]){if('vebqk'===Fv(0x6b4)){function bB(){const Fw=Fv;if(this['qg'])return this['qg'][Fw(0x912)]();return null;}}else{be[Fu(0x5ff)]['debug']('没广告版本');return;}}if(this['qg']&&this[Fu(0x1b9)]){if(Fu(0x6bf)===Fu(0x59d)){function bC(){const Fx=Fv,Fy=Fv;this[Fx(0x43b)]=0.001,this[Fx(0x324)](this[Fx(0x43b)],Fy(0x119));}}else this[Fv(0x1b9)][Fu(0x537)]({'adId':bA}),be[Fv(0x5ff)][Fu(0x65b)](Fv(0xaab)+JSON[Fu(0x921)](bA));}}else{function bD(){const Fz=Fv,FA=Fv;this[Fz(0x78a)]&&this[Fz(0x78a)][FA(0xa99)](b);}}}[c1(0x59e)](){}['onDestroyNativeIconAd'](){}[c1(0xa3f)](bA,bB){const FB=bW,FC=bW;if(FB(0x466)===FC(0x466))this['qg']?this['qg'][FC(0x2a4)]({'key':bA,'value':JSON[FB(0x921)](bB)}):Laya[FB(0x918)][FB(0x2d0)](bA,JSON['stringify'](bB));else{function bC(){bm&&d(![],null);}}}['readDataFromCache'](bA){const FD=bW,FE=bW;if(FD(0x3cd)===FD(0x3cd)){if(this['qg']){var bB=this['qg'][FE(0x1b5)]({'key':bA});if(bB){if(FE(0xa54)==='CaTpQ')return JSON[FE(0x9c4)](bB);else{function bC(){const FF=FD,FG=FE;h['inst'][FF(0x51b)][FG(0x854)]--,i[FF(0x5ff)][FF(0x51b)]['hideCount']==0x0&&(o[FG(0x5ff)][FF(0x51b)][FG(0x1e7)]=p[FG(0x5a3)]()),l[FF(0x5ff)][FF(0xa3f)](m[FG(0x5ff)][FG(0x470)],n[FG(0x5ff)][FG(0x51b)]);}}}return null;}else{let bD=Laya['LocalStorage'][FD(0x615)](bA);return bD?JSON[FE(0x9c4)](bD):null;}}else{function bE(){const FH=FD,FI=FD;b[FH(0x5ff)][FH(0x177)](FH(0x50a),this[FI(0x605)]);}}}[bW(0x113)](){return'';}[bW(0x5c9)](){const FJ=c1;if(FJ(0x475)==='BAxTD')return'';else{function bA(){const FK=FJ;return this[FK(0x882)]+'_shortcut';}}}[c1(0x1f9)](){const FL=c1;return new Laya[(FL(0x5bd))](0x2d0,0x500);}[bW(0x126)](){return!![];}[bW(0x638)](){const FM=bW,FN=c1;if(FM(0x998)!==FM(0x129))return this[FN(0x8d9)];else{function bA(){const FO=FM,FP=FM;return d[FO(0x9c4)](e[FP(0x918)][FP(0x615)](f));}}}[bW(0x4f2)](){const FQ=c1,FR=c1;if(this['qg']){if('naqJa'===FQ(0x80e))return this['qg'][FR(0x193)]()['height'];else{function bA(){const FS=FR,FT=FR;d[FS(0x8c4)](e[FT(0x458)][FS(0x479)](f));}}}return 0x14;}[bW(0x643)](){const FU=bW,FV=bW;if(this['qg']){if(FU(0x130)===FU(0x130))this['qg']['vibrateShort']();else{function bA(){return;}}}}[c1(0x64e)](){}['addColorSign'](){}[bW(0x322)](bA,bB){}['navigateToMiniGame'](bA){}[c1(0x626)](){}[bW(0x4aa)](){}[c1(0x825)](){}[bW(0x6f9)](bA){}['hideMoreGameButton'](){}['onShareVideo'](bA){}[bW(0x4f7)](){}[bW(0x2bd)](){}['sendEvent'](bA){}[bW(0x7d4)](){}[bW(0x5ee)](bA){}}class aS{constructor(){const FW=bW,FZ=c1;if(FW(0x53d)!=='MSilU'){function bA(){const FX=FW,FY=FW;this['wx']&&this[FX(0x338)]&&this[FX(0x338)][FY(0x403)]();}}else this['tt']=window['tt'],this[FW(0x102)]='',this[FZ(0xaa4)]=!![],this[FW(0x338)]=null,this['m_bannerHeight']=0xdc,this[FZ(0x7bf)]=null,this[FZ(0x1f0)]=![],this[FZ(0x4a9)]=null,this[FW(0x497)]=0x2710,this[FW(0xa73)]=![],this['insertAdShowCD']=0x2710,this[FZ(0x4b0)]=null,this['sdkVersion']='';}[bW(0x1f4)](bA,bB){const G0=bW,G1=c1;if(this['tt']){if(G0(0x9d0)!==G1(0x9d0)){function bC(){const G2=G1,G3=G0;this[G2(0xa07)](),this[G2(0x338)]=this['qg']['createBannerAd']({'adUnitId':bm['adId']}),this[G2(0x338)][G3(0x26b)](this[G2(0x878)]),this[G2(0x338)][G2(0x99a)](this[G3(0x60d)]),this[G3(0x338)]['onHide'](this[G2(0x412)]),this[G3(0x338)][G3(0x92a)](),d[G2(0x5ff)]['debug'](G3(0x1fd));}}else this['downloadTask']!=null&&this[G1(0x3eb)][G1(0x57f)](),console[G0(0x89c)](G0(0x93d),bA),this[G0(0x3eb)]=this['tt'][G0(0x1f4)]({'url':bA,'success'(bD){const G4=G0,G5=G1;if(bD[G4(0x9b8)]===0xc8){if(G5(0x57d)===G4(0x30a)){function bE(){const G6=G5;this[G6(0x882)]='';}}else bB&&bB(!![],bD);}else bB&&bB(![],null);}});}else{if(G0(0x2e9)===G0(0x2e9))bB&&bB(![],null);else{function bD(){const G7=G0,G8=G1;this[G7(0x478)][G8(0x951)]=!![],this[G7(0x478)][G7(0x1e7)]=d[G8(0x5a3)](),this[G7(0xa3f)](this[G7(0x923)],this[G8(0x478)]),e(!![]),f[G8(0x5ff)][G8(0x65b)](G7(0x7a3));}}}}[bW(0x2c3)](bA,bB){const G9=bW,Ga=bW;if(this['tt']){if(G9(0x827)!=='PcZEU'){function bC(){b(![]);}}else{let bD=this['tt'][Ga(0x8f0)][Ga(0x988)]+'/';this['tt'][G9(0x727)]()[G9(0x2c3)]({'zipFilePath':bA,'targetPath':bD,'success'(bE){const Gb=G9;console[Gb(0x89c)](bE),bB&&bB(!![]);}});}}else bB&&bB(![]);}[bW(0xa21)](bA,bB){const Gc=c1,Gd=c1;if(Gc(0x9d1)==='GotGs'){if(this['tt']){if(Gc(0x654)!==Gd(0x6fa)){let bC=this[Gc(0x80b)]()+bA;console['log'](Gd(0x840),bC),this['tt'][Gc(0x727)]()['readFile']({'filePath':bC,'encoding':Gc(0x14d),'success'(bD){const Ge=Gd,Gf=Gd;if(Ge(0x640)===Gf(0x640))bB&&bB(!![],bD[Gf(0x161)]);else{function bE(){this['visible']=!![];}}},'fail'(bD){bB&&bB(![],'');}});}else{function bD(){const Gg=Gd;this['platformAPI']=null,this['_platform']=b[Gg(0x986)];}}}else{if(Gd(0x37b)===Gd(0x37b))return'';else{function bE(){const Gh=Gc,Gi=Gc;this[Gh(0x17c)]['displayObject'][Gh(0xa3b)]=![];}}}}else{function bF(){const Gj=Gd,Gk=Gd;if(d['inst'][Gj(0x2fe)][Gk(0x1a3)]==![]){g[Gj(0x5ff)][Gj(0x65b)](Gk(0x329));return;}this['qg']&&(this[Gj(0x6d8)](),h['inst'][Gk(0x65b)](Gk(0x272)));}}}[bW(0x7ee)](bA,bB){const Gl=c1,Gm=c1;if(Gl(0xa81)===Gm(0xa81)){if(this['tt']){let bC=this['userDataPath']()+bA;console[Gl(0x89c)](Gm(0x25e),bC,bB),this['tt']['getFileSystemManager']()[Gm(0x7ee)](bC,bB,'utf-8');}}else{function bD(){const Gn=Gl;this[Gn(0x7ac)]();}}}[bW(0x80b)](){const Go=c1;if(this['tt'])return this['tt']['env'][Go(0x988)]+'/';return'';}[bW(0x8ea)](bA){const Gp=c1,Gq=bW;if(Gp(0x3bd)!==Gp(0x24f)){let bB=z[Gp(0x205)](this[Gp(0x668)],bA);if(bB!=0x1)return be[Gp(0x5ff)][Gq(0x65b)](Gp(0x1af)+this[Gq(0x668)]),![];return!![];}else{function bC(){const Gr=Gq,Gs=Gp;bm[Gr(0x200)]?e[Gs(0x771)]():this['tt'][Gr(0x43d)]({'icon':Gr(0x18f),'title':Gr(0x3fa)});}}}[bW(0x45a)](bA){const Gt=bW,Gu=bW;if(Gt(0x4db)===Gt(0x4db)){if(this['tt']){if(Gu(0x117)!==Gt(0x117)){function bB(){const Gv=Gt;return this[Gv(0x7e4)];}}else aS['inst']=this,this[Gu(0x4f5)]=this['tt'][Gu(0x2d3)](),console[Gt(0x89c)](Gt(0x2ed),JSON['stringify'](this[Gt(0x4f5)])),this[Gt(0xaa4)]=this[Gu(0x4f5)][Gt(0x996)]==='Toutiao',this['platform']=this[Gt(0x4f5)][Gt(0x102)],this[Gu(0x668)]=this['systemInfo'][Gu(0x9bc)],this[Gt(0x67c)](),this[Gu(0x578)](),this['tt'][Gt(0x2b9)](function(bC){const Gw=Gt,Gx=Gu;return{'templateId':w[Gw(0x5ff)][Gw(0x2fe)]['shareTemplateId'],'title':Gx(0x253),'desc':'','imageUrl':'','query':'','success'(){},'fail'(bD){}};}),this['tt'][Gt(0x26b)](function(bC){const Gy=Gu,GB=Gt;if('twzON'!==Gy(0x19c)){function bD(){const Gz=Gy,GA=Gy;return b[Gz(0x649)][GA(0x6ff)](Gz(0x88e),Gz(0x7b2));}}else console[GB(0x89c)](GB(0x742)),x[Gy(0x5ff)][Gy(0x3c0)](y[Gy(0x8e3)]);}),this['tt'][Gt(0x246)](function(){const GC=Gu,GD=Gu;if(GC(0x966)!==GD(0x966)){function bC(){const GE=GD;return this['_inst']==null&&(this['_inst']=new bm()),this[GE(0x8b7)];}}else console['log'](GC(0x4dd)),x[GC(0x5ff)][GC(0x3c0)](y[GC(0x168)]);}),this[Gu(0x497)]=w[Gt(0x5ff)][Gt(0x2fe)][Gt(0x497)],this[Gu(0x694)]=w[Gt(0x5ff)][Gu(0x2fe)]['insertAdShowCD'],Laya[Gt(0x801)][Gt(0x8ba)](this['insertAdReadyInterval'],this,()=>{const GF=Gu;this[GF(0xa73)]=!![];});}console[Gu(0x89c)]('TouTiaoH5GameAPI\x20onInit');}else{function bC(){const GG=Gu,GH=Gu;e['log']('Banner广告加载失败================='),f[GG(0x8d9)]=0x14,g['inst']['SendEvent'](h[GG(0x805)]);}}}[c1(0x67c)](){const GI=bW,GJ=c1;if(GI(0x15b)===GJ(0x43f)){function bA(){const GK=GI,GL=GI;return b['UIPackage'][GK(0x6ff)](GK(0x88e),GK(0x42f));}}else{const bB=this['tt'][GI(0x2ab)]();bB['onCheckForUpdate'](function(bC){const GM=GJ,GN=GJ;if(GM(0x5f4)!==GM(0x5f4)){function bD(){const GO=GM,GP=GM;b[GO(0x5ff)][GP(0x65b)](GP(0x65f)),this['onVideoFailCallback']&&this[GP(0x19e)](0x4,GP(0x65f));}}else console[GN(0x89c)](GN(0x67c),bC['hasUpdate']),bC[GM(0x725)]&&this['tt'][GN(0x43d)]({'title':GM(0x630)});}),bB['onUpdateReady'](()=>{const GQ=GI,GR=GI;if(GQ(0x415)!==GQ(0x15d))this['tt']['showModal']({'title':GQ(0x6c7),'content':GR(0x79d),'success':function(bC){const GS=GR,GV=GR;if(GS(0x9aa)==='gtHHW'){function bD(){const GT=GS,GU=GS;e[GT(0x89c)](GU(0x8c9),f['data']),g[GU(0x5ff)]['clickEvent'](GU(0x66a),h[GT(0x161)]);}}else{if(bC['confirm']){if(GV(0x768)===GS(0xa16)){function bE(){const GW=GV,GX=GS;return h[GW(0x96d)]?o[GW(0x96d)](p,GX(0x461),{'value':q}):r[GW(0x461)]=s,n;}}else bB['applyUpdate']();}else this['tt'][GV(0x43d)]({'icon':'none','title':'小程序下一次「冷启动」时会使用新版本'});}}});else{function bC(){const GY=GR,GZ=GR;return this[GY(0x4eb)](g-h[GY(0x7e1)](i/j)*k,0x0,l);}}}),bB[GI(0x5ca)](()=>{const H0=GI,H1=GI;this['tt'][H0(0x43d)]({'title':H0(0x5fe)});});}}['onInitRecorder'](){const H2=c1,H3=bW;if(H2(0x76d)!==H2(0x6f6)){if(this['tt']){if(this[H2(0x8ea)](H2(0x4e3))==![]){if(H2(0x4ea)===H3(0x265)){function bA(){const H4=H2;for(var bB in e)if(!f[H4(0x88d)](bB))g[bB]=h[bB];}}else{be[H2(0x5ff)][H3(0x65b)](H2(0x536));return;}}this['m_recorder']=this['tt'][H3(0x760)](),this[H2(0x525)][H2(0x5bc)](bB=>{const H5=H3,H6=H2;if('fQVUM'!==H5(0x372))be[H6(0x5ff)][H6(0x65b)]('开始录屏'+JSON[H6(0x921)](bB));else{function bC(){return this['_musicMuted'];}}}),this['m_recorder'][H3(0xa88)](bB=>{const H7=H2,H8=H2;this[H7(0x48f)]=bB['videoPath'],be[H7(0x5ff)][H8(0x65b)](H7(0x444)+this[H7(0x48f)]);}),this['m_recorder']['onError'](bB=>{const H9=H3,Ha=H2;if(H9(0x31e)===H9(0xa52)){function bC(){const Hb=H9,Hc=H9;e&&(this['removeSelf'](),i[Hb(0x801)][Hb(0x8ba)](0x3e8,this,()=>{l&&m();}));}}else be[Ha(0x5ff)][H9(0x65b)](Ha(0x32f)+JSON[H9(0x921)](bB));});}console[H2(0x89c)]('TouTiaoH5GameAPI\x20onInitRecorder');}else{function bB(){const Hd=H2,He=H2;if(bm[Hd(0x5ff)]['currentPlatform'][Hd(0x1a3)]==![]){e[Hd(0x5ff)][He(0x65b)](Hd(0x329));return;}}}}[c1(0x62e)](bA){const Hf=bW,Hg=c1;if(Hf(0xa9a)!==Hf(0xa9a)){function bB(){const Hh=Hg,Hi=Hg;var bC=e[Hh(0x587)][Hh(0x7d9)](this[Hi(0x106)],new f[(Hi(0x587))]()),bD=g[Hi(0x587)][Hh(0x7d9)](this[Hi(0x8a5)],new h[(Hh(0x587))]());return!bC&&!bD;}}else this['createBannerAd'](),this['platform']!='devtools'&&this[Hg(0x2b5)](),this['createInsertAd'](),bA&&bA(),console[Hf(0x89c)](Hf(0x239));}[c1(0x7d4)](bA){const Hj=c1,Hk=bW;this['tt']&&this['tt'][Hj(0x194)]({'templateId':w['inst']['currentPlatform'][Hj(0x37d)],'title':'','desc':'','imageUrl':'','query':'','success'(){bA(!![]);},'fail'(bB){bA(![]);}}),console[Hj(0x89c)](Hk(0x865));}[bW(0x638)](){const Hl=c1,Hm=bW;if(Hl(0x9c2)!==Hm(0x56c))return this['m_bannerHeight'];else{function bA(){const Hn=Hm,Ho=Hm;this['loadingView']?q['Tween']['to'](this[Hn(0x270)]['View'],{'alpha':0x0},0x1f4,r[Hn(0x60c)][Hn(0x14f)],s[Hn(0x432)][Hn(0x3e6)](this,()=>{const Hp=Hn,Hq=Ho;this[Hp(0x270)]['View']['visible']=![],w&&x[Hp(0x2c8)]();}),v):w&&x[Hn(0x2c8)]();}}}['notchHeight'](){const Hr=bW,Hs=bW;if(this['tt']){if(Hr(0x6fc)!=='DEJsM'){let bA=this['tt'][Hs(0x1ce)]();return bA[Hr(0x9f5)]+0x28;}else{function bB(){const Ht=Hs,Hu=Hr;return b[Ht(0x649)][Hu(0x6ff)](Hu(0x845),Ht(0x232));}}}return 0x28;}[bW(0x1f9)](){const Hv=bW;return new Laya[(Hv(0x5bd))](0x2ee,0x536);}[bW(0x126)](){const Hw=bW;if(Hw(0xaa2)!=='iXnVx'){function bA(){return!![];}}else return!![];}['onLogin'](bA){const Hx=c1;bA&&bA(!![]),console[Hx(0x89c)]('TouTiaoH5GameAPI\x20onLogin:');}[c1(0x91b)](bA){const Hy=c1,HB=bW;if('rmlFY'!==Hy(0x32b)){function bB(){const Hz=Hy,HA=Hy;this[Hz(0xa55)]=b,this[HA(0x413)][HA(0x24b)]();}}else{if(this['tt']&&this[Hy(0x102)]!=Hy(0x604)){if('DaxhF'===Hy(0x22d)){console['log']('录屏视频路径：',this[HB(0x48f)]);let bC=this;this['tt'][HB(0x194)]({'templateId':w[Hy(0x5ff)][HB(0x2fe)][Hy(0x37d)],'channel':Hy(0x2f3),'title':'英雄冲突','desc':'加入英雄冲突，拯救这个世界！','imageUrl':'','query':'','extra':{'videoPath':bC['m_recordVideoPath'],'videoTopics':[Hy(0x6c9)]},'success'(){const HC=HB;console[HC(0x89c)]('分享视频成功'),bA(!![]);},'fail'(bD){const HD=Hy,HE=Hy;if(HD(0xa36)!==HD(0xa36)){function bE(){const HF=HD,HG=HE;bD[HF(0x89c)](HF(0x16f)+f),g&&h(![],'');}}else console[HE(0x89c)](HE(0x1bf),JSON[HE(0x921)](bD)),bA(![]);}});}else{function bD(){const HH=Hy,HI=HB;this[HH(0x59a)][HH(0x429)]=b,this[HH(0x92d)]();}}}else bA(!![]);console['log']('TouTiaoH5GameAPI\x20onShareVideo');}}['showMoreGamesModal'](){const HJ=bW,HK=c1;if(this['tt']&&this[HJ(0x102)]!=HK(0xa92)){if(this[HK(0x8ea)](HK(0x69f))==![]){if(HJ(0x5ea)===HJ(0x344)){function bB(){const HL=HK,HM=HK;b[HL(0x89c)](HM(0x7f0));}}else{be[HK(0x5ff)][HJ(0x65b)]('更多游戏需要1.33.0以上');return;}}let bA=[];for(let bC=0x0;bC<w['inst'][HJ(0x2fe)][HJ(0x367)][HJ(0x31f)];bC++){const bD=w['inst'][HK(0x2fe)][HK(0x367)][bC];bA[HK(0x597)]({'appId':bD[HJ(0x6db)],'query':HJ(0x5c2),'extraData':{}});}this['tt']['showMoreGamesModal']({'appLaunchOptions':bA,'success'(bE){const HN=HJ,HO=HK;console[HN(0x89c)](HN(0x58a),bE[HN(0x52f)]);},'fail'(bE){const HP=HJ;console['log'](HP(0x264),bE['errMsg']);}}),this['tt'][HJ(0x323)](function(bE){const HQ=HJ,HR=HK;console[HQ(0x89c)](HQ(0xab3),bE);});}else{if(HK(0x140)===HJ(0x1ef)){function bE(){const HS=HJ,HT=HK;d[HS(0x5ff)]['debug'](HS(0x486)),e[HT(0x5ff)][HS(0x3c0)](f[HT(0x7ed)]);return;}}else be[HK(0x5ff)][HJ(0x65b)](HK(0x236));}}['onStartRecord'](){const HU=c1,HV=bW;if(HU(0x590)===HU(0x590)){if(this['tt']&&this[HU(0x102)]!='devtools'){if(this[HV(0x8ea)](HV(0x4e3))==![]){be['inst']['debug']('录屏需要1.4.1以上');return;}this[HV(0x525)][HU(0x50c)]({'duration':0x1e});}be['inst'][HU(0x65b)](HV(0x310));}else{function bA(){const HW=HU;this[HW(0xa73)]=!![];}}}[c1(0x2bd)](){const HX=bW,HY=bW;if(this['tt']){if(HX(0x29e)===HY(0x397)){function bA(){const HZ=HY,I0=HX;if(this['tt']){if(this[HZ(0x8ea)](HZ(0x7ca))==![]){l[HZ(0x5ff)]['debug'](HZ(0x23a));return;}this['tt'][HZ(0x60b)](j[HZ(0x62f)],k['data']);}h[I0(0x89c)](HZ(0x567));}}else{if(this[HX(0x8ea)](HY(0x4e3))==![]){be[HX(0x5ff)][HY(0x65b)](HY(0x536));return;}this[HX(0x525)][HY(0x6ec)]();}}be[HX(0x5ff)][HY(0x65b)]('TouTiaoH5GameAPI.onStopRecord\x20停止录屏');}[c1(0x913)](){}[c1(0x726)](bA){const I1=bW,I2=bW;if(w[I1(0x5ff)][I1(0x2fe)][I1(0x1a3)]==![]){be['inst'][I1(0x65b)](I2(0x329));return;}if(this['tt']){if(this[I2(0x8ea)](I2(0x886))==![]){if(I2(0x9e4)!==I2(0x8ca)){be[I1(0x5ff)][I2(0x65b)](I2(0x33d));return;}else{function bC(){const I3=I2,I4=I2;return b[I3(0x649)][I3(0x6ff)]('GameUI',I3(0x18a));}}}this['onDestoryBanner']();let bB={'left':0x0,'top':0x0,'width':0x80,'height':0x0};this[I2(0x1eb)]=this[I2(0x4f5)][I1(0x1eb)]/0x2,this['screenHeight']=this[I1(0x4f5)][I1(0x89d)],bB[I1(0x32c)]=this['screenHeight']-bB[I1(0x3ad)]/0x536*0x2ee,this[I2(0x338)]=this['tt'][I1(0x913)]({'adUnitId':w[I1(0x5ff)][I1(0x2fe)][I2(0xa43)],'style':bB}),this[I2(0x338)][I2(0x337)](this[I1(0x818)]),this[I1(0x338)][I1(0x26a)](this[I2(0x3e0)]),this[I1(0x338)]['onError'](this['onBannerError']);}console[I2(0x89c)](I2(0x8b2));}[bW(0x3e0)](){const I5=bW,I6=bW;if(I5(0x4c5)!==I5(0x658))console[I6(0x89c)](I5(0x869)),aS[I5(0x5ff)]['m_bannerAd'][I5(0x92a)]()[I5(0x5c8)](()=>{const I7=I5,I8=I5;console[I7(0x89c)](I7(0x420)),aS[I8(0x5ff)][I8(0x8d9)]=0xdc,x['inst']['SendEvent'](y['ON_BANNER_SUCCESS_EVENT']);})['catch'](bA=>{const I9=I5,Ia=I6;console['log'](I9(0x600),bA),aS[Ia(0x5ff)][I9(0x8d9)]=0x14,x[Ia(0x5ff)][Ia(0x3c0)](y['ON_BANNER_FAIL_EVENT']);});else{function bA(){const Ib=I6;return e[Ib(0xa4f)]()*(f-g)+h;}}}[bW(0x401)](bA){const Ic=c1,Id=c1;if(Ic(0xa49)===Ic(0xa49))console[Id(0x89c)](Id(0x7c1),JSON['stringify'](bA)),aS['inst']['m_bannerHeight']=0x14,x[Id(0x5ff)][Ic(0x3c0)](y[Id(0x805)]);else{function bB(){const Ie=Ic;this[Ie(0x579)]();}}}[bW(0x818)](bA){const If=bW,Ig=bW;if(If(0x334)!==If(0x334)){function bB(){const Ih=If;this['qg']&&this['qg'][Ih(0x643)]();}}else aS['inst']['m_bannerAd']['style'][Ig(0x3f9)]=aS['inst']['screenWidth']-bA[Ig(0x3ad)]/0x2,aS[Ig(0x5ff)][Ig(0x338)][If(0x2f7)][If(0x32c)]=aS[Ig(0x5ff)][Ig(0x89d)]-bA[Ig(0x16e)];}['onHideBanner'](){const Ii=bW,Ij=c1;if(Ii(0x56f)===Ii(0x73f)){function bA(){const Ik=Ij,Il=Ij;var bB=bm[bB];bB[Ik(0x842)][Il(0x32a)]('cargo')&&d[Il(0x597)](bB);}}else{if(w[Ij(0x5ff)][Ij(0x2fe)][Ii(0x1a3)]==![]){if(Ij(0x713)!==Ij(0x2ba)){be[Ij(0x5ff)][Ii(0x65b)]('没广告版本');return;}else{function bB(){const Im=Ii;let bC=this['tt'][Im(0x1ce)]();return bC['bottom']+0x28;}}}if(this[Ij(0x338)]){if('Rvjjt'!==Ij(0x349)){if(this[Ij(0x8ea)](Ii(0x886))==![]){if(Ii(0x221)!==Ij(0x306)){be[Ii(0x5ff)]['debug'](Ii(0x33d));return;}else{function bC(){const In=Ij,Io=Ij;if(this[In(0x1cf)]&&this[Io(0x338)]){var bD=this[Io(0x338)][Io(0x403)]();bD&&bD['then'](()=>{const Ip=In,Iq=Io;p['inst']['debug']('banner广告销毁成功'),this['m_bannerAd']=null,q[Ip(0x5ff)][Ip(0x3c0)](r[Iq(0x805)]);})[In(0x3c5)](bE=>{const Ir=In,Is=In;p[Ir(0x5ff)][Ir(0x65b)](Ir(0x977)+q['stringify'](bE)),this[Ir(0xa97)]();}),this[In(0x170)]();}}}}this['m_bannerHeight']=0x14,this[Ii(0x338)]['hide'](),x[Ij(0x5ff)][Ij(0x3c0)](y[Ii(0x805)]);}else{function bD(){return!![];}}}console['log']('TouTiaoH5GameAPI\x20onHideBanner');}}[c1(0xa07)](){const It=bW,Iu=c1;if(w['inst']['currentPlatform'][It(0x1a3)]==![]){be['inst'][It(0x65b)](It(0x329));return;}if(this[It(0x338)]){if(this[It(0x8ea)](It(0x886))==![]){be['inst'][It(0x65b)]('Banner广告需要1.3.0以上');return;}this[Iu(0x8d9)]=0x14,this[Iu(0x338)]['offResize'](this[Iu(0x818)]),this[It(0x338)][Iu(0x88b)](this['onBannerLoaded']),this[It(0x338)][It(0x52b)](this[It(0x401)]),this[It(0x338)][It(0x403)](),this[Iu(0x338)]=null,x[Iu(0x5ff)][It(0x3c0)](y[It(0x805)]);}console['log'](Iu(0x300));}[bW(0x2b5)](){const Iv=bW,Iw=c1;if(Iv(0x533)===Iv(0x808)){function bA(){const Ix=Iw,Iy=Iw;let bB=-0x1;for(var bC=0x0;bC<this[Ix(0x652)][Iy(0x31f)];bC++){if(e==this[Ix(0x652)][bC]['name']){var bD=this[Ix(0x652)][bC]['viewController'];bD['DismissViewController'](!![]),bB=bC;}}bB!=-0x1&&this[Iy(0x652)][Iy(0x6fe)](bB,0x1);}}else{if(w[Iw(0x5ff)]['currentPlatform'][Iw(0x1a3)]==![]){be[Iw(0x5ff)][Iv(0x65b)](Iv(0x329));return;}if(this['tt']){if(this[Iv(0x8ea)](Iv(0x886))==![]){be[Iw(0x5ff)]['debug']('激励视频广告1.3.0以上');return;}this[Iw(0x7bf)]=this['tt'][Iv(0x2b5)]({'adUnitId':w['inst'][Iw(0x2fe)][Iv(0x4c6)]}),this[Iw(0x7bf)]['onLoad'](()=>{const Iz=Iw,IA=Iw;be['inst'][Iz(0x65b)]('TouTiaoH5GameAPI\x20激励广告加载成功'),this[IA(0x1f0)]=!![];}),this[Iw(0x7bf)][Iv(0x99a)](bB=>{const IB=Iw,IE=Iv;if('vNsjG'!==IB(0x8fb)){function bC(){const IC=IB,ID=IB;this[IC(0x78a)]&&this[IC(0x78a)][IC(0x98a)](b);}}else be[IE(0x5ff)][IB(0x65b)](IE(0x5b0)+JSON[IB(0x921)](bB)),this[IB(0x19e)]&&this[IE(0x19e)](0x1,IE(0x7a0)),this[IB(0x1f0)]=![],this[IB(0x3c6)]();}),this['m_videoAd'][Iv(0x5a9)](bB=>{const IF=Iw,II=Iw;if('nSYzO'!==IF(0x793)){function bC(){const IG=IF,IH=IF;e[IG(0x68d)][IG(0x5ff)][IH(0x473)](f,!![]),this[IG(0x765)]++;if(this[IG(0x765)]>this[IH(0x161)]['length']-0x1){i[IH(0x5ff)]['SendEvent'](j[IH(0x5c6)]);return;}else this[IH(0x4fb)]();}}else this[II(0x1f0)]=![],bB['isEnded']?(be[II(0x5ff)][II(0x65b)]('TouTiaoH5GameAPI\x20激励视频广告完成，发放奖励'),this[IF(0x682)]&&this[IF(0x682)](),this[II(0x7bf)]['load']()):(be[IF(0x5ff)][II(0x65b)]('激励视频广告取消关闭，不发放奖励'),this['onVideoFailCallback']&&this[IF(0x19e)](0x4,II(0x65f))),this[II(0x3c6)]();});}be[Iw(0x5ff)][Iw(0x65b)]('TouTiaoH5GameAPI.createRewardedVideoAd\x20创建激励视频广告');}}[bW(0x4d3)](bA,bB,bC){const IJ=bW,IK=bW;if(w[IJ(0x5ff)][IJ(0x2fe)][IK(0x1a3)]==![]){be['inst'][IJ(0x65b)](IJ(0x329)),bA&&bA();return;}if(this['tt']&&this[IJ(0x102)]!='devtools'){if(this[IK(0x8ea)](IJ(0x886))==![]){be[IJ(0x5ff)][IJ(0x65b)](IJ(0x86d)),bB&&bB(0x1,IK(0x57c));return;}this['onVideoSuccessCallback']=bA,this[IJ(0x19e)]=bB;this[IJ(0x7bf)]==null&&this[IJ(0x2b5)]();if(this[IJ(0x7bf)]){if(IK(0x118)!=='VZSPK')this[IJ(0x7bf)][IJ(0x92a)]()[IK(0x5c8)](()=>{const IL=IK;console[IL(0x89c)]('广告显示成功');})[IJ(0x3c5)](bD=>{const IM=IK,IN=IK;console[IM(0x89c)](IN(0x7a0),bD),this['m_videoAd'][IN(0x24b)]()[IM(0x5c8)](()=>{const IO=IM,IP=IN;console['log'](IO(0x2c1)),this[IO(0x7bf)]['show']();});});else{function bD(){return function(bE){return e([f,bE]);};}}}else{if('qjbEF'!==IJ(0x970))bB&&bB(0x1,IJ(0x57c));else{function bE(){const IQ=IK,IR=IJ;d[IQ(0x5ff)][IR(0x65b)](IR(0x5f9)),this['m_bannerAd']=null,e['inst']['SendEvent'](f[IQ(0x805)]);}}}}else bA&&bA();be[IK(0x5ff)][IK(0x65b)](IK(0x852));}[bW(0x3c6)](){const IS=c1,IT=bW;aS['inst']['onVideoSuccessCallback']=null,aS[IS(0x5ff)][IS(0x19e)]=null;}['createInsertAd'](){}['onShowInsertAd'](){const IU=bW,IV=bW;if(IU(0x2a7)!==IU(0x90f)){if(w[IU(0x5ff)][IU(0x2fe)][IV(0x1a3)]==![]){be['inst']['debug'](IU(0x329));return;}if(this[IU(0xa73)]==![]){if(IU(0xa13)===IV(0x93e)){function bA(){const IW=IU,IX=IU;this['visible']=![],b[IW(0xa5f)](IW(0xaa1));return;}}else{be[IU(0x5ff)][IV(0x65b)]('TouTiaoH5GameAPI.onShowInsertAd\x20没到指定时间不能显示插屏广告'),x[IV(0x5ff)][IU(0x3c0)](y[IV(0x7ed)]);return;}}this['tt']&&this['isToutiaio']&&(this['onDestoryInsertAd'](),this[IV(0x4a9)]=this['tt']['createInterstitialAd']({'adUnitId':w['inst']['currentPlatform'][IU(0x3f0)]}),this[IU(0x4a9)][IU(0x26a)](this['onInsertAdLoaded']),this['m_insertAd'][IU(0x99a)](this[IU(0x503)]),this[IV(0x4a9)]['onClose'](this[IU(0x7df)]));if(this[IV(0x4a9)]){if(IU(0x692)!==IV(0x8c6)){this[IU(0x4a9)][IU(0x92a)]()['then'](()=>{const IY=IU,IZ=IU;be[IY(0x5ff)][IY(0x65b)](IY(0x678)),this['canLoadInsertAd']=![];})[IV(0x3c5)](bB=>{const J0=IU,J1=IU;be[J0(0x5ff)]['debug'](J1(0x7fc)+JSON[J1(0x921)](bB));});;be[IU(0x5ff)][IU(0x65b)](IV(0xa64));}else{function bB(){const J2=IV,J3=IU;let bC=j[J2(0x87f)][J3(0xaa7)][J2(0x4f8)]?J3(0x5c4):J2(0x491);k[J3(0x5ff)]['registerSound'](l[J2(0x119)],'res/sounds/bgm.mp3'),m[J3(0x5ff)][J2(0x2d6)](n['SE_BuyItem'],J2(0x2f0)),o['inst'][J3(0x2d6)](p[J3(0x44e)],J3(0x558)),q['inst'][J2(0x2d6)](r[J2(0x707)],J2(0x6a6));}}}}else{function bC(){return!![];}}}['onHideInsertAd'](){const J4=c1,J7=bW;if('wwaVY'!==J4(0xa57)){function bA(){const J5=J4,J6=J4;j[J5(0x649)]['addPackage']('res/sdkAssets/YmSdkUI'),k['bindAll'](),l[J5(0x5b8)]['setExtension'](m[J5(0xa8f)],n),o[J6(0x5b8)][J6(0x3bf)](p[J6(0xa8f)],q),r(!![]);}}else{if(w['inst'][J4(0x2fe)][J7(0x1a3)]==![]){be[J7(0x5ff)][J7(0x65b)](J4(0x329));return;}be['inst']['debug'](J4(0x576));}}[bW(0x498)](){const J8=bW,J9=c1;if(J8(0x206)===J9(0x52e)){function bA(){return new i(function(bB,bC){const Ja=a0b,Jb=a0b;q=r[s](t),u(bB,bC,v[Ja(0x714)],w[Jb(0x906)]);});}}else{if(w[J8(0x5ff)][J8(0x2fe)]['canAd']==![]){be['inst']['debug'](J9(0x329));return;}this['tt']&&(this[J8(0x4a9)]&&(this[J9(0xa73)]=!![],this[J8(0x4a9)][J9(0x88b)](this['onInsertAdLoaded']),this[J9(0x4a9)][J8(0x52b)](this[J8(0x503)]),this[J9(0x4a9)][J9(0x4b1)](this[J8(0x7df)]),this[J9(0x4a9)]['destroy'](),this[J9(0x4a9)]=null,be[J8(0x5ff)][J9(0x65b)](J9(0x374))));}}[bW(0x828)](){const Jc=bW,Jd=bW;if(Jc(0xa26)===Jd(0xa26))be['inst'][Jc(0x65b)]('TouTiaoH5GameAPI.onInsertAdLoaded\x20插屏广告加载成功');else{function bA(){const Je=Jc,Jf=Jd;this['m_bannerHeight']=0xaa,this[Je(0x987)]=![],this[Je(0x338)][Jf(0x8af)](this[Jf(0x878)]),this[Je(0x338)]['offError'](this[Je(0x60d)]),this[Je(0x338)][Jf(0x123)](this['onBannerHide']),this[Jf(0x338)][Jf(0x403)](),this[Jf(0x338)]=null,d[Jf(0x5ff)][Je(0x3c0)](e[Jf(0x805)]),f['inst'][Je(0x65b)](Je(0x5bf));}}}[c1(0x503)](bA){const Jg=c1,Jh=bW;if(Jg(0x5ed)!==Jh(0x5ed)){function bB(){const Ji=Jh,Jj=Jh;let bC=this['userDataPath']()+f;this['wx']['getFileSystemManager']()[Ji(0xa21)]({'filePath':bC,'encoding':Jj(0x14d),'success'(bD){k&&l(!![],bD['data']);},'fail'(bD){k&&l(![],'');}});}}else be[Jg(0x5ff)]['debug'](Jg(0x468)+JSON[Jg(0x921)](bA));}[bW(0x7df)](){const Jk=bW,Jn=c1;if('xcPwj'===Jk(0x1a1)){function bA(){const Jl=Jk,Jm=Jk;for(let bB=0x0;bB<this[Jl(0x2fe)][Jl(0x942)][Jm(0x31f)];bB++){let bC=this['currentPlatform'][Jl(0x942)][bB];if(bC[Jm(0x62f)]==e)return bC;}return null;}}else Laya['timer']['once'](aS[Jn(0x5ff)]['insertAdShowCD'],aS[Jk(0x5ff)],()=>{const Jo=Jn;aS[Jo(0x5ff)]['canLoadInsertAd']=!![];}),aS[Jk(0x5ff)][Jk(0x498)](),aS[Jn(0x5ff)][Jk(0xa73)]=![],be[Jn(0x5ff)][Jk(0x65b)](Jk(0x775)+(aS['inst'][Jk(0x694)],aS['inst']['canLoadInsertAd'])+'\x20');}[bW(0x912)](){const Jp=bW,Jq=bW;if(Jp(0xa46)===Jq(0xa46)){if(this['tt'])return this['tt'][Jp(0x912)]();return null;}else{function bA(){const Jr=Jq,Js=Jp;this[Jr(0x1f0)]=![],d[Js(0x280)]?(g[Jr(0x5ff)][Js(0x65b)](Js(0x97b)),this[Jr(0x682)]&&this[Jr(0x682)](),this[Js(0x7bf)]['load']()):(h[Jr(0x5ff)]['debug'](Jr(0x65f)),this[Js(0x19e)]&&this[Js(0x19e)](0x4,Jr(0x65f))),this['clearVideoCallback']();}}}[bW(0xa3f)](bA,bB){const Jt=c1,Ju=bW;if('eqvIz'===Jt(0x386)){function bC(){bm&&d(null);}}else Laya[Jt(0x918)][Jt(0x2bf)](bA,bB);}[bW(0x992)](bA){const Jv=bW;return Laya[Jv(0x918)]['getJSON'](bA);}['vibrateShort'](){const Jw=c1,Jz=bW;if(this['tt']){if('aZnrx'!==Jw(0x4c3)){function bA(){const Jx=Jw,Jy=Jw;if(this['tt']&&this[Jx(0x102)]!=Jy(0x604)){if(this[Jx(0x8ea)](Jx(0x4e3))==![]){f['inst'][Jy(0x65b)](Jy(0x536));return;}this[Jy(0x525)]['start']({'duration':0x1e});}d[Jy(0x5ff)]['debug']('TouTiaoH5GameAPI.onStartRecord\x20开始录屏30秒');}}else this['tt'][Jw(0x643)]();}}[c1(0x58f)](bA){const JA=c1,JB=c1;if(this['tt']){if(JA(0x661)===JA(0x661)){if(this[JB(0x8ea)]('1.8.0')==![]){be[JB(0x5ff)][JA(0x65b)](JA(0x23a));return;}this['tt'][JA(0x60b)](bA[JB(0x62f)],bA['data']);}else{function bB(){const JC=JA,JD=JA;let bC=this[JC(0x435)][JC(0x708)]['selectedIndex'],bD=e[JD(0x5ff)][JC(0x318)][bC];f['inst'][JC(0x59a)][JD(0x7c8)]>=bD['cost']?this[JC(0x4b8)]():i[JC(0x5ff)][JC(0x43d)](j['inst'][JC(0x4ab)](JD(0x5d9)));}}}console[JA(0x89c)]('TouTiaoH5GameAPI\x20sendEvent');}['getDevicePlatform'](){const JE=c1,JF=bW;if(JE(0x9d3)!==JF(0x3df))return'';else{function bA(){const JG=JF,JH=JE;if(this[JG(0x292)])this[JH(0x292)]['destroy']();e[JG(0x641)][JH(0x518)]();let bB=this[JG(0x570)]%this[JG(0x574)],bC=this[JG(0x997)]+('map'+bB+JH(0x897));f[JH(0x166)][JG(0x24b)](bC,g['Handler']['create'](this,bD=>{const JI=JG,JJ=JG;i[JI(0x321)]['addChildAt'](bD,0x0),this[JJ(0x292)]=bD,this[JJ(0x1e0)]();}));}}}[bW(0x5c9)](){return this['platform'];}['createMoreGamesButton'](bA){const JK=bW,JL=bW;if(this['tt']){if(this['m_moreButton']){if('bceQq'!==JK(0x5fa)){this['m_moreButton'][JL(0x92a)]();return;}else{function bD(){const JM=JL,JN=JL;var bE=new e();bE[JM(0x1b0)]='获取失败',bE['data']=null,bE[JM(0x43a)]=f[JM(0x3c1)],g[JN(0xaa3)](h,[bE]);}}}let bB=Laya[JL(0x87f)][JK(0xa6f)]/fairygui[JL(0x68d)]['inst'][JL(0x3ad)],bC={'left':0x0,'top':0x0,'width':0x6c*bB,'height':0x75*bB,'lineHeight':0x0,'backgroundColor':JL(0x757),'textColor':JL(0x6e5),'textAlign':'center','fontSize':0xc,'borderRadius':0x0,'borderWidth':0x0,'borderColor':JK(0x6e5)};bA&&(bC[JK(0x3f9)]=bA[JL(0x3f9)]*bB,bC['top']=bA[JL(0x32c)]*bB,bC[JK(0x3ad)]=bA[JK(0x3ad)]*bB,bC[JK(0x16e)]=bA[JL(0x16e)]*bB),this[JL(0x4b0)]=this['tt'][JL(0x6f9)]({'type':'image','image':'images/moregame.png','style':bC,'appLaunchOptions':[],'onNavigateToMiniGame'(bE){const JO=JL,JP=JL;console[JO(0x89c)](JP(0x6d3),bE);}}),this['m_moreButton'][JK(0x9b1)](()=>{const JQ=JL,JR=JL;console[JQ(0x89c)](JQ(0x70f));});}}['hideMoreGameButton'](){const JS=bW,JT=c1;if('GJZen'!==JS(0x9e8)){if(this['m_moreButton']){if(JS(0x6a9)===JS(0x6a9))this[JS(0x4b0)][JT(0xa87)]();else{function bA(){const JU=JT,JV=JS;d[JU(0x597)]({'url':e[JU(0x2a5)],'type':f[JV(0x839)][JV(0x743)]});}}}}else{function bB(){const JW=JT,JX=JT;bm[JW(0x5ff)][JW(0x6fd)]=d,this[JX(0x1b9)][JX(0x24b)]();}}}[bW(0x596)](bA,bB){}[c1(0x7b7)](bA){}[c1(0x5ee)](bA){const JY=c1,JZ=c1;if('dwJVm'!==JY(0x5f2))console[JZ(0x89c)](JZ(0x89b));else{function bB(){const K0=JY,K1=JY;e[K0(0x918)][K0(0x2d0)](f,g[K0(0x921)](h));}}}[c1(0x322)](bA,bB){}['createNativeIconAd'](){}[c1(0x5e6)](bA){}['onNativeIconAdClick'](bA){}[bW(0x59e)](){}['createNativeAd'](){}[bW(0x457)](){}[bW(0x98a)](bA){}[bW(0x276)](){}[bW(0x1f7)](){}[c1(0x626)](){}[bW(0x4aa)](){}[c1(0x825)](){}[c1(0x5b1)](bA){bA(![]);}[c1(0x3be)](bA){bA(![]);}[bW(0x938)](){}[bW(0x6d8)](){}}class aT{[c1(0x1f4)](bA,bB){}[bW(0x2c3)](bA,bB){}[bW(0xa21)](bA,bB){}[c1(0x7ee)](bA,bB){}[bW(0x80b)](){const K2=c1;if('lpsBr'===K2(0xa08))return'';else{function bA(){const K3=K2;this[K3(0x7c9)]='',this['init']();}}}[bW(0x938)](){}['onDestroyNativeIconAd'](){}[bW(0xa07)](){}['onDestoryInsertAd'](){}['createInnerAudioContext'](){return null;}[bW(0x979)](){}[c1(0x7b7)](bA){}[bW(0x596)](bA,bB){}[bW(0x5c9)](){const K4=bW;if(K4(0x31b)==='NCMJc'){function bA(){const K5=K4,K6=K4;bm[K5(0x89c)](K5(0x408)+d);}}else return'';}[c1(0x64e)](){}[c1(0x322)](bA,bB){}[c1(0x56a)](){}[c1(0x5e6)](bA){}[bW(0xa99)](bA){}[c1(0x59e)](){}['getDevicePlatform'](){const K7=bW,K8=bW;if(K7(0x6da)!==K8(0x6da)){function bA(){const K9=K7;this['ad']=bm,d['inst'][K9(0x9a5)]=this['ad'];}}else return'';}[c1(0x1f7)](){}[c1(0x276)](){}[c1(0x626)](){}['onShowAppBox'](){}[bW(0x825)](){}['hasShortcutInstalled'](bA){const Ka=c1;if(Ka(0xab5)==='TtDEX'){function bB(){const Kb=Ka,Kc=Ka;d&&e(),f[Kb(0x89c)](Kb(0x915));}}else bA(!![]);}[bW(0x3be)](bA){const Kd=c1;if(Kd(0x38a)!=='dngqb'){function bB(){return d([e,f]);}}else bA(!![]);}['createMoreGamesButton'](bA){}[c1(0x9b9)](){}[bW(0x91b)](bA){}[c1(0x638)](){return 0x14;}[c1(0x4f2)](){return 0x14;}[c1(0x58f)](bA){}[c1(0x643)](){}['onStartRecord'](){}[c1(0x2bd)](){}['getScreenSize'](){const Ke=c1;return new Laya[(Ke(0x5bd))](0x2d0,0x500);}['isVertify'](){return!![];}[bW(0x45a)](bA){console['log']('WebH5GameAPI\x20onInit');}[bW(0x3cc)](bA){const Kf=bW;bA&&bA(!![]),console[Kf(0x89c)]('WebH5GameAPI\x20onLogin');}[bW(0x7d4)](){const Kg=bW,Kh=c1;console[Kg(0x89c)](Kg(0x277));}[bW(0x5ee)](bA){const Ki=c1;console['log'](Ki(0x373));}[bW(0x62e)](bA){const Kj=c1,Kk=bW;console[Kj(0x89c)](Kk(0x6ac)),bA&&bA(),console[Kj(0x89c)](Kj(0x6ac));}[c1(0x913)](){const Kl=bW,Km=c1;console[Kl(0x89c)](Km(0x3ca));}['onShowBanner'](){const Kn=bW,Kp=bW;if(Kn(0x69e)!=='EBItp'){function bA(){const Ko=Kn;this[Ko(0x32e)]['offAllCaller'](b);}}else console['log'](Kp(0x961));}[bW(0xa97)](){const Kq=bW,Kr=c1;console[Kq(0x89c)](Kq(0x9dd));}['createRewardedVideoAd'](){const Ks=bW;console[Ks(0x89c)]('WebH5GameAPI\x20createRewardedVideoAd');}[bW(0x4d3)](bA,bB){const Kt=c1,Ku=c1;if(Kt(0xf6)==='eeEto')bA&&bA(),console[Kt(0x89c)](Kt(0x915));else{function bC(){const Kv=Kt,Kw=Kt,bD=this[Kv(0x3a0)][bm];if(bD[Kv(0x62f)]==d)return bD;}}}[bW(0x612)](){const Kx=c1;console[Kx(0x89c)]('WebH5GameAPI\x20createInsertAd');}[c1(0x3a2)](){const Ky=bW,Kz=bW;console[Ky(0x89c)](Kz(0x753));}[c1(0x9f3)](){const KA=bW,KB=bW;console[KA(0x89c)](KA(0xa7b));}[bW(0x457)](){const KC=c1;console[KC(0x89c)]('WebH5GameAPI\x20onShowNativeAd');}[bW(0x98a)](bA){const KD=bW,KE=bW;if(KD(0x307)!==KD(0x307)){function bB(){const KF=KD;let bC=new bm();d[KF(0x5ff)]['showPopupView'](bC);}}else console[KD(0x89c)](KE(0x4e1)+bA);}[bW(0xa3f)](bA,bB){const KG=c1,KH=c1;Laya[KG(0x918)][KH(0x2d0)](bA,JSON['stringify'](bB));}[c1(0x992)](bA){const KI=c1;return JSON['parse'](Laya['LocalStorage'][KI(0x615)](bA));}}var aU;(function(bA){const KJ=bW,KK=bW;bA[bA['NotSet']=0x3e7]=KJ(0x986),bA[bA['weixin_h5']=0x0]=KJ(0x6a4),bA[bA[KK(0x40e)]=0x1]=KJ(0x40e),bA[bA[KJ(0x1fb)]=0x2]=KJ(0x1fb),bA[bA[KK(0x896)]=0x3]=KK(0x896),bA[bA['baidu_h5']=0x4]=KK(0x7ad),bA[bA[KK(0x542)]=0x5]=KK(0x542),bA[bA[KK(0x914)]=0x6]=KK(0x914),bA[bA[KK(0x4a3)]=0x7]=KJ(0x4a3),bA[bA['game_app']=0x8]=KK(0x968),bA[bA[KK(0xfe)]=0x9]=KK(0xfe),bA[bA['huawei_h5']=0xa]=KJ(0x66e);}(aU||(aU={})));class aV{constructor(){const KL=c1,KM=c1;this[KL(0x78a)]=null,this[KM(0x9b5)]=aU[KL(0x986)];}static get['inst'](){const KN=c1,KO=bW;if(this[KN(0x3ee)]===null){if(KO(0x6a3)===KN(0x2c2)){function bA(){const KP=KN,KQ=KN;this[KP(0x32e)][KQ(0x87b)](bm,d);}}else this[KN(0x3ee)]=new aV();}return this[KN(0x3ee)];}get[c1(0x102)](){const KR=c1,KS=c1;if(this['_platform']===aU[KR(0x986)]){if(KR(0x5af)!==KR(0x5af)){function bA(){const KT=KS,KU=KS;return h=this[KT(0x3d6)](i,j*0x2),k-l[KT(0x38e)](m-n);}}else{if(window['tt'])this[KS(0x9b5)]=aU[KS(0x4a3)];else{if(Laya[KS(0x87f)][KR(0x115)])this[KS(0x9b5)]=aU[KS(0x40e)];else{if(Laya[KS(0x87f)][KS(0x3cf)]){if('iuBhr'===KS(0x6e8))this['_platform']=aU['weixin_h5'];else{function bB(){const KV=KR,KW=KR;for(var bC=0x0;bC<this[KV(0x229)][KW(0x31f)];bC++){this['backWheels'][bC]['transform']['localRotationEulerX']=0x0;}}}}else{if(Laya[KS(0x87f)][KS(0x5b9)])this[KR(0x9b5)]=aU['xiaomi_h5'];else{if(Laya[KR(0x87f)][KR(0x33e)])this[KS(0x9b5)]=aU[KS(0x7ad)];else{if(Laya[KR(0x87f)][KS(0x85a)])this['_platform']=aU[KS(0x1fb)];else{if(Laya['Browser'][KS(0x8e7)]){if('uTDhJ'!==KS(0xab6))this[KS(0x9b5)]=aU['vivo_h5'];else{function bC(){const KX=KS,KY=KS;this[KX(0x78a)]&&this[KX(0x78a)][KX(0x62e)](b);}}}else window[KR(0x174)]?this[KR(0x9b5)]=aU[KR(0x66e)]:this[KR(0x9b5)]=aU['web_h5'];}}}}}}}}return this[KS(0x9b5)];}set[c1(0x102)](bA){const KZ=bW;if(KZ(0x445)!=='AxyQZ'){function bB(){const L0=KZ,L1=KZ;b[L0(0x5ff)][L1(0x3a2)]();}}else this['_platform']=bA;}get[c1(0x922)](){const L2=c1,L3=bW;let bA=L2(0x9cb);switch(this[L2(0x102)]){case aU['weixin_h5']:bA=L3(0x974);break;case aU[L3(0x40e)]:bA='手Q小游戏';break;case aU['oppo_h5']:bA=L3(0x932);break;case aU[L2(0x896)]:bA='VIVO小游戏';break;case aU[L3(0x7ad)]:break;case aU[L2(0x542)]:break;case aU[L3(0x914)]:break;case aU['toutiao_h5']:bA=L3(0x499);break;case aU[L2(0x968)]:bA=L2(0x425);break;}return bA;}['init'](){const L4=bW,L5=bW;switch(this[L4(0x102)]){case aU[L4(0x6a4)]:this[L4(0x78a)]=new a8();break;case aU['oppo_h5']:this[L5(0x78a)]=new aB();break;case aU[L5(0x896)]:this[L5(0x78a)]=new aR();break;case aU[L4(0x4a3)]:this[L4(0x78a)]=new aS();break;case aU['web_h5']:this['platformAPI']=new aT();break;}}[c1(0x80b)](){const L6=bW,L7=bW;if(L6(0x575)===L6(0x8c8)){function bA(){const L8=L7,L9=L7;this[L8(0x9b5)]=b[L8(0xfe)];}}else return this[L6(0x78a)]&&this[L6(0x78a)][L6(0x80b)]();}[c1(0x1f4)](bA,bB){const La=bW,Lb=bW;if(La(0x561)!==La(0x561)){function bC(){b(!![]);}}else this[Lb(0x78a)]&&this[Lb(0x78a)][La(0x1f4)](bA,bB);}[bW(0xa21)](bA,bB){const Lc=c1,Ld=bW;if(Lc(0x4c1)===Ld(0x4c1))return this[Lc(0x78a)]&&this[Lc(0x78a)][Lc(0xa21)](bA,bB);else{function bC(){const Le=Ld,Lf=Lc;this[Le(0xa55)]=null,this[Le(0x413)][Le(0x52b)](this['onNativeAdError']),this['m_nativeAd'][Lf(0x88b)](this[Lf(0x390)]),this[Le(0x413)][Le(0x403)](),this[Lf(0x413)]=null;}}}[c1(0x7ee)](bA,bB){const Lg=c1,Lh=bW;this['platformAPI']&&this[Lg(0x78a)][Lg(0x7ee)](bA,bB);}[c1(0x2c3)](bA,bB){const Li=bW,Lj=c1;this['platformAPI']&&this[Li(0x78a)][Li(0x2c3)](bA,bB);}[c1(0x45a)](bA){const Lk=c1,Ll=bW;this[Lk(0x78a)]&&this[Ll(0x78a)]!==null&&this[Ll(0x78a)][Lk(0x45a)](bA);}[bW(0x643)](){const Lm=bW,Ln=bW;if(Lm(0x219)!==Lm(0x219)){function bA(){const Lo=Lm,Lp=Ln;bm[Lo(0x67b)]()[Lp(0x9b4)]&&(e[Lo(0x67b)]()[Lp(0x9b4)][Lp(0x48d)]=!![]);}}else this[Lm(0x78a)]&&this[Ln(0x78a)][Ln(0x643)]();}[bW(0x489)](){const Lq=c1,Lr=bW;this[Lq(0x78a)]&&this[Lr(0x78a)][Lr(0x4f7)]();}[bW(0x2f6)](){const Ls=bW,Lt=bW;if(Ls(0x85d)!=='tYTli'){function bA(){bm('next',d);}}else this[Ls(0x78a)]&&this[Ls(0x78a)][Lt(0x2bd)]();}[bW(0x3cc)](bA){const Lu=bW,Lv=c1;this[Lu(0x78a)]&&this['platformAPI'][Lv(0x3cc)](bA);}[c1(0x7d4)](bA){const Lw=bW,Lx=bW;this[Lw(0x78a)]&&this[Lx(0x78a)]['onShare'](bA);}[c1(0x91b)](bA){const Ly=c1,Lz=c1;if(Ly(0x48b)===Lz(0x48b)){let bB=this['platformAPI'];bB&&bB[Ly(0x91b)](bA);}else{function bC(){const LA=Lz,LB=Ly;var bD=this[LA(0x7b3)][b];bD[LB(0x87e)]=this[LA(0x884)](bD[LB(0x304)]),bD[LA(0x87d)]=this[LA(0x884)](bD[LA(0x3d0)]);}}}[c1(0x848)](){const LC=bW,LD=bW;this[LC(0x78a)]&&this[LC(0x78a)][LD(0x4aa)]();}['createMoreGamesButton'](bA){const LE=c1;let bB=this[LE(0x78a)];bB&&bB['createMoreGamesButton'](bA);}[c1(0x9b9)](){const LF=c1;let bA=this[LF(0x78a)];bA&&bA['hideMoreGameButton']();}[bW(0x5ee)](bA){const LG=c1,LH=bW;this[LG(0x78a)]&&this[LH(0x78a)]['updateHighScore'](bA);}[bW(0x62e)](bA){const LK=c1;if('hrRRN'!=='hrRRN'){function bB(){const LI=a0b,LJ=a0b;if(this['qg']){let bC=this[LI(0x80b)]()+i;const bD=this['qg']['writeFileSync']({'uri':bC,'text':j});bD===LI(0x58a)?m[LJ(0x89c)](LI(0x4c4)):n[LI(0x89c)](LJ(0x1e4)+bD);}}}else this['platformAPI']&&this['platformAPI'][LK(0x62e)](bA);}[bW(0x913)](){const LL=bW,LM=c1;if(LL(0x4da)!==LM(0x58b))this[LL(0x78a)]&&this[LL(0x78a)]['createBannerAd']();else{function bA(){const LN=LM,LO=LM;this[LN(0x49e)]=bm,this[LO(0x7a1)]=d;}}}[bW(0x726)](bA){const LP=c1,LS=bW;if('lBGnc'===LP(0x34a)){function bB(){const LQ=LP,LR=LP;if(this[LQ(0x8ea)](LR(0x886))==![]){e[LR(0x5ff)][LR(0x65b)](LR(0x33d));return;}this[LR(0xa07)]();let bC={'left':0x0,'top':0x0,'width':0x80,'height':0x0};this[LR(0x1eb)]=this['systemInfo'][LQ(0x1eb)]/0x2,this[LR(0x89d)]=this[LR(0x4f5)][LQ(0x89d)],bC[LR(0x32c)]=this[LR(0x89d)]-bC[LR(0x3ad)]/0x536*0x2ee,this[LQ(0x338)]=this['tt'][LQ(0x913)]({'adUnitId':d['inst'][LQ(0x2fe)]['bannerAdId'],'style':bC}),this[LQ(0x338)][LR(0x337)](this[LR(0x818)]),this['m_bannerAd'][LQ(0x26a)](this[LR(0x3e0)]),this[LR(0x338)]['onError'](this[LR(0x401)]);}}else this[LP(0x78a)]&&this[LP(0x78a)][LP(0x726)](bA);}[c1(0xa97)](){const LT=bW;this[LT(0x78a)]&&this['platformAPI']['onHideBanner']();}[c1(0xa07)](){const LU=bW,LV=bW;if(LU(0x8ec)!==LU(0x8ec)){function bA(){const LW=LU;return this[LW(0x102)];}}else this[LV(0x78a)]&&this[LV(0x78a)][LV(0xa07)]();}[bW(0x2b5)](){const LX=c1,LY=bW;this[LX(0x78a)]&&this[LX(0x78a)][LY(0x2b5)]();}[bW(0x4d3)](bA,bB,bC){const LZ=bW,M0=bW;if('HusRH'===LZ(0xa7d))this['platformAPI']&&this['platformAPI'][LZ(0x4d3)](()=>{const M1=M0;Laya['timer'][M1(0x6b9)]=0x1,bA&&bA();},(bD,bE)=>{const M2=M0,M3=LZ;Laya[M2(0x801)][M3(0x6b9)]=0x1,bB&&bB(bD,bE);},bC);else{function bD(){const M4=LZ;var bE=bm[M4(0xa4f)]()*0x10|0x0,bF=d=='x'?bE:bE&0x3|0x8;return bF['toString'](0x10);}}}[bW(0x612)](){const M5=c1,M6=bW;if(M5(0x95e)!==M6(0x95e)){function bA(){const M7=M6,M8=M5;g++;let bB=this['nowCargos'][bB];h[M7(0x801)][M7(0x8ba)](0xc8*i,this,()=>{const M9=M7,Ma=M7;this[M9(0x34f)](bB,m),n[M9(0x89c)](this[M9(0x286)][M9(0x31f)]),this[Ma(0x286)]['length']==0x1&&p['timer'][Ma(0x8ba)](0x1f4,this,()=>{const Mb=Ma;this[Mb(0x59f)](!![]);});});}}else this[M5(0x78a)]&&this[M5(0x78a)][M5(0x612)]();}['onShowInsertAd'](){const Mc=c1,Md=bW;this[Mc(0x78a)]&&this[Mc(0x78a)][Mc(0x3a2)]();}[c1(0x498)](){const Me=c1,Mf=bW;if(Me(0x243)!==Me(0x243)){function bA(){const Mg=Me,Mh=Mf;e['owner'][Mg(0x842)][Mh(0x32a)](Mh(0x61f))&&(this[Mg(0x6a5)]--,i[Mh(0x67b)]()[Mg(0x829)](j[Mg(0x926)][Mh(0x12a)]),k[Mg(0x801)][Mg(0x8ba)](0x1f4,this,this[Mh(0x796)]));}}else this[Mf(0x78a)]&&this['platformAPI'][Me(0x498)]();}[bW(0x9f3)](){const Mi=c1,Mj=c1;if(Mi(0x49d)!==Mj(0x947))this[Mi(0x78a)]&&this['platformAPI'][Mj(0x9f3)]();else{function bA(){const Mk=Mi,Ml=Mj;this['m_n5']=this['getChildAt'](0x0),this[Mk(0x794)]=this['getChildAt'](0x1),this[Mk(0x72f)]=this['getChildAt'](0x2),this['m_CloseBtn']=this['getChildAt'](0x3);}}}[bW(0x457)](bA,bB){const Mm=c1,Mn=c1;this[Mm(0x78a)]&&this[Mm(0x78a)]['onShowNativeAd'](bA,bB);}[c1(0x98a)](bA){const Mo=bW,Mp=c1;this[Mo(0x78a)]&&this[Mo(0x78a)][Mo(0x98a)](bA);}[c1(0x276)](){const Ms=c1,Mt=bW;if('qCiqX'==='NVJOY'){function bA(){const Mq=a0b,Mr=a0b;this['clearVideoCallbacks'](),this['m_videoAd']['offLoad'](this['rewardVideoOnLoad']),this[Mq(0x7bf)][Mr(0x52b)](this['rewardVideoOnError']),this[Mr(0x7bf)][Mq(0x4b1)](this[Mq(0x7d3)]),this[Mr(0x7bf)]['destroy']();}}else this[Ms(0x78a)]&&this[Ms(0x78a)][Mt(0x276)]();}[bW(0x938)](){const Mu=bW,Mv=c1;if(Mu(0x178)===Mv(0x178))this[Mv(0x78a)]&&this[Mu(0x78a)][Mv(0x938)]();else{function bA(){const Mw=Mv;bm[Mw(0x664)]=d;}}}[c1(0x56a)](){const Mx=c1,My=c1;this[Mx(0x78a)]&&this['platformAPI'][My(0x56a)]();}[c1(0x5e6)](bA,bB){const Mz=bW,MA=c1;if(Mz(0x392)===MA(0xf1)){function bC(){b['applyUpdate']();}}else this[Mz(0x78a)]&&this[MA(0x78a)][Mz(0x5e6)](bA,bB);}['onNativeIconAdClick'](bA){const MB=c1,MC=c1;if(MB(0x82a)!==MC(0x383))this['platformAPI']&&this[MC(0x78a)][MC(0xa99)](bA);else{function bB(){const MD=MC,ME=MB;d[MD(0x5ff)][ME(0x65b)](ME(0x7d2)),e&&f(0x1,ME(0x718));return;}}}['onNativeAdIconClose'](){const MF=c1,MG=c1;if(MF(0x639)==='bGWWR')this[MF(0x78a)]&&this[MG(0x78a)][MF(0x59e)]();else{function bA(){const MH=MF;this[MH(0xa3b)]=![];return;}}}['onDestroyNativeIconAd'](){const MI=bW,MJ=c1;this[MI(0x78a)]&&this['platformAPI'][MJ(0x6d8)]();}['reportMonitor'](bA,bB){const MK=c1,ML=bW;this[MK(0x78a)]&&this['platformAPI'][MK(0x322)](bA,bB);}[bW(0xa3f)](bA,bB){const MM=c1,MN=bW;if(MM(0x698)===MM(0xa23)){function bC(){this['m_SdkOneLineBanner']=this['getChildAt'](0x0);}}else this[MN(0x78a)]&&this[MN(0x78a)][MM(0xa3f)](bA,bB);}[bW(0x992)](bA){const MO=bW,MP=c1;return this[MO(0x78a)]&&this[MP(0x78a)][MP(0x992)](bA);}['canRetinalCanvas'](){const MQ=c1,MR=bW;let bA=[aU[MQ(0x1fb)]];for(let bB=0x0;bB<bA[MQ(0x31f)];++bB){if(bA[bB]===this[MR(0x102)]){if('AqRNE'!==MR(0x85c)){function bC(){const MS=MR;return new b[(MS(0x5bd))](0x2ee,0x536);}}else return!![];}}return![];}[bW(0x58f)](bA){const MT=bW,MU=c1;this['platformAPI']&&this[MT(0x78a)][MU(0x58f)](bA);}[bW(0x6d1)](bA){}[bW(0x4f2)](){const MV=bW,MW=bW;return this[MV(0x78a)]&&this[MW(0x78a)][MW(0x4f2)]();}[bW(0x638)](){const MX=c1,MY=bW;if(MX(0x472)!==MY(0x472)){function bA(){const MZ=MY,N0=MX;this['view'][MZ(0x5e5)][N0(0x204)](bm['ceil'](d),0.35);}}else return this[MX(0x78a)]&&this[MX(0x78a)][MX(0x638)]();}['hasShortcutInstalled'](bA){const N1=c1,N2=bW;if(N1(0x13b)!==N1(0x86a))this[N2(0x78a)]&&this[N2(0x78a)][N1(0x5b1)](bA);else{function bB(){const N3=N2,N4=N1;this[N3(0x435)][N3(0x708)][N3(0x5d1)](b[N3(0x1fe)][N4(0x717)],this,this[N3(0xaa5)]);}}}[bW(0x3be)](bA){const N5=bW,N6=c1;this[N5(0x78a)]&&this[N5(0x78a)][N6(0x3be)](bA);}[bW(0x126)](){const N7=c1,N8=bW;return this[N7(0x78a)]&&this['platformAPI'][N8(0x126)]();}[c1(0x1f7)](){const N9=bW,Na=c1;return this['platformAPI']&&this[N9(0x78a)][Na(0x1f7)]();}['getDevicePlatform'](){const Nb=c1,Nc=c1;return this[Nb(0x78a)]&&this[Nc(0x78a)][Nc(0x113)]();}['showMoreGamesModal'](){const Nd=bW,Ne=c1;if(Nd(0x2d2)!=='wINmg')this[Nd(0x78a)]&&this[Ne(0x78a)][Nd(0x64e)]();else{function bA(){const Nf=Nd;bm[Nf(0x5ff)]['debug']('桌面图标未创建'),d(![]);}}}['getPlatform'](){const Ng=bW,Nh=bW;if(Ng(0x26f)!==Nh(0x8fd))return this[Nh(0x78a)]&&this[Nh(0x78a)]['getPlatform']();else{function bA(){const Ni=Nh,Nj=Ng;this[Ni(0x669)]=b[Nj(0x443)],this[Ni(0x480)]='';}}}['pay'](bA,bB){const Nk=c1,Nl=bW;if(Nk(0x2b0)===Nk(0x3ea)){function bC(){const Nm=Nk,Nn=Nl;d[Nm(0x5ff)][Nm(0x65b)]('激励视频需要最小平台号1041'),e&&f(0x1,Nn(0x718));return;}}else this[Nk(0x78a)]&&this[Nk(0x78a)][Nl(0x596)](bA,bB);}[c1(0x7b7)](bA){const No=c1,Np=bW;this[No(0x78a)]&&this[Np(0x78a)]['navigateToMiniGame'](bA);}[bW(0x912)](){const Nq=bW,Nr=c1;return this[Nq(0x78a)]&&this['platformAPI'][Nr(0x912)]();}}aV[c1(0x3ee)]=null;class aW extends fgui[bW(0x2b1)]{static[bW(0x969)](){const Ns=c1,Nt=bW;if('RcSGW'!=='krxRh')return fgui[Ns(0x649)][Nt(0x6ff)](Nt(0x88e),Ns(0x611));else{function bA(){const Nu=Nt,Nv=Nt;g==![]&&m[Nu(0x5ff)][Nu(0x3be)](bB=>{const Nw=Nu,Nx=Nv;bB&&(v[Nw(0x5ff)][Nw(0x3ae)](0x32),w['inst'][Nx(0x43d)](Nx(0x4d5)),x['inst'][Nw(0x3c0)](y['onShortCutInstallEvent']));});}}}[bW(0x175)](){const Ny=c1,Nz=c1;this['m_n0']=this[Ny(0x2e3)](0x0),this[Ny(0x9c5)]=this[Nz(0x2e3)](0x1),this[Nz(0x64c)]=this[Ny(0x2e3)](0x2);}}aW[c1(0xa8f)]=c1(0x7bc);class aX extends fgui[c1(0x2b1)]{static[c1(0x969)](){const NA=c1,NB=bW;if(NA(0x275)!==NB(0x6cf))return fgui[NA(0x649)]['createObject'](NB(0x88e),NA(0x8bd));else{function bA(){const NC=NA,ND=NB;this[NC(0x131)](d[ND(0x406)],![]),this[NC(0x131)](e[NC(0x400)],![]),this[ND(0x131)](f[ND(0x920)],![]);}}}[c1(0x175)](){const NE=c1;this[NE(0x867)]=this['getChildAt'](0x0);}}aX[bW(0xa8f)]=bW(0x50f);class aY extends fgui['GButton']{static['createInstance'](){const NF=c1,NG=c1;if(NF(0x1ba)==='cjLlS')return fgui[NF(0x649)][NG(0x6ff)](NF(0x88e),'MoreGameBtn');else{function bA(){const NH=NF,NI=NF;let bB=this['tt'][NH(0x8f0)][NI(0x988)]+'/';this['tt'][NI(0x727)]()[NH(0x2c3)]({'zipFilePath':e,'targetPath':bB,'success'(bC){const NJ=NH;i[NJ(0x89c)](bC),j&&k(!![]);}});}}}[c1(0x175)](){const NK=c1,NL=bW;this[NK(0x9e2)]=this[NL(0x2e3)](0x0);}}aY[bW(0xa8f)]=bW(0x93b);class aZ extends fgui[c1(0x2b1)]{static['createInstance'](){const NM=bW,NN=bW;return fgui[NM(0x649)][NN(0x6ff)]('GameAdUI','ShortcutBtn');}[bW(0x175)](){const NO=bW;this[NO(0x9e2)]=this['getChildAt'](0x0);}}aZ['URL']=c1(0x791);class b0 extends fgui[c1(0x2b1)]{static[c1(0x969)](){const NP=bW,NQ=c1;if(NP(0x7b5)===NQ(0x7b5))return fgui[NQ(0x649)][NP(0x6ff)](NP(0x88e),NP(0x7b2));else{function bA(){const NR=NP,NS=NP;bm[NR(0x89c)](NS(0xab3),d);}}}[bW(0x175)](){const NT=c1,NU=bW;if(NT(0x6e9)!==NT(0x6e9)){function bA(){const NV=NU;let bB=d[NV(0x38e)](bB-e);return bB<0xb4?bB:(bB+g+0x168)%0x168;}}else this[NU(0x656)]=this[NU(0x2e3)](0x0),this[NT(0xab7)]=this[NT(0x2e3)](0x1),this[NT(0x6f1)]=this[NT(0x2e3)](0x2);}}b0[c1(0xa8f)]=bW(0x39e);class b1 extends fgui[bW(0x72c)]{static[c1(0x969)](){const NW=c1,NX=c1;return fgui['UIPackage']['createObject'](NW(0x88e),NX(0x766));}[bW(0x175)](){const NY=bW;this[NY(0x867)]=this['getChildAt'](0x0);}}b1['URL']=c1(0x5aa);class b2 extends fgui[c1(0x2b1)]{static[c1(0x969)](){const NZ=c1,O0=c1;return fgui[NZ(0x649)][O0(0x6ff)]('GameAdUI',O0(0x861));}['onConstruct'](){const O1=bW,O2=bW;if(O1(0x783)!==O2(0x153))this[O2(0x867)]=this[O2(0x2e3)](0x0),this['m_t0']=this[O2(0x228)](0x0);else{function bA(){const O3=O1,O4=O2;return f[O3(0x7e1)](g[O3(0xa4f)]()*(h-i+0x1))+j;}}}}b2[bW(0xa8f)]=bW(0x55f);class b3 extends fgui[c1(0x72c)]{static[bW(0x969)](){const O5=bW,O6=bW;return fgui[O5(0x649)]['createObject']('GameAdUI',O5(0x3e4));}[c1(0x175)](){const O7=c1,O8=c1;this[O7(0x64c)]=this['getChildAt'](0x0),this[O7(0x867)]=this[O7(0x2e3)](0x1);}}b3[c1(0xa8f)]='ui://2lldjolijixpj8g';class b4 extends fgui['GComponent']{static[c1(0x969)](){const O9=bW,Oa=bW;return fgui[O9(0x649)][Oa(0x6ff)](Oa(0x88e),'MoreGameView');}[c1(0x175)](){const Ob=c1,Oc=c1;this['m_n3']=this[Ob(0x2e3)](0x0),this['m_n6']=this[Ob(0x2e3)](0x1),this[Ob(0x562)]=this[Oc(0x2e3)](0x2),this[Ob(0x97c)]=this[Ob(0x2e3)](0x3),this[Oc(0x708)]=this[Ob(0x2e3)](0x4),this[Ob(0x821)]=this[Oc(0x2e3)](0x5);}}b4[bW(0xa8f)]=c1(0xa7f);class b5 extends fgui[bW(0x72c)]{static[c1(0x969)](){const Od=c1,Oe=c1;if(Od(0x17b)===Oe(0x17b))return fgui[Od(0x649)][Oe(0x6ff)](Od(0x88e),'MaskIcon');else{function bA(){const Of=Oe,Og=Oe;return this[Of(0x8b7)]==null&&(this[Og(0x8b7)]=new bm()),this['_inst'];}}}['onConstruct'](){const Oh=bW,Oi=bW;this['m_n2']=this[Oh(0x2e3)](0x0),this['m_icon']=this[Oi(0x2e3)](0x1);}}b5[c1(0xa8f)]=c1(0x71f);class b6 extends fgui[c1(0x2b1)]{static[bW(0x969)](){const Oj=bW,Ok=c1;return fgui[Oj(0x649)][Oj(0x6ff)](Oj(0x88e),Oj(0x42f));}[bW(0x175)](){const On=bW,Oo=c1;if('NXlPK'!=='NXlPK'){function bA(){const Ol=a0b,Om=a0b;this[Ol(0x64c)]=this[Ol(0x2e3)](0x0),this['m_icon']=this[Ol(0x2e3)](0x1),this[Ol(0x431)]=this['getChildAt'](0x2),this[Om(0x4b4)]=this[Om(0x2e3)](0x3),this[Ol(0x633)]=this[Om(0x228)](0x0);}}else this['m_n1']=this['getChildAt'](0x0),this[On(0x548)]=this[On(0x2e3)](0x1),this['m_n3']=this[On(0x2e3)](0x2);}}b6[c1(0xa8f)]=bW(0x8cb);class b7{static[c1(0x824)](){const Op=c1,Oq=c1;fgui[Op(0x5b8)]['setExtension'](aW[Oq(0xa8f)],aW),fgui[Op(0x5b8)][Op(0x3bf)](aX[Oq(0xa8f)],aX),fgui['UIObjectFactory'][Oq(0x3bf)](aY['URL'],aY),fgui['UIObjectFactory'][Oq(0x3bf)](aZ[Oq(0xa8f)],aZ),fgui[Op(0x5b8)][Oq(0x3bf)](b0[Op(0xa8f)],b0),fgui[Oq(0x5b8)][Op(0x3bf)](b1[Oq(0xa8f)],b1),fgui['UIObjectFactory'][Op(0x3bf)](b2[Oq(0xa8f)],b2),fgui['UIObjectFactory'][Oq(0x3bf)](b3[Op(0xa8f)],b3),fgui[Op(0x5b8)][Op(0x3bf)](b4['URL'],b4),fgui[Oq(0x5b8)][Op(0x3bf)](b5[Op(0xa8f)],b5),fgui[Op(0x5b8)][Op(0x3bf)](b6[Oq(0xa8f)],b6),fgui[Op(0x5b8)]['setExtension'](G['URL'],G);}}class b8 extends F{get[bW(0xa8f)](){const Or=c1;return b4[Or(0xa8f)];}[bW(0x1e0)](){const Os=c1,Ot=c1;if(Os(0x21e)===Ot(0x681)){function bA(){if(bm>0x0)return 0x1;if(d<0x0)return-0x1;return 0x0;}}else this[Os(0x3a8)]=Laya[Ot(0x432)][Ot(0x3e6)](this,this[Os(0x6d4)]),this['onViewWillDestory']=Laya[Ot(0x432)][Os(0x3e6)](this,this[Os(0x288)]),super[Ot(0x1e0)]();}['unbind'](){const Ou=bW,Ov=c1;if(this['view'][Ou(0x708)][Ov(0x609)]){if(Ov(0xa1a)!==Ou(0x772))this['view'][Ov(0x708)][Ov(0x609)][Ou(0x8dd)]();else{function bA(){this['eventDispatcher']['on'](e,f,g,h);}}}this[Ou(0x435)][Ou(0x708)][Ou(0x5d1)](fairygui[Ov(0x1fe)][Ou(0x717)],this,this[Ov(0xaa5)]);}[bW(0x6d4)](){const Ow=c1,Ox=bW;this['view'][Ow(0x97c)]['onClick'](this,this[Ow(0x5a9)]),this['view'][Ow(0x708)]['itemRenderer']=Laya[Ow(0x432)]['create'](this,this[Ow(0x3b4)],null,![]),this[Ox(0x435)][Ow(0x708)][Ox(0x5a4)]=w['inst'][Ox(0x2fe)][Ow(0x367)]['length'],this[Ow(0x435)][Ox(0x708)]['on'](fairygui[Ow(0x1fe)]['CLICK_ITEM'],this,this[Ox(0xaa5)]);}['onItemRenderer'](bA,bB){const Oy=c1,Oz=c1;let bC=w['inst'][Oy(0x2fe)][Oz(0x367)][bA];bB['icon']=bC[Oz(0x55e)];}[c1(0xaa5)](bA){const OA=c1,OB=c1;let bB=w[OA(0x5ff)][OA(0x2fe)]['moreGameList'][this[OB(0x435)][OA(0x708)]['selectedIndex']],bC=bB[OB(0x3d2)];aV[OA(0x5ff)][OA(0x7b7)](bC);}[c1(0x5a9)](){this['removeSelf']();}}class b9 extends aY{[c1(0x175)](){const OC=bW,OD=c1;super[OC(0x175)](),this['on'](Laya[OD(0x2fb)][OD(0xa1b)],this,this[OD(0x1e0)]),this['on'](Laya['Event'][OD(0x565)],this,this[OC(0x9f4)]);}['init'](){const OE=bW,OI=c1;if('QKdBn'===OE(0x4cf)){function bA(){const OF=OE,OG=OE;this['wx'][OF(0x727)]()[OG(0x2c3)]({'zipFilePath':e,'targetPath':this['wx'][OG(0x8f0)][OG(0x988)],'success'(bB){const OH=OF;i[OH(0x89c)](bB),j&&k(!![]);}});}}else{if(aV['inst'][OE(0x102)]==aU[OE(0x1fb)])this['visible']=!![];else{if(aV['inst'][OI(0x102)]==aU[OE(0x4a3)]&&aV['inst'][OI(0x5c9)]()=='ios'){if(OI(0x5ae)==='npKfL')this[OI(0xa3b)]=!![];else{function bB(){bm&&d();}}}else this['visible']=![];}this['onClick'](this,()=>{const OJ=OE,OK=OI;if(OJ(0x357)!==OJ(0x357)){function bC(){const OL=OJ,OM=OJ;var bD=new g[(OL(0x587))]();h[OM(0x587)][OL(0x6b9)](this['GetTransformUp'](i[OL(0x304)]),-j,bD);var bE=k[OM(0x304)][OM(0x9ec)]['position'][OL(0x5ef)]();l['Vector3'][OL(0x547)](bE,this[OM(0x9ec)]['position'],bE),this[OM(0x693)][OL(0x5b6)](bD,bE);}}else{if(aV['inst'][OK(0x102)]==aU[OK(0x1fb)])J['inst'][OK(0x294)](new b8());else aV['inst'][OJ(0x102)]==aU[OK(0x4a3)]&&aV[OJ(0x5ff)]['showMoreGamesModal']();}});}}[c1(0x9f4)](){const ON=bW,OO=bW;this[ON(0x5d1)](Laya[ON(0x2fb)]['ADDED'],this,this[OO(0x1e0)]),this[ON(0x5d1)](Laya[OO(0x2fb)][OO(0x565)],this,this[OO(0x9f4)]);}}class ba extends b6{constructor(){const OP=bW,OQ=c1;if(OP(0x679)===OP(0x863)){function bA(){const OR=OP,OS=OQ;b[OR(0x5ff)][OR(0x65b)](OS(0x329));return;}}else super(...arguments),this['images']=[];}[c1(0x175)](){const OT=bW,OU=c1;super[OT(0x175)](),this['on'](Laya[OT(0x2fb)][OU(0xa1b)],this,this[OU(0x85f)]),this['on'](Laya[OT(0x2fb)][OT(0x565)],this,this['removeToScene']);}[bW(0x85f)](){const OV=c1,OW=bW;if(OV(0x8e0)!==OV(0x8e0)){function bA(){const OX=OW;this[OX(0xa3b)]=![];}}else this['key']=this[OV(0x161)],this[OV(0xa09)](this[OW(0x62f)]);}[bW(0x9f4)](){const OY=bW,OZ=bW;this[OY(0x5d1)](Laya['Event'][OY(0xa1b)],this,this[OY(0x85f)]),this['off'](Laya[OY(0x2fb)][OZ(0x565)],this,this[OY(0x9f4)]);}['getAd'](bA){const P0=c1,P1=bW;if(P0(0x2db)===P0(0x5e8)){function bB(){const P2=P0,P3=P0;if(this['wx']&&d['CompareVersion'](this[P2(0x4f5)]['SDKVersion'],P2(0x959))==0x1){let bC=this;this[P2(0x4a9)]=this['wx'][P3(0xa41)]({'adUnitId':g['inst'][P3(0x2fe)][P3(0x3f0)]});}f[P3(0x89c)](P2(0x46f));}}else this['key']=bA,console[P1(0x89c)](P0(0x7a4),this['key']),aV[P0(0x5ff)][P0(0x5e6)](bC=>{const P4=P0,P5=P1;if(bC)this['ad']=bC,Q[P4(0x5ff)]['nativeIconData']=this['ad'];else{if('Jgpoz'!==P5(0x59c)){function bD(){const P6=P5,P7=P5;let bE=this[P6(0x59a)][P6(0x4ae)][P6(0x3aa)](bF=>bF[P6(0x7b9)]==bm);if(bE&&bE[P6(0x1f2)])return!![];return![];}}else this['ad']=Q[P5(0x5ff)][P4(0x9a5)],console['log'](P4(0x711));}console[P5(0x89c)](ba[P4(0x842)],'获取原生图标数据:',JSON['stringify'](this['ad'])),this['setData'](this['ad']);},this[P1(0x62f)]);}['setData'](bA){const P8=bW,P9=c1;if(bA==null){this[P8(0xa3b)]=![],console[P8(0xa5f)]('没有原生图标广告数据!!!');return;}this[P9(0xa3b)]=!![];if(aV[P8(0x5ff)][P9(0x102)]==aU[P8(0x1fb)]){if(bA[P9(0x55c)]&&bA['imgUrlList'][P8(0x31f)]>0x0)this['images']=bA[P9(0x55c)];else{if(bA[P9(0x541)]&&bA[P9(0x541)][P8(0x31f)]>0x0)this['images']=bA['iconUrlList'];else{if(bA[P8(0x55e)]){if('ZwOHb'===P9(0x39a))this[P9(0x13c)]['push'](bA[P8(0x55e)]);else{function bB(){bm=d;}}}}}}this['m_IconMask']['icon']=this[P9(0x13c)][0x0],this[P9(0x907)](this,()=>{const Pa=P9,Pb=P9;aV[Pa(0x5ff)][Pb(0xa99)](bA[Pb(0x421)]),this[Pb(0xa09)](this['key']);});}}class bb extends b0{constructor(){const Pc=bW,Pd=bW;if(Pc(0xa58)!==Pd(0x97d))super(...arguments),this['images']=[],this[Pc(0x849)]=0x0;else{function bA(){bm&&d(0x1,'');return;}}}[bW(0x175)](){const Pe=bW,Pf=bW;super[Pe(0x175)](),this['on'](Laya[Pf(0x2fb)][Pf(0xa1b)],this,this['addToScene']),this['on'](Laya[Pf(0x2fb)][Pf(0x565)],this,this[Pe(0x9f4)]);}[bW(0x85f)](){const Pg=bW,Ph=bW;if(Pg(0x159)!==Ph(0x3bb))this[Pg(0x62f)]=this[Pg(0x161)],this[Pg(0xa3b)]=![],this[Pg(0xa09)](this[Pg(0x62f)]);else{function bA(){const Pi=Pg;bm['inst']['clickEvent'](Pi(0x4a0),d);}}}[c1(0x9f4)](){const Pj=c1,Pk=bW;this[Pj(0x5d1)](Laya[Pk(0x2fb)]['ADDED'],this,this[Pk(0x85f)]),this[Pk(0x5d1)](Laya[Pk(0x2fb)][Pj(0x565)],this,this[Pk(0x9f4)]),Laya[Pk(0x801)][Pj(0x8dd)](this,this[Pj(0x2b2)]);}[c1(0xa09)](bA){const Pl=bW,Pm=bW;this[Pl(0xa3b)]=![],(aV[Pl(0x5ff)][Pl(0x102)]==aU['oppo_h5']||aV[Pm(0x5ff)][Pl(0x102)]==aU[Pl(0x896)])&&(this[Pl(0x62f)]=bA,this[Pm(0x849)]=0x0,aV[Pl(0x5ff)][Pl(0x457)](bB=>{const Pn=Pm,Po=Pm;if(bB){if(Pn(0x6ad)!==Pn(0x928))this['ad']=bB,Q['inst'][Pn(0xa72)]=this['ad'],this[Po(0xa3b)]=w[Po(0x5ff)][Po(0x2fe)]['canAd'];else{function bC(){const Pp=Pn,Pq=Po;b[Pp(0x89c)](Pq(0x33a));}}}else{if(Po(0x14a)!==Pn(0x14a)){function bD(){b(!![]);}}else this['ad']=Q[Po(0x5ff)][Pn(0xa72)],console[Pn(0x89c)]('读取缓存的广告数据');}console[Po(0x89c)](Po(0x86b),JSON['stringify'](this['ad'])),this[Po(0x978)](this['ad']);},this[Pl(0x62f)]));}[bW(0x978)](bA){const Pr=c1,Ps=c1;if(Pr(0x25d)!==Ps(0x351)){if(bA==null){this[Pr(0xa3b)]=![],console[Ps(0xa5f)](Pr(0xa32));return;}this[Ps(0xa3b)]=!![];if(aV[Ps(0x5ff)][Ps(0x102)]==aU['oppo_h5']){if(Ps(0x465)!==Ps(0x465)){function bB(){const Pt=Pr,Pu=Ps;k[Pt(0x5ff)]=this,this[Pu(0x4f5)]=this['qg'][Pt(0x2d3)](),l['inst'][Pt(0x65b)]('VIVO系统信息:'+m[Pt(0x921)](this['systemInfo'])),this[Pt(0x6f2)]=this[Pt(0x4f5)][Pu(0x6f2)],this['insertAdReadyInterval']=n[Pt(0x5ff)][Pu(0x2fe)][Pt(0x497)],this[Pu(0x787)]=o[Pt(0x5ff)]['currentPlatform'][Pt(0x787)],this[Pt(0xab1)]=p[Pu(0x5ff)][Pt(0x2fe)][Pt(0xab1)],this['insertAdShowCD']=q[Pt(0x5ff)][Pt(0x2fe)][Pu(0x694)],r['timer'][Pu(0x8ba)](this[Pt(0x497)],this,()=>{const Pv=Pu;this[Pv(0xa73)]=!![];}),this['qg'][Pt(0x26b)](()=>{const Pw=Pt,Px=Pt;this[Pw(0x26b)](),u[Px(0x5ff)][Pw(0x65b)](Px(0x10c));}),this['qg'][Pt(0x246)](()=>{const Py=Pu,Pz=Pt;this[Py(0x246)](),u[Pz(0x5ff)][Pz(0x65b)](Py(0x2d4));});}}else{if(bA[Ps(0x55c)]&&bA[Ps(0x55c)][Pr(0x31f)]>0x0)this[Ps(0x13c)]=bA['imgUrlList'];else{if(bA[Ps(0x541)]&&bA[Pr(0x541)][Pr(0x31f)]>0x0)this[Pr(0x13c)]=bA[Ps(0x541)];else{if(bA[Pr(0x55e)]){if(Ps(0x21d)===Ps(0x201)){function bC(){const PA=Ps;return this[PA(0x8d9)];}}else this[Ps(0x13c)]['push'](bA['icon']);}}}}}else{if(aV[Ps(0x5ff)][Pr(0x102)]==aU[Pr(0x896)]){if(Pr(0x5c5)!==Pr(0x7b6)){if(bA[Pr(0x55c)]&&bA['imgUrlList'][Pr(0x31f)]>0x0){if(Pr(0x355)===Pr(0x355))this['images']=bA[Pr(0x55c)];else{function bD(){return b;}}}else{if(bA[Ps(0x541)]&&bA[Pr(0x541)][Pr(0x31f)]>0x0)this[Ps(0x13c)]=bA[Pr(0x541)];else bA[Ps(0x55e)]&&this[Ps(0x13c)][Ps(0x597)](bA[Pr(0x55e)]);}if(bA[Pr(0x55c)]&&bA[Pr(0x55c)][Ps(0x31f)]>0x0){if(Pr(0x761)!=='LoDuG'){function bE(){const PB=Pr,PC=Ps;this[PB(0x43b)]=0x1,this[PB(0x324)](this[PC(0x43b)],PC(0x119)),bm[PB(0x5ff)][PB(0x102)]==d[PB(0x896)]&&this['PlayCurrentMusic']();}}else this[Ps(0x13c)]=bA[Ps(0x55c)];}else bA['icon']&&bA[Pr(0x55e)]!=''&&this['images'][Pr(0x597)](bA[Ps(0x55e)]);}else{function bF(){const PD=Pr,PE=Pr;this['View']['off'](bm[PD(0x2fb)][PE(0xa1b)],this,this[PE(0x3e8)]),d[PE(0x801)][PD(0x804)](this,()=>{const PF=PD,PG=PD;this[PF(0x3a8)]&&this['onViewAdded'][PG(0x2c8)]();});}}}}this[Ps(0x907)](this,()=>{const PH=Pr,PI=Pr;console[PH(0x89c)](PI(0x815)),Laya['timer']['clear'](this,this[PI(0x2b2)]),aV[PH(0x5ff)]['onNativeAdClick'](bA[PH(0x421)]),this['getAd'](this[PI(0x62f)]);}),Laya[Ps(0x801)][Ps(0x341)](0x9c4,this,this['loadImage']),this[Ps(0x2b2)]();}else{function bG(){const PJ=Pr,PK=Pr;let bH=this[PJ(0x59a)]['carBags']['findIndex'](bI=>bI[PJ(0x7b9)]==bm);return bH==-0x1&&(bH=0x0),bH;}}}[c1(0x2b2)](){const PL=c1,PM=bW;this[PL(0xab7)][PM(0x867)]['url']=this[PL(0x13c)][this['index']],this[PM(0x849)]++,this[PL(0x849)]>=this['images'][PL(0x31f)]-0x1&&(this[PM(0x849)]=0x0);}}class bc extends aZ{[c1(0x175)](){const PN=bW,PP=bW;if('THvCj'!==PN(0x55d)){function bA(){const PO=PN;bm['inst'][PO(0x58f)](d);}}else super[PP(0x175)](),x[PP(0x5ff)][PP(0x79e)](y['onShortCutInstallEvent'],this,this['onShortCutInstallEvent']),this['on'](Laya[PN(0x2fb)][PP(0xa1b)],this,this[PP(0x85f)]),this['on'](Laya[PN(0x2fb)]['UNDISPLAY'],this,this['removeToScene']);}[c1(0x9f4)](){const PQ=bW,PR=bW;x[PQ(0x5ff)][PR(0x101)](y[PR(0x4bf)],this,this[PR(0x4bf)]),this[PR(0x5d1)](Laya['Event'][PQ(0xa1b)],this,this[PR(0x85f)]),this[PQ(0x5d1)](Laya['Event'][PR(0x565)],this,this[PQ(0x9f4)]);}[bW(0x4bf)](){this['visible']=![];}[c1(0x85f)](){const PS=c1,PT=c1;this[PS(0xa3b)]=![],(aV[PT(0x5ff)][PT(0x102)]==aU[PT(0x1fb)]||aV[PT(0x5ff)][PS(0x102)]==aU['vivo_h5'])&&aV['inst'][PT(0x5b1)](bA=>{const PU=PS,PV=PT;if(PU(0x924)===PU(0x1ff)){function bB(){const PW=PU,PX=PU;this[PW(0x66d)]=![],bm['timer'][PX(0x8ba)](this['bannerAdShowCD'],this,()=>{const PY=PX,PZ=PX;this[PY(0x66d)]=!![],e[PZ(0x5ff)][PY(0x65b)](PY(0x128));});}}else bA==![]&&(this[PV(0xa3b)]=!![],this[PU(0x907)](this,()=>{const Q0=PU;this[Q0(0x721)]();}));});}[c1(0x721)](){const Q1=bW,Q2=c1;aV[Q1(0x5ff)][Q2(0x5b1)](bA=>{const Q3=Q1,Q4=Q2;if(Q3(0x8cd)===Q3(0x238)){function bB(){const Q5=Q4,Q6=Q4;if(this[Q5(0x8ea)]('1.3.0')==![]){g[Q5(0x5ff)]['debug'](Q5(0x33d));return;}this[Q5(0x8d9)]=0x14,this['m_bannerAd'][Q6(0xa87)](),e[Q5(0x5ff)][Q5(0x3c0)](f[Q6(0x805)]);}}else bA==![]&&aV['inst']['installShortcut'](bC=>{const Q7=Q4,Q8=Q4;if(Q7(0x51f)!==Q8(0x3bc)){if(bC){if(Q8(0x2f5)===Q8(0x2f5))aA[Q7(0x5ff)]['addCoins'](0x32),J['inst'][Q8(0x43d)](Q8(0x4d5)),x[Q7(0x5ff)][Q8(0x3c0)](y['onShortCutInstallEvent']);else{function bD(){const Q9=Q7;b['wx']['showToast']({'title':Q9(0x5fe)});}}}}else{function bE(){const Qa=Q7,Qb=Q8;for(let bF=0x0;bF<this['soundPools'][Qa(0x31f)];bF++){const bG=this[Qa(0x3a0)][bF];if(bG['key']==e)return bG;}return null;}}});});}}class bd{static get[bW(0x5ff)](){const Qc=c1,Qd=c1;return this['_inst']==null&&(this[Qc(0x8b7)]=new bd()),this[Qc(0x8b7)];}[c1(0x1e0)](){if('Keqpr'==='iRcad'){function bA(){const Qe=a0b;this['m_videoAd'][Qe(0x24b)]();}}else this['addFguiExtends']();}[c1(0x856)](){const Qf=bW,Qg=c1;fairygui[Qf(0x649)]['addPackage'](Qg(0x981)),b7[Qf(0x824)](),fgui[Qg(0x5b8)][Qf(0x3bf)](b6[Qf(0xa8f)],ba),fgui[Qf(0x5b8)][Qg(0x3bf)](aY[Qf(0xa8f)],b9),fgui[Qf(0x5b8)][Qg(0x3bf)](b0[Qg(0xa8f)],bb),fgui[Qf(0x5b8)][Qf(0x3bf)](aZ[Qg(0xa8f)],bc);}}class be{constructor(){const Qh=bW,Qi=bW;if('DeMdK'===Qh(0x98b))this[Qh(0x49b)]='',this['isLocal']=![],this[Qi(0x311)]=0x0,this[Qi(0x953)]=![],this['zipHost']='';else{function bA(){const Qj=Qi,Qk=Qi;this['m_n18']=this[Qj(0x2e3)](0x0),this[Qj(0x4b4)]=this[Qk(0x2e3)](0x1);}}}static get['inst'](){const Ql=c1,Qm=bW;return this[Ql(0x8b7)]==null&&(this['_inst']=new be()),this[Ql(0x8b7)];}set['platform'](bA){const Qn=c1;aV[Qn(0x5ff)]['platform']=bA;}['init'](){const Qo=bW;if('qTFbZ'===Qo(0x616))return j(this,void 0x0,void 0x0,function*(){const Qp=Qo,Qq=Qo;if(Qp(0x254)===Qq(0x4ef)){function bA(){const Qr=Qp,Qs=Qq;this[Qr(0xa40)]&&this[Qr(0xa40)](0x1,''),this[Qs(0x8c7)](),d[Qs(0x5ff)][Qs(0x65b)](Qs(0x320)+e[Qs(0x921)](f));}}else return new Promise((bB,bC)=>j(this,void 0x0,void 0x0,function*(){const Qt=Qp,Qu=Qp;if('MLJjV'!=='PSJnX')J[Qt(0x5ff)][Qu(0x1e0)](),yield aw[Qu(0x5ff)][Qt(0x258)](),w['inst'][Qt(0x1e0)](aV[Qu(0x5ff)][Qt(0x102)]),this[Qt(0x65b)]('设置本地保存项目key\x20'+w['inst'][Qu(0x291)]['localProjectkey']),ad['inst'][Qu(0x882)]=w[Qt(0x5ff)]['globalConfigs'][Qu(0x147)],aA[Qt(0x5ff)][Qt(0x1e0)](),aQ[Qu(0x5ff)][Qu(0x40f)](),this['useZipAssets']==![]&&this[Qt(0x962)]==![]&&w[Qu(0x5ff)][Qt(0x2fe)][Qu(0x56b)]&&w[Qt(0x5ff)][Qu(0x2fe)][Qt(0x56b)]!=''&&(Laya['URL'][Qu(0x56b)]=w[Qt(0x5ff)][Qu(0x2fe)][Qu(0x56b)]),aV[Qu(0x5ff)][Qu(0x6d1)](0x64),this[Qu(0x65b)](Qu(0x133)+Laya[Qu(0xa8f)][Qt(0x56b)]),bB(!![]);else{function bD(){const Qv=Qu;return this[Qv(0x6d0)][b];}}}));});else{function bA(){const Qw=Qo,Qx=Qo;this[Qw(0x78a)]&&this[Qw(0x78a)][Qw(0x64e)]();}}}[c1(0x9e9)](bA){return j(this,void 0x0,void 0x0,function*(){const Qy=a0b,Qz=a0b;aV['inst'][Qy(0x45a)](null),yield aw[Qy(0x5ff)][Qy(0x9d5)](),bd['inst'][Qz(0x1e0)]();let bB=new Array();bB[Qy(0x597)](new a4(Qz(0x122),aU[Qy(0x6a4)])),bB[Qz(0x597)](new a4(Qy(0x1a2),aU['toutiao_h5'])),bB[Qz(0x597)](new a4(Qz(0x1aa),aU['qqplay_h5'])),yield a2[Qy(0x5ff)]['initAsync'](bB),aA[Qz(0x5ff)][Qy(0x61a)](),aV[Qy(0x5ff)]['onInitAdService'](()=>{bA();});});}[bW(0x95c)](bA,bB){const QA=c1,QB=c1;if(QA(0x38b)===QB(0x3b5)){function bC(){const QC=QA,QD=QB;return b[QC(0x649)][QD(0x6ff)](QC(0x845),QD(0x297));}}else aV['inst']['saveDataToCache'](bA,bB);}[bW(0x40f)](bA){const QE=bW,QF=c1;if(QE(0x705)!=='SgBNh')return aV[QE(0x5ff)][QF(0x992)](bA);else{function bB(){const QG=QE,QH=QF;this[QG(0xa3b)]=![],b[QG(0xa5f)](QG(0xa32));return;}}}[bW(0x643)](){const QI=bW;aV[QI(0x5ff)]['vibrateShort']();}[bW(0x65b)](bA){const QJ=c1,QK=c1;this['debugIndex']++,console[QJ(0x89c)](this[QJ(0x311)]+':\x20广州游梦\x20-\x20'+bA);}[c1(0x45e)](){const QL=c1,QM=c1;console['warn']('暂停游戏'),Laya[QL(0x801)][QM(0x6b9)]=0x0;}['resumeGame'](){const QN=c1,QO=bW;console['warn'](QN(0x1ad)),Laya[QO(0x801)][QO(0x6b9)]=0x1;}}class bf{constructor(){const QP=c1,QQ=bW;if(QP(0x23d)===QQ(0x116)){function bA(){g['statusCode']===0xc8?m&&n(!![],o):p&&q(![],null);}}else this['timers']=new Array();}static get['inst'](){const QR=c1,QS=c1;if(QR(0x41a)!==QR(0xab9))return this[QS(0x8b7)]==null&&(this[QR(0x8b7)]=new bf()),this[QR(0x8b7)];else{function bA(){const QT=QR,QU=QS,bB=this[QT(0x5e3)][bm];bB[QU(0x842)]==d&&bB[QT(0xa2a)]++;}}}['init'](){const QV=c1,QW=bW;this[QV(0x801)]==null&&(this[QW(0x801)]=new Laya[(QV(0x94b))]()),this[QV(0x801)][QW(0x385)](0x1,this,this[QV(0x6a0)]);}[c1(0x755)](bA,bB){const QX=c1,QY=c1;this['has'](bA)==![]?(bB[QX(0x6bc)]=bA,this['timers'][QX(0x597)]({'key':bA,'timer':bB})):console[QX(0x89c)](QX(0x15f));}[bW(0x3fe)](bA){const QZ=c1,R0=c1;if(this['has'](bA)){let bB=this[QZ(0x23f)](bA);bB[QZ(0x8dd)]();let bC=this[R0(0x9a1)](bA);this[R0(0x2bc)]['splice'](bC,0x1);}else console[R0(0x89c)](R0(0x90c));}['onUpdate'](){const R1=bW,R2=bW;if(R1(0x105)==='OWJYI')for(let bA=0x0;bA<this[R2(0x2bc)][R2(0x31f)];bA++){const bB=this[R1(0x2bc)][bA];bB[R1(0x801)]['onUpdate']();}else{function bC(){bm=d;}}}[bW(0x23f)](bA){const R3=bW,R4=bW;for(let bB=0x0;bB<this[R3(0x2bc)][R4(0x31f)];bB++){const bC=this[R4(0x2bc)][bB];if(bC[R3(0x62f)]==bA)return bC['timer'];}return null;}['has'](bA){const R5=c1,R6=bW;for(let bB=0x0;bB<this[R5(0x2bc)][R5(0x31f)];bB++){if(R5(0x1fc)===R6(0x285)){function bC(){const R7=R5,R8=R6;b['inst'][R7(0x65b)](R7(0x329));return;}}else{const bD=this[R6(0x2bc)][bB];if(bD[R6(0x62f)]==bA)return!![];}}return![];}[bW(0x9a1)](bA){const R9=c1,Ra=c1;for(let bB=0x0;bB<this[R9(0x2bc)][R9(0x31f)];bB++){const bC=this[R9(0x2bc)][bB];if(bC[Ra(0x62f)]==bA)return bB;}return-0x1;}}class bg extends Laya[bW(0x577)]{constructor(){super();}static get['instance'](){const Rb=bW,Rc=bW;if(this[Rb(0x142)]==null){if(Rb(0x4b3)==='EkFUd')this[Rb(0x142)]=new bg();else{function bA(){const Rd=Rc,Re=Rb;s[Rd(0x321)][Rd(0xa90)](t[Rd(0x68d)][Re(0x5ff)]['displayObject']),this[Rd(0x290)]=new u[(Re(0x9be))](),this[Rd(0x290)]['setSize'](v['GRoot']['inst']['width'],w[Rd(0x68d)][Rd(0x5ff)][Rd(0x16e)]),this[Rd(0x745)]=new x['GComponent'](),this[Re(0x745)][Rd(0x3ac)](y[Rd(0x68d)][Re(0x5ff)][Re(0x3ad)],z['GRoot']['inst'][Rd(0x16e)]),this[Rd(0x1df)]=new A['GComponent'](),this[Rd(0x1df)][Rd(0x3ac)](B[Re(0x68d)]['inst'][Re(0x3ad)],C[Rd(0x68d)][Re(0x5ff)][Re(0x16e)]),this[Re(0x9b3)]=new D[(Rd(0x9be))](),this[Re(0x9b3)]['setSize'](E[Rd(0x68d)][Rd(0x5ff)]['width'],F[Rd(0x68d)][Re(0x5ff)]['height']),G['GRoot']['inst'][Rd(0xa90)](this['gameViewContainer']),H[Re(0x68d)]['inst']['addChild'](this['uiViewContainer']),I[Rd(0x68d)][Re(0x5ff)][Re(0xa90)](this[Rd(0x1df)]),J['GRoot']['inst'][Re(0xa90)](this[Rd(0x9b3)]);}}}return this[Rb(0x142)];}}class bh extends F{constructor(){super(...arguments),this['count']=0x5;}get[bW(0xa8f)](){const Rf=bW;if(Rf(0x42a)!=='vJdPI')return an['URL'];else{function bA(){const Rg=Rf,Rh=Rf;if(f[Rg(0x5ff)][Rg(0x2fe)][Rg(0x1a3)]==![]){k[Rg(0x5ff)][Rg(0x65b)]('没广告版本');return;}this['qg']&&(this[Rh(0x338)]&&(this[Rh(0x8d9)]=0xaa,this[Rg(0x987)]=![],this[Rh(0x338)][Rg(0x8af)](this[Rh(0x878)]),this[Rg(0x338)][Rg(0x52b)](this[Rg(0x60d)]),this[Rh(0x338)][Rg(0x123)](this[Rh(0x412)]),this[Rh(0x338)][Rh(0x403)](),this[Rh(0x338)]=null,o[Rh(0x5ff)][Rh(0x3c0)](p[Rh(0x805)]),q[Rh(0x5ff)][Rg(0x65b)]('OPPOH5GameAPI.onDestoryBanner\x20销毁Banner广告')));}}}[c1(0x1e0)](){const Ri=c1,Rj=c1;this[Ri(0x6f5)]=Laya[Rj(0x432)][Ri(0x3e6)](this,this['unbind']),this[Rj(0x3a8)]=Laya[Rj(0x432)][Rj(0x3e6)](this,this['bind']),super[Ri(0x1e0)]();}['unbind'](){const Rk=c1,Rl=bW;Laya[Rk(0x801)]['clear'](this,this['onCountTime']),a2[Rl(0x5ff)]['hideResultIconListView']();}[c1(0x6d4)](){const Rm=c1,Rn=bW;if(Rm(0x411)===Rm(0x411)){this[Rm(0x435)][Rn(0x880)][Rm(0x907)](this,this['onGetCoinBtnClick']),this['view'][Rm(0x86e)][Rn(0x907)](this,this[Rm(0x655)]),this['view'][Rm(0x814)][Rn(0x907)](this,this[Rm(0x7ac)]),this['view'][Rm(0x189)][Rn(0x907)](this,this[Rn(0x82e)]),this['view'][Rm(0x2f4)][Rn(0x6dd)]=bt[Rm(0x67b)]()[Rn(0x538)]?0x0:0x1,this['view'][Rm(0x325)][Rm(0x7d7)]='+100',bt['instance']()[Rn(0x8ef)]();if(bt['instance']()['isWin']==![])Laya[Rn(0x801)][Rn(0x341)](0x3e8,this,this[Rn(0xa1c)]),aQ['inst']['Play'](aC[Rm(0x707)]);else{if(Rm(0x96f)===Rm(0x96f))aQ['inst'][Rn(0x3d7)](aC[Rn(0x44e)]);else{function bA(){const Ro=Rm;if(this['qg'])return this['qg'][Ro(0x912)]();return null;}}}this[Rm(0x435)][Rn(0x838)][Rn(0x6dd)]=w[Rn(0x5ff)][Rn(0x2fe)]['canAd']?0x1:0x0,aV['inst'][Rm(0x102)]!=aU[Rn(0x6a4)]?Q[Rn(0x5ff)][Rm(0x1cc)]():a2[Rn(0x5ff)][Rm(0x621)](bB=>{});}else{function bB(){b['log']('WebH5GameAPI\x20createRewardedVideoAd');}}}[bW(0xa1c)](){const Rp=c1,Rq=c1;if(Rp(0x514)!==Rq(0x514)){function bA(){bm&&d(![],'');}}else{this[Rq(0xa2a)]--,this[Rp(0x435)][Rq(0xa6b)][Rp(0x7d7)]=this[Rq(0xa2a)][Rq(0xa89)]();if(this[Rp(0xa2a)]==0x0){if('jMaXp'===Rq(0x9cf))this[Rq(0x7ac)]();else{function bB(){const Rr=Rq,Rs=Rp;let bC=d[Rr(0x3c9)]('/'),bD=bC[bC[Rr(0x31f)]-0x1][Rr(0x3c9)]('.')[0x0],bE=this[Rs(0x9cc)](bD);return bE;}}}}}[c1(0x655)](){const Rt=bW,Ru=bW;Laya[Rt(0x801)]['clear'](this,this[Ru(0xa1c)]),Q['inst'][Ru(0x4ec)](bA=>{const Rv=Rt,Ry=Ru;if(bA){if(Rv(0x7f5)==='qgKDo'){function bB(){const Rw=Rv,Rx=Rv;k[Rw(0x280)]?(u['inst'][Rx(0x65b)]('OPPOH5GameAPI.RewardedVideo.onClose\x20激励视频广告完成，发放奖励'),v[Rw(0x5ff)][Rw(0x682)]&&w['inst']['onVideoSuccessCallback'](),x[Rw(0x5ff)][Rx(0x1f0)]=![],y[Rw(0x5ff)]['clearVideoCallbacks']()):(z[Rw(0x5ff)][Rw(0x65b)]('OPPOH5GameAPI.RewardedVideo.onClose\x20激励视频广告取消关闭，不发放奖励'),A[Rw(0x5ff)][Rw(0x19e)]&&B[Rx(0x5ff)][Rw(0x19e)](0x4,'激励视频广告取消关闭，不发放奖励'),C[Rw(0x5ff)][Rx(0x8c7)]());}}else{let bC=0xc8;aA[Ry(0x5ff)][Rv(0x3ae)](bC),this[Ry(0x1a8)](()=>{const Rz=Rv,RC=Rv;if(Rz(0x22f)!=='PjfQn'){function bD(){const RA=Rz,RB=Rz;if(this[RA(0x2fe)]['switches']){if(typeof this[RA(0x2fe)][RB(0x35c)][RA(0x58e)]!==RA(0x685))return this[RA(0x2fe)][RA(0x35c)][RB(0x58e)];}return![];}}else bg[RC(0x67b)][Rz(0x87b)](RC(0xa68));});}}Laya[Ry(0x801)]['loop'](0x3e8,this,this['onCountTime']);});}['onGetCoinBtnClick'](){const RD=bW,RG=bW;this[RD(0x1a8)](()=>{const RE=RD,RF=RD;bg[RE(0x67b)][RE(0x87b)]('gameUI');}),bg['instance'][RG(0x87b)](RG(0xa68));}[c1(0x82e)](){const RH=bW,RI=bW;Laya['timer'][RH(0x8dd)](this,this['onCountTime']),Q[RI(0x5ff)][RH(0x4ec)](bA=>{const RJ=RH,RK=RI;if(bA){if(RJ(0x224)!==RJ(0x224)){function bB(){const RL=RJ,RM=RJ;bm[RL(0x5ff)][RM(0x65b)](RL(0x976)),d(![]);}}else aA[RK(0x5ff)][RK(0x42b)](),bt[RJ(0x67b)]()[RK(0x8ef)](),this[RK(0x1a8)](()=>{const RN=RK,RO=RJ;if(RN(0x552)==='VmdMx')bg[RN(0x67b)][RN(0x87b)]('gameUI');else{function bC(){const RP=RN,RQ=RN;return b[RP(0x649)][RP(0x6ff)](RP(0x845),'GameBlueBtn');}}});}else Laya[RJ(0x801)][RJ(0x341)](0x3e8,this,this[RK(0xa1c)]);});}['onContinuBtnClick'](){this['removeAfter'](()=>{const RR=a0b;bg['instance'][RR(0x87b)]('gameUI');});}[bW(0x1a8)](bA){const RS=c1,RT=bW;if(a2[RS(0x5ff)]['enabled']){if(aV['inst'][RS(0x102)]==aU['weixin_h5']){if(RS(0x871)!==RT(0x871)){function bB(){const RU=RT,RV=RS;if(d[RU(0x5ff)]['currentPlatform'][RU(0x1a3)]==![]){g[RU(0x5ff)][RU(0x65b)](RV(0x329));return;}f['inst'][RV(0x65b)](RU(0x1e9));}}else a2['inst']['showPowerView'](bC=>{const RW=RT,RX=RS;bC&&(this['removeSelf'](),Laya[RW(0x801)][RX(0x8ba)](0x3e8,this,()=>{const RY=RW,RZ=RX;if(RY(0xa79)===RY(0x930)){function bD(){const S0=RZ,S1=RY;g['UIObjectFactory'][S0(0x3bf)](h[S0(0xa8f)],i),j[S0(0x5b8)][S0(0x3bf)](k[S1(0xa8f)],l);}}else bA&&bA();}));});}else{if(RT(0x3f4)!=='oshvh')this[RT(0x778)](),Laya[RS(0x801)][RT(0x8ba)](0x3e8,this,()=>{bA&&bA();});else{function bC(){const S2=RS,S3=RS;b[S2(0x5ff)][S3(0x65b)](S2(0x86d));return;}}}}else this[RS(0x778)](),Laya[RT(0x801)][RT(0x8ba)](0x3e8,this,()=>{bA&&bA();});}}class bi{static[bW(0x3af)](){return{0x0:{'p':0x64,'s':![]},0x1:{'p':0x64,'s':![]},0x2:{'p':0x64,'s':![]},0x3:{'p':0x64,'s':![]},0x4:{'p':0x64,'s':![]},0x5:{'p':0x64,'s':![]}};}static[bW(0x5ab)](bA){const S4=bW,S5=bW;if(S4(0x8ae)!==S5(0x8ae)){function bC(){const S6=S4,S7=S5;this[S6(0xa3f)](this['deskTopRecordKey'],this[S7(0x478)]);}}else{var bB=~~(Math[S4(0xa4f)]()*bA[S5(0x31f)]*0x2);return bA[bB%=bA[S4(0x31f)]];}}static[c1(0xa50)](){const S8=bW,S9=bW;return{'p':this['getRandomInArr'](this[S8(0x592)]),'r':this[S9(0x5ab)](this['roadColors'])};}static['getStorage'](bA,bB){const Sa=c1,Sb=bW;var bC=Laya[Sa(0x918)][Sb(0x57e)](bA);return''==bC||null==bC||null==bC||Sb(0x685)==bC?(this[Sa(0x82d)](bA,bB),bB):bC;}static[bW(0x82d)](bA,bB){const Sc=c1,Sd=c1;Laya[Sc(0x918)][Sd(0x2bf)](bA,bB);}static[bW(0x728)](bA,bB,bC){const Se=c1,Sf=c1;if(Se(0x809)==='UpUdF'){var bD=bA[Se(0x8b0)];Laya[Sf(0x587)][Sf(0x7eb)](bB,bD,bC);}else{function bE(){const Sg=Sf,Sh=Se;for(let bF=0x0;bF<this[Sg(0x2bc)][Sh(0x31f)];bF++){const bG=this[Sg(0x2bc)][bF];if(bG[Sg(0x62f)]==bA)return!![];}return![];}}}static[c1(0x651)](bA,bB,bC){const Si=c1,Sj=bW;var bD=new Laya[(Si(0x2eb))]();bA[Si(0x8b0)][Sj(0x416)](bD),Laya['Vector3'][Sj(0x7eb)](bB,bD,bC);}static[bW(0x74e)](bA,bB,bC,bD){const Sk=c1,Sl=bW;var bE=0xb4/Math['PI'];Laya[Sk(0x69d)][Sk(0x617)](bB/bE,bA/bE,bC/bE,bD);}static[c1(0x30f)](bA,bB){const Sm=c1,Sn=c1;if(Sm(0x6d5)!==Sn(0x6d5)){function bF(){const So=Sn,Sp=Sm;this[So(0x78a)]&&this[Sp(0x78a)][Sp(0x7b7)](b);}}else{for(var bC=window[Sm(0x22e)][Sm(0x9ae)][Sn(0x34e)](0x1)[Sn(0x3c9)]('&'),bD=0x0;bD<bC['length'];bD++){var bE=bC[bD][Sn(0x3c9)]('=');if(bE[0x0]==bA)return bE[0x1];}return bB;}}static[c1(0x6c1)](bA,bB){const Sq=bW,Sr=bW;for(var bC=bB[Sq(0x3c9)]('/'),bD=0x0;bD<bC[Sr(0x31f)];bD++)if(bB=bC[bD],null==(bA=bA[Sq(0x715)](bB)))return null;return bA;}static['QuaternionVector3'](bA,bB,bC){const Ss=c1,St=bW;if(Ss(0x5d8)!==St(0x5d8)){function bE(){const Su=St,Sv=Ss;if(g[Su(0x5ff)][Su(0x2fe)][Sv(0x1a3)]==![]){m[Su(0x5ff)][Sv(0x65b)](Sv(0x329));return;}if(this[Sv(0x338)]){if(this['versionCompareUsage'](Su(0x886))==![]){q['inst'][Su(0x65b)](Sv(0x33d));return;}this[Sv(0x8d9)]=0x14,this['m_bannerAd']['hide'](),o['inst'][Su(0x3c0)](p[Su(0x805)]);}l['log']('TouTiaoH5GameAPI\x20onHideBanner');}}else{var bD=new Laya[(Ss(0x2eb))]();return Laya['Matrix4x4'][St(0x273)](bA,bD),Laya[Ss(0x587)]['transformV3ToV3'](bB,bD,bC),bC;}}static[bW(0x4b7)](bA,bB,bC){const Sw=bW,Sx=bW;if(Sw(0x800)!==Sx(0x800)){function bI(){const Sy=Sw,Sz=Sw;if(bA[Sy(0x142)]==null)f[Sz(0x142)]=new g();return bH[Sy(0x142)];}}else{Laya[Sx(0x587)][Sw(0x890)](bA,bA),Laya[Sw(0x587)][Sx(0x890)](bB,bB);var bD=Laya[Sw(0x587)][Sw(0x7d0)](bA,bB);if(bD>=0x1)return new Laya[(Sx(0x69d))]();if(bD<0.000001-0x1){var bE=new Laya[(Sx(0x587))]();Laya[Sw(0x587)]['cross'](new Laya[(Sx(0x587))](0x1,0x0,0x0),bA,bE),this[Sw(0x954)](bE),Laya[Sx(0x587)][Sw(0x67a)](new Laya[(Sx(0x587))](0x0,0x1,0x0),bA,bE),Laya[Sx(0x587)][Sw(0x890)](bE,bE),Laya[Sx(0x69d)]['createFromAxisAngle'](bE,0xb4,bC);}else{var bF=Math[Sw(0x44d)](0x2*(0x1+bD)),bG=0x1/bF,bH=new Laya[(Sx(0x587))]();Laya[Sw(0x587)][Sw(0x67a)](bA,bB,bH),bC['x']=bH['x']*bG,bC['y']=bH['y']*bG,bC['z']=bH['z']*bG,bC['w']=0.5*bF,bC['normalize'](bC);}return bC;}}static[c1(0x954)](bA){return bA['x']*bA['x']+bA['y']*bA['y']+bA['z']*bA['z']<1e-12;}static[bW(0x63f)](bA,bB,bC){return bA+bC*(bB-bA);}static[bW(0x2ee)](bA,bB,bC){const SA=bW,SD=bW;if(SA(0x625)==='oDGKJ'){function bG(){const SB=SA,SC=SA;b[SB(0x5ff)][SB(0x65b)]('没广告版本');return;}}else{void 0x0===bC&&(bC=0x1),bA=bA[SA(0x5ef)](),Laya['Vector3']['normalize'](bA,bA),bB=bB['clone'](),Laya[SA(0x587)][SD(0x890)](bB,bB);var bD=Laya[SD(0x587)][SD(0x7d0)](bA,bB);bD=Math[SD(0x837)](-0x1,Math[SD(0x418)](0x1,bD)),this[SA(0x3a9)](bD)&&(bD=0x0);var bE=Math[SD(0x876)](bD)*(0xb4/Math['PI']),bF=new Laya[(SA(0x587))]();switch(Laya[SA(0x587)][SD(0x67a)](bA,bB,bF),bC){case 0x0:bF['x']<0x0&&(bE*=-0x1);break;case 0x1:bF['y']<0x0&&(bE*=-0x1);break;case 0x2:bF['z']<0x0&&(bE*=-0x1);break;default:bF['y']<0x0&&(bE*=-0x1);}return this[SD(0x76b)](bE,0.1)?0x0:bE;}}static['isZero'](bA){const SE=bW,SF=c1;if(SE(0x35f)!==SE(0x35f)){function bB(){const SG=SF,SH=SF;this[SG(0x1cd)][SG(0x7a2)](l)!=-0x1?w['runWith'](x['loader'][SH(0x479)](y)):z['loader'][SH(0x3e6)](A,B[SH(0x432)]['create'](this,()=>{const SI=SG,SJ=SH;this[SI(0x1cd)][SI(0x597)](G),H[SI(0x8c4)](I[SI(0x458)][SI(0x479)](J));}));}}else return Math[SE(0x38e)](bA)<0.000001;}static[bW(0x76b)](bA,bB){const SK=c1,SN=bW;if(SK(0x6dc)!=='lLorg'){function bC(){const SL=SK,SM=SK;(this[SL(0x29b)][d]['TryUpdateBuffer'](this)||this['buffers'][bA][SL(0x132)](this))&&delete this[SL(0x29b)][g];}}else return Math[SN(0x38e)](bA)<bB;}}bi['fogColors']=[new Laya[(bW(0x587))](0.3795415,0.7941176,0.3824006),new Laya[(bW(0x587))](0.3633218,0.5783081,0.7058823),new Laya[(bW(0x587))](0.6524901,0.3986267,0.7426471)],bi[bW(0x676)]=[new Laya['Vector3'](0.3412,0.4431,0.7922),new Laya[(c1(0x587))](0.6431,0.2745,0.5608),new Laya[(c1(0x587))](0.8353,0.4745,0.1686),new Laya['Vector3'](0.2353,0.6824,0.2902),new Laya[(bW(0x587))](0.5922,0.3059,0.8667),new Laya['Vector3'](0.3961,0.2157,0.7373),new Laya[(bW(0x587))](0.4235,0.6745,0.4118),new Laya[(bW(0x587))](0.7059,0.251,0.2745),new Laya['Vector3'](0.2667,0.4157,0.6549),new Laya[(c1(0x587))](0.1843,0.5843,0.5294)],bi[bW(0x77e)]=[{'p':new Laya['Vector3'](0.3795415,0.7941176,0.3824006),'r':new Laya['Vector3'](0.5382891,0.245026,0.7573529)},{'p':new Laya[(bW(0x587))](0.3633218,0.5783081,0.7058823),'r':new Laya[(bW(0x587))](0.7867647,0.2661116,0.7508579)},{'p':new Laya['Vector3'](0.6524901,0.3986267,0.7426471),'r':new Laya[(bW(0x587))](0.8970588,0.4606297,0.1253244)}];class bj{}bj[bW(0x417)]='coinChange',bj[bW(0x3ab)]=bW(0x3ab),bj[c1(0x293)]=bW(0x293),bj['PassChange']=c1(0x7e3);class bk extends Laya[c1(0x4e7)]{constructor(){const SO=c1,SP=bW;if(SO(0x972)!==SO(0x972)){function bA(){const SQ=SO,SR=SP;let bB=d[SQ(0x918)][SQ(0x615)](e);return bB?g[SR(0x9c4)](bB):null;}}else super(...arguments),this[SP(0x3d1)]=null;}get[bW(0x9ec)](){const SS=bW,ST=c1;if('IGLVB'==='IGLVB')return!this[SS(0x3d1)]&&(this[SS(0x3d1)]=this[ST(0x926)]['transform']),this['_transform'];else{function bA(){const SU=SS;this[SU(0x4b8)]();}}}[bW(0x85e)](){const SV=c1,SW=bW;bg[SV(0x67b)]['on'](bj[SV(0x7e3)],this,this[SV(0x99d)]),this[SV(0x1c4)]=this[SV(0x9ec)][SV(0x71a)][SW(0x5ef)](),this[SW(0x2f1)]=this['transform'][SW(0x484)][SV(0x5ef)]();}[bW(0x99d)](){const SX=bW,SY=bW;this[SX(0x9ec)][SY(0x71a)]=this[SX(0x1c4)],this[SX(0x9ec)][SX(0x484)]=this[SY(0x2f1)];}get[bW(0x6d2)](){const SZ=bW,T0=bW;if('giDSI'!==SZ(0x5bb)){if(!this[T0(0xa7e)])this[T0(0xa7e)]=this[SZ(0x926)];return this['_gameObject'];}else{function bA(){const T1=SZ;e[T1(0x89c)](f),g&&h(!![]);}}}[bW(0x3e3)](bA,bB){return Math['random']()*(bB-bA)+bA;}[bW(0x56e)](){const T2=c1,T3=bW;let bA=new Laya['Vector3']();return this[T2(0x9ec)][T3(0x985)](bA),bA;}}class bl extends bk{constructor(){const T4=bW,T6=bW;if('NRQnr'===T4(0xf8)){function bA(){const T5=T4;this['_platform']=b[T5(0x1fb)];}}else super(...arguments),this[T4(0x2d9)]=0xa,this[T6(0x6a1)]=new Laya[(T4(0x587))](),this[T6(0x328)]=null;}get[c1(0x9ec)](){const T7=c1,T8=bW;return this[T7(0x6d2)][T8(0x9ec)];}['onAwake'](){const T9=c1,Ta=bW;if('hZrDc'==='hZrDc')this[T9(0x71d)]=this[Ta(0x6d2)][Ta(0x715)](T9(0x64d)),this[T9(0xa4d)]=this[T9(0x71d)][Ta(0x2ca)](Laya['Animator']),bg[T9(0x67b)]['on'](Ta(0x1ae),this,this[T9(0x7e9)]),bg[Ta(0x67b)]['on']('Ending',this,this[Ta(0x38d)]);else{function bA(){const Tb=T9,Tc=Ta;this[Tb(0x586)][Tc(0x48d)]();}}}[bW(0x7e9)](){const Td=c1,Te=bW;this[Td(0xa4d)][Te(0x65e)](Td(0x378));}[c1(0x38d)](){const Tf=bW,Tg=bW;if(Tf(0x29a)!==Tg(0x8d3))this[Tf(0xa4d)]['play']('ending');else{function bA(){const Th=Tf,Ti=Tf;b[Th(0x89c)](Ti(0x98e));}}}[bW(0xa3d)](bA){const Tj=bW,Tk=bW;if(bA){var bB=bA[Tj(0x9ec)][Tj(0x63d)];Laya[Tk(0x587)][Tj(0x547)](this[Tk(0x9ec)]['position'],bB,this[Tj(0x6a1)]),bA['transform'][Tk(0x63d)]['cloneTo'](bB),this[Tj(0x9ec)]['position']=bB,this[Tk(0x5cb)]=bA;}}[c1(0x1e1)](){const Tl=bW,Tm=bW;if(this[Tl(0x5cb)]){if(Tl(0x49f)===Tl(0x49f)){var bA=this[Tm(0x5cb)][Tl(0x9ec)][Tm(0x63d)][Tl(0x5ef)]();Laya[Tm(0x587)][Tl(0x599)](bA,this[Tl(0x6a1)],bA);var bB=this[Tl(0x9ec)][Tl(0x63d)]['clone']();Laya['Vector3']['lerp'](bB,bA,0x1,bA),this['transform'][Tm(0x63d)]=bA;}else{function bC(){const Tn=Tm;this['ad']=bm['inst']['nativeIconData'],d['log'](Tn(0x711));}}}}}class bm{get['Heading'](){const To=c1,Tp=bW;var bA=new Laya[(To(0x587))]();return Laya[Tp(0x587)][Tp(0x547)](this['Front'],this[To(0x8a5)],bA),Laya['Vector3'][Tp(0x890)](bA,bA),bA;}get[bW(0x502)](){const Tq=bW,Tr=c1;if(Tq(0x436)!=='IyDgq'){var bA=Laya['Vector3'][Tr(0x7d9)](this['Front'],new Laya[(Tr(0x587))]()),bB=Laya[Tr(0x587)][Tq(0x7d9)](this[Tq(0x8a5)],new Laya['Vector3']());return!bA&&!bB;}else{function bC(){const Ts=Tq,Tt=Tr;this[Ts(0x964)]=0x1,this['setVolume'](this[Ts(0x964)],'SE');}}}get[c1(0x2aa)](){const Tu=bW,Tv=bW;if(Tu(0x737)!==Tu(0x281)){var bA=Laya[Tv(0x587)][Tv(0x7d9)](this[Tu(0x106)],new Laya[(Tv(0x587))]()),bB=Laya[Tv(0x587)]['equals'](this[Tu(0x8a5)],new Laya[(Tv(0x587))]());return!bA||!bB;}else{function bC(){return-0x1;}}}}class bn extends bk{constructor(){const Tw=c1,Tx=c1;if(Tw(0x94d)!==Tw(0x61d))super(...arguments),this[Tx(0x1c9)]=0x5,this['axleInfos']=[],this[Tw(0x693)]=null,this[Tx(0x899)]=0x7d0,this[Tx(0x28b)]=0x1,this['AntiRollForce']=0x7d0,this[Tw(0x47f)]=null;else{function bA(){const Ty=Tw,Tz=Tx;bm[Ty(0x5ff)][Ty(0x6fd)](d);}}}get[c1(0x9ec)](){const TA=bW,TB=c1;return this[TA(0x6d2)][TA(0x9ec)];}[c1(0x716)](){const TC=bW,TD=c1;this[TC(0x693)]=this[TD(0x926)]['getComponent'](Laya[TD(0x8e9)]),this['rigidbody'][TD(0x9d7)]=0x46,this['rigidbody']['linearDamping']=0.9,this[TC(0x693)][TC(0x881)]=0.999,this['rigidbody'][TD(0x523)]=!![],this[TD(0x693)][TC(0x5a2)]=new Laya['Vector3'](0x0,-0x1e,0x0);}['AddFrontWheel'](bA,bB){const TE=c1,TF=bW;var bC={'IsFront':![],'LeftWheel':'','RightWheel':''};bC['IsFront']=!![],bC[TE(0x304)]=bA,bC['RightWheel']=bB,this[TF(0x7b3)][TF(0x597)](bC);}[c1(0x995)](bA,bB){const TG=bW,TH=c1;if(TG(0x3f3)==='dGHjS'){var bC={'LeftWheel':'','RightWheel':'','IsBack':![]};bC[TH(0x354)]=!![],bC[TG(0x304)]=bA,bC['RightWheel']=bB,this['axleInfos'][TG(0x597)](bC);}else{function bD(){const TI=TG,TJ=TH;bm[TI(0x5ff)][TI(0x65b)]('今日已经领取了ICON奖励'),d(!![]);return;}}}[c1(0x476)](){const TK=bW,TL=c1;var bA=new Laya[(TK(0x587))]()[TL(0x5ef)](),bB=new Laya[(TK(0x587))]()[TL(0x5ef)]();for(var bC=0x0;bC<this[TK(0x7b3)][TL(0x31f)];bC++){if(TL(0x504)!==TL(0xa9b)){var bD=this[TL(0x7b3)][bC];if(null!=bD['LastLeftWheelResult']&&null!=bD['LastRightWheelResult']){var bE=new Laya['Vector3']();Laya[TL(0x587)][TL(0x599)](bD[TL(0x87e)][TK(0xa0b)],bD[TK(0x87d)][TK(0xa0b)],bE),Laya['Vector3'][TL(0x6b9)](bE,0.5,bE),bD['IsFront']&&(bA=bE),bD[TK(0x354)]&&(bB=bE);}}else{function bG(){const TM=TL;b[TM(0x597)]('0');}}}var bF=new bm();return bF['Front']=bA,bF[TK(0x8a5)]=bB,bF;}['HandleWheel'](bA){const TN=bW,TO=c1;var bB=this['GetTransformUp'](bA),bC=bA[TN(0x9ec)][TO(0x63d)][TO(0x5ef)](),bD=new Laya[(TN(0x587))]();Laya['Vector3'][TN(0x6b9)](bB,-0x1,bD);var bE=new Laya[(TO(0x940))](bC,bD),bF=new Laya[(TO(0x784))]();if(!bt['instance']()[TO(0x292)][TO(0x8ad)][TO(0x734)](bE,bF,this[TN(0x28b)],0x1,0x1))return null;var bG=Laya[TO(0x587)][TN(0x2ff)](bE[TN(0x63b)],bF[TN(0x7ce)]),bH=this[TN(0x4ed)](0x1-bG/this['SuspensionLength'],0x2),bI={'Hit':new Laya[(TO(0x784))](),'CompressionRatio':0x0,'ImpactPoint':''};bI[TO(0x657)]=bF,bI['CompressionRatio']=bH,bI['ImpactPoint']=bF[TO(0x7ce)][TN(0x5ef)]();var bJ=new Laya['Vector3']();Laya[TO(0x587)][TO(0x6b9)](bB,this[TO(0x899)]*bH,bJ);var bK=bA[TO(0x9ec)]['localPosition'][TN(0x5ef)]();Laya[TN(0x587)][TO(0x547)](bK,new Laya[(TN(0x587))](0x0,0x5,0x0),bK),bi[TN(0x728)](bA[TO(0x9ec)],bK,bK);var bL=bK;return Laya[TN(0x587)][TO(0x547)](bL,this[TO(0x9ec)][TO(0x63d)],bL),this[TN(0x693)]['applyForce'](bJ,bL),bI;}[c1(0x5fb)](bA){const TP=bW,TQ=bW;if(TP(0x63a)!==TQ(0x9f1)){var bB=0x1,bC=0x1,bD=bA[TP(0x87e)];bD&&(bB=bD[TQ(0x9ea)]);var bE=bA['LastLeftWheelResult'];bE&&(bC=bD[TQ(0x9ea)]);var bF=(bB-bC)*this['AntiRollForce'];if(bD){var bG=new Laya[(TP(0x587))]();Laya[TQ(0x587)][TP(0x6b9)](this[TQ(0x33b)](bA['LeftWheel']),-bF,bG);var bH=bA[TQ(0x304)][TQ(0x9ec)]['position'][TP(0x5ef)]();Laya[TP(0x587)][TP(0x547)](bH,this[TP(0x9ec)]['position'],bH),this[TQ(0x693)][TP(0x5b6)](bG,bH);}if(bE){if(TQ(0x3d4)===TP(0x3d4))bG=new Laya[(TP(0x587))](),Laya[TQ(0x587)][TP(0x6b9)](this[TP(0x33b)](bA[TQ(0x3d0)]),bF,bG),bH=bA['RightWheel'][TQ(0x9ec)]['position'][TP(0x5ef)](),(Laya[TQ(0x587)][TP(0x547)](bH,this[TP(0x9ec)]['position'],bH),this[TP(0x693)][TQ(0x5b6)](bG,bH));else{function bI(){const TR=TQ,TS=TQ;this[TR(0x7bf)]=this['qg'][TR(0x2b5)]({'posId':b}),this[TS(0x7bf)]['onLoad'](this[TR(0x3a3)]),this[TS(0x7bf)][TR(0x99a)](this['onRewardAdError']),this['m_videoAd'][TS(0x5a9)](this[TR(0xa7c)]);}}}}else{function bJ(){const TT=TP;bm['inst']['debug'](TT(0x81e)),this['isVideoAdPlaying']=!![],d['inst']['onHide']();}}}[bW(0x33b)](bA){const TU=c1,TV=bW;if(TU(0x190)!==TV(0x9b2)){var bB=new Laya[(TV(0x587))]();return bA[TU(0x9ec)][TV(0x6cb)](bB),bB;}else{function bC(){const TW=TV,TX=TV;let bD=new l(),bE=0x168/m*n[TW(0x82b)];for(let bF=0x0;bF<w;bF++){bD[TX(0x597)](new E['Point'](F['sin'](bE*bF)*G+H['x'],I['cos'](bE*bF)*J+K['y']));}return bD;}}}[bW(0x4ed)](bA,bB){const TY=c1;var bC=Math[TY(0x11d)](0xa,bB);return Math['round'](bA*bC)/bC;}}class bo extends Laya[c1(0x4e7)]{[bW(0x716)](){const TZ=c1,U1=c1;if('hISvX'===TZ(0x955)){function bA(){const U0=TZ;return U0(0x505);}}else this[TZ(0x6a5)]=0x0;}[bW(0x93f)](){const U2=c1,U3=c1;if(U2(0x404)===U2(0x404))Laya[U3(0x801)][U2(0x8dd)](this,this[U2(0x796)]);else{function bA(){const U4=U3,U5=U2;var bB={};for(var bC in l)if(m[U4(0x41d)]['hasOwnProperty'][U5(0xa0d)](n,bC)&&o[U4(0x7a2)](bC)<0x0)bB[bC]=p[bC];if(q!=null&&typeof r[U4(0x941)]===U5(0x81a))for(var bD=0x0,bC=s[U5(0x941)](t);bD<bC['length'];bD++)if(u[U4(0x7a2)](bC[bD])<0x0)bB[bC[bD]]=v[bC[bD]];return bB;}}}['onTriggerEnter'](bA){const U6=c1,U7=bW;if(bA[U6(0x926)][U6(0x842)][U7(0x32a)](U6(0x61f))){if('CmfHl'===U7(0x573)){function bB(){const U8=U7,U9=U6;return bm[U8(0x5ff)][U9(0x992)](d);}}else this[U7(0x6a5)]++,bt[U6(0x67b)]()[U6(0x6ca)](bA[U6(0x926)]['parent']);}}[c1(0x183)](bA){const Ua=bW,Ub=c1;if(bA[Ua(0x926)][Ua(0x842)][Ua(0x32a)](Ub(0x61f))){if(Ua(0x7f1)===Ub(0x234)){function bB(){const Uc=Ua,Ud=Ub;b[Uc(0x5ff)]['debug'](Uc(0x536));return;}}else this[Ub(0x6a5)]--,bt[Ub(0x67b)]()[Ub(0x829)](bA[Ub(0x926)]['parent']),Laya[Ub(0x801)]['once'](0x1f4,this,this[Ub(0x796)]);}}[bW(0x796)](){}['canStartGame'](){const Ue=bW,Uf=bW;if(Ue(0x3f7)===Uf(0x751)){function bA(){const Ug=Ue,Uh=Ue;this[Ug(0x469)](),this[Uh(0x180)]&&this['car'][Ug(0x12a)]&&this[Uh(0x180)][Ug(0x778)](),this['car']=this[Ug(0xa96)][Uh(0x715)](Uh(0x610)+f)[Uh(0x5ef)]();var bB=this[Ug(0x292)][Uh(0x715)](Uh(0x8ab));if(bB)this[Uh(0x180)]['transform'][Ug(0x63d)]=bB[Ug(0x9ec)]['position'];this['car'][Uh(0x9ec)][Ug(0x203)]=0x0,this[Uh(0x292)][Uh(0xa90)](this[Uh(0x180)]),g[Uh(0x801)][Uh(0x851)](0xa,this,()=>{const Ui=Uh,Uj=Ug;this[Ui(0x648)](this[Ui(0x180)]);}),this[Uh(0x9b4)]=this[Ug(0x180)][Uh(0x730)](h),this[Ug(0x9b4)][Ug(0xa3d)](this[Uh(0x500)]()),this[Uh(0x9b4)]['SetShutDown'](),this[Ug(0x64b)][Uh(0xa3d)](this[Uh(0x180)]),this[Uh(0x198)]=i,j[Ug(0x82d)](Ug(0x23b)+this['vv']+Uh(0x198),this[Uh(0x198)]);}}else return this[Ue(0x6a5)]>0x0;}}class bp extends bn{constructor(){const Uk=bW,Ul=c1;if(Uk(0x8e2)!==Uk(0x5ba))super(...arguments),this[Uk(0x8b5)]=0.5,this[Uk(0x528)]=0x1388,this['ForwardAcceleration']=0xfa0,this['loadedCargos']=[],this['m_forward']=new Laya[(Ul(0x587))](),this[Ul(0x7ea)]=0x32,this[Uk(0x3dc)]=0x32,this['head']=null,this['buffers']={},this[Ul(0x9d2)]=[],this[Uk(0x229)]=[],this[Uk(0x7e8)]=[],this[Uk(0x158)]=null,this[Ul(0x449)]=null,this[Uk(0x91c)]=new Laya['Vector3'](),this[Ul(0x41e)]=new Laya[(Uk(0x587))](),this[Uk(0x317)]=null,this[Uk(0x81b)]=null,this['offsetPosition']=new Laya[(Uk(0x587))](),this[Uk(0x48d)]=!![];else{function bA(){const Um=Uk;return this[Um(0x6d2)]['transform'];}}}['onAwake'](){const Un=bW,Uo=bW;super[Un(0x716)](),this[Uo(0x28b)]=0x1,this[Un(0x9d2)][0x0]=bi['FindChild'](this['owner'],Un(0x1d9)),this[Un(0x9d2)][0x1]=bi[Uo(0x6c1)](this['owner'],Un(0x53a)),this['backWheels'][0x0]=bi[Uo(0x6c1)](this[Un(0x926)],Un(0x146)),this[Un(0x229)][0x1]=bi[Un(0x6c1)](this['owner'],Uo(0x77f)),this['head']=this[Uo(0x6d2)][Uo(0x715)](Un(0x6c8))[Uo(0x9ec)];var bA=this[Uo(0x926)][Uo(0x715)]('Raycasts');this[Un(0x28b)]=bA[Un(0x9ec)][Uo(0xa4a)]+this[Uo(0x8b5)];var bB=bA[Uo(0x715)]('FL'),bC=bA[Un(0x715)]('FR'),bD=bA[Un(0x715)]('BL'),bE=bA[Un(0x715)]('BR');this[Uo(0x5f3)](bB,bC),this[Un(0x995)](bD,bE),this[Un(0x158)]=this[Un(0x926)][Uo(0x715)](Uo(0x593)),this[Uo(0x317)]=this[Un(0x926)][Un(0x715)](Uo(0x9ed)),this['cargoTrigger'][Uo(0x730)](bo);}['SetTarget'](bA){const Up=bW,Uq=bW;bA[Up(0x163)](this[Uq(0x91c)]);}[bW(0x92c)](){const Ur=c1,Us=bW;if(Ur(0x4c2)===Us(0xa24)){function bB(){const Ut=Us,Uu=Us;for(var bC,bD=0x1,bE=arguments[Ut(0x31f)];bD<bE;bD++){bC=arguments[bD];for(var bF in bC)if(h['prototype'][Uu(0x88d)]['call'](bC,bF))bA[bF]=bC[bF];}return g;}}else{this[Ur(0x693)][Ur(0x507)]=new Laya[(Us(0x587))](0x0,0x1,0x0);var bA=this[Ur(0x693)][Ur(0x544)];bA[Ur(0xa80)](0x0,bA['y'],0x0),this[Ur(0x693)][Us(0x544)]=bA;}}[c1(0x53b)](){const Uv=bW,Uw=bW;this['pause']=![],this[Uv(0x3dc)]=0x0;if(this[Uw(0x229)][Uw(0x31f)]>0x0)for(var bA=0x0;bA<this[Uv(0x229)][Uv(0x31f)];bA++){if(Uw(0x9ee)===Uw(0x28e)){function bD(){f['resolve'](g)['then'](function(bE){k({'value':bE,'done':l});},j);}}else this[Uw(0x229)][bA][Uw(0x9ec)][Uw(0x12d)]=0x0;}this[Uv(0x3dc)]=this[Uv(0x7ea)],this[Uw(0x7b3)][0x1];var bB=new Laya[(Uv(0x587))]();Laya[Uw(0x587)][Uv(0x890)](this[Uw(0x606)],bB);var bC=new Laya[(Uv(0x587))]();Laya[Uw(0x587)][Uv(0x890)](this[Uw(0x693)][Uw(0x544)],bC);}[bW(0x674)](){const Ux=c1,Uy=bW;if(Ux(0x946)==='sRvWT'){if(this[Ux(0x48d)]==![]){if(Ux(0x135)!==Ux(0x251)){if(this[Ux(0x47f)]&&this[Ux(0x47f)][Ux(0x2aa)]){if('qIAKT'===Ux(0x391)){function bC(){const Uz=Ux;this[Uz(0x8b7)]=new bB();}}else{this[Uy(0x693)][Uy(0x507)]=new Laya[(Ux(0x587))](0x1,0x1,0x1);var bA=new Laya['Vector3']();Laya[Ux(0x587)][Uy(0x6b9)](this[Ux(0x606)],this[Uy(0x447)],bA);var bB=new Laya[(Ux(0x587))]();Laya[Ux(0x587)][Ux(0x547)](this[Uy(0x158)]['transform'][Ux(0x63d)],this[Uy(0x9ec)][Uy(0x63d)],bB),this['rigidbody']['applyForce'](bA,bB);}}}else{function bD(){const UA=Uy,UB=Uy;if(g['inst'][UA(0x2fe)][UA(0x1a3)]==![]){m['inst']['debug'](UA(0x329));return;}if(this[UA(0x338)]){if(this['versionCompareUsage'](UB(0x886))==![]){q['inst']['debug'](UB(0x33d));return;}this[UB(0x8d9)]=0x14,this[UA(0x338)][UB(0x19d)](this[UB(0x818)]),this[UB(0x338)][UB(0x88b)](this['onBannerLoaded']),this[UB(0x338)]['offError'](this[UB(0x401)]),this[UB(0x338)][UB(0x403)](),this[UB(0x338)]=null,o[UA(0x5ff)]['SendEvent'](p[UA(0x805)]);}l[UB(0x89c)](UB(0x300));}}}}else{function bE(){const UC=Ux;this[UC(0x778)]();return;}}}[c1(0x6a0)](){const UD=bW,UE=bW;this[UD(0x674)]();for(var bA=0x0;bA<this['axleInfos'][UD(0x31f)];bA++){var bB=this[UE(0x7b3)][bA];bB['LastLeftWheelResult']=this[UE(0x884)](bB[UD(0x304)]),bB['LastRightWheelResult']=this[UD(0x884)](bB[UD(0x3d0)]);}for(bA=0x0;bA<this[UE(0x7b3)][UE(0x31f)];bA++)this['HandleBalance'](this['axleInfos'][bA]);this[UD(0x9fe)]();}[c1(0x9fe)](){const UF=c1,UG=c1;this[UF(0x66b)](),this['UpdateCurrentGroundForward'](),this[UG(0x3f1)](this[UG(0x91c)]),this[UF(0x346)](this[UF(0x9d2)],!![]),this['CorrectionWheelRotation'](this['backWheels'],![]),this[UG(0xa42)](this[UG(0x9d2)],this[UF(0x7b3)][0x0]),this[UF(0xa42)](this[UF(0x229)],this[UG(0x7b3)][0x1]);}[c1(0x9a2)](){const UH=bW,UI=bW;var bA=this[UH(0x476)]();if(bA[UH(0x502)])bA[UI(0x336)]['cloneTo'](this[UI(0x606)]);else{if('HTEki'===UH(0x68a)){function bC(){const UJ=UI,UK=UI;this[UJ(0x233)]=!![],b[UJ(0x5ff)][UJ(0x65b)](UK(0x34b));}}else{var bB=new Laya[(UI(0x587))]();this[UI(0x9ec)][UH(0x985)](bB),Laya[UH(0x587)]['normalize'](bB,bB),Laya[UI(0x587)][UH(0x6b9)](bB,-0x1,bB),bB['cloneTo'](this[UH(0x606)]);}}this[UI(0x47f)]=bA;}[c1(0x75b)](bA){const UL=c1,UM=bW;if(UL(0x7fd)===UM(0x8eb)){function bC(){const UN=UM;d&&bA(!![]),f[UN(0x89c)]('WebH5GameAPI\x20onLogin');}}else{var bB=new Laya[(UL(0x587))]();Laya[UM(0x587)][UM(0x547)](this[UM(0x545)][UL(0x63d)],this[UM(0x9ec)]['position'],bB),this[UM(0x693)][UM(0x5b6)](bA,bB);}}[c1(0x3f1)](bA){const UO=bW,UP=c1;var bB=new Laya[(UO(0x587))]();Laya[UP(0x587)][UP(0x890)](this[UP(0x606)],bB);var bC=new Laya[(UO(0x587))]();Laya['Vector3']['normalize'](this['rigidbody'][UP(0x544)],bC);var bD=Laya[UP(0x587)][UP(0x935)](this['rigidbody'][UO(0x544)]),bE=Laya['Vector3'][UO(0x7d0)](bC,bB);if(bD>0x2&&bE>0.1){if(UP(0x71b)===UP(0x5f5)){function bJ(){const UQ=UP;b[UQ(0x403)]();}}else{var bF=new Laya[(UP(0x587))]();bi[UO(0x651)](this['transform'],new Laya[(UP(0x587))](bA['x'],this['transform'][UP(0x63d)]['y'],bA['z']),bF),bF['y']=0x0;var bG=bF['x']/Laya[UP(0x587)][UP(0x935)](bF),bH=new Laya[(UP(0x587))](0x1,0x0,0x0);bi[UO(0x5c3)](this[UP(0x9ec)][UO(0x30c)],bH,bH),Laya[UO(0x587)]['scale'](bH,bG*this[UO(0x528)],bH),this['AddTurnForce'](bH);}}if(this['pause']==![]&&this['m_groundForward']&&this[UP(0x47f)][UO(0x502)]){if(UP(0x48e)!==UP(0x48e)){function bK(){const UR=UP,US=UO;b[UR(0x89c)](US(0x263));}}else{var bI=new Laya['Quaternion']();bi['FromToRotation'](bC,bB,bI),bi[UO(0x5c3)](bI,bC,bC),Laya['Vector3'][UP(0x6b9)](bC,bD,bC),this['rigidbody'][UO(0x544)]=bC;}}}[c1(0xa42)](bA,bB){const UT=c1,UU=c1;for(var bC=0x0;bC<bA[UT(0x31f)];bC++){var bD=bA[bC],bE=null,bF=new Laya[(UU(0x587))]();0x0==bC&&(bE=bB[UT(0x87e)]),0x1==bC&&(bE=bB[UT(0x87d)]),null!=bE?(bE[UU(0xa0b)]['cloneTo'](bF),bi[UU(0x651)](bD[UT(0x9ec)][UU(0x5d6)],bF,bF),Laya['Vector3'][UU(0x599)](bF,new Laya['Vector3'](0x0,this[UU(0x8b5)],0x0),bF)):bD[UT(0x9ec)][UU(0x71a)][UU(0x163)](bF);var bG=bD[UU(0x9ec)]['localPosition'];Laya[UT(0x587)][UT(0x92f)](bG,bF,0.5,bG),bD[UT(0x9ec)]['localPosition']=bG;}}[c1(0x346)](bA,bB){const UX=bW,UY=bW;if('VkGer'==='lkXDd'){function bJ(){const UV=a0b,UW=a0b;let bK=l['inst'][UV(0x318)][m];bD['icon']=o['inst'][UV(0xa82)](bK['icon']),p[UW(0x325)][UV(0x7d7)]=bK[UW(0x339)][UW(0xa89)](),q[UV(0x91e)]['text']=bK[UW(0x842)],bE[UV(0x7d1)][UV(0x6dd)]=0x2,bG[UV(0x5ff)][UW(0xa94)](bK[UW(0x7b9)])&&(w[UV(0x7d1)][UW(0x6dd)]=0x1),bK['_id']==u[UV(0x5ff)][UV(0x59a)]['currentCarId']&&(x[UW(0x7d1)]['selectedIndex']=0x0);}}else{var bC=new Laya['Vector3'](),bD=Laya[UX(0x587)][UY(0x935)](this[UY(0x693)][UX(0x544)]);if(0x0!=bD){Laya[UX(0x587)][UX(0x6b9)](this[UY(0x693)]['linearVelocity'],0x1/bD,bC);var bE=bD*Laya[UX(0x587)][UY(0x7d0)](bC,this[UY(0x606)])*(Laya[UX(0x801)]['delta']/0x3e8)*this[UX(0x3dc)];for(var bF=0x0;bF<bA[UX(0x31f)];bF++)bA[bF][UY(0x9ec)][UY(0x12d)]+=bE;if(bB){var bG=new Laya['Vector3']();bi[UX(0x651)](this[UY(0x9ec)],new Laya['Vector3'](this['targetPosition']['x'],this[UY(0x9ec)]['position']['y'],this[UY(0x91c)]['z']),bG),bG['y']=0x0,Laya[UX(0x587)]['normalize'](bG,bG);var bH=bi[UY(0x2ee)](new Laya[(UY(0x587))](0x0,0x0,0x1),bG,0x1);bH=Math['max'](-0x2d,Math[UY(0x418)](0x2d,bH));var bI=bA[0x0][UX(0x9ec)][UY(0x203)];bI=bi[UX(0x63f)](bI,bH,0.2);for(bF=0x0;bF<bA[UX(0x31f)];bF++)bA[bF]['transform'][UX(0x203)]=bI;}}}}['UpdateBuffers'](){const UZ=bW,V2=c1;if(UZ(0x520)!=='SwvRa'){function bB(){const V0=UZ,V1=UZ;g[V0(0xa3f)](h[V0(0x5ff)][V1(0x268)],null),i[V0(0x5ff)][V1(0x65b)](V0(0x6d7)+j[V1(0x921)](k[V0(0x161)])),l(!![],V1(0x96c));}}else for(var bA in this['buffers']){if(V2(0x917)===V2(0x917)){if(this[V2(0x29b)][bA][V2(0x419)](this)||this[V2(0x29b)][bA][V2(0x132)](this)){if(UZ(0x6c6)!=='hGeBA')delete this[UZ(0x29b)][bA];else{function bC(){const V3=V2;d&&bA(!![],f[V3(0x161)]);}}}}else{function bD(){const V4=V2;this['platformAPI'][V4(0x45a)](b);}}}}[bW(0x1ed)](bA){const V5=bW,V6=bW;if(V5(0x8a7)==bA[V5(0x926)]['name']){if('Twttr'===V6(0x95d)){function bB(){const V7=V6,V8=V5;let bC=g[V7(0x5ff)][V8(0x912)]();bC?(bC[V8(0xf9)]=m['URL'][V7(0x56b)]+n['clipName'],bC[V7(0x341)]=!![],bC[V8(0x18d)]=this['musicVolume'],bC[V7(0x65e)](),this[V8(0x3a0)][V7(0x597)]({'key':o[V7(0x480)],'audio':bC,'type':'BGM','canplay':![]})):p[V8(0x171)]['playMusic'](q['clipName'],0x0);}}else console['log']('@stop\x20the\x20car'),this[V6(0x92c)](),bt[V5(0x67b)]()[V6(0x455)](),bA['enabled']=![],this[V6(0x48d)]=!![];}V6(0x78e)==bA[V6(0x926)][V6(0x842)]&&(bg[V6(0x67b)][V6(0x87b)](V6(0x1ae)),bA[V6(0x2f8)]=![]),'endingCamera'==bA[V5(0x926)][V6(0x842)]&&(bg[V5(0x67b)][V6(0x87b)](V6(0x703)),bA[V5(0x2f8)]=![]);}['onCollisionEnter'](bA){const V9=c1,Va=c1;if(V9(0xfb)!=='MGRXr'){if(bt[Va(0x67b)]()[Va(0x686)]==bs[V9(0x7ec)])return;var bB=bA[Va(0x925)][V9(0x926)][Va(0x842)]['toLocaleLowerCase']();'plane'==bB&&bt['instance']()[V9(0x59f)](![]);}else{function bC(){const Vb=V9,Vc=Va;b[Vb(0x5ff)][Vc(0x65b)]('数据上报需要最小平台号1060');return;}}}}class bq extends Laya[bW(0x4e7)]{[c1(0x716)](){const Vd=bW,Ve=bW;this[Vd(0x9a4)]=Number[Vd(0x14e)](this['owner'][Ve(0x842)][Vd(0x4ca)]('p','')),this[Vd(0x22a)]=this[Ve(0x926)][Ve(0x12a)][Vd(0x2ca)](br);}[c1(0x1ed)](bA){const Vf=bW,Vg=c1;console[Vf(0x89c)](Vg(0xa8a),this[Vg(0x9a4)]);var bB=this[Vg(0x22a)][Vg(0x700)](this[Vf(0x9a4)]);bt['instance']()[Vg(0x9b4)][Vf(0xa3d)](bB),this['owner'][Vf(0x778)]();}}class br extends bk{[bW(0x716)](){const Vh=c1,Vi=bW;if(Vh(0xa4e)!=='yPMHS')this[Vh(0x989)]=this[Vi(0x6d2)];else{function bA(){const Vj=Vi;throw new b(Vj(0x9a6));}}}static['createWithPoint'](bA){const Vk=bW,Vl=bW;if(Vk(0x4cc)!==Vk(0x41b)){var bB=new br();return bB[Vk(0x1c0)](bA),bB;}else{function bC(){const Vm=Vl,Vn=Vl;if(i[Vm(0x5ff)][Vn(0x2f8)]==![]){this['removeSelf']();return;}if(j[Vm(0x5ff)]['getKeyValue'](k[Vn(0x89e)])==![]){this[Vn(0x778)]();return;}l[Vm(0x5ff)][Vm(0x79e)](m[Vm(0x529)],this,this[Vm(0x564)]),n[Vm(0x5ff)][Vm(0x44a)](),this[Vm(0x568)]=o[Vn(0xa4f)](0x1e,0x32),this[Vm(0x435)][Vm(0x589)]['onClick'](this,this[Vn(0x907)]),p[Vm(0x801)]['loop'](0x3e8,this,this[Vm(0x7bb)]);}}}['addWayPoints'](){const Vo=c1,Vp=c1;if(Vo(0x877)!=='OAEeh')for(var bA=0x0;bA<this[Vp(0x8bf)];bA++){var bB=bA+0x1;this[Vp(0x926)][Vp(0x715)]('p'+bB)[Vp(0x730)](bq);}else{function bC(){const Vq=Vp,Vr=Vp;let bD=new d();bA[Vq(0x5ff)][Vq(0x294)](bD),bD[Vq(0x978)](f);}}}[c1(0x1c0)](bA){const Vs=bW;this[Vs(0x8bf)]=bA;}['getNextPointPosInWorld'](bA){const Vt=c1,Vw=bW;if('yhfaC'===Vt(0x1fa)){function bD(){const Vu=Vt,Vv=Vt;return this[Vu(0x882)]+Vv(0x7e4);}}else{var bB='p'+(bA+0x1),bC=this[Vt(0x989)]['getChildByName'](bB);return null==bC?bt['instance']()[Vt(0x500)]():bC['transform'][Vw(0x63d)];}}}var bs;(function(bA){const Vx=bW,Vy=bW;bA[bA[Vx(0x3db)]=0x0]='开始游戏',bA[bA[Vy(0x3b7)]=0x1]=Vx(0x3b7),bA[bA[Vx(0x7ec)]=0x2]=Vy(0x7ec);}(bs||(bs={})));class bt{constructor(){const Vz=c1,VA=bW;if(Vz(0x7fb)===Vz(0x302)){function bA(){const VB=Vz;b[VB(0x771)]();}}else this[Vz(0x997)]=Vz(0x2a2),this[Vz(0x3ec)]=VA(0xa34),this[VA(0x379)]=Vz(0x2e4),this[Vz(0x574)]=0x14,this['vv']=0x3,this[Vz(0x286)]=[],this['genPositons']=[],this[Vz(0x686)]=bs['开始游戏'],this['isWin']=![],Laya['Physics3DUtils'][Vz(0x5a2)]=new Laya[(Vz(0x587))](0x0,-0xf,0x0),this[VA(0x570)]=aA[Vz(0x5ff)][Vz(0x59a)]['currentStage'],this[VA(0x134)]=aA[Vz(0x5ff)]['user'][VA(0x7c8)],this['nowCarData']=bi[Vz(0x591)]('drivehill_'+this['vv']+Vz(0x758),bi[Vz(0x3af)]()),this[VA(0x198)]=bi['getStorage']('drivehill_'+this['vv']+VA(0x198),0x0);}static[c1(0x67b)](){const VC=c1,VD=c1;if(VC(0x5fc)!==VD(0xa77)){if(bt[VC(0x142)]==null)bt[VC(0x142)]=new bt();return bt[VC(0x142)];}else{function bA(){const VE=VD,VF=VD;this[VE(0x938)](),this['m_nativeAd']=this['qg'][VE(0x9f3)]({'adUnitId':d[VE(0x421)]}),this[VE(0x413)]['onError'](this[VF(0x9ef)]),this[VE(0x413)][VF(0x26a)](this[VE(0x390)]),this['m_nativeAd']&&(this['nativeAdOnLoad']=g,this[VE(0x413)][VE(0x24b)]()),f[VF(0x5ff)]['debug'](VE(0x66f));}}}[bW(0x8ef)](){const VI=bW,VJ=c1;if('PuHul'==='LyAKv'){function bA(){const VG=a0b,VH=a0b;return this[VG(0x78a)]&&this['platformAPI'][VH(0x5c9)]();}}else{if(this[VI(0x292)])this[VI(0x292)]['destroy']();Laya[VI(0x641)][VJ(0x518)]();let bB=this[VJ(0x570)]%this[VJ(0x574)],bC=this[VI(0x997)]+('map'+bB+VJ(0x897));Laya[VI(0x166)][VI(0x24b)](bC,Laya[VI(0x432)][VI(0x3e6)](this,bD=>{const VK=VJ,VL=VJ;Laya['stage'][VK(0xa9e)](bD,0x0),this[VK(0x292)]=bD,this[VK(0x1e0)]();}));}}[bW(0x1e0)](){const VM=bW,VN=c1;this[VM(0x686)]=bs['开始游戏'],this[VM(0xa96)]=Laya[VM(0x458)][VM(0x479)](this[VM(0x3ec)]);var bA=bi[VM(0xa50)]();this[VM(0x292)][VM(0x9fd)]=!![],this['gameScene'][VN(0x1e6)]=0xf,this[VM(0x292)][VM(0x52a)]=0xc8,this['gameScene'][VM(0x7af)]=bA['p'],this[VN(0x292)][VM(0x715)]('roadLong')['getChildByName']('road')['meshRenderer'][VN(0x892)][VM(0x18e)]=bA['r'],this[VM(0x292)]['getChildByName'](VM(0x749))['meshRenderer']['sharedMaterial'][VM(0x18e)]=bA['p'];var bB=this[VN(0x292)]['getChildByName'](VM(0x71d));bB[VM(0x715)](VM(0x64d))['clearColor']=bA['p'],this[VM(0x64b)]=bB[VM(0x730)](bl),this[VM(0x409)](),this[VN(0x2d8)](),this[VM(0x1a6)](this['nowCarIndex']);}['setup'](){const VO=c1,VP=c1;this[VO(0x22c)]=new Array(),this['genPositons']=[],this[VP(0x286)]=[];var bA=Laya['loader'][VP(0x479)](this[VP(0x379)]);for(var bB in bA[VP(0x5eb)]){var bC=bA[VP(0x5eb)][bB];bC['name'][VP(0x32a)](VO(0x9f9))&&this[VP(0x22c)][VP(0x597)](bC);}}[c1(0x98f)](){const VQ=c1,VR=bW;this[VQ(0x570)]+=0x1,aA['inst'][VR(0x42b)](),this[VQ(0x570)]=aA[VQ(0x5ff)][VR(0x59a)][VR(0x16b)],bg[VQ(0x67b)][VQ(0x87b)](VR(0x98f));}[c1(0x904)](bA){const VS=c1,VT=c1;if('HhTWl'===VS(0x88c))this[VS(0x758)][bA]&&(this[VS(0x758)][bA]['s']=![],bi[VS(0x82d)](VS(0x23b)+this['vv']+VS(0x758),this['nowCarData']));else{function bB(){const VU=VT,VV=VT;return b[VU(0x649)][VU(0x6ff)]('YmSdkUI',VV(0x61e));}}}[bW(0x469)](){const VW=bW,VZ=bW;if(VW(0x4a5)==='qqTXl'){function bG(){const VX=VW,VY=VW;this[VX(0x78a)]&&this['platformAPI'][VX(0x913)]();}}else{var bA=[],bB=this['gameScene'][VZ(0x5eb)];for(var bC in bB){var bD=bB[bC];bD[VW(0x842)][VW(0x32a)](VW(0x9f9))&&bA['push'](bD);}for(var bE=bA[VW(0x31f)],bF=0x0;bF<bE;bF++){if(VW(0x396)!==VZ(0x396)){function bH(){const W0=VW,W1=VW;if(g[W0(0x55c)]&&h[W0(0x55c)][W0(0x31f)]>0x0)this[W0(0x435)][W0(0xab7)][W1(0x55e)]=m['imgUrlList'][0x0];else j['icon']&&k[W1(0x55e)]!=''&&(this[W0(0x435)][W0(0xab7)][W1(0x55e)]=bD[W0(0x55e)]);}}else bA[bF]['destroy']();}this[VW(0x286)]=[];}}[bW(0x6ca)](bA){const W2=c1,W3=bW;this[W2(0x286)][W2(0x597)](bA);}['removeCargo'](bA){const W4=c1,W5=bW;this[W4(0x286)][W4(0x6fe)](this[W4(0x286)]['indexOf'](bA),0x1);}[c1(0x455)](){const W6=bW,W9=c1;if('NBidI'!==W6(0x460)){function bD(){const W7=W6,W8=W6;b['instance'][W7(0x87b)](W8(0xa68));}}else{var bA=this['nowCargos'][W6(0x31f)];if(bA>0x0){var bB=0x0;for(var bC in this[W9(0x286)]){bB++;let bE=this[W6(0x286)][bC];Laya[W6(0x801)][W9(0x8ba)](0xc8*bB,this,()=>{const Wa=W9,Wb=W6;this[Wa(0x34f)](bE,bA),console[Wb(0x89c)](this[Wb(0x286)][Wa(0x31f)]),this[Wb(0x286)]['length']==0x1&&Laya[Wa(0x801)][Wb(0x8ba)](0x1f4,this,()=>{const Wc=Wa;this[Wc(0x59f)](!![]);});});}}else this[W6(0x59f)](![]);}}['result'](bA){const Wd=bW,We=c1;if(this['gameState']==bs[Wd(0x7ec)])return;this[We(0x686)]=bs['游戏结算'],console['log'](Wd(0x9df),bA),this[We(0x538)]=bA,this[Wd(0x538)]&&(aA['inst'][Wd(0x3ae)](0x64),bt[We(0x67b)]()[Wd(0x98f)]()),J['inst'][Wd(0x294)](new bh());}[bW(0x34f)](bA,bB){const Wf=bW,Wg=bW;if(bA[Wf(0x2e3)](0x0))bA[Wf(0x2e3)](0x0)[Wf(0x2ca)](Laya[Wg(0x8e9)])['enabled']=![];var bC=bA[Wg(0x9ec)],bD=bC[Wg(0xa4a)]+0x7,bE=bC[Wf(0x75f)],bF=bC[Wf(0x8a3)];Laya[Wg(0x524)]['to'](bC,{'localPositionY':bD,'localPositionX':bE,'localPositionZ':bF},0x1f4,null,Laya[Wg(0x432)][Wf(0x3e6)](this,()=>{const Wh=Wg,Wk=Wg;if(Wh(0x870)!=='nlsFj'){function bG(){const Wi=Wh,Wj=Wh;var bH=d[Wi(0x8b0)];bA[Wj(0x587)][Wj(0x7eb)](f,bH,bH);}}else bA[Wh(0x403)]();}));}['makeCargos'](bA){const Wl=c1,Wm=bW;var bB=bi[Wl(0x5ab)](this[Wl(0x22c)]),bC=bA[Wm(0x715)](Wl(0x746)),bD=0x4;for(var bE in bC[Wl(0x5eb)]){if(Wl(0x2c4)===Wl(0x3d9)){function bI(){const Wn=Wm;return b['UIPackage']['createObject']('GameUI',Wn(0xa44));}}else{var bF=bC[Wm(0x5eb)][bE][Wl(0x9ec)][Wm(0x63d)];this[Wl(0x532)][Wl(0x597)](bF);var bG=bB[Wl(0x5ef)]();bG[Wl(0x9ec)]['position']=new Laya[(Wl(0x587))](bF['x'],bF['y']+0x3+Math['random'](),bF['z']),this[Wm(0x292)][Wm(0xa90)](bG);var bH=bG[Wl(0x2e3)](0x0)[Wl(0x2ca)](Laya['Rigidbody3D']);if(bH[Wm(0x810)]=0.5,bH[Wm(0x42c)]=0x3,bH['linearVelocity']=new Laya[(Wl(0x587))](),bH['applyImpulse'](new Laya[(Wm(0x587))](0x0,-0x5,0x0)),--bD<=0x0)break;}}}[c1(0x1a6)](bA){const Wo=bW,Wp=bW;if(Wo(0x709)===Wp(0x709)){this['removeCargos'](),this['car']&&this[Wo(0x180)][Wp(0x12a)]&&this[Wo(0x180)][Wp(0x778)](),this[Wp(0x180)]=this[Wo(0xa96)][Wo(0x715)]('Car'+bA)[Wp(0x5ef)]();var bB=this[Wp(0x292)]['getChildByName'](Wp(0x8ab));if(bB)this['car'][Wp(0x9ec)][Wo(0x63d)]=bB[Wp(0x9ec)][Wo(0x63d)];this['car']['transform']['localRotationEulerY']=0x0,this[Wo(0x292)][Wo(0xa90)](this[Wo(0x180)]),Laya[Wo(0x801)]['frameOnce'](0xa,this,()=>{const Wq=Wp,Wr=Wp;if(Wq(0x332)===Wr(0x332))this[Wq(0x648)](this[Wr(0x180)]);else{function bC(){const Ws=Wq,Wt=Wq;return this['_inst']==null&&(this[Ws(0x8b7)]=new bm()),this[Ws(0x8b7)];}}}),this['carScript']=this['car'][Wo(0x730)](bp),this[Wp(0x9b4)][Wp(0xa3d)](this[Wp(0x500)]()),this[Wo(0x9b4)][Wp(0x92c)](),this[Wp(0x64b)][Wp(0xa3d)](this[Wp(0x180)]),this[Wo(0x198)]=bA,bi[Wp(0x82d)](Wp(0x23b)+this['vv']+Wo(0x198),this['nowCarIndex']);}else{function bC(){const Wu=Wo,Wv=Wo;this[Wu(0x9ec)]['localPosition']=this['initPos'],this[Wv(0x9ec)]['localRotationEuler']=this['initRotate'];}}}[bW(0x2d8)](){const Ww=bW,Wx=bW;var bA=this[Ww(0x292)][Wx(0x5eb)];for(var bB in bA){if(Wx(0x141)===Ww(0x6e1)){function bE(){const Wy=Wx,Wz=Ww;this['debugIndex']++,bm['log'](this[Wy(0x311)]+Wz(0x95b)+d);}}else{var bC=bA[bB];if(bC['name']['startsWith']('roadS1')){var bD=br['createWithPoint'](0x3);bC[Wx(0x48a)](bD),bD[Wx(0x8f6)]();}bC[Wx(0x842)][Ww(0x32a)](Wx(0x4e9))&&(bD=br[Ww(0x39b)](0x3),bC[Wx(0x48a)](bD),bD['addWayPoints']());bC[Wx(0x842)][Ww(0x32a)]('k_k3')&&(bD=br[Ww(0x39b)](0x3),bC[Wx(0x48a)](bD),bD['addWayPoints']());bC[Ww(0x842)][Ww(0x32a)]('k_k14')&&(bD=br[Wx(0x39b)](0xe),bC[Wx(0x48a)](bD),bD[Wx(0x8f6)]());bC[Wx(0x842)][Wx(0x32a)](Ww(0x927))&&(bD=br[Wx(0x39b)](0x4),bC['addComponentIntance'](bD),bD['addWayPoints']());if(bC[Wx(0x842)][Wx(0x32a)](Ww(0x48c))){if(Wx(0x2d7)!=='TxLuZ'){function bF(){const WA=Ww;return this[WA(0x4f6)];}}else bD=br[Wx(0x39b)](0x2),bC['addComponentIntance'](bD),bD[Wx(0x8f6)]();}bC[Wx(0x842)]['startsWith'](Ww(0x6e2))&&(bD=br[Wx(0x39b)](0x5),bC[Wx(0x48a)](bD),bD[Wx(0x8f6)]()),bC[Ww(0x842)][Wx(0x32a)](Wx(0x9d4))&&(bD=br[Ww(0x39b)](0x6),bC[Ww(0x48a)](bD),bD[Wx(0x8f6)]()),bC[Ww(0x842)][Ww(0x32a)](Wx(0x21a));}}}['getDefaultTartget'](){const WB=bW,WC=c1;if(WB(0x82c)==='slLDH'){var bA=new Laya[(WB(0x587))]();return Laya[WC(0x587)][WB(0x599)](this[WC(0x180)][WC(0x9ec)][WB(0x63d)],new Laya[(WB(0x587))](0x0,0x0,0x1f4),bA),bA;}else{function bB(){const WD=WC,WE=WC;g[WD(0x5ff)][WE(0x65b)](WE(0x5d0)+h[WD(0x921)](i)),j[WE(0x5ff)][WD(0xa40)]&&k['inst'][WD(0xa40)](0x1,''),l['inst'][WD(0x8c7)]();}}}['OnSpeedDownEnter'](){const WF=bW,WG=c1;if('RzcQK'===WF(0x139))this[WF(0x9b4)][WF(0x53b)]();else{function bA(){const WH=WF;this[WH(0x230)]=0x0;}}}}var bu;(function(bA){const WI=c1,WJ=bW;if('GbnvS'!=='lctAn')bA[bA['CN']=0x0]='CN',bA[bA['EN']=0x1]='EN',bA[bA['RU']=0x2]='RU',bA[bA['AR']=0x3]='AR',bA[bA[WI(0x6af)]=0x4]=WJ(0x6af),bA[bA['KO']=0x5]='KO',bA[bA['JA']=0x6]='JA',bA[bA['PT']=0x7]='PT',bA[bA['ES']=0x8]='ES',bA[bA['DE']=0x9]='DE',bA[bA['FR']=0xa]='FR',bA[bA['BN']=0xb]='BN',bA[bA['MS']=0xc]='MS',bA[bA['HI']=0xd]='HI',bA[bA['VI']=0xe]='VI';else{function bB(){const WK=WJ,WL=WJ;return b[WK(0x649)][WL(0x6ff)](WK(0x88e),WK(0x3e4));}}}(bu||(bu={})));class bv{constructor(){const WM=c1,WN=bW;this[WM(0x4f6)]=new Array(),this[WN(0x984)]=bu['CN'];}static get[bW(0x5ff)](){const WO=c1,WP=c1;return this[WO(0x8b7)]==null&&(this[WP(0x8b7)]=new bv()),this[WO(0x8b7)];}get['data'](){const WQ=c1;return this[WQ(0x4f6)];}set[c1(0x161)](bA){this['m_data']=bA;}[bW(0x9fa)](bA){var bB='';switch(bA){case bu['CN']:bB='';break;default:bB='en';break;}return bB;}[c1(0x4ab)](bA,bB=''){const WR=c1,WS=bW;if('SodAh'===WR(0x634)){var bC=bA;switch(this[WR(0x984)]){case bu['CN']:bC=bA;break;case bu['EN']:bC=this[WR(0x7b4)](bA)['en'];break;case bu['RU']:bC=this[WS(0x7b4)](bA)['ru'];break;case bu[WR(0x6af)]:bC=bA;break;case bu['FR']:bC=this[WS(0x7b4)](bA)['fr'];break;case bu['DE']:bC=this['getLanguageData'](bA)['de'];break;case bu['AR']:bC=this['getLanguageData'](bA)['ar'];break;case bu['ES']:bC=this['getLanguageData'](bA)['es'];break;case bu['HI']:bC=this[WR(0x7b4)](bA)['hi'];break;default:bC=this[WS(0x7b4)](bA)['en'];break;}if(bB['length']>0x0){if(WS(0x181)!==WR(0x181)){function bD(){bm&&d(![]);}}else bC=bC[WS(0x4ca)](WR(0x188),bB);}return bC;}else{function bE(){const WT=WS,WU=WR;let bF=d['CompareVersion'](this['sdkVersion'],e);if(bF!=0x1)return g['inst'][WT(0x65b)]('SDK版本过低！你的版本为：'+this[WT(0x668)]),![];return!![];}}}[c1(0x7b4)](bA){const WV=c1,WW=bW;for(let bB=0x0;bB<this[WV(0x4f6)][WW(0x31f)];bB++){const bC=this[WV(0x4f6)][bB];if(bC[WV(0x62f)]==bA){if(WW(0xa10)!==WV(0xa10)){function bD(){const WX=WV,WY=WV;j[WX(0x89c)](WX(0x73e),k[WX(0x921)](l));let bE;m&&n[WY(0x485)]?(bE=s[WY(0x485)][WY(0x387)](),t[WY(0x5ff)][WY(0x1b9)][WY(0x83b)]({'adId':bE['adId']['toString']()}),u[WX(0x5ff)]['nativeIconAdOnLoad'](bE)):v[WX(0x89c)](WY(0x7f6));}}else return bC;}}return null;}}class bw extends F{get[c1(0xa8f)](){const WZ=c1;return ai[WZ(0xa8f)];}[c1(0x1e0)](){const X0=bW,X1=bW;if('dXnXi'===X0(0x6c4)){function bA(){return!![];}}else this[X0(0x6f5)]=Laya[X1(0x432)][X0(0x3e6)](this,this[X0(0x288)]),this[X0(0x3a8)]=Laya['Handler'][X1(0x3e6)](this,this[X0(0x6d4)]),super['init']();}['unbind'](){const X2=c1,X3=c1;if(X2(0x566)===X3(0x566))this[X3(0x435)][X2(0x708)][X2(0x5d1)](fairygui[X2(0x1fe)][X3(0x717)],this,this[X3(0xaa5)]);else{function bA(){const X4=X2;var bB=new bm();return bB[X4(0x1c0)](d),bB;}}}[c1(0x6d4)](){const X5=c1,X6=c1;this[X5(0x435)][X6(0x335)][X5(0x907)](this,this['onBackBtnClick']),this[X6(0x435)][X6(0x832)]['onClick'](this,this[X5(0x535)]),this[X5(0x435)][X6(0x646)][X6(0x907)](this,this[X5(0x5a6)]),this[X5(0x435)][X6(0x45d)][X5(0x907)](this,this[X5(0x72d)]),this[X6(0x435)]['m_adState']['selectedIndex']=w[X6(0x5ff)]['currentPlatform'][X6(0x1a3)]?0x1:0x0,this[X5(0x435)][X5(0x708)][X6(0x609)]=Laya[X5(0x432)][X6(0x3e6)](this,this[X6(0x3b4)],null,![]),this[X5(0x435)][X6(0x708)]['on'](fairygui[X5(0x1fe)][X5(0x717)],this,this[X6(0xaa5)]),this[X6(0x435)][X6(0x708)][X6(0x5a4)]=aA[X5(0x5ff)][X6(0x318)]['length'],this[X5(0x435)][X5(0x708)][X6(0x6dd)]=aA['inst'][X5(0x160)](aA['inst']['user'][X6(0x429)]),this[X5(0x3c7)](this[X6(0x435)]['m_List'][X5(0x6dd)]),this['updateUserInfo']();}['onUseBtnClick'](){const X7=c1,X8=bW;if(X7(0x2dd)!==X8(0x42e)){let bA=this[X7(0x435)]['m_List'][X8(0x6dd)],bB=aA[X7(0x5ff)]['carConfigs'][bA],bC=aA['inst'][X7(0x59a)][X7(0x429)],bD=aA[X8(0x5ff)][X8(0x160)](bC);aA[X7(0x5ff)]['useCar'](bB[X7(0x7b9)]),J[X8(0x5ff)][X7(0x43d)](bv['inst']['getLanguage']('使用'+bB[X7(0x842)])),this['selectCar'](bD),bt[X7(0x67b)]()[X8(0x198)]=bA,bt[X8(0x67b)]()['changeCar'](bA),this[X8(0x3c7)](bA);}else{function bE(){const X9=X7,Xa=X7;b[X9(0x5ff)][X9(0xa73)]=!![];}}}[bW(0x5a6)](){const Xb=bW,Xc=bW;if(Xb(0x901)!==Xb(0x826))Q[Xb(0x5ff)]['showRewardedVideo'](bA=>{const Xd=Xc,Xe=Xc;if(Xd(0x27b)===Xe(0x27b))bA&&this[Xe(0x4b8)]();else{function bB(){const Xf=Xe;bm[Xf(0x5ff)]['showPopupView'](new d());}}});else{function bA(){b(![]);}}}[c1(0x4b8)](){const Xg=c1,Xh=c1;let bA=this[Xg(0x435)][Xg(0x708)][Xg(0x6dd)],bB=aA[Xh(0x5ff)][Xh(0x318)][bA];aA['inst'][Xg(0x4b8)](bB[Xg(0x7b9)]),this[Xh(0x3c7)](bA),aQ[Xg(0x5ff)][Xh(0x3d7)](aC[Xg(0x6b0)]);}[c1(0x535)](){const Xi=bW,Xj=c1;let bA=this['view'][Xi(0x708)]['selectedIndex'],bB=aA[Xi(0x5ff)][Xi(0x318)][bA];if(aA[Xj(0x5ff)][Xi(0x59a)][Xj(0x7c8)]>=bB[Xj(0x339)]){if(Xi(0x993)!==Xi(0x450))this[Xi(0x4b8)]();else{function bC(){const Xk=Xi,Xl=Xj;f?(k[Xk(0x5ff)][Xl(0x42b)](),l[Xl(0x67b)]()[Xk(0x8ef)](),this[Xk(0x1a8)](()=>{const Xm=Xl,Xn=Xk;n[Xm(0x67b)][Xn(0x87b)](Xn(0xa68));})):n[Xl(0x801)][Xk(0x341)](0x3e8,this,this[Xl(0xa1c)]);}}}else J[Xj(0x5ff)]['showToast'](bv[Xi(0x5ff)]['getLanguage'](Xi(0x5d9)));}[bW(0x3c7)](bA){const Xo=c1,Xp=c1;let bB=aA[Xo(0x5ff)][Xo(0x318)][bA];this[Xo(0x435)]['m_UseBtn'][Xo(0xa3b)]=![],this[Xp(0x435)][Xo(0x832)][Xo(0xa3b)]=!![],this[Xp(0x435)][Xp(0xab7)][Xo(0x5ac)]=aw[Xo(0x5ff)][Xp(0xa82)](bB['icon']),this['view'][Xp(0x646)][Xp(0xa3b)]=w[Xp(0x5ff)][Xo(0x2fe)][Xp(0x1a3)];let bC=this[Xo(0x435)][Xp(0x708)]['getChildAt'](bA);bC[Xp(0x7d1)][Xo(0x6dd)]=0x2;if(aA[Xo(0x5ff)][Xo(0xa94)](bB['_id'])){this[Xp(0x435)]['m_BuyBtn']['visible']=![],this['view'][Xo(0x646)][Xp(0xa3b)]=![];if(bB['_id']!=aA[Xp(0x5ff)][Xo(0x59a)][Xo(0x429)]){if('NfnVJ'!==Xp(0x60e)){function bD(){const Xq=Xp,Xr=Xp;f?(k[Xq(0x5ff)][Xr(0x65b)]('桌面图标已创建'),l(!![])):(m[Xr(0x5ff)][Xr(0x65b)]('桌面图标未创建'),n(![]));}}else this[Xo(0x435)][Xp(0x45d)][Xp(0xa3b)]=!![];}bC[Xp(0x7d1)][Xp(0x6dd)]=0x1;}bB['_id']==aA[Xo(0x5ff)][Xp(0x59a)][Xo(0x429)]&&(bC[Xo(0x7d1)][Xp(0x6dd)]=0x0);}[bW(0xaa5)](bA){const Xs=c1,Xt=c1;let bB=this['view'][Xs(0x708)][Xt(0x6dd)];this[Xs(0x3c7)](bB);}['onItemRenderer'](bA,bB){const Xu=bW,Xv=c1;if(Xu(0x405)===Xv(0x110)){function bC(){const Xw=Xu,Xx=Xv;d['inst']['debug'](Xw(0x468)+e[Xw(0x921)](f));}}else{let bD=aA[Xv(0x5ff)][Xv(0x318)][bA];bB[Xv(0x55e)]=aw['inst']['getImageThumb'](bD['icon']),bB['m_CoinLabel']['text']=bD[Xv(0x339)][Xv(0xa89)](),bB[Xv(0x91e)][Xv(0x7d7)]=bD[Xu(0x842)],bB[Xu(0x7d1)][Xv(0x6dd)]=0x2;if(aA['inst'][Xu(0xa94)](bD[Xu(0x7b9)])){if('CQDaM'===Xu(0x2bb))bB[Xu(0x7d1)][Xu(0x6dd)]=0x1;else{function bE(){this['_inst']=new b();}}}bD[Xv(0x7b9)]==aA[Xv(0x5ff)][Xv(0x59a)]['currentCarId']&&(bB[Xu(0x7d1)][Xu(0x6dd)]=0x0);}}[c1(0x936)](){const Xy=bW,Xz=c1;if(Xy(0x71e)===Xy(0x666)){function bA(){const XA=Xz,XB=Xy;this[XA(0x270)][XA(0x17c)][XA(0xa3b)]=![],bm&&d[XB(0x2c8)]();}}else this[Xy(0x435)][Xz(0x2ec)]['title']=aA[Xz(0x5ff)]['user'][Xy(0x7c8)][Xz(0xa89)]();}['onBackBtnClick'](){const XC=bW,XD=bW;if(XC(0x546)!==XC(0x546)){function bA(){const XE=XD,XF=XC;b[XE(0x5ff)][XE(0x65b)](XE(0x33d));return;}}else this[XD(0x778)]();}}class bx extends F{get[c1(0xa8f)](){const XG=bW;return ak[XG(0xa8f)];}[c1(0x1e0)](){const XH=c1,XI=bW;this[XH(0x6f5)]=Laya[XI(0x432)][XH(0x3e6)](this,this['unbind']),this[XI(0x3a8)]=Laya['Handler'][XI(0x3e6)](this,this[XH(0x6d4)]),super[XH(0x1e0)]();}[c1(0x288)](){const XJ=c1,XK=c1;if(XJ(0x2b8)==='ycFSZ')this[XJ(0x435)][XJ(0x807)]['displayObject'][XJ(0x5d1)](Laya['Event'][XJ(0x819)],this,this[XJ(0x2b6)]),this[XK(0x435)][XJ(0x807)][XK(0x215)][XJ(0x5d1)](Laya['Event'][XK(0x98d)],this,this[XJ(0x7e2)]),bg[XJ(0x67b)][XJ(0x5d1)](XJ(0xa68),this,this['showPage']);else{function bA(){const XL=XJ,XM=XK;if(this[XL(0x1cf)]&&this[XM(0x338)]){var bB=this[XM(0x338)][XM(0xa87)]();bB&&bB[XM(0x5c8)](()=>{const XN=XL,XO=XL;p[XN(0x5ff)][XN(0x65b)](XN(0x6be)),this[XO(0x338)]=null,q[XN(0x5ff)][XN(0x3c0)](r[XO(0x805)]);})[XM(0x3c5)](bC=>{const XP=XL,XQ=XL;p[XP(0x5ff)][XQ(0x65b)](XQ(0x83e)+q['stringify'](bC));}),this['m_bannerAd']=null,this[XM(0x1cf)]=![],this[XL(0x170)]();}}}}[c1(0x6d4)](){const XR=c1,XS=bW;x['inst'][XR(0x79e)](ab['ON_UPDATE_USERINFO_EVENT'],this,this['updateUserInfo']),this[XR(0x435)][XR(0x807)][XR(0x215)]['on'](Laya[XR(0x2fb)][XS(0x819)],this,this['onTouchStart']),this[XR(0x435)][XR(0x807)][XS(0x215)]['on'](Laya[XR(0x2fb)][XR(0x98d)],this,this['onRelease']),bg[XS(0x67b)]['on'](XR(0xa68),this,this[XR(0x92b)]),this['view']['m_ShopBtn'][XS(0x907)](this,this[XR(0x1d6)]),this[XS(0x936)]();}[c1(0x1d6)](){const XT=c1,XU=bW;if(XT(0x305)!==XT(0x83d))J[XU(0x5ff)][XT(0x294)](new bw());else{function bA(){const XV=XU,XW=XU;this[XV(0x5d1)](d[XV(0x2fb)][XV(0xa1b)],this,this[XV(0x85f)]),this['off'](e['Event']['UNDISPLAY'],this,this[XW(0x9f4)]),f[XW(0x801)][XW(0x8dd)](this,this[XV(0x2b2)]);}}}['updateUserInfo'](){const XX=bW,XY=bW;if(XX(0x835)!==XX(0x835)){function bA(){const XZ=XY,Y0=XY;var bB=[],bC=this['gameScene'][XZ(0x5eb)];for(var bD in bC){var bE=bC[bD];bE[Y0(0x842)][XZ(0x32a)](Y0(0x9f9))&&bB['push'](bE);}for(var bF=bB[XZ(0x31f)],bG=0x0;bG<bF;bG++){bB[bG][Y0(0x403)]();}this['nowCargos']=[];}}else this['view'][XY(0x982)][XX(0x7d7)]='第'+(aA[XY(0x5ff)][XY(0x59a)][XX(0x16b)]+0x1)+'关',this[XY(0x435)][XY(0x2ec)][XX(0x79c)]=aA[XY(0x5ff)][XX(0x59a)][XX(0x7c8)][XY(0xa89)]();}[c1(0x7e2)](){const Y1=bW,Y2=bW;if('upiHQ'!==Y1(0x84b)){if(bt['instance']()[Y1(0x9b4)]){if(Y2(0x68f)==='kOLZW')bt[Y1(0x67b)]()[Y2(0x9b4)][Y2(0x48d)]=!![];else{function bA(){const Y3=Y2,Y4=Y2;f[Y3(0x5ff)][Y4(0x65b)](Y4(0x620)),g[Y4(0x5ff)]['onVideoSuccessCallback']&&h[Y4(0x5ff)][Y4(0x682)](),i[Y4(0x5ff)][Y3(0x1f0)]=![],j['inst'][Y3(0x8c7)]();}}}}else{function bB(){const Y5=Y2,Y6=Y2;h[Y5(0x5ff)]['debug'](Y6(0x210)+i['stringify'](j)),k['inst']['m_videoAdIsLoaded']=![],l[Y5(0x5ff)][Y6(0x19e)]&&m[Y5(0x5ff)][Y6(0x19e)](0x1,''),n[Y5(0x5ff)][Y5(0x8c7)]();}}}[c1(0x2b6)](){const Y7=c1,Y8=c1;bt[Y7(0x67b)]()[Y7(0x53b)](),this[Y7(0x435)][Y7(0x3c2)][Y7(0x6dd)]=0x1;}[c1(0x92b)](){const Y9=bW;this['view']['m_gameState'][Y9(0x6dd)]=0x0;}}class by{static get[c1(0x5ff)](){const Ya=c1,Yb=bW;if(Ya(0xa38)===Yb(0x706)){function bA(){const Yc=Ya,Yd=Yb;d[Yc(0x89c)](Yd(0x68c)),this[Yd(0x92c)](),e[Yd(0x67b)]()[Yc(0x455)](),f[Yd(0x2f8)]=![],this[Yd(0x48d)]=!![];}}else return this[Yb(0x8b7)]==null&&(this['_inst']=new by()),this[Yb(0x8b7)];}[bW(0x1e0)](){return j(this,void 0x0,void 0x0,function*(){const Ye=a0b,Yf=a0b;Laya[Ye(0x910)][Yf(0x744)]=![],be['inst'][Yf(0x962)]=!![],be[Yf(0x5ff)]['useZipAssets']=![],be['inst']['platform']=aU[Ye(0x6a4)],aV[Ye(0x5ff)]['init']();if(be['inst'][Yf(0x953)]){yield aw['inst'][Ye(0x53c)]();let bA='';yield aw[Yf(0x5ff)][Ye(0x433)](bA),aw['inst'][Ye(0xa6e)]=Laya[Ye(0x458)][Ye(0x479)](bA);}yield be[Yf(0x5ff)][Yf(0x1e0)](),this[Yf(0x862)]();});}['initConfigs'](){const Yg=c1,Yh=bW;if(Yg(0x67f)!==Yh(0x891))return j(this,void 0x0,void 0x0,function*(){const Yi=Yh,Yj=Yh;this[Yi(0x7c6)]();let bA=[];bA[Yj(0x597)]({'url':Yi(0xa18),'type':Laya['Loader']['BUFFER']}),bA[Yj(0x597)]({'url':Yi(0x858),'type':Laya[Yi(0x839)][Yj(0x743)]}),bA[Yi(0x597)]({'url':Yj(0x2b3),'type':Laya[Yj(0x839)]['BUFFER']}),bA[Yi(0x597)]({'url':Yj(0xa6d),'type':Laya['Loader'][Yi(0x743)]}),bA[Yi(0x597)]({'url':Yi(0x540),'type':Laya[Yj(0x839)]['BUFFER']}),bA[Yj(0x597)]({'url':Yj(0x554),'type':Laya[Yi(0x839)][Yj(0x743)]}),bA[Yj(0x597)]({'url':'res/data/configs.json','type':Laya[Yj(0x839)][Yj(0x8dc)]}),bA[Yj(0x597)]({'url':Yi(0x398),'type':Laya['Loader']['JSON']}),aw[Yj(0x5ff)][Yi(0x20f)](Yj(0x6c0),bA);let bB=[];bB[Yj(0x597)](Yj(0x9c3)),bB[Yj(0x597)](Yj(0xa34)),bB[Yi(0x597)](Yi(0x2e4)),aw[Yi(0x5ff)][Yi(0x65c)](bB),be[Yj(0x5ff)][Yj(0x9e9)](()=>{const Yk=Yj,Yl=Yi;be[Yk(0x5ff)][Yk(0x65b)]('初始化游戏'),ad[Yl(0x5ff)][Yk(0x38f)](),bf[Yl(0x5ff)][Yk(0x1e0)](),J[Yl(0x5ff)][Yk(0xa62)](),Laya[Yk(0x801)][Yk(0x8ba)](0xc8,this,()=>{const Ym=Yl,Yn=Yl;aQ[Ym(0x5ff)][Ym(0x4e2)](aC[Yn(0x119)]);}),Laya[Yk(0x801)]['once'](0x3e8,this,()=>{const Yo=Yl,Yr=Yl;if('JLpkM'===Yo(0x3e5)){function bC(){const Yp=Yo,Yq=Yo;b[Yp(0x5ff)]['debug'](Yq(0x329));return;}}else J[Yr(0x5ff)][Yr(0x3c8)](Laya[Yr(0x432)][Yo(0x3e6)](this,()=>{const Ys=Yr,Yt=Yr;J[Ys(0x5ff)][Ys(0x9bb)](ae[Ys(0xa8f)]),Laya[Yt(0x458)][Yt(0x812)](Ys(0xa65)),aV[Ys(0x5ff)][Ys(0x102)]==aU[Ys(0x6a4)]?a2[Yt(0x5ff)][Yt(0xa00)](bD=>{const Yu=Yt,Yv=Ys;if(bD){if(Yu(0xa93)===Yu(0x4d0)){function bE(){return b;}}else this[Yv(0x579)]();}}):this[Ys(0x579)]();}));});});});else{function bA(){const Yw=Yh,Yx=Yg;e[Yw(0x89c)]('[YMSDK]点击跳转:',f[Yw(0x161)]),g[Yx(0x5ff)]['clickEvent'](Yx(0x66a),h[Yw(0x161)]);}}}[c1(0x579)](){const Yy=c1,Yz=bW;J[Yy(0x5ff)][Yz(0x294)](new bx()),bt[Yz(0x67b)]()[Yz(0x8ef)]();}[c1(0x672)](){const YA=c1,YB=c1;let bA=Laya['loader'][YA(0x479)](YB(0x398));for(let bB=0x0;bB<bA[YB(0x31f)];bB++){const bC=bA[bB];Laya[YB(0x910)]['compileShaderByDefineNames'](bC[YA(0x1c3)],bC['passIndex'],bC['subShaderIndex'],bC[YA(0x2da)]);}}[c1(0x7c6)](){const YC=bW,YD=bW;let bA=Laya[YC(0x87f)][YC(0xaa7)]['conch']?'.ogg':YD(0x491);aQ['inst'][YD(0x2d6)](aC['BGM'],YD(0x519)),aQ['inst'][YD(0x2d6)](aC['SE_BuyItem'],YD(0x2f0)),aQ[YC(0x5ff)][YD(0x2d6)](aC[YC(0x44e)],YC(0x558)),aQ[YC(0x5ff)]['registerSound'](aC[YC(0x707)],'res/sounds/fail.ogg');}}class bz{constructor(){const YE=c1,YF=c1;if(YE(0x741)==='TCQGy'){if(window[YF(0x2c5)])Laya3D[YF(0x1e0)](a['width'],a['height']);else Laya[YE(0x1e0)](a['width'],a[YF(0x16e)],Laya['WebGL']);Laya[YF(0x172)]&&Laya['Physics'][YE(0x25b)](),Laya[YF(0x144)]&&Laya[YE(0x144)]['enable'](),Laya['stage'][YE(0x5a8)]=a[YE(0x5a8)],Laya['stage'][YE(0x2e5)]=a[YE(0x2e5)],Laya['stage']['alignV']=a[YF(0x7c0)],Laya[YE(0x321)][YE(0x58d)]=a[YE(0x58d)],Laya['URL']['exportSceneToJson']=a[YE(0x965)];if(a[YE(0x65b)]||Laya[YF(0x127)]['getQueryString'](YF(0x65b))==YE(0x9bf))Laya['enableDebugPanel']();if(a[YE(0x1f6)]&&Laya[YE(0x12c)])Laya[YF(0x12c)][YE(0x25b)]();if(a['stat'])Laya[YE(0x10e)][YF(0x92a)]();by[YF(0x5ff)][YE(0x1e0)]();}else{function bA(){const YG=YF,YH=YE;if(this['qg']){}d&&e(),f[YG(0x5ff)][YH(0x65b)](YH(0x6ee));}}}}new bz();}());
+(function () {
+    'use strict';
+
+    class GameConfig {
+        constructor() {
+        }
+        static init() {
+            var reg = Laya.ClassUtils.regClass;
+        }
+    }
+    GameConfig.width = 750;
+    GameConfig.height = 1334;
+    GameConfig.scaleMode = "fixedauto";
+    GameConfig.screenMode = "vertical";
+    GameConfig.alignV = "top";
+    GameConfig.alignH = "left";
+    GameConfig.startScene = "";
+    GameConfig.sceneRoot = "";
+    GameConfig.debug = false;
+    GameConfig.stat = false;
+    GameConfig.physicsDebug = false;
+    GameConfig.exportSceneToJson = true;
+    GameConfig.init();
+
+    /*! *****************************************************************************
+    Copyright (c) Microsoft Corporation. All rights reserved.
+    Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+    this file except in compliance with the License. You may obtain a copy of the
+    License at http://www.apache.org/licenses/LICENSE-2.0
+
+    THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+    WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+    MERCHANTABLITY OR NON-INFRINGEMENT.
+
+    See the Apache Version 2.0 License for specific language governing permissions
+    and limitations under the License.
+    ***************************************************************************** */
+    /* global Reflect, Promise */
+
+    var extendStatics = function(d, b) {
+        extendStatics = Object.setPrototypeOf ||
+            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+            function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+        return extendStatics(d, b);
+    };
+
+    function __extends(d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    }
+
+    var __assign = function() {
+        __assign = Object.assign || function __assign(t) {
+            for (var s, i = 1, n = arguments.length; i < n; i++) {
+                s = arguments[i];
+                for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p)) t[p] = s[p];
+            }
+            return t;
+        };
+        return __assign.apply(this, arguments);
+    };
+
+    function __rest(s, e) {
+        var t = {};
+        for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p) && e.indexOf(p) < 0)
+            t[p] = s[p];
+        if (s != null && typeof Object.getOwnPropertySymbols === "function")
+            for (var i = 0, p = Object.getOwnPropertySymbols(s); i < p.length; i++) if (e.indexOf(p[i]) < 0)
+                t[p[i]] = s[p[i]];
+        return t;
+    }
+
+    function __decorate(decorators, target, key, desc) {
+        var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+        if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+        else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+        return c > 3 && r && Object.defineProperty(target, key, r), r;
+    }
+
+    function __param(paramIndex, decorator) {
+        return function (target, key) { decorator(target, key, paramIndex); }
+    }
+
+    function __metadata(metadataKey, metadataValue) {
+        if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(metadataKey, metadataValue);
+    }
+
+    function __awaiter(thisArg, _arguments, P, generator) {
+        return new (P || (P = Promise))(function (resolve, reject) {
+            function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+            function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+            function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
+            step((generator = generator.apply(thisArg, _arguments || [])).next());
+        });
+    }
+
+    function __generator(thisArg, body) {
+        var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
+        return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;
+        function verb(n) { return function (v) { return step([n, v]); }; }
+        function step(op) {
+            if (f) throw new TypeError("Generator is already executing.");
+            while (_) try {
+                if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
+                if (y = 0, t) op = [op[0] & 2, t.value];
+                switch (op[0]) {
+                    case 0: case 1: t = op; break;
+                    case 4: _.label++; return { value: op[1], done: false };
+                    case 5: _.label++; y = op[1]; op = [0]; continue;
+                    case 7: op = _.ops.pop(); _.trys.pop(); continue;
+                    default:
+                        if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) { _ = 0; continue; }
+                        if (op[0] === 3 && (!t || (op[1] > t[0] && op[1] < t[3]))) { _.label = op[1]; break; }
+                        if (op[0] === 6 && _.label < t[1]) { _.label = t[1]; t = op; break; }
+                        if (t && _.label < t[2]) { _.label = t[2]; _.ops.push(op); break; }
+                        if (t[2]) _.ops.pop();
+                        _.trys.pop(); continue;
+                }
+                op = body.call(thisArg, _);
+            } catch (e) { op = [6, e]; y = 0; } finally { f = t = 0; }
+            if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
+        }
+    }
+
+    function __exportStar(m, exports) {
+        for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
+    }
+
+    function __values(o) {
+        var m = typeof Symbol === "function" && o[Symbol.iterator], i = 0;
+        if (m) return m.call(o);
+        return {
+            next: function () {
+                if (o && i >= o.length) o = void 0;
+                return { value: o && o[i++], done: !o };
+            }
+        };
+    }
+
+    function __read(o, n) {
+        var m = typeof Symbol === "function" && o[Symbol.iterator];
+        if (!m) return o;
+        var i = m.call(o), r, ar = [], e;
+        try {
+            while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
+        }
+        catch (error) { e = { error: error }; }
+        finally {
+            try {
+                if (r && !r.done && (m = i["return"])) m.call(i);
+            }
+            finally { if (e) throw e.error; }
+        }
+        return ar;
+    }
+
+    function __spread() {
+        for (var ar = [], i = 0; i < arguments.length; i++)
+            ar = ar.concat(__read(arguments[i]));
+        return ar;
+    }
+
+    function __await(v) {
+        return this instanceof __await ? (this.v = v, this) : new __await(v);
+    }
+
+    function __asyncGenerator(thisArg, _arguments, generator) {
+        if (!Symbol.asyncIterator) throw new TypeError("Symbol.asyncIterator is not defined.");
+        var g = generator.apply(thisArg, _arguments || []), i, q = [];
+        return i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function () { return this; }, i;
+        function verb(n) { if (g[n]) i[n] = function (v) { return new Promise(function (a, b) { q.push([n, v, a, b]) > 1 || resume(n, v); }); }; }
+        function resume(n, v) { try { step(g[n](v)); } catch (e) { settle(q[0][3], e); } }
+        function step(r) { r.value instanceof __await ? Promise.resolve(r.value.v).then(fulfill, reject) : settle(q[0][2], r); }
+        function fulfill(value) { resume("next", value); }
+        function reject(value) { resume("throw", value); }
+        function settle(f, v) { if (f(v), q.shift(), q.length) resume(q[0][0], q[0][1]); }
+    }
+
+    function __asyncDelegator(o) {
+        var i, p;
+        return i = {}, verb("next"), verb("throw", function (e) { throw e; }), verb("return"), i[Symbol.iterator] = function () { return this; }, i;
+        function verb(n, f) { i[n] = o[n] ? function (v) { return (p = !p) ? { value: __await(o[n](v)), done: n === "return" } : f ? f(v) : v; } : f; }
+    }
+
+    function __asyncValues(o) {
+        if (!Symbol.asyncIterator) throw new TypeError("Symbol.asyncIterator is not defined.");
+        var m = o[Symbol.asyncIterator], i;
+        return m ? m.call(o) : (o = typeof __values === "function" ? __values(o) : o[Symbol.iterator](), i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function () { return this; }, i);
+        function verb(n) { i[n] = o[n] && function (v) { return new Promise(function (resolve, reject) { v = o[n](v), settle(resolve, reject, v.done, v.value); }); }; }
+        function settle(resolve, reject, d, v) { Promise.resolve(v).then(function(v) { resolve({ value: v, done: d }); }, reject); }
+    }
+
+    function __makeTemplateObject(cooked, raw) {
+        if (Object.defineProperty) { Object.defineProperty(cooked, "raw", { value: raw }); } else { cooked.raw = raw; }
+        return cooked;
+    };
+
+    function __importStar(mod) {
+        if (mod && mod.__esModule) return mod;
+        var result = {};
+        if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];
+        result.default = mod;
+        return result;
+    }
+
+    function __importDefault(mod) {
+        return (mod && mod.__esModule) ? mod : { default: mod };
+    }
+
+    class PlatformConfig {
+        constructor() {
+            this.platforms = [];
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new PlatformConfig();
+            }
+            return this._inst;
+        }
+        get PlatfromConfig() { return "localRes/data/platformConfigs.json"; }
+        init(platform) {
+            this.data = Laya.loader.getRes(PlatformConfig.inst.PlatfromConfig);
+            this.platforms = this.data["Platforms"];
+            this.currentPlatform = this.platforms[platform];
+            GameEngine.inst.debug(`平台信息:${JSON.stringify(this.currentPlatform)}`);
+        }
+        get globalConfigs() {
+            return this.data["GlobalConfigs"];
+        }
+        get switches() {
+            return this.currentPlatform.switches;
+        }
+        useFreeCoinBtn() {
+            if (this.currentPlatform.switches) {
+                if (typeof this.currentPlatform.switches.useGetFreeCoinBtn !== "undefined") {
+                    return this.currentPlatform.switches.useGetFreeCoinBtn;
+                }
+            }
+            return true;
+        }
+        useLotteryShareBtn() {
+            if (this.currentPlatform.switches) {
+                if (typeof this.currentPlatform.switches.useLotteryShareBtn !== "undefined") {
+                    return this.currentPlatform.switches.useLotteryShareBtn;
+                }
+            }
+            return false;
+        }
+        getBannerAdData(key) {
+            for (let index = 0; index < this.currentPlatform.bannerAdList.length; index++) {
+                let d = this.currentPlatform.bannerAdList[index];
+                if (d.key == key) {
+                    return d;
+                }
+            }
+            return null;
+        }
+        getVideoAdData(key) {
+            for (let index = 0; index < this.currentPlatform.videoAdList.length; index++) {
+                let d = this.currentPlatform.videoAdList[index];
+                if (d.key == key) {
+                    return d;
+                }
+            }
+            return null;
+        }
+        getNativeAdData(key) {
+            for (let index = 0; index < this.currentPlatform.nativeAdList.length; index++) {
+                let d = this.currentPlatform.nativeAdList[index];
+                if (d.key == key) {
+                    return d;
+                }
+            }
+            return null;
+        }
+        getNativeIconAdData(key) {
+            for (let index = 0; index < this.currentPlatform.nativeIconAdList.length; index++) {
+                let d = this.currentPlatform.nativeIconAdList[index];
+                if (d.key == key) {
+                    return d;
+                }
+            }
+            return null;
+        }
+        isReview() {
+            if (Platforms.inst.platform == Platform.game_app) {
+                return Platforms.inst.isVertify();
+            }
+            else {
+                if (this.currentPlatform.switches) {
+                    if (typeof this.currentPlatform.switches.review !== "undefined") {
+                        return this.currentPlatform.switches.review;
+                    }
+                }
+            }
+            return false;
+        }
+    }
+
+    class EventManager {
+        constructor() {
+            this.eventDispatcher = new Laya.EventDispatcher();
+        }
+        static get inst() {
+            if (EventManager.instance == null) {
+                EventManager.instance = new EventManager();
+            }
+            return EventManager.instance;
+        }
+        SendEvent(type, arg = null) {
+            this.eventDispatcher.event(type, arg);
+        }
+        AddEventListener(type, caller, listener, arg) {
+            this.eventDispatcher.on(type, caller, listener, arg);
+        }
+        RemoveEventListener(type, caller, listener) {
+            this.eventDispatcher.off(type, caller, listener);
+        }
+        RemoveEventListenerWithCaller(caller) {
+            this.eventDispatcher.offAllCaller(caller);
+        }
+    }
+
+    class PlatformEvents {
+    }
+    PlatformEvents.ON_BANNER_SUCCESS_EVENT = "onBannerSuccess";
+    PlatformEvents.ON_BANNER_FAIL_EVENT = "onBannerFail";
+    PlatformEvents.ON_NATIVE_AD_READY_EVENT = "onNativeAdReady";
+    PlatformEvents.ON_INSERT_AD_ERROR_EVENT = "onInsertAdError";
+    PlatformEvents.ON_INSERT_AD_CLOSE_EVENT = "onInsertAdClose";
+    PlatformEvents.onShortCutInstallEvent = "onShortCutInstallEvent";
+    PlatformEvents.ON_SHOW = "onShow";
+    PlatformEvents.ON_HIDE = "onHide";
+
+    class MathHelper {
+        static getRoundPoint(center, count, r) {
+            let results = new Array();
+            let perAngle = 360 / count * MathHelper.Deg2Rad;
+            for (let i = 0; i < count; i++) {
+                results.push(new Laya.Point(Math.sin(perAngle * i) * r + center.x, Math.cos(perAngle * i) * r + center.y));
+            }
+            return results;
+        }
+        static getAngleSpace(a, b) {
+            let s = Math.abs(a - b);
+            if (s < 180) {
+                return s;
+            }
+            else {
+                return (a + b + 360) % 360;
+            }
+        }
+        static onUnitSphere(radius) {
+            var p1 = this.random(-radius, radius);
+            var p2 = this.random(-radius, radius);
+            var p3 = this.random(-radius, radius);
+            var v3 = new Laya.Vector3(p1, p2, p3);
+            Laya.Vector3.scale(v3, radius, v3);
+            return v3;
+        }
+        static randomFloat(min, max) {
+            return Math.random() * (max - min) + min;
+        }
+        static randomTotal2N(total, n) {
+            var aryRet = [];
+            var fSumTmp = n;
+            var iAcc = 0;
+            for (var i = 0; i < (total - 1); i++) {
+                var iTmp = Math.ceil(Math.random() * (fSumTmp / 2));
+                aryRet.push(iTmp);
+                fSumTmp -= iTmp;
+                iAcc += iTmp;
+            }
+            aryRet.push(n - iAcc);
+            return aryRet;
+        }
+        static getRandomSequence(total, n) {
+            let sequence = [total];
+            let output = [n];
+            for (let i = 0; i < total; i++) {
+                sequence[i] = i;
+            }
+            let end = total - 1;
+            for (let i = 0; i < n; i++) {
+                let num = this.random(0, end);
+                output[i] = sequence[num];
+                sequence[num] = sequence[end];
+                end--;
+            }
+            return output;
+        }
+        static random(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+        static randomValue(arr) {
+            let len = arr.length;
+            let index = (len * Math.random()) >> 0;
+            if (index < len) {
+                return arr[index];
+            }
+            return null;
+        }
+        static randRate(rate, total) {
+            let r = this.random(1, total);
+            let t = 0;
+            for (let i = 0; i < rate.length; i++) {
+                t += rate[i];
+                if (r < t) {
+                    return i;
+                }
+            }
+            return 0;
+        }
+        static clampAngle(angle, min, max) {
+            if (angle < min) {
+                angle = min;
+            }
+            else if (angle > max) {
+                angle = max;
+            }
+            return angle;
+        }
+        static clamp(value, min, max) {
+            if (value < min) {
+                value = min;
+            }
+            else if (value > max) {
+                value = max;
+            }
+            return value;
+        }
+        static repeat(t, length) {
+            return this.clamp(t - Math.floor(t / length) * length, 0.0, length);
+        }
+        static pingPong(t, length) {
+            t = this.repeat(t, length * 2);
+            return length - Math.abs(t - length);
+        }
+        static Approximately(a, b) {
+            return Laya.MathUtils3D.nearEqual(a, b);
+        }
+        static number2BigNumber(n, maxLen = 4) {
+            let outNum;
+            let k = 1000;
+            let base = k;
+            let pow = 0;
+            for (pow = 0;; pow++) {
+                if (n < base) {
+                    break;
+                }
+                base *= k;
+            }
+            let unit = "";
+            if (pow < 5) {
+                unit = pow == 0 ? "" : (pow == 1 ? "K" : (pow == 2 ? "M" : (pow == 3 ? "B" : "T")));
+            }
+            else {
+                let l_a = 97;
+                let l_A = 65;
+                let div = Math.floor((pow - 5) / 26);
+                let mod = (pow - 5) % 26;
+                unit = div == 0 ? String.fromCharCode(l_a + mod, l_a + mod) : (div == 1 ? String.fromCharCode(l_A + mod, l_a + mod) : String.fromCharCode(l_A + mod, l_A + mod));
+            }
+            outNum = String(n / (base * 0.001));
+            return "." == (outNum = outNum.substr(0, maxLen)).charAt(outNum.length - 1) ? outNum.replace(".", unit) : outNum + unit;
+        }
+        static SumString(a, b) {
+            a = a.split('');
+            b = b.split('');
+            var jinwei = 0, result = '';
+            while (a.length || b.length || jinwei) {
+                var temp = parseInt(a.pop() || 0) + parseInt(b.pop() || 0) + jinwei;
+                result = temp % 10 + result;
+                jinwei = Math.floor(temp / 10);
+            }
+            return result;
+        }
+        static SubString(a, b) {
+            a = a.split('');
+            b = b.split('');
+            var aMaxb = a.length > b.length;
+            if (a.length == b.length) {
+                for (var i = 0, len = a.length; i < len; i++) {
+                    if (a[i] == b[i])
+                        continue;
+                    aMaxb = a[i] > b[i];
+                    break;
+                }
+            }
+            if (!aMaxb)
+                a = [b, b = a][0];
+            var result = '';
+            while (a.length) {
+                var temp = parseInt(a.pop()) - parseInt(b.pop() || 0);
+                if (temp >= 0)
+                    result = temp + result;
+                else {
+                    result = temp + 10 + result;
+                    a[a.length - 1]--;
+                }
+            }
+            result = (aMaxb ? '' : '-') + result.replace(/^0*/g, '');
+            if (result == "-") {
+                result = "0";
+            }
+            return result;
+        }
+        static CompareString(a, b) {
+            let result = this.SubString(a, b);
+            if (result == "0") {
+                return 0;
+            }
+            else if (result.indexOf("-") == 0) {
+                return -1;
+            }
+            else {
+                return 1;
+            }
+        }
+        static newGuid() {
+            return 'xxxxxxxxxxxx4xxxyxxxxxxx'.replace(/[xy]/g, function (c) {
+                var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            });
+        }
+        static countDay(newDate, oldDate) {
+            let s1 = new Date(newDate);
+            let s2 = new Date(oldDate);
+            var days = s1.getTime() - s2.getTime();
+            var time = days / (1000 * 60 * 60 * 24);
+            return time;
+        }
+        static CompareVersion(v1, v2) {
+            var arr1 = v1.split('.');
+            var arr2 = v2.split('.');
+            var len = Math.max(arr1.length, arr2.length);
+            while (arr1.length < len) {
+                arr1.push('0');
+            }
+            while (arr2.length < len) {
+                arr2.push('0');
+            }
+            for (var i = 0; i < len; i++) {
+                var num1 = parseInt(arr1[i]);
+                var num2 = parseInt(arr2[i]);
+                if (num1 > num2) {
+                    return 1;
+                }
+                else if (num1 < num2) {
+                    return -1;
+                }
+            }
+            return 0;
+        }
+        static lerp(numStart, numEnd, t) {
+            if (t > 1) {
+                t = 1;
+            }
+            else if (t < 0) {
+                t = 0;
+            }
+            return numStart * (1 - t) + (numEnd * t);
+        }
+        static lerpAngle(current, target, t) {
+            current %= 360;
+            target %= 360;
+            var dAngle = target - current;
+            if (dAngle > 180) {
+                target = current - (360 - dAngle);
+            }
+            else if (dAngle < -180) {
+                target = current + (360 + dAngle);
+            }
+            return (this.lerp(current, target, t) % 360 + 360) % 360;
+        }
+        static angleTowards(current, target, speed) {
+            current %= 360;
+            target %= 360;
+            var dAngle = target - current;
+            if (dAngle > 180) {
+                target = current - (360 - dAngle);
+            }
+            else if (dAngle < -180) {
+                target = current + (360 + dAngle);
+            }
+            var dir = target - current;
+            if (speed > Math.abs(dir)) {
+                return target;
+            }
+            return ((current + speed * this.sign(dir)) % 360 + 360) % 360;
+        }
+        static sign(x) {
+            if (x > 0) {
+                return 1;
+            }
+            if (x < 0) {
+                return -1;
+            }
+            return 0;
+        }
+        static probability(value) {
+            return Math.random() < value;
+        }
+    }
+    MathHelper.Deg2Rad = 0.01745329;
+    MathHelper.Rad2Deg = 57.29578;
+
+    class UI_ToastView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameCommandUI", "ToastView"));
+        }
+        onConstruct() {
+            this.m_maskBg = (this.getChildAt(0));
+            this.m_n2 = (this.getChildAt(1));
+            this.m_title = (this.getChildAt(2));
+        }
+    }
+    UI_ToastView.URL = "ui://9kynrs2zlo4qe";
+
+    class Toast {
+        constructor() {
+            this.fadeDuration = 0.3;
+            this.timer = new Laya.Timer();
+        }
+        static get inst() {
+            if (this.instance == null) {
+                this.instance = new Toast();
+            }
+            return this.instance;
+        }
+        show(content, mask = false, delay = 2000) {
+            if (this.container == null) {
+                this.container = fairygui.GRoot.inst;
+            }
+            if (this.view == null) {
+                this.view = UI_ToastView.createInstance();
+                this.view.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+            }
+            this.container.addChild(this.view);
+            this.view.alpha = 0;
+            this.view.m_title.text = content;
+            this.view.m_maskBg.touchable = mask;
+            if (this.tweener) {
+                this.tweener.clear();
+            }
+            this.view.visible = true;
+            if (content == "") {
+                this.view.m_n2.visible = false;
+            }
+            else {
+                this.view.m_n2.visible = true;
+            }
+            this.tweener = Laya.Tween.to(this.view, { alpha: 1 }, this.fadeDuration * 1000);
+            if (delay > 0) {
+                this.timer.clear(this, this.hide);
+                this.timer.once(delay, this, this.hide);
+            }
+        }
+        hide() {
+            this.timer.clear(this, this.hide);
+            this.view.alpha = 0;
+            this.onHideToastViewComplete();
+        }
+        toastViewUpdate(tweener) {
+            this.view.alpha = tweener.value.x;
+        }
+        onHideToastViewComplete() {
+            this.view.visible = false;
+        }
+    }
+
+    class TextureScreenData {
+        constructor() {
+            this.backgroundImage = "";
+            this.logo = "";
+            this.backgroundColor = "";
+            this.duration = 0;
+        }
+    }
+
+    class SimpleSplashScreen {
+        constructor() {
+            this.data = [];
+            this.queueIndex = 0;
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new SimpleSplashScreen();
+            }
+            return this._inst;
+        }
+        setData(data) {
+            this.data = data;
+            this.loadScreenImages();
+        }
+        loadScreenImages() {
+            var urls = [];
+            for (var key in this.data) {
+                var item = this.data[key];
+                if (item.logo != "") {
+                    urls.push({ url: item.logo, type: Laya.Loader.IMAGE });
+                }
+                if (item.backgroundImage != "") {
+                    urls.push({ url: item.backgroundImage, type: Laya.Loader.IMAGE });
+                }
+            }
+            Laya.loader.load(urls, Laya.Handler.create(this, this.loadScreenImagesComplete));
+        }
+        loadScreenImagesComplete() {
+            this.startQueue();
+        }
+        startQueue() {
+            var textrueSplashData = this.data[this.queueIndex];
+            var splash = this.createSplashComponent(textrueSplashData);
+            let timeLine = new Laya.TimeLine();
+            timeLine.addLabel("出现", 0).to(splash, { alpha: 1 }, 500);
+            splash.alpha = 0;
+            Laya.Tween.to(splash, { alpha: 1 }, 500, Laya.Ease.linearNone);
+            fairygui.GTween.to(1, 0, 1).onUpdate((tweener) => {
+                splash.alpha = tweener.value.x;
+            }, this).onComplete(() => {
+                fairygui.GRoot.inst.removeChild(splash, true);
+                this.queueIndex++;
+                if (this.queueIndex > this.data.length - 1) {
+                    EventManager.inst.SendEvent(SimpleSplashScreen.ON_COMPLETE_EVENT);
+                    return;
+                }
+                else {
+                    this.startQueue();
+                }
+            }, this).setDelay(textrueSplashData.duration + 0.5);
+        }
+        createSplashComponent(splashData) {
+            Laya.stage.addChild(fairygui.GRoot.inst.displayObject);
+            var splashComponent = new fairygui.GComponent();
+            splashComponent.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+            var graphy = new fairygui.GGraph();
+            graphy.drawRect(0, "0xFFFFFF", splashData.backgroundColor);
+            graphy.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+            splashComponent.addChild(graphy);
+            if (splashData.logo != "") {
+                let loader = new fairygui.GLoader();
+                loader.verticalAlign = "Middle";
+                loader.icon = splashData.logo;
+                loader.autoSize = true;
+                loader.center(true);
+                splashComponent.addChild(loader);
+            }
+            if (splashData.backgroundImage != "") {
+                let loader = new fairygui.GLoader();
+                loader.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+                loader.fill = fairygui.LoaderFillType.ScaleNoBorder;
+                loader.icon = splashData.backgroundImage;
+                loader.verticalAlign = "Middle";
+                loader.autoSize = true;
+                loader.center(true);
+                splashComponent.addChild(loader);
+            }
+            fairygui.GRoot.inst.addChild(splashComponent);
+            return splashComponent;
+        }
+    }
+    SimpleSplashScreen.ON_COMPLETE_EVENT = "onCompleteEvent";
+
+    class ViewController {
+        constructor() {
+            this.ControllerName = "";
+            this.init();
+        }
+        doScaleIn() {
+            this.View.setPivot(0.5, 0.5);
+            this.View.setScale(0, 0);
+            fairygui.GTween.to(0, 1, 0.35)
+                .onUpdate((tweener) => {
+                this.View.setScale(tweener.value.x, tweener.value.x);
+            }, this);
+        }
+        removeSelf() {
+            UIManager.inst.hidePopupView(this.ControllerName);
+        }
+        init() {
+            this.ControllerName = this.URL;
+            this.View = fairygui.UIPackage.createObjectFromURL(this.URL);
+            this.View.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+            this.View.on(Laya.Event.ADDED, this, this.onViewAddedEvent);
+            UIManager.inst.uiViewContainer.addChild(this.View);
+        }
+        onViewAddedEvent() {
+            this.View.off(Laya.Event.ADDED, this, this.onViewAddedEvent);
+            Laya.timer.callLater(this, () => {
+                if (this.onViewAdded) {
+                    this.onViewAdded.run();
+                }
+            });
+        }
+        PresentViewController() {
+            this.View.displayObject.visible = true;
+        }
+        DismissViewController(destroy = false) {
+            Laya.timer.clearAll(this);
+            EventManager.inst.RemoveEventListenerWithCaller(this);
+            if (this.onViewWillDestory) {
+                this.onViewWillDestory.run();
+            }
+            if (destroy) {
+                this.onViewAdded = null;
+                this.onViewWillDestory = null;
+                UIManager.inst.uiViewContainer.removeChild(this.View, destroy);
+            }
+            else {
+                this.View.displayObject.visible = false;
+            }
+        }
+    }
+
+    class ViewControllerGeneric extends ViewController {
+        get view() {
+            return this.View;
+        }
+    }
+
+    class UI_NativeAdView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "NativeAdView"));
+        }
+        onConstruct() {
+            this.m_n0 = (this.getChildAt(0));
+            this.m_TitleLabel = (this.getChildAt(1));
+            this.m_n23 = (this.getChildAt(2));
+            this.m_n27 = (this.getChildAt(3));
+            this.m_ImageLoader = (this.getChildAt(4));
+            this.m_n18 = (this.getChildAt(5));
+            this.m_n29 = (this.getChildAt(6));
+            this.m_DescLabel = (this.getChildAt(7));
+            this.m_ClickBtn = (this.getChildAt(8));
+            this.m_CloseBtn = (this.getChildAt(9));
+            this.m_ConfirmBtn = (this.getChildAt(10));
+            this.m_n17 = (this.getChildAt(11));
+        }
+    }
+    UI_NativeAdView.URL = "ui://2lldjolilo4qb";
+
+    class NativeAdViewController extends ViewControllerGeneric {
+        get URL() {
+            return UI_NativeAdView.URL;
+        }
+        init() {
+            this.onViewAdded = Laya.Handler.create(this, this.bind);
+            super.init();
+        }
+        bind() {
+            this.view.m_CloseBtn.onClick(this, () => {
+                Platforms.inst.onNativeAdClose();
+                this.removeSelf();
+            });
+            UIManager.inst.topViewContainer.addChild(this.view);
+        }
+        setData(ad) {
+            if (Platforms.inst.platform == Platform.vivo_h5) {
+                if (ad.imgUrlList && ad.imgUrlList.length > 0) {
+                    this.view.m_ImageLoader.icon = ad.imgUrlList[0];
+                }
+                else if (ad.icon && ad.icon != "") {
+                    this.view.m_ImageLoader.icon = ad.icon;
+                }
+            }
+            else if (Platforms.inst.platform == Platform.oppo_h5) {
+                if (ad.imgUrlList && ad.imgUrlList.length > 0) {
+                    this.view.m_ImageLoader.icon = ad.imgUrlList[0];
+                }
+                else if (ad.iconUrlList && ad.iconUrlList.length > 0) {
+                    this.view.m_ImageLoader.icon = ad.iconUrlList[0];
+                }
+                else if (ad.icon) {
+                    this.view.m_ImageLoader.icon = ad.icon;
+                }
+            }
+            this.view.m_ClickBtn.onClick(this, () => {
+                Platforms.inst.onNativeAdClick(ad.adId);
+                this.removeSelf();
+            });
+            this.view.m_ConfirmBtn.onClick(this, () => {
+                Platforms.inst.onNativeAdClick(ad.adId);
+                this.removeSelf();
+            });
+        }
+        removeSelf() {
+            UIManager.inst.topViewContainer.removeChild(this.view);
+        }
+    }
+
+    class UI_FadeView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameCommandUI", "FadeView"));
+        }
+        onConstruct() {
+            this.m_n2 = (this.getChildAt(0));
+            this.m_n0 = (this.getChildAt(1));
+            this.m_fadeIn = this.getTransitionAt(0);
+            this.m_fadeOut = this.getTransitionAt(1);
+        }
+    }
+    UI_FadeView.URL = "ui://9kynrs2zs24q4w";
+
+    class UIManager {
+        constructor() {
+            this.views = new Array();
+            this.record = [];
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new UIManager();
+            }
+            return this._inst;
+        }
+        init() {
+            Laya.stage.addChild(fairygui.GRoot.inst.displayObject);
+            this.gameViewContainer = new fairygui.GComponent();
+            this.gameViewContainer.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+            this.uiViewContainer = new fairygui.GComponent();
+            this.uiViewContainer.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+            this.topViewContainer = new fairygui.GComponent();
+            this.topViewContainer.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+            this.fadeViewContainer = new fairygui.GComponent();
+            this.fadeViewContainer.setSize(fairygui.GRoot.inst.width, fairygui.GRoot.inst.height);
+            fairygui.GRoot.inst.addChild(this.gameViewContainer);
+            fairygui.GRoot.inst.addChild(this.uiViewContainer);
+            fairygui.GRoot.inst.addChild(this.topViewContainer);
+            fairygui.GRoot.inst.addChild(this.fadeViewContainer);
+        }
+        addFadeView() {
+            this.fadeView = fairygui.UIPackage.createObjectFromURL(UI_FadeView.URL);
+            this.fadeView.setSize(Laya.stage.width, Laya.stage.height);
+            this.fadeViewContainer.addChild(this.fadeView);
+            this.fadeView.visible = false;
+        }
+        doFadeIn(complete) {
+            this.fadeView.visible = true;
+            this.fadeView.touchable = true;
+            this.fadeView.m_fadeIn.play(Laya.Handler.create(this, () => {
+                complete && complete.run();
+                UIManager.inst.doFadeOut();
+            }));
+        }
+        doFadeOut() {
+            this.fadeView.m_fadeOut.play(Laya.Handler.create(this, () => {
+                this.fadeView.visible = false;
+                this.fadeView.touchable = false;
+            }));
+        }
+        getView(name) {
+            for (var i = 0; i < this.views.length; i++) {
+                if (name === this.views[i].name) {
+                    return this.views[i].viewController;
+                }
+            }
+            return null;
+        }
+        showPopupView(viewController) {
+            this.views.push({ name: viewController.ControllerName, viewController: viewController });
+            if (this.checkRecord(viewController.ControllerName)) {
+                this.addRecordCount(viewController.ControllerName);
+            }
+            else {
+                this.addRecord(viewController.ControllerName);
+            }
+        }
+        getViewRecordCount(name) {
+            for (let index = 0; index < this.record.length; index++) {
+                const viewInfo = this.record[index];
+                if (viewInfo.name == name) {
+                    return viewInfo.count;
+                }
+            }
+            return 0;
+        }
+        hidePopupView(name) {
+            let index = -1;
+            for (var i = 0; i < this.views.length; i++) {
+                if (name == this.views[i].name) {
+                    var viewC = this.views[i].viewController;
+                    viewC.DismissViewController(true);
+                    index = i;
+                }
+            }
+            if (index != -1) {
+                this.views.splice(index, 1);
+            }
+        }
+        showLoading(title = "请稍等") {
+        }
+        hideLoading() {
+        }
+        showToast(title, duration = 3000, mask = false) {
+            Toast.inst.show(title, mask);
+        }
+        showModal(title, content, caller, callback) {
+        }
+        showNativeAd() {
+            if (PlatformConfig.inst.isReview()) {
+                return;
+            }
+            Platforms.inst.onShowNativeAd((ad) => {
+                let view = new NativeAdViewController();
+                UIManager.inst.showPopupView(view);
+                view.setData(ad);
+            });
+        }
+        showNativeIconButton(btn) {
+            btn.visible = false;
+            if (Platforms.inst.platform == Platform.oppo_h5) {
+                Platforms.inst.onShowNativeAd((ad) => {
+                    btn.visible = true;
+                    console.log("addata:", JSON.stringify(ad));
+                    let adId = ad.adId;
+                    let title = ad.title;
+                    let desc = ad.desc;
+                    let icon = "";
+                    if (Platforms.inst.platform == Platform.vivo_h5) {
+                        if (ad.icon && ad.icon.length > 0) {
+                            icon = ad.icon;
+                        }
+                        else if (ad.imgUrlList) {
+                            icon = ad.imgUrlList[0];
+                        }
+                    }
+                    else if (Platforms.inst.platform == Platform.oppo_h5) {
+                        if (ad.iconUrlList.length > 0) {
+                            icon = ad.iconUrlList[0];
+                        }
+                        else if (ad.imgUrlList) {
+                            icon = ad.imgUrlList[0];
+                        }
+                    }
+                    btn.icon = icon;
+                    btn.title = title;
+                    btn.onClick(this, () => {
+                        btn.visible = false;
+                        Platforms.inst.onNativeAdClick(adId);
+                    });
+                });
+            }
+        }
+        showSplashScreen() {
+            let screenDatas = new Array();
+            let screenData = new TextureScreenData();
+            screenData.backgroundImage = "res/images/splash.jpg";
+            screenData.duration = 2;
+            screenDatas.push(screenData);
+            SimpleSplashScreen.inst.setData(screenDatas);
+        }
+        createLoadingView(view) {
+            this.loadingView = view;
+            this.topViewContainer.addChild(this.loadingView.View);
+            this.loadingView.View.visible = false;
+        }
+        showGameLoading(callback, anim = true) {
+            if (this.loadingView == null) {
+            }
+            if (this.loadingView && anim) {
+                this.loadingView.View.visible = true;
+                this.loadingView.View.alpha = 0;
+                Laya.Tween.to(this.loadingView.View, { alpha: 1 }, 500, Laya.Ease.linearNone, Laya.Handler.create(this, () => {
+                    callback && callback();
+                }));
+            }
+            else {
+                callback && callback();
+            }
+        }
+        hideGameLoading(delay = 1000, callbakc = null) {
+            if (this.loadingView) {
+                Laya.Tween.to(this.loadingView.View, { alpha: 0 }, 500, Laya.Ease.linearNone, Laya.Handler.create(this, () => {
+                    this.loadingView.View.visible = false;
+                    callbakc && callbakc.run();
+                }), delay);
+            }
+            else {
+                callbakc && callbakc.run();
+            }
+        }
+        addRecord(name) {
+            this.record.push({ name: name, count: 1 });
+        }
+        checkRecord(name) {
+            for (let index = 0; index < this.record.length; index++) {
+                const viewInfo = this.record[index];
+                if (viewInfo.name == name) {
+                    return true;
+                }
+            }
+            return false;
+        }
+        addRecordCount(name) {
+            for (let index = 0; index < this.record.length; index++) {
+                const viewInfo = this.record[index];
+                if (viewInfo.name == name) {
+                    viewInfo.count++;
+                }
+            }
+        }
+    }
+
+    class WWWResultData {
+        constructor() {
+            this.resultCode = 1;
+        }
+    }
+    WWWResultData.SUCCESS = 1;
+    WWWResultData.FAIL = 0;
+    class HttpRequestExtension extends Laya.HttpRequest {
+        constructor() {
+            super();
+            this.httpRequest = new Laya.HttpRequest();
+        }
+        GetHeaders() {
+            var arr = [
+                "Content-Type", "application/json"
+            ];
+            return arr;
+        }
+        Get(url, caller, callback) {
+            this.httpRequest.once(Laya.Event.COMPLETE, this, function (e) {
+                callback.apply(caller, [JSON.parse(e)]);
+            });
+            this.httpRequest.once(Laya.Event.ERROR, this, function (e) {
+                var result = new WWWResultData();
+                result.msg = "获取失败";
+                result.data = null;
+                result.resultCode = WWWResultData.FAIL;
+                callback.apply(caller, [result]);
+            });
+            this.httpRequest.send(url, null, 'get', 'application/json', this.GetHeaders());
+            return this;
+        }
+        Post(url, data, caller, callback) {
+            this.httpRequest.once(Laya.Event.COMPLETE, this, function (e) {
+                callback.apply(caller, [JSON.parse(e)]);
+            });
+            this.httpRequest.once(Laya.Event.ERROR, this, function (e) {
+                var result = new WWWResultData();
+                result.msg = "获取失败";
+                result.data = null;
+                result.resultCode = WWWResultData.FAIL;
+                callback.apply(caller, [result]);
+            });
+            this.httpRequest.send(url, JSON.stringify(data), 'post', 'application/json', this.GetHeaders());
+            return this;
+        }
+    }
+
+    class UI_SdkIconButtonAd extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("YmSdkUI", "SdkIconButtonAd"));
+        }
+        onConstruct() {
+            this.m_n2 = (this.getChildAt(0));
+            this.m_icon = (this.getChildAt(1));
+            this.m_n4 = (this.getChildAt(2));
+            this.m_title = (this.getChildAt(3));
+            this.m_t0 = this.getTransitionAt(0);
+        }
+    }
+    UI_SdkIconButtonAd.URL = "ui://kd5ich5s8m0z7";
+
+    class SdkIconButtonAdComponent extends UI_SdkIconButtonAd {
+        onConstruct() {
+            super.onConstruct();
+            this.on(Laya.Event.ADDED, this, this.addToScene);
+            this.on(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+        addToScene() {
+            if (YMSDK.inst.enabled == false) {
+                this.visible = false;
+                return;
+            }
+            this.onClick(this, this.onClickHandler);
+            this.randomIcon();
+            Laya.timer.loop(5000, this, this.randomIcon);
+            this.visible = YMSDK.inst.getKeyValue(SdkSwitchEnum.游戏格子);
+        }
+        randomIcon() {
+            let rand = MathHelper.random(0, YMSDK.inst.getApps().length - 1);
+            this.appInfo = YMSDK.inst.getApps()[rand];
+            this.icon = this.appInfo.icon;
+            this.title = this.appInfo.name;
+        }
+        onClickHandler() {
+            console.log("[YMSDK]点击跳转:", this.appInfo.appId);
+            let s = this.data;
+            console.log("附带数据:", s);
+            if (s) {
+                YMSDK.inst.clickEvent(s, this.appInfo);
+            }
+            else {
+                YMSDK.inst.clickEvent("SDKICON点击", this.appInfo);
+            }
+        }
+        removeToScene() {
+            Laya.timer.clear(this, this.randomIcon);
+            this.off(Laya.Event.ADDED, this, this.addToScene);
+            this.off(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+    }
+
+    class UI_SdkOneLineBanner extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("YmSdkUI", "SdkOneLineBanner"));
+        }
+        onConstruct() {
+            this.m_List = (this.getChildAt(0));
+        }
+    }
+    UI_SdkOneLineBanner.URL = "ui://kd5ich5smzap8";
+
+    class SdkOneLineBannerComponent extends UI_SdkOneLineBanner {
+        constructor() {
+            super(...arguments);
+            this.index = 0;
+        }
+        onConstruct() {
+            super.onConstruct();
+            this.on(Laya.Event.ADDED, this, this.addToScene);
+            this.on(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+        addToScene() {
+            if (YMSDK.inst.enabled == false) {
+                this.visible = false;
+                return;
+            }
+            this.m_List.itemRenderer = Laya.Handler.create(this, this.onItemRenderer, null, false);
+            this.m_List.numItems = YMSDK.inst.getApps().length;
+            this.m_List.on(fairygui.Events.CLICK_ITEM, this, this.onClickHandler);
+            this.visible = YMSDK.inst.getKeyValue(SdkSwitchEnum.结算ICON导出页面);
+            Laya.timer.loop(3000, this, this.onScroll);
+        }
+        onScroll() {
+            this.index++;
+            if (this.index >= YMSDK.inst.getApps().length) {
+                this.index = 0;
+            }
+            this.m_List.scrollToView(this.index, true);
+        }
+        onItemRenderer(index, ui) {
+            let data = YMSDK.inst.getApps()[index];
+            ui.title = data.name;
+            ui.icon = data.icon;
+        }
+        onClickHandler() {
+            let data = YMSDK.inst.getApps()[this.m_List.selectedIndex];
+            console.log("[YMSDK]点击跳转:", data.appId);
+            let s = this.data;
+            console.log("附带数据:", s);
+            if (s) {
+                YMSDK.inst.clickEvent(s, data);
+            }
+            else {
+                YMSDK.inst.clickEvent("SDKICONBanner点击", data);
+            }
+        }
+        removeToScene() {
+            this.off(Laya.Event.ADDED, this, this.addToScene);
+            this.off(Laya.Event.UNDISPLAY, this, this.removeToScene);
+            Laya.timer.clear(this, this.onScroll);
+        }
+    }
+
+    class PlatformAdManager {
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new PlatformAdManager();
+            }
+            return this._inst;
+        }
+        init() { }
+        showBanner(forceShow = false, key) {
+            let isShow = true;
+            if ((Platforms.inst.platform == Platform.oppo_h5
+                || Platforms.inst.platform == Platform.vivo_h5) && forceShow == false) {
+                isShow = false;
+            }
+            console.log("是否显示banner：", isShow);
+            if (isShow)
+                Platforms.inst.onShowBanner(key);
+        }
+        destroyBanner() {
+            Platforms.inst.onDestoryBanner();
+        }
+        showNativeAd() {
+            Platforms.inst.onShowNativeAd((ad) => {
+                let view = new NativeAdViewController();
+                UIManager.inst.showPopupView(view);
+                view.setData(ad);
+            });
+        }
+        destroyNativeAd() {
+            Platforms.inst.onDestroyNativeAd();
+        }
+        showNativeOrInsertAd() {
+            if (Platforms.inst.platform == Platform.qqplay_h5 || Platforms.inst.platform == Platform.toutiao_h5) {
+                Platforms.inst.onShowInsertAd();
+            }
+            else {
+                this.showNativeAd();
+            }
+        }
+        showNativeIconAd(btn, key) {
+            if (Platforms.inst.platform == Platform.oppo_h5 || Platforms.inst.platform == Platform.vivo_h5) {
+                btn.getAd(key);
+            }
+        }
+        destroyNativeIconAd() {
+            if (Platforms.inst.platform == Platform.oppo_h5) {
+                Platforms.inst.onDestroyNativeIconAd();
+            }
+        }
+        sendEvent(obj) {
+            Platforms.inst.sendEvent(obj);
+        }
+        showRewardedVideo(callback) {
+            UIManager.inst.showToast("视频正在加载中", 3000, true);
+            Laya.timer.once(1000, this, () => {
+                Platforms.inst.onShowRewardedVideo(() => {
+                    UIManager.inst.showToast("获得奖励");
+                    callback && callback(true);
+                }, (code, msg) => {
+                    if (code == 1) {
+                        UIManager.inst.showToast("视频尚未准备好，请稍后再试");
+                    }
+                    else if (code == 4) {
+                        UIManager.inst.showToast("未完整看完视频无法获得奖励");
+                    }
+                    callback && callback(false);
+                });
+            });
+        }
+    }
+
+    class UI_SdkPowerView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("YmSdkUI", "SdkPowerView"));
+        }
+        onConstruct() {
+            this.m_n0 = (this.getChildAt(0));
+            this.m_n1 = (this.getChildAt(1));
+            this.m_ImageLoader = (this.getChildAt(2));
+            this.m_ClickBtn = (this.getChildAt(3));
+            this.m_TipLabel = (this.getChildAt(4));
+            this.m_ProgressBar = (this.getChildAt(5));
+            this.m_ButtomBar = (this.getChildAt(6));
+        }
+    }
+    UI_SdkPowerView.URL = "ui://kd5ich5smzapa";
+
+    class SdkPowerViewController extends ViewControllerGeneric {
+        constructor() {
+            super(...arguments);
+            this.isShowBanner = false;
+            this.currentP = 0;
+            this.randShowBanner = 0;
+        }
+        get URL() {
+            return UI_SdkPowerView.URL;
+        }
+        init() {
+            this.onViewWillDestory = Laya.Handler.create(this, this.unbind);
+            this.onViewAdded = Laya.Handler.create(this, this.bind);
+            super.init();
+        }
+        unbind() {
+            PlatformAdManager.inst.destroyBanner();
+            Laya.timer.clear(this, this.onSubProgress);
+        }
+        bind() {
+            if (YMSDK.inst.enabled == false) {
+                this.removeSelf();
+                return;
+            }
+            if (YMSDK.inst.getKeyValue(SdkSwitchEnum.结算误点进度页面) == false) {
+                this.removeSelf();
+                return;
+            }
+            EventManager.inst.AddEventListener(PlatformEvents.ON_BANNER_SUCCESS_EVENT, this, this.onBannerShowSuccess);
+            PlatformAdManager.inst.destroyBanner();
+            this.randShowBanner = MathHelper.random(30, 50);
+            this.view.m_ClickBtn.onClick(this, this.onClick);
+            Laya.timer.loop(1000, this, this.onSubProgress);
+        }
+        onBannerShowSuccess() {
+            this.view.m_ButtomBar.height = Platforms.inst.bannerHeight();
+        }
+        onSubProgress() {
+            this.currentP -= 3;
+            if (this.currentP <= 0) {
+                this.currentP = 0;
+            }
+            this.view.m_ProgressBar.tweenValue(this.currentP, 0.3);
+        }
+        onClick() {
+            this.currentP += 10;
+            if (this.currentP >= 100) {
+                this.currentP = 100;
+                this.removeSelf();
+                this.closeHander && this.closeHander.runWith(true);
+                return;
+            }
+            else if (this.currentP >= this.randShowBanner) {
+                this.showBanner();
+            }
+            this.view.m_ProgressBar.tweenValue(this.currentP, 0.3);
+        }
+        showBanner() {
+            if (this.isShowBanner == false) {
+                this.isShowBanner = true;
+                PlatformAdManager.inst.showBanner();
+            }
+        }
+    }
+
+    class UI_SdkResultIconListView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("YmSdkUI", "SdkResultIconListView"));
+        }
+        onConstruct() {
+            this.m_SdkOneLineBanner = (this.getChildAt(0));
+        }
+    }
+    UI_SdkResultIconListView.URL = "ui://kd5ich5smzap9";
+
+    class SdkResultIconListViewController extends ViewControllerGeneric {
+        get URL() {
+            return UI_SdkResultIconListView.URL;
+        }
+        init() {
+            this.onViewWillDestory = Laya.Handler.create(this, this.unbind);
+            this.onViewAdded = Laya.Handler.create(this, this.bind);
+            super.init();
+        }
+        unbind() {
+            PlatformAdManager.inst.destroyBanner();
+        }
+        bind() {
+            if (YMSDK.inst.enabled == false) {
+                this.removeSelf();
+                return;
+            }
+            if (YMSDK.inst.getKeyValue(SdkSwitchEnum.结算ICON导出页面) == false) {
+                this.removeSelf();
+                return;
+            }
+            PlatformAdManager.inst.showBanner();
+        }
+    }
+
+    class UI_SdkStartIconListView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("YmSdkUI", "SdkStartIconListView"));
+        }
+        onConstruct() {
+            this.m_n5 = (this.getChildAt(0));
+            this.m_List0 = (this.getChildAt(1));
+            this.m_List1 = (this.getChildAt(2));
+            this.m_CloseBtn = (this.getChildAt(3));
+        }
+    }
+    UI_SdkStartIconListView.URL = "ui://kd5ich5ss4083";
+
+    class SdkStartIconListViewController extends ViewControllerGeneric {
+        constructor() {
+            super(...arguments);
+            this.list1 = new Array();
+            this.list2 = new Array();
+            this.index = 0;
+        }
+        get URL() {
+            return UI_SdkStartIconListView.URL;
+        }
+        init() {
+            this.onViewWillDestory = Laya.Handler.create(this, this.unbind);
+            this.onViewAdded = Laya.Handler.create(this, this.bind);
+            super.init();
+        }
+        unbind() {
+            Laya.timer.clear(this, this.onJumpPage);
+            this.closeHandler && this.closeHandler.runWith(true);
+        }
+        bind() {
+            this.view.m_CloseBtn.onClick(this, this.onClose);
+            let apps = YMSDK.inst.getApps();
+            let middle = Math.ceil(apps.length / 2);
+            for (let index = 0; index < apps.length; index++) {
+                const app = apps[index];
+                if (index < middle) {
+                    this.list1.push(app);
+                }
+                else {
+                    this.list2.push(app);
+                }
+            }
+            this.view.m_List0.itemRenderer = Laya.Handler.create(this, this.onList1Renderer, null, false);
+            this.view.m_List0.numItems = this.list1.length;
+            this.view.m_List1.itemRenderer = Laya.Handler.create(this, this.onList2Renderer, null, false);
+            this.view.m_List1.numItems = this.list2.length;
+            this.view.m_List0.on(fairygui.Events.CLICK_ITEM, this, this.onItemClick0);
+            this.view.m_List1.on(fairygui.Events.CLICK_ITEM, this, this.onItemClick1);
+            if (YMSDK.inst.getKeyValue(SdkSwitchEnum.开始ICON导出页面) == false) {
+                this.removeSelf();
+            }
+            let page = Math.ceil(middle / 6);
+            if (page > 1) {
+                Laya.timer.loop(3000, this, this.onJumpPage);
+            }
+        }
+        onJumpPage() {
+            console.log("1111");
+            this.index += 6;
+            let apps = YMSDK.inst.getApps();
+            let middle = Math.ceil(apps.length / 2);
+            let page = Math.ceil(middle / 6);
+            if (this.index >= page * 6) {
+                this.index = 0;
+            }
+            this.view.m_List0.scrollToView(this.index, true);
+            this.view.m_List1.scrollToView(this.index, true);
+        }
+        onList1Renderer(index, ui) {
+            ui.icon = this.list1[index].icon;
+            ui.title = this.list1[index].name;
+            ui.data = this.list1[index];
+        }
+        onList2Renderer(index, ui) {
+            ui.icon = this.list2[index].icon;
+            ui.title = this.list2[index].name;
+            ui.data = this.list2[index];
+        }
+        onItemClick0(ui) {
+            console.log("[YMSDK]点击跳转:", ui.data);
+            YMSDK.inst.clickEvent("开始页面导流按钮", ui.data);
+        }
+        onItemClick1(ui) {
+            console.log("[YMSDK]点击跳转:", ui.data);
+            YMSDK.inst.clickEvent("开始页面导流按钮", ui.data);
+        }
+        onClose() {
+            this.removeSelf();
+        }
+    }
+
+    class UI_ProgressBar1 extends fgui.GProgressBar {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("YmSdkUI", "ProgressBar1"));
+        }
+        onConstruct() {
+            this.m_n3 = (this.getChildAt(0));
+            this.m_bar = (this.getChildAt(1));
+        }
+    }
+    UI_ProgressBar1.URL = "ui://kd5ich5smzapd";
+
+    class UI_SdkIconButton extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("YmSdkUI", "SdkIconButton"));
+        }
+        onConstruct() {
+            this.m_n2 = (this.getChildAt(0));
+            this.m_icon = (this.getChildAt(1));
+            this.m_n4 = (this.getChildAt(2));
+            this.m_title = (this.getChildAt(3));
+        }
+    }
+    UI_SdkIconButton.URL = "ui://kd5ich5ss4084";
+
+    class UI_SdkButton extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("YmSdkUI", "SdkButton"));
+        }
+        onConstruct() {
+            this.m_n0 = (this.getChildAt(0));
+            this.m_ImageTitle = (this.getChildAt(1));
+            this.m_title = (this.getChildAt(2));
+        }
+    }
+    UI_SdkButton.URL = "ui://kd5ich5ss4085";
+
+    class YmSdkUIBinder {
+        static bindAll() {
+            fgui.UIObjectFactory.setExtension(UI_SdkIconButtonAd.URL, UI_SdkIconButtonAd);
+            fgui.UIObjectFactory.setExtension(UI_SdkOneLineBanner.URL, UI_SdkOneLineBanner);
+            fgui.UIObjectFactory.setExtension(UI_SdkResultIconListView.URL, UI_SdkResultIconListView);
+            fgui.UIObjectFactory.setExtension(UI_SdkPowerView.URL, UI_SdkPowerView);
+            fgui.UIObjectFactory.setExtension(UI_ProgressBar1.URL, UI_ProgressBar1);
+            fgui.UIObjectFactory.setExtension(UI_SdkStartIconListView.URL, UI_SdkStartIconListView);
+            fgui.UIObjectFactory.setExtension(UI_SdkIconButton.URL, UI_SdkIconButton);
+            fgui.UIObjectFactory.setExtension(UI_SdkButton.URL, UI_SdkButton);
+        }
+    }
+
+    var SdkSwitchEnum;
+    (function (SdkSwitchEnum) {
+        SdkSwitchEnum["\u5F00\u59CBICON\u5BFC\u51FA\u9875\u9762"] = "loadingIconListShow";
+        SdkSwitchEnum["\u6E38\u620F\u683C\u5B50"] = "gridIconShow";
+        SdkSwitchEnum["\u7ED3\u7B97ICON\u5BFC\u51FA\u9875\u9762"] = "resultIconListShow";
+        SdkSwitchEnum["\u7ED3\u7B97\u8BEF\u70B9\u8FDB\u5EA6\u9875\u9762"] = "reslutProgressShow";
+    })(SdkSwitchEnum || (SdkSwitchEnum = {}));
+    class YMSDK {
+        constructor() {
+            this.initApi = "https://mini.coschat.com/api/sdk/";
+            this.sendEventApi = "https://mini.coschat.com/api/sdk/click";
+            this.enabled = true;
+            this.wx = window['wx'];
+            this.currentAppId = "";
+            this.platformConfig = [];
+            this.map = {
+                "loadingIconListShow": false,
+                "gridIconShow": false,
+                "resultIconListShow": false,
+                "reslutProgressShow": false
+            };
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new YMSDK();
+            }
+            return this._inst;
+        }
+        setMap(key, value) {
+            this.map[key] = value;
+            console.log("[YMSDK]设置Map:", key, this.map[key]);
+        }
+        getKeyValue(key) {
+            return this.map[key];
+        }
+        setConfig(data) {
+            this.platformConfig = data;
+        }
+        initAsync(data) {
+            return __awaiter(this, void 0, void 0, function* () {
+                this.platformConfig = data;
+                this.currentAppId = this.getCurrentAppId();
+                console.log("[YMSDK]初始化渠道信息:", this.platformConfig);
+                console.log(`当前渠道是 ${Platforms.inst.platformDisplayName} AppID:${this.currentAppId}`);
+                yield this.loadUI();
+                console.log("[YMSDK]加载UI完成");
+                yield this.initSDK(data);
+                console.log("[YMSDK]初始化SDK完成");
+            });
+        }
+        getCurrentAppId() {
+            for (let index = 0; index < this.platformConfig.length; index++) {
+                const c = this.platformConfig[index];
+                if (c.platform == Platform.weixin_h5) {
+                    return c.appId;
+                }
+            }
+            return "";
+        }
+        getApps() {
+            return this.sdkConfig.apps;
+        }
+        showStartIconListView(callback) {
+            console.log("获取SDK value:", YMSDK.inst.getKeyValue(SdkSwitchEnum.开始ICON导出页面));
+            if (this.getKeyValue(SdkSwitchEnum.开始ICON导出页面)) {
+                Laya.timer.callLater(this, () => {
+                    let view = new SdkStartIconListViewController();
+                    UIManager.inst.showPopupView(view);
+                    view.closeHandler = Laya.Handler.create(this, () => {
+                        callback && callback(true);
+                    });
+                });
+            }
+            else {
+                callback && callback(true);
+            }
+        }
+        showResultIconListView(callback) {
+            if (this.getKeyValue(SdkSwitchEnum.结算ICON导出页面)) {
+                Laya.timer.callLater(this, () => {
+                    let view = new SdkResultIconListViewController();
+                    UIManager.inst.showPopupView(view);
+                });
+                callback && callback(true);
+            }
+            else {
+                callback && callback(false);
+            }
+        }
+        hideResultIconListView() {
+            UIManager.inst.hidePopupView(UI_SdkResultIconListView.URL);
+        }
+        showPowerView(callback) {
+            if (this.getKeyValue(SdkSwitchEnum.结算误点进度页面)) {
+                Laya.timer.callLater(this, () => {
+                    let view = new SdkPowerViewController();
+                    UIManager.inst.showPopupView(view);
+                    view.closeHander = Laya.Handler.create(this, () => {
+                        callback && callback(true);
+                    });
+                });
+            }
+            else {
+                callback && callback(false);
+            }
+        }
+        loadUI() {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => {
+                    let urls = [];
+                    urls.push({ url: "res/sdkAssets/YmSdkUI.bin", type: Laya.Loader.BUFFER });
+                    urls.push({ url: "res/sdkAssets/YmSdkUI_atlas0.png", type: Laya.Loader.IMAGE });
+                    Laya.loader.load(urls, Laya.Handler.create(this, (res) => __awaiter(this, void 0, void 0, function* () {
+                        if (res) {
+                            fairygui.UIPackage.addPackage("res/sdkAssets/YmSdkUI");
+                            YmSdkUIBinder.bindAll();
+                            fgui.UIObjectFactory.setExtension(UI_SdkIconButtonAd.URL, SdkIconButtonAdComponent);
+                            fgui.UIObjectFactory.setExtension(UI_SdkOneLineBanner.URL, SdkOneLineBannerComponent);
+                            resolve(true);
+                        }
+                        else {
+                            console.log("加载UI资源失败,重试");
+                            yield this.loadUI();
+                        }
+                    })));
+                });
+            });
+        }
+        initSDK(data) {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => {
+                    let request = new HttpRequestExtension();
+                    let url = this.initApi + this.currentAppId;
+                    console.log(`[YMSDK]发送获取sdk:${url}`);
+                    request.Get(url, null, (res) => {
+                        console.log("[YMSDK]initSDK返回信息:", res);
+                        if (res.code == 0) {
+                            if (GameEngine.inst.isLocal) {
+                                this.sdkConfig = res.data;
+                                this.enabled = this.sdkConfig.switch;
+                                PlatformConfig.inst.currentPlatform.canAd = this.sdkConfig.ad;
+                                if (this.enabled) {
+                                    this.setMap(SdkSwitchEnum.开始ICON导出页面, this.sdkConfig.switches[0]);
+                                    this.setMap(SdkSwitchEnum.游戏格子, this.sdkConfig.switches[1]);
+                                    this.setMap(SdkSwitchEnum.结算ICON导出页面, this.sdkConfig.switches[2]);
+                                    this.setMap(SdkSwitchEnum.结算误点进度页面, this.sdkConfig.switches[3]);
+                                }
+                                else {
+                                    this.setMap(SdkSwitchEnum.开始ICON导出页面, false);
+                                    this.setMap(SdkSwitchEnum.游戏格子, false);
+                                    this.setMap(SdkSwitchEnum.结算ICON导出页面, false);
+                                    this.setMap(SdkSwitchEnum.结算误点进度页面, false);
+                                }
+                                let apps = this.getApps();
+                                if (apps && apps.length == 0) {
+                                    this.setMap(SdkSwitchEnum.开始ICON导出页面, false);
+                                    this.setMap(SdkSwitchEnum.游戏格子, false);
+                                    this.setMap(SdkSwitchEnum.结算ICON导出页面, false);
+                                }
+                                else {
+                                    for (let index = 0; index < apps.length; index++) {
+                                        const appInfo = apps[index];
+                                        appInfo.name = appInfo.name.slice(0, 6);
+                                    }
+                                }
+                                resolve(this.sdkConfig);
+                                console.log("是否开启广告:", PlatformConfig.inst.currentPlatform.canAd);
+                                console.log("是否开启导流:", this.enabled);
+                            }
+                            else {
+                                if (this.wx) {
+                                    console.log("微信版本");
+                                    this.sdkConfig = res.data;
+                                    this.enabled = this.sdkConfig.switch;
+                                    PlatformConfig.inst.currentPlatform.canAd = this.sdkConfig.ad;
+                                    this.setMap(SdkSwitchEnum.开始ICON导出页面, this.enabled);
+                                    this.setMap(SdkSwitchEnum.游戏格子, this.enabled);
+                                    this.setMap(SdkSwitchEnum.结算ICON导出页面, this.enabled);
+                                    this.setMap(SdkSwitchEnum.结算误点进度页面, this.enabled);
+                                    let apps = this.getApps();
+                                    if (apps && apps.length == 0) {
+                                        this.setMap(SdkSwitchEnum.开始ICON导出页面, false);
+                                        this.setMap(SdkSwitchEnum.游戏格子, false);
+                                        this.setMap(SdkSwitchEnum.结算ICON导出页面, false);
+                                    }
+                                    else {
+                                        for (let index = 0; index < apps.length; index++) {
+                                            const appInfo = apps[index];
+                                            appInfo.name = appInfo.name.slice(0, 6);
+                                        }
+                                    }
+                                    resolve(this.sdkConfig);
+                                    console.log("是否开启广告:", PlatformConfig.inst.currentPlatform.canAd);
+                                    console.log("是否开启导流:", this.enabled);
+                                }
+                                else {
+                                    this.enabled = false;
+                                    resolve(null);
+                                }
+                            }
+                        }
+                        else {
+                            this.enabled = false;
+                            resolve(null);
+                        }
+                    });
+                });
+            });
+        }
+        sendEvent(obj) {
+            if (this.wx && this.wx.uma) {
+                console.log("[YMSDK]发送事件111111:", JSON.stringify(obj));
+                if (obj.data) {
+                    this.wx.uma.trackEvent(obj.key, obj.data);
+                }
+                else {
+                    this.wx.uma.trackEvent(obj.key);
+                }
+            }
+        }
+        clickEvent(scene, appInfo) {
+            Platforms.inst.navigateToMiniGame({ appId: appInfo.appId });
+            let request = new HttpRequestExtension();
+            let url = `${this.sendEventApi}?gameid=${this.currentAppId}&appid=${appInfo.appId}&iconId=${appInfo.iconId}`;
+            console.log(`[YMSDK]点击sdk:${url}`);
+            request.Post(url, null, this, (res) => { console.warn(res); });
+            this.sendEvent({ key: "SDKIconClickEvent", data: { gameId: this.currentAppId, appName: appInfo.name, scene: scene, appId: appInfo.appId, iconId: appInfo.iconId } });
+        }
+    }
+    class BaseResponse {
+    }
+    class SdkPlatformConfig {
+        constructor(appId, platform) {
+            this.platform = platform;
+            this.appId = appId;
+        }
+    }
+    class SdkConfigResponse extends BaseResponse {
+    }
+    class SdkConfig {
+    }
+    class AppInfo {
+    }
+
+    class WeiXinH5GameAPI {
+        constructor() {
+            this.wx = window['wx'];
+            this.m_bannerAd = null;
+            this.m_videoAd = null;
+            this.m_insertAd = null;
+            this.m_gridAd = null;
+            this.m_videoAdIsLoaded = false;
+            this.m_moreButton = null;
+            this.m_bannerHeight = 220;
+            this.shareStartTime = 0;
+        }
+        userDataPath() {
+            if (this.wx) {
+                return this.wx.env.USER_DATA_PATH + "/";
+            }
+            return "";
+        }
+        downloadFile(url, callback) {
+            if (this.wx) {
+                if (this.downloadTask != null) {
+                    this.downloadTask.abort();
+                }
+                this.downloadTask = this.wx.downloadFile({
+                    url: url,
+                    success(res) {
+                        if (res.statusCode === 200) {
+                            callback && callback(true, res);
+                        }
+                        else {
+                            callback && callback(false, null);
+                        }
+                    }
+                });
+            }
+            else {
+                callback && callback(false, null);
+            }
+        }
+        readFile(filePath, callback) {
+            if (this.wx) {
+                let url = this.userDataPath() + filePath;
+                this.wx.getFileSystemManager().readFile({
+                    filePath: url,
+                    encoding: "utf-8",
+                    success(res) {
+                        callback && callback(true, res.data);
+                    },
+                    fail(err) {
+                        callback && callback(false, "");
+                    }
+                });
+            }
+            else {
+                callback && callback(false, "");
+            }
+        }
+        writeFileSync(filePath, data) {
+            if (this.wx) {
+                let url = this.userDataPath() + filePath;
+                this.wx.getFileSystemManager().writeFileSync(url, data, "utf-8");
+            }
+        }
+        unzip(url, callback) {
+            if (this.wx) {
+                this.wx.getFileSystemManager().unzip({
+                    zipFilePath: url,
+                    targetPath: this.wx.env.USER_DATA_PATH,
+                    success(res) {
+                        console.log(res);
+                        callback && callback(true);
+                    }
+                });
+            }
+            else {
+                callback && callback(false);
+            }
+        }
+        onInit(_callback) {
+            if (this.wx) {
+                let self = this;
+                this.systemInfo = this.wx.getSystemInfoSync();
+                this.onCheckForUpdate();
+                this.wx.showShareMenu({
+                    withShareTicket: true
+                });
+                this.wx.onShareAppMessage(function (res) {
+                    return {
+                        title: '一起来勇闯世界遗迹吧',
+                        desc: '一起来勇闯世界遗迹吧',
+                        imageUrl: PlatformConfig.inst.currentPlatform.shareImage,
+                        imageUrlId: PlatformConfig.inst.currentPlatform.shareTemplateId,
+                        query: ''
+                    };
+                });
+                this.wx.onShow(function (res) {
+                    console.log("wx.onShow=====================================");
+                    if (self.shareStartTime > 0 && Date.now() - self.shareStartTime >= 2000) {
+                        if (self.onShareCallback) {
+                            self.onShareCallback(true);
+                        }
+                    }
+                    else {
+                        if (self.onShareCallback) {
+                            self.onShareCallback(false);
+                        }
+                    }
+                    self.onShareCallback = null;
+                    self.shareStartTime = 0;
+                });
+                this.wx.onHide(function () {
+                    console.log("wx.onHide=====================================");
+                });
+            }
+            console.log('WeiXinH5GameAPI onInit');
+        }
+        onCheckForUpdate() {
+            let self = this;
+            const updateManager = this.wx.getUpdateManager();
+            updateManager.onCheckForUpdate(function (res) {
+                console.log('onCheckForUpdate', res.hasUpdate);
+                if (res.hasUpdate) {
+                    self.wx.showToast({
+                        title: '即将有更新请留意'
+                    });
+                }
+            });
+            updateManager.onUpdateReady(() => {
+                self.wx.showModal({
+                    title: '更新提示',
+                    content: '新版本已经准备好，是否立即使用？',
+                    success: function (res) {
+                        if (res.confirm) {
+                            updateManager.applyUpdate();
+                        }
+                        else {
+                            self.wx.showToast({
+                                icon: 'none',
+                                title: '小程序下一次「冷启动」时会使用新版本',
+                            });
+                        }
+                    }
+                });
+            });
+            updateManager.onUpdateFailed(() => {
+                self.wx.showToast({
+                    title: '更新失败，下次启动继续...'
+                });
+            });
+        }
+        onInitAdService(callback) {
+            this.createBannerAd();
+            this.createRewardedVideoAd();
+            this.createInsertAd();
+            callback();
+            console.log('WeiXinH5GameAPI onInitAdService');
+        }
+        onShare(callback) {
+            if (this.wx) {
+                this.shareStartTime = Date.now();
+                this.onShareCallback = callback;
+                this.wx.shareAppMessage({
+                    title: '一起来勇闯世界遗迹吧',
+                    desc: '一起来勇闯世界遗迹吧',
+                    imageUrl: PlatformConfig.inst.currentPlatform.shareImage,
+                    imageUrlId: PlatformConfig.inst.currentPlatform.shareTemplateId,
+                    query: ''
+                });
+            }
+            else {
+                callback && callback(true);
+            }
+            console.log('WeiXinH5GameAPI onShare');
+        }
+        createAppBox() {
+            throw new Error("Method not implemented.");
+        }
+        onShowAppBox() {
+            throw new Error("Method not implemented.");
+        }
+        onHideAppBox() {
+            throw new Error("Method not implemented.");
+        }
+        hasShortcutInstalled(callback) {
+            callback(true);
+        }
+        installShortcut(callback) {
+            callback(true);
+        }
+        createMoreGamesButton(inStyle) {
+        }
+        hideMoreGameButton() {
+        }
+        onShareVideo(callback) {
+        }
+        bannerHeight() {
+            return this.m_bannerHeight;
+        }
+        notchHeight() {
+            if (this.wx) {
+                let scale = Laya.Browser.height / this.systemInfo.screenHeight;
+                return this.systemInfo.statusBarHeight * scale;
+            }
+            return 20;
+        }
+        sendEvent(obj) {
+            YMSDK.inst.sendEvent(obj);
+        }
+        vibrateShort() {
+        }
+        onStartRecord() {
+        }
+        onStopRecord() {
+        }
+        getScreenSize() {
+            return new Laya.Size(750, 1334);
+        }
+        isVertify() {
+            return true;
+        }
+        onLogin() {
+            console.log('WeiXinH5GameAPI onLogin');
+        }
+        updateHighScore(_score) {
+            console.log('WeiXinH5GameAPI updateHighScore');
+        }
+        createBannerAd() {
+            console.log('WeiXinH5GameAPI createBannerAd');
+        }
+        onShowBanner() {
+            if (this.wx && PlatformConfig.inst.currentPlatform.canAd) {
+                if (this.m_bannerAd) {
+                    this.m_bannerAd.destroy();
+                    this.m_bannerAd = null;
+                }
+                let self = this;
+                let style = { left: 0, top: 0, width: 200, height: 0 };
+                var phone = this.wx.getSystemInfoSync();
+                let phoneModel = phone.model;
+                let w = phone.screenWidth / 2;
+                let h = phone.screenHeight;
+                if (phoneModel.search("iPhone X") != -1) {
+                    style.width = w * 1.1;
+                }
+                else {
+                    style.width = w * 1.71;
+                }
+                this.m_bannerAd = this.wx.createBannerAd({
+                    adUnitId: PlatformConfig.inst.currentPlatform.bannerAdId,
+                    style: style
+                });
+                this.m_bannerAd.onResize(function (size) {
+                    self.m_bannerAd.style.left = w - size.width / 2;
+                    self.m_bannerAd.style.top = h - size.height;
+                });
+                this.m_bannerAd.onLoad(function () {
+                    console.log("Banner广告加载完成================");
+                    self.m_bannerAd.show()
+                        .then(() => {
+                        console.log('广告显示成功');
+                        self.m_bannerHeight = 220;
+                        EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_SUCCESS_EVENT);
+                    })
+                        .catch(err => {
+                        console.log('广告组件出现问题', err);
+                        self.m_bannerHeight = 20;
+                        EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+                    });
+                });
+                this.m_bannerAd.onError(function (res) {
+                    console.log("Banner广告加载失败=================");
+                    self.m_bannerHeight = 20;
+                    EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+                });
+            }
+            console.log('WeiXinH5GameAPI onShowBanner');
+        }
+        onHideBanner() {
+            if (this.m_bannerAd) {
+                this.m_bannerHeight = 20;
+                EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+                this.m_bannerAd.destroy();
+                this.m_bannerAd = null;
+            }
+            console.log('WeiXinH5GameAPI onHideBanner');
+        }
+        createRewardedVideoAd() {
+            if (this.wx && PlatformConfig.inst.currentPlatform.canAd) {
+                this.m_videoAd = this.wx.createRewardedVideoAd({
+                    adUnitId: PlatformConfig.inst.currentPlatform.videoAdId
+                });
+                if (this.m_videoAd == null)
+                    return;
+                this.m_videoAd.load().then(() => {
+                    console.log('广告显示成功');
+                }).catch(err => {
+                    console.log('广告组件出现问题', err);
+                    this.onFailCallback && this.onFailCallback(1, "激励视频广告取消关闭，不发放奖励");
+                });
+                this.m_videoAd.onLoad(() => {
+                    console.log('WeiXinH5GameAPI RewardedVideo load success');
+                    this.m_videoAdIsLoaded = true;
+                });
+                this.m_videoAd.onError((err) => {
+                    console.log('WeiXinH5GameAPI RewardedVideo load Error:' + err);
+                    this.m_videoAdIsLoaded = false;
+                });
+                this.m_videoAd.onClose((res) => {
+                    if (res.isEnded) {
+                        console.log('激励视频广告完成，发放奖励');
+                        this.onSuccessCallback && this.onSuccessCallback();
+                        this.m_videoAdIsLoaded = false;
+                    }
+                    else {
+                        console.log('激励视频广告取消关闭，不发放奖励');
+                        this.onFailCallback && this.onFailCallback(4, "激励视频广告取消关闭，不发放奖励");
+                    }
+                    this.clearVideoCallback();
+                });
+            }
+            console.log('WeiXinH5GameAPI createRewardedVideoAd');
+        }
+        clearVideoCallback() {
+            this.onSuccessCallback = null;
+            this.onFailCallback = null;
+        }
+        onShowRewardedVideo(_successCallback, _failCallback) {
+            if (this.wx && this.m_videoAd) {
+                this.onSuccessCallback = _successCallback;
+                this.onFailCallback = _failCallback;
+                if (this.m_videoAd) {
+                    if (this.m_videoAdIsLoaded) {
+                        this.m_videoAd.show();
+                    }
+                    else {
+                        this.m_videoAd.load();
+                    }
+                }
+                else {
+                    _failCallback && _failCallback(1, "激励视频广告取消关闭，不发放奖励");
+                }
+            }
+            else {
+                _successCallback && _successCallback();
+            }
+            console.log('WeiXinH5GameAPI onShowRewardedVideo');
+        }
+        createInsertAd() {
+            if (this.wx && MathHelper.CompareVersion(this.systemInfo.SDKVersion, "2.6.0") == 1) {
+                let self = this;
+                this.m_insertAd = this.wx.createInterstitialAd({
+                    adUnitId: PlatformConfig.inst.currentPlatform.insertAdId
+                });
+            }
+            console.log('WeiXinH5GameAPI createInsertAd');
+        }
+        onShowInsertAd() {
+            if (this.m_insertAd) {
+                this.m_insertAd.show().then(() => {
+                    console.log('WeiXinH5GameAPI InsertAd 展示成功');
+                }).catch((err) => {
+                    console.log('WeiXinH5GameAPI InsertAd 展示失败:', JSON.stringify(err));
+                });
+            }
+            console.log('WeiXinH5GameAPI onShowInsertAd');
+        }
+        createNativeAd() {
+            console.log('WeiXinH5GameAPI createNativeAd');
+        }
+        onShowNativeAd() {
+            console.log('WeiXinH5GameAPI onShowNativeAd');
+        }
+        onNativeAdClick(_id) {
+            console.log('WeiXinH5GameAPI onNativeAdClick:' + _id);
+        }
+        saveDataToCache(_key, _value) {
+            Laya.LocalStorage.setItem(_key, JSON.stringify(_value));
+        }
+        readDataFromCache(_key) {
+            let data = Laya.LocalStorage.getItem(_key);
+            if (data) {
+                if (typeof data == "string") {
+                    return JSON.parse(Laya.LocalStorage.getItem(_key));
+                }
+            }
+            return null;
+        }
+        onDestroyNativeAd() {
+        }
+        onDestroyNativeIconAd() {
+        }
+        onDestoryBanner() {
+            if (this.wx && this.m_bannerAd) {
+                this.m_bannerAd.destroy();
+            }
+        }
+        onDestoryInsertAd() {
+        }
+        createInnerAudioContext() {
+            return null;
+        }
+        onHideInsertAd() {
+        }
+        navigateToMiniGame(object) {
+            if (this.wx) {
+                console.log("微信跳转...", object.appId);
+                this.wx.navigateToMiniProgram({
+                    appId: object.appId,
+                    path: object.path,
+                    extraData: object.extraData,
+                    success(res) {
+                        console.log("跳转成功...", object.appId);
+                    }
+                });
+            }
+        }
+        pay(paymentData, callback) {
+        }
+        getPlatform() {
+            return "";
+        }
+        showMoreGamesModal() {
+        }
+        reportMonitor(name, value) {
+        }
+        createNativeIconAd() {
+        }
+        onShowNativeIconAd(callback) {
+        }
+        onNativeIconAdClick(_id) {
+        }
+        onNativeIconAdClose() {
+        }
+        getDevicePlatform() {
+            return "";
+        }
+        addColorSign() {
+        }
+        onNativeAdClose() {
+        }
+    }
+
+    class User {
+    }
+
+    class UserInfo {
+    }
+
+    class GameEvents {
+    }
+    GameEvents.ON_UPDATE_USERINFO_EVENT = "onUpdateUserInfo";
+    GameEvents.ON_LOAD_PROGRESS_EVENT = "onLoadProgressEvent";
+
+    class DateHelper {
+        static getSystemTime() {
+            var curDate = new Date();
+            var year = curDate.getFullYear();
+            var month = curDate.getMonth() + 1;
+            var date = curDate.getDate();
+            var hour = curDate.getHours();
+            var minute = curDate.getMinutes();
+            var second = curDate.getSeconds();
+            var systemTime = year + "年" + month + "月" + date + "日" + hour + "时" + minute + "分" + second + "秒";
+            return systemTime;
+        }
+        static getTime() {
+            let curDate = new Date();
+            let year = curDate.getFullYear();
+            let month = curDate.getMonth() + 1;
+            let date = curDate.getDate();
+            if (month < 10) {
+            }
+            var systemTime = year + "/" + (month < 10 ? "0" + month : month) + "/" + (date < 10 ? "0" + date : date);
+            return systemTime;
+        }
+    }
+
+    class LocalStorageManager {
+        constructor() {
+            this.projectKey = "";
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new LocalStorageManager();
+            }
+            return this._inst;
+        }
+        get userDataKey() {
+            return `${this.projectKey}_user`;
+        }
+        get soundMuteDataKey() {
+            return `${this.projectKey}_soundMute`;
+        }
+        get shareVideoKey() {
+            return `${this.projectKey}_shareVideo`;
+        }
+        get shortcutKey() {
+            return `${this.projectKey}_shortcut`;
+        }
+        get colorSignKey() {
+            return `${this.projectKey}_colorSign`;
+        }
+        get payTempRecordKey() {
+            return `${this.projectKey}_payTempyRecord`;
+        }
+        get bannerRecordKey() {
+            return `${this.projectKey}_bannerRecord`;
+        }
+        get checkInRecordKey() {
+            return `${this.projectKey}_checkIn`;
+        }
+        get coisResourceKey() {
+            return `${this.projectKey}_coinResource`;
+        }
+        get woodResourceKey() {
+            return `${this.projectKey}_woodResource`;
+        }
+        get spinKey() {
+            return `${this.projectKey}_spin_`;
+        }
+        get treasureKey() {
+            return `${this.projectKey}_treasure`;
+        }
+        get guideRecordKey() {
+            return `${this.projectKey}_guide`;
+        }
+        getDayLocalRecord(key) {
+            let data = GameEngine.inst.loadData(this.projectKey + "_" + key);
+            let flag = false;
+            if (data) {
+                let day = MathHelper.countDay(DateHelper.getTime(), data.date);
+                if (day >= 1) {
+                    GameEngine.inst.saveData(this.projectKey + "_" + key, { date: DateHelper.getTime() });
+                }
+                else {
+                    flag = true;
+                }
+            }
+            else {
+                GameEngine.inst.saveData(this.projectKey + "_" + key, { date: DateHelper.getTime() });
+            }
+            return flag;
+        }
+        getDayCountEnterGame() {
+            let count = 1;
+            let key = this.projectKey + "_enterGame";
+            let data = GameEngine.inst.loadData(key);
+            if (data) {
+                count = data.count;
+            }
+            else {
+                GameEngine.inst.saveData(key, { date: DateHelper.getTime(), count: 1 });
+            }
+            return count;
+        }
+        enterGame() {
+            let key = this.projectKey + "_enterGame";
+            let data = GameEngine.inst.loadData(key);
+            if (data) {
+                let count = data.count;
+                count++;
+                GameEngine.inst.saveData(key, { date: DateHelper.getTime(), count: count });
+            }
+            else {
+                GameEngine.inst.saveData(key, { date: DateHelper.getTime(), count: 1 });
+            }
+        }
+        setDayDailyShowSwitch() {
+        }
+    }
+
+    class UI_LoadingView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameLoadingUI", "LoadingView"));
+        }
+        onConstruct() {
+            this.m_ColorBg = (this.getChildAt(0));
+            this.m_BigBgLoader = (this.getChildAt(1));
+            this.m_n11 = (this.getChildAt(2));
+            this.m_n12 = (this.getChildAt(3));
+            this.m_TipLabel = (this.getChildAt(4));
+            this.m_LoadingBar = (this.getChildAt(5));
+            this.m_LogoLoader = (this.getChildAt(6));
+            this.m_CC = (this.getChildAt(7));
+            this.m_TTT = (this.getChildAt(8));
+        }
+    }
+    UI_LoadingView.URL = "ui://lrq909uufo2s0";
+
+    class UI_LoadingBar extends fgui.GProgressBar {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameLoadingUI", "LoadingBar"));
+        }
+        onConstruct() {
+            this.m_n0 = (this.getChildAt(0));
+            this.m_bar = (this.getChildAt(1));
+        }
+    }
+    UI_LoadingBar.URL = "ui://lrq909uumpgu45";
+
+    class GameLoadingUIBinder {
+        static bindAll() {
+            fgui.UIObjectFactory.setExtension(UI_LoadingView.URL, UI_LoadingView);
+            fgui.UIObjectFactory.setExtension(UI_LoadingBar.URL, UI_LoadingBar);
+        }
+    }
+
+    class UI_ResourceBar extends fgui.GLabel {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameUI", "ResourceBar"));
+        }
+        onConstruct() {
+            this.m_n7 = (this.getChildAt(0));
+            this.m_title = (this.getChildAt(1));
+            this.m_AddBtn = (this.getChildAt(2));
+            this.m_icon = (this.getChildAt(3));
+        }
+    }
+    UI_ResourceBar.URL = "ui://0lagqdfm5f7qa";
+
+    class UI_ShopView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameUI", "ShopView"));
+        }
+        onConstruct() {
+            this.m_adState = this.getControllerAt(0);
+            this.m_n0 = (this.getChildAt(0));
+            this.m_CoinBar = (this.getChildAt(1));
+            this.m_n2 = (this.getChildAt(2));
+            this.m_List = (this.getChildAt(3));
+            this.m_BackBtn = (this.getChildAt(4));
+            this.m_FreeGetBtn = (this.getChildAt(5));
+            this.m_BuyBtn = (this.getChildAt(6));
+            this.m_UseBtn = (this.getChildAt(7));
+            this.m_ImageLoader = (this.getChildAt(8));
+            this.m_n24 = (this.getChildAt(9));
+            this.m_n25 = (this.getChildAt(10));
+            this.m_n26 = (this.getChildAt(11));
+            this.m_n27 = (this.getChildAt(12));
+            this.m_ButtomBar = (this.getChildAt(13));
+        }
+    }
+    UI_ShopView.URL = "ui://0lagqdfm9oij2c";
+
+    class UI_CarShopList extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameUI", "CarShopList"));
+        }
+        onConstruct() {
+            this.m_state = this.getControllerAt(0);
+            this.m_button = this.getControllerAt(1);
+            this.m_n7 = (this.getChildAt(0));
+            this.m_icon = (this.getChildAt(1));
+            this.m_n10 = (this.getChildAt(2));
+            this.m_CoinLabel = (this.getChildAt(3));
+            this.m_n13 = (this.getChildAt(4));
+            this.m_NameLabel = (this.getChildAt(5));
+            this.m_n15 = (this.getChildAt(6));
+            this.m_n16 = (this.getChildAt(7));
+            this.m_n17 = (this.getChildAt(8));
+            this.m_n18 = (this.getChildAt(9));
+        }
+    }
+    UI_CarShopList.URL = "ui://0lagqdfm9oij2l";
+
+    class UI_StartView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameUI", "StartView"));
+        }
+        onConstruct() {
+            this.m_gameState = this.getControllerAt(0);
+            this.m_n2 = (this.getChildAt(0));
+            this.m_n16 = (this.getChildAt(1));
+            this.m_n17 = (this.getChildAt(2));
+            this.m_Finger = (this.getChildAt(3));
+            this.m_Bot = (this.getChildAt(4));
+            this.m_StageLabel = (this.getChildAt(5));
+            this.m_CoinBar = (this.getChildAt(6));
+            this.m_ShopBtn = (this.getChildAt(7));
+            this.m_n11 = (this.getChildAt(8));
+            this.m_n12 = (this.getChildAt(9));
+            this.m_n13 = (this.getChildAt(10));
+            this.m_n14 = (this.getChildAt(11));
+            this.m_n15 = (this.getChildAt(12));
+            this.m_t0 = this.getTransitionAt(0);
+        }
+    }
+    UI_StartView.URL = "ui://0lagqdfms24q0";
+
+    class UI_GameBlueBtn extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameUI", "GameBlueBtn"));
+        }
+        onConstruct() {
+            this.m_n18 = (this.getChildAt(0));
+            this.m_title = (this.getChildAt(1));
+        }
+    }
+    UI_GameBlueBtn.URL = "ui://0lagqdfms28528";
+
+    class UI_GameBigBtn extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameUI", "GameBigBtn"));
+        }
+        onConstruct() {
+            this.m_state = this.getControllerAt(0);
+            this.m_n20 = (this.getChildAt(0));
+            this.m_n21 = (this.getChildAt(1));
+            this.m_imageTitle = (this.getChildAt(2));
+        }
+    }
+    UI_GameBigBtn.URL = "ui://0lagqdfms28529";
+
+    class UI_ResultView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameUI", "ResultView"));
+        }
+        onConstruct() {
+            this.m_State = this.getControllerAt(0);
+            this.m_adState = this.getControllerAt(1);
+            this.m_ColorBg = (this.getChildAt(0));
+            this.m_n28 = (this.getChildAt(1));
+            this.m_n8 = (this.getChildAt(2));
+            this.m_n11 = (this.getChildAt(3));
+            this.m_n9 = (this.getChildAt(4));
+            this.m_n10 = (this.getChildAt(5));
+            this.m_n27 = (this.getChildAt(6));
+            this.m_CoinLabel = (this.getChildAt(7));
+            this.m_n12 = (this.getChildAt(8));
+            this.m_GetCoinBtn = (this.getChildAt(9));
+            this.m_FreeGetCoinBtn = (this.getChildAt(10));
+            this.m_Win = (this.getChildAt(11));
+            this.m_n13 = (this.getChildAt(12));
+            this.m_n15 = (this.getChildAt(13));
+            this.m_n16 = (this.getChildAt(14));
+            this.m_CountTimeLabel = (this.getChildAt(15));
+            this.m_n14 = (this.getChildAt(16));
+            this.m_n5 = (this.getChildAt(17));
+            this.m_ContinueBtn = (this.getChildAt(18));
+            this.m_NextBtn = (this.getChildAt(19));
+            this.m_Lose = (this.getChildAt(20));
+        }
+    }
+    UI_ResultView.URL = "ui://0lagqdfmsocn5";
+
+    class UI_GameButton extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameUI", "GameButton"));
+        }
+        onConstruct() {
+            this.m_isRedPoint = this.getControllerAt(0);
+            this.m_icon = (this.getChildAt(0));
+            this.m_title = (this.getChildAt(1));
+            this.m_n3 = (this.getChildAt(2));
+        }
+    }
+    UI_GameButton.URL = "ui://0lagqdfmtq6l4";
+
+    class GameUIBinder {
+        static bindAll() {
+            fgui.UIObjectFactory.setExtension(UI_ResourceBar.URL, UI_ResourceBar);
+            fgui.UIObjectFactory.setExtension(UI_ShopView.URL, UI_ShopView);
+            fgui.UIObjectFactory.setExtension(UI_CarShopList.URL, UI_CarShopList);
+            fgui.UIObjectFactory.setExtension(UI_StartView.URL, UI_StartView);
+            fgui.UIObjectFactory.setExtension(UI_GameBlueBtn.URL, UI_GameBlueBtn);
+            fgui.UIObjectFactory.setExtension(UI_GameBigBtn.URL, UI_GameBigBtn);
+            fgui.UIObjectFactory.setExtension(UI_ResultView.URL, UI_ResultView);
+            fgui.UIObjectFactory.setExtension(UI_GameButton.URL, UI_GameButton);
+        }
+    }
+
+    class LoadingViewController extends ViewControllerGeneric {
+        get URL() {
+            return UI_LoadingView.URL;
+        }
+        init() {
+            super.init();
+            this.bind();
+        }
+        bind() {
+            EventManager.inst.AddEventListener(GameEvents.ON_LOAD_PROGRESS_EVENT, this, this.loadProgress);
+        }
+        loadProgress(p) {
+            this.view.m_LoadingBar.tweenValue(Math.ceil(p), 0.35);
+        }
+    }
+
+    class UI_BtnColor extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameCommandUI", "BtnColor"));
+        }
+        onConstruct() {
+            this.m_color = this.getControllerAt(0);
+            this.m_videoStatus = this.getControllerAt(1);
+            this.m_n97 = (this.getChildAt(0));
+            this.m_n98 = (this.getChildAt(1));
+            this.m_icon = (this.getChildAt(2));
+            this.m_n99 = (this.getChildAt(3));
+        }
+    }
+    UI_BtnColor.URL = "ui://9kynrs2zk0kn4a";
+
+    class UI_MessageBoxView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameCommandUI", "MessageBoxView"));
+        }
+        onConstruct() {
+            this.m_n44 = (this.getChildAt(0));
+            this.m_n45 = (this.getChildAt(1));
+            this.m_n46 = (this.getChildAt(2));
+            this.m_ContentLabel = (this.getChildAt(3));
+            this.m_TitleLabel = (this.getChildAt(4));
+            this.m_CancelBtn = (this.getChildAt(5));
+            this.m_ConfirmBtn = (this.getChildAt(6));
+            this.m_n39 = (this.getChildAt(7));
+            this.m_t0 = this.getTransitionAt(0);
+        }
+    }
+    UI_MessageBoxView.URL = "ui://9kynrs2zlo4q3";
+
+    class UI_ShareVideoView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameCommandUI", "ShareVideoView"));
+        }
+        onConstruct() {
+            this.m_n0 = (this.getChildAt(0));
+            this.m_n30 = (this.getChildAt(1));
+            this.m_ImageLoader = (this.getChildAt(2));
+            this.m_CloseBtn = (this.getChildAt(3));
+            this.m_n42 = (this.getChildAt(4));
+            this.m_n39 = (this.getChildAt(5));
+            this.m_t0 = this.getTransitionAt(0);
+        }
+    }
+    UI_ShareVideoView.URL = "ui://9kynrs2zs24q4g";
+
+    class UI_CommandButton extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameCommandUI", "CommandButton"));
+        }
+        onConstruct() {
+            this.m_icon = (this.getChildAt(0));
+            this.m_title = (this.getChildAt(1));
+        }
+    }
+    UI_CommandButton.URL = "ui://9kynrs2zs24q4l";
+
+    class GameCommandUIBinder {
+        static bindAll() {
+            fgui.UIObjectFactory.setExtension(UI_BtnColor.URL, UI_BtnColor);
+            fgui.UIObjectFactory.setExtension(UI_MessageBoxView.URL, UI_MessageBoxView);
+            fgui.UIObjectFactory.setExtension(UI_ToastView.URL, UI_ToastView);
+            fgui.UIObjectFactory.setExtension(UI_ShareVideoView.URL, UI_ShareVideoView);
+            fgui.UIObjectFactory.setExtension(UI_CommandButton.URL, UI_CommandButton);
+            fgui.UIObjectFactory.setExtension(UI_FadeView.URL, UI_FadeView);
+        }
+    }
+
+    class ResourcesManager {
+        constructor() {
+            this.hashData = [];
+            this.gameUIPacakge = "";
+            this.gameURLS = [];
+            this.gameModelURLS = [];
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new ResourcesManager();
+            }
+            return this._inst;
+        }
+        get GameConfigRes() { return "res/data/configs.json"; }
+        readHashFile() {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => {
+                    let file = Platforms.inst.userDataPath() + "downloadHash.json";
+                    Laya.loader.load(file, Laya.Handler.create(this, (res) => {
+                        if (res) {
+                            this.hashData = Laya.loader.getRes(file);
+                            resolve(JSON.stringify(this.hashData));
+                        }
+                        else {
+                            Platforms.inst.writeFileSync("downloadHash.json", JSON.stringify([]));
+                            resolve("[]");
+                        }
+                    }));
+                });
+            });
+        }
+        registerGameUIInfo(packageURL, resUrls) {
+            this.gameUIPacakge = packageURL;
+            this.gameURLS = resUrls;
+        }
+        registerModels(resUrls) {
+            this.gameModelURLS = resUrls;
+        }
+        loadResource() {
+            return __awaiter(this, void 0, void 0, function* () {
+                console.log("[ResourcesManager loadResource] 加载系统所需资源");
+                if (GameEngine.inst.useZipAssets) {
+                    let list = DataManager.inst.deepCopy(this.fileConfigs.systemFileList);
+                    let p = 100 / list.length;
+                    for (let index = 0; index < list.length; index++) {
+                        const item = list[index];
+                        EventManager.inst.SendEvent(GameEvents.ON_LOAD_PROGRESS_EVENT, (index + 1) * p);
+                        yield this.LoadZipAndUnZip(item.url);
+                    }
+                    if (Platforms.inst.platform == Platform.weixin_h5
+                        || Platforms.inst.platform == Platform.toutiao_h5
+                        || Platforms.inst.platform == Platform.vivo_h5) {
+                        Laya.URL.basePath = Platforms.inst.userDataPath();
+                    }
+                    yield this.loadUI();
+                    yield this.loadModel();
+                    console.log("[ResourcesManager loadResource] 加载资源完成");
+                }
+                else {
+                    yield this.loadUI();
+                    yield this.loadModel();
+                    console.log("[ResourcesManager loadResource] 加载资源完成");
+                }
+            });
+        }
+        getZipURL(key) {
+            for (let index = 0; index < this.fileConfigs.fileList.length; index++) {
+                const d = this.fileConfigs.fileList[index];
+                if (d.key == key) {
+                    return d.url;
+                }
+            }
+            return "";
+        }
+        getZipData(key) {
+            for (let index = 0; index < this.fileConfigs.fileList.length; index++) {
+                const d = this.fileConfigs.fileList[index];
+                if (d.key == key) {
+                    return d;
+                }
+            }
+            return null;
+        }
+        loadUI() {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => {
+                    Laya.loader.load(this.gameURLS, Laya.Handler.create(this, (res) => __awaiter(this, void 0, void 0, function* () {
+                        if (res) {
+                            console.log("加载UI资源完成");
+                            fairygui.UIPackage.addPackage(this.gameUIPacakge);
+                            GameUIBinder.bindAll();
+                            fairygui.UIPackage.addPackage("res/ui/GameCommandUI");
+                            GameCommandUIBinder.bindAll();
+                            resolve(true);
+                        }
+                        else {
+                            console.log("加载UI资源失败,重试");
+                            yield this.loadUI();
+                        }
+                    })), Laya.Handler.create(this, (p) => {
+                    }, null, false));
+                });
+            });
+        }
+        loadModel() {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => {
+                    if (this.gameModelURLS.length == 0) {
+                        EventManager.inst.SendEvent(GameEvents.ON_LOAD_PROGRESS_EVENT, 100);
+                        resolve(true);
+                    }
+                    else {
+                        Laya.loader.create(this.gameModelURLS, Laya.Handler.create(this, (res) => __awaiter(this, void 0, void 0, function* () {
+                            if (res) {
+                                console.log("加载模型资源完成");
+                                resolve(true);
+                            }
+                            else {
+                                console.log("加载模型资源失败,重试");
+                            }
+                        })), Laya.Handler.create(this, (p) => {
+                            EventManager.inst.SendEvent(GameEvents.ON_LOAD_PROGRESS_EVENT, 50 + p * 50);
+                        }, null, false));
+                    }
+                });
+            });
+        }
+        loadLocalFiles() {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => {
+                    GameEngine.inst.debug("ResourceManager - 加载本地内容");
+                    fgui.UIConfig.packageFileExtension = "bin";
+                    let urls = [];
+                    urls.push({ url: "localRes/ui/GameLoadingUI_atlas0.png", type: Laya.Loader.IMAGE });
+                    urls.push({ url: "localRes/ui/GameLoadingUI.bin", type: Laya.Loader.BUFFER });
+                    urls.push({ url: "localRes/data/platformConfigs.json", type: Laya.Loader.JSON });
+                    Laya.loader.load(urls, Laya.Handler.create(this, (res) => {
+                        if (res) {
+                            GameEngine.inst.debug("加载本地内容成功");
+                            fairygui.UIPackage.addPackage("localRes/ui/GameLoadingUI");
+                            GameLoadingUIBinder.bindAll();
+                            UIManager.inst.showPopupView(new LoadingViewController());
+                            resolve(true);
+                        }
+                        else {
+                            GameEngine.inst.debug("加载本地内容失败");
+                            resolve(false);
+                        }
+                    }));
+                });
+            });
+        }
+        getSprite3d(url, callback) {
+            if (this.gameModelURLS.indexOf(url) != -1) {
+                callback.runWith(Laya.loader.getRes(url));
+            }
+            else {
+                Laya.loader.create(url, Laya.Handler.create(this, () => {
+                    this.gameModelURLS.push(url);
+                    callback.runWith(Laya.loader.getRes(url));
+                }));
+            }
+        }
+        getImageThumb(resName) {
+            let url = fairygui.UIPackage.getItemURL("GameUI", resName);
+            return url;
+        }
+        getZipBundlePath(path) {
+            let s = path.split('/');
+            let fileName = s[s.length - 1].split('.')[0];
+            let url = "res/assets/" + fileName + ".zip";
+            return url;
+        }
+        getJsonPath(path) {
+            let s = path.split('/');
+            let fileName = s[s.length - 1].split('.')[0];
+            let url = "res/assets/" + fileName + ".json";
+            return url;
+        }
+        clearResAll(url, callback) {
+            let assetURL = url.split('.')[0] + "_asset.json";
+            console.log("清理lh文件所有显存:", assetURL);
+            let urls = [];
+            urls.push({ url: assetURL, type: Laya.Loader.JSON });
+            Laya.loader.load(urls, Laya.Handler.create(this, (success) => {
+                if (success) {
+                    let json = Laya.loader.getRes(assetURL);
+                    let assets = json.assets;
+                    for (let index = 0; index < assets.length; index++) {
+                        const url = Laya.URL.basePath + assets[index];
+                        for (const key in Laya.Loader.loadedMap) {
+                            let item = Laya.Loader.loadedMap[key];
+                            if (item.url && item.url.indexOf(url) != -1) {
+                                if (item instanceof Laya.Texture2D) {
+                                    item.destroy();
+                                }
+                                else if (item instanceof Laya.Mesh) {
+                                    item.destroy();
+                                }
+                                Laya.Loader.clearRes(item.url);
+                            }
+                        }
+                    }
+                    callback && callback.run();
+                }
+            }));
+        }
+        getZipPath(path) {
+            let s = path.split('/');
+            let fileName = s[s.length - 1].split('.')[0];
+            let url = this.getZipURL(fileName);
+            return url;
+        }
+        LoadZipAndUnZip(zipUrl) {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => __awaiter(this, void 0, void 0, function* () {
+                    if (Platforms.inst.platform == Platform.weixin_h5
+                        || Platforms.inst.platform == Platform.toutiao_h5
+                        || Platforms.inst.platform == Platform.vivo_h5) {
+                        let candownLoad = true;
+                        if (this.hashData && this.hashData.length > 0) {
+                            for (let index = 0; index < this.hashData.length; index++) {
+                                const url = this.hashData[index];
+                                if (zipUrl == url) {
+                                    console.log(zipUrl, " 已经有了");
+                                    resolve(true);
+                                    candownLoad = false;
+                                }
+                            }
+                        }
+                        if (candownLoad) {
+                            Platforms.inst.downloadFile(zipUrl, (success, res) => {
+                                if (success) {
+                                    let tmpFile = res.tempFilePath;
+                                    console.log("tmpfile:", tmpFile);
+                                    Platforms.inst.unzip(tmpFile, (success) => {
+                                        if (success) {
+                                            console.log("解压zip包成功!!!!!");
+                                            this.hashData.push(zipUrl);
+                                            Platforms.inst.writeFileSync("downloadHash.json", JSON.stringify(this.hashData));
+                                            resolve(true);
+                                        }
+                                        else {
+                                            console.warn("解压zip包失败");
+                                            resolve(false);
+                                        }
+                                    });
+                                }
+                                else {
+                                    console.warn("下载zip包失败");
+                                    resolve(false);
+                                }
+                            });
+                        }
+                    }
+                    else {
+                        resolve(true);
+                    }
+                }));
+            });
+        }
+        loadFiles(urls) {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => {
+                    Laya.loader.load(urls, Laya.Handler.create(this, (res) => {
+                        if (res) {
+                            resolve(true);
+                        }
+                        else {
+                            reject(false);
+                        }
+                    }));
+                });
+            });
+        }
+    }
+
+    class CarBagData {
+    }
+    class StageBagData {
+    }
+    class CarData {
+    }
+
+    class DataManager {
+        constructor() {
+            this._user = new User();
+            this.carConfigs = [];
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new DataManager();
+            }
+            return this._inst;
+        }
+        get user() {
+            return this._user;
+        }
+        init() { }
+        initData() {
+            let configs = Laya.loader.getRes(ResourcesManager.inst.GameConfigRes);
+            this.carConfigs = configs["CarConfigs"];
+            this.load();
+            this.checkOldData();
+            console.log("用户信息:", this._user);
+        }
+        generalUser() {
+            let user = new User();
+            user.userInfo = new UserInfo();
+            user.userInfo.nickName = "ym_" + MathHelper.newGuid();
+            user.userInfo.openid = MathHelper.newGuid();
+            user.coins = 0;
+            user.gems = 0;
+            user.score = 0;
+            user.currentStage = 0;
+            user.currentCarId = "1";
+            user.carBags = new Array();
+            let carBagData = new CarBagData();
+            carBagData._id = "1";
+            carBagData.isUnlock = true;
+            user.carBags.push(carBagData);
+            user.stageBags = new Array();
+            return user;
+        }
+        resetData() {
+            Laya.LocalStorage.clear();
+            this._user = this.generalUser();
+            this.save();
+        }
+        resetUser() {
+            Laya.LocalStorage.clear();
+            this._user = this.generalUser();
+            this.save();
+            EventManager.inst.SendEvent(GameEvents.ON_UPDATE_USERINFO_EVENT);
+        }
+        addCoins(coins, reset = true) {
+            this._user.coins += coins;
+            if (reset) {
+                EventManager.inst.SendEvent(GameEvents.ON_UPDATE_USERINFO_EVENT);
+            }
+            this.save();
+        }
+        addGems(gems) {
+            this._user.gems += gems;
+            EventManager.inst.SendEvent(GameEvents.ON_UPDATE_USERINFO_EVENT);
+            this.save();
+        }
+        save() {
+            GameEngine.inst.saveData(LocalStorageManager.inst.userDataKey, this._user);
+        }
+        load() {
+            let localUser = GameEngine.inst.loadData(LocalStorageManager.inst.userDataKey);
+            if (localUser) {
+                this._user = localUser;
+            }
+            else {
+                this._user = this.generalUser();
+                this.save();
+            }
+        }
+        checkOldData() {
+        }
+        clearStage() {
+            this.user.currentStage++;
+            EventManager.inst.SendEvent(GameEvents.ON_UPDATE_USERINFO_EVENT);
+            this.save();
+        }
+        isUnlockCar(id) {
+            let carBagData = this.user.carBags.find(i => i._id == id);
+            if (carBagData && carBagData.isUnlock)
+                return true;
+            return false;
+        }
+        getCarData(id) {
+        }
+        getCarIndex(id) {
+            let index = this.user.carBags.findIndex(i => i._id == id);
+            if (index == -1) {
+                index = 0;
+            }
+            return index;
+        }
+        buyCar(id) {
+            let carBagData = this.user.carBags.find(i => i._id == id);
+            if (carBagData == null) {
+                let data = new CarBagData();
+                data._id = id;
+                data.isUnlock = true;
+                this.user.carBags.push(data);
+                this.save();
+            }
+        }
+        useCar(id) {
+            this.user.currentCarId = id;
+            this.save();
+        }
+        deepCopy(source) {
+            return JSON.parse(JSON.stringify(source));
+        }
+    }
+
+    class OPPOH5GameAPI {
+        constructor() {
+            this.qg = window['qg'];
+            this.systemInfo = null;
+            this.m_bannerAd = null;
+            this.m_bannerHeight = 170;
+            this.m_isBannerShow = false;
+            this.m_videoAd = null;
+            this.m_videoAdIsLoaded = false;
+            this.m_insertAd = null;
+            this.m_nativeAd = null;
+            this.m_nativeIconAd = null;
+            this.canLoadInsertAd = false;
+            this.insertAdReadyInterval = 10000;
+            this.insertAdShowCD = 40000;
+            this.canInsertAdErroShowBanner = false;
+            this.deskTopRecordKey = "";
+            this.bannerRecordKey = "";
+            this.adShowTime = 1000;
+            this.canShowAd = false;
+        }
+        userDataPath() {
+            throw new Error("Method not implemented.");
+        }
+        downloadFile(url, callback) {
+            throw new Error("Method not implemented.");
+        }
+        unzip(url, callback) {
+            throw new Error("Method not implemented.");
+        }
+        readFile(filePath, callback) {
+            throw new Error("Method not implemented.");
+        }
+        writeFileSync(filePath, data) {
+            throw new Error("Method not implemented.");
+        }
+        hasShortcutInstalled(callback) {
+            if (this.deskTopRecord.isGet == true) {
+                GameEngine.inst.debug("今日已经领取了ICON奖励");
+                callback(true);
+                return;
+            }
+            if (this.qg) {
+                this.qg.hasShortcutInstalled({
+                    success: function (status) {
+                        if (status) {
+                            GameEngine.inst.debug('桌面图标已创建');
+                            callback(true);
+                        }
+                        else {
+                            GameEngine.inst.debug('桌面图标未创建');
+                            callback(false);
+                        }
+                    }
+                });
+            }
+            else {
+                callback(false);
+            }
+        }
+        installShortcut(callback) {
+            if (this.qg) {
+                if (this.deskTopRecord.isGet == true) {
+                    GameEngine.inst.debug("今日已经领取了ICON奖励");
+                    return;
+                }
+                let self = this;
+                this.qg.hasShortcutInstalled({
+                    success: function (res) {
+                        if (res == false) {
+                            self.qg.installShortcut({
+                                success: function () {
+                                    GameEngine.inst.debug("OPPOH5GameAPI.installShortcut 安装图标成功");
+                                },
+                                fail: function (err) {
+                                    GameEngine.inst.debug(`OPPOH5GameAPI.installShortcut 安装图标失败 ${JSON.stringify(err)}`);
+                                },
+                                complete: function () { }
+                            });
+                            Laya.timer.once(1000, this, () => {
+                                self.qg.hasShortcutInstalled({
+                                    success: (res) => {
+                                        if (res == false) {
+                                            callback(false);
+                                        }
+                                        else {
+                                            self.deskTopRecord.isGet = true;
+                                            self.deskTopRecord.date = DateHelper.getTime();
+                                            self.saveDataToCache(self.deskTopRecordKey, self.deskTopRecord);
+                                            callback(true);
+                                            GameEngine.inst.debug("OPPOH5GameAPI.hasShortcutInstalled 安装图标成功");
+                                        }
+                                    },
+                                    fail: function (err) {
+                                        GameEngine.inst.debug(`OPPOH5GameAPI.hasShortcutInstalled 安装图标失败 ${JSON.stringify(err)}`);
+                                        callback(false);
+                                    },
+                                    complete: function () { }
+                                });
+                            });
+                        }
+                        else {
+                            GameEngine.inst.debug(`OPPOH5GameAPI.hasShortcutInstalled 已安装图标`);
+                            callback(false);
+                        }
+                    },
+                    fail: function (err) {
+                        GameEngine.inst.debug(`OPPOH5GameAPI.hasShortcutInstalled 安装桌面图标出错 ${JSON.stringify(err)}`);
+                        callback(false);
+                    },
+                    complete: function () { }
+                });
+            }
+            else {
+                this.deskTopRecord.isGet = true;
+                this.deskTopRecord.date = DateHelper.getTime();
+                this.saveDataToCache(this.deskTopRecordKey, this.deskTopRecord);
+                callback(true);
+                GameEngine.inst.debug("OPPOH5GameAPI.installShortcut 安装图标成功");
+            }
+            GameEngine.inst.debug("OPPOH5GameAPI.installShortcut 安装图标");
+        }
+        checkDesktop() {
+            this.deskTopRecordKey = LocalStorageManager.inst.shortcutKey;
+            this.deskTopRecord = this.readDataFromCache(this.deskTopRecordKey);
+            if (this.deskTopRecord == null || this.deskTopRecord == undefined) {
+                this.deskTopRecord = {
+                    isGet: false, date: ""
+                };
+                this.saveDataToCache(this.deskTopRecordKey, this.deskTopRecord);
+            }
+            else {
+                let day = MathHelper.countDay(DateHelper.getTime(), this.deskTopRecord.date);
+                if (day >= 1) {
+                    this.saveDataToCache(this.deskTopRecordKey, this.deskTopRecord);
+                }
+            }
+            console.log("桌面图标本地记录信息:", this.deskTopRecord);
+        }
+        setLoadingProgress(progress) {
+            if (this.qg) {
+                this.qg.setLoadingProgress({
+                    progress: progress
+                });
+            }
+        }
+        loadingComplete() {
+            if (this.qg) {
+                this.qg.loadingComplete({});
+                GameEngine.inst.debug("OPPOH5GameAPI.loadingComplete");
+            }
+        }
+        versionCompareUsage(version) {
+            if (this.platformVersionCode >= version) {
+                return true;
+            }
+            return false;
+        }
+        onInit(_callback) {
+            this.checkDesktop();
+            this.checkBanner();
+            this.canShowAd = false;
+            Laya.timer.once(this.adShowTime, this, () => {
+                this.canShowAd = true;
+                GameEngine.inst.debug("倒计结束,广告可以显示了");
+            });
+            if (this.qg) {
+                OPPOH5GameAPI.inst = this;
+                this.systemInfo = this.qg.getSystemInfoSync();
+                GameEngine.inst.debug(`OPPO系统信息:${JSON.stringify(this.systemInfo)}`);
+                this.platformVersionCode = this.systemInfo.platformVersionCode;
+                this.qg.setEnableDebug({
+                    enableDebug: false,
+                    success: function () {
+                        console.log("test consol log");
+                        console.info("test console info");
+                        console.warn("test consol warn");
+                        console.debug("test consol debug");
+                        console.error("test consol error");
+                    },
+                    complete: function () {
+                    },
+                    fail: function () {
+                    }
+                });
+                this.qg.onShow((res) => {
+                    Laya.timer.scale = 1;
+                });
+                this.qg.onHide(() => {
+                    Laya.timer.scale = 0;
+                });
+                this.reportMonitor("game_scene", 0);
+            }
+            else {
+                this.qg = null;
+            }
+            _callback && _callback();
+            GameEngine.inst.debug("OPPOH5GameAPI.onInit");
+        }
+        onInitAdService(callback) {
+            if (this.qg) {
+            }
+            callback && callback();
+            GameEngine.inst.debug('OPPOH5GameAPI onInitAdService');
+        }
+        reportMonitor(name, value) {
+            if (this.qg) {
+                if (this.versionCompareUsage(1060) == false) {
+                    GameEngine.inst.debug("数据上报需要最小平台号1060");
+                    return;
+                }
+                this.qg.reportMonitor(name, value);
+                GameEngine.inst.debug("OPPOH5GameAPI reportMonitor");
+            }
+        }
+        onLogin(callback) {
+            if (this.qg) {
+                this.qg.login({
+                    success: function (res) {
+                        var data = JSON.stringify(res.data);
+                        GameEngine.inst.debug(`OPPOH5GameAPI.onLogin 成功:${JSON.stringify(data)}`);
+                        DataManager.inst.user.userInfo.token = res.data.token;
+                        DataManager.inst.save();
+                        callback && callback(true);
+                    },
+                    fail: function (res) {
+                        GameEngine.inst.debug(`OPPOH5GameAPI.onLogin 失败:${JSON.stringify(res)}`);
+                        callback && callback(false);
+                    }
+                });
+            }
+            else {
+                callback && callback(true);
+            }
+        }
+        createInnerAudioContext() {
+            if (this.qg) {
+                return this.qg.createInnerAudioContext();
+            }
+            return null;
+        }
+        pay(paymentData, callback) {
+            if (this.qg) {
+                paymentData.openId = DataManager.inst.user.userInfo.token;
+                paymentData.engineVersion = this.platformVersionCode.toString();
+                paymentData.appVersion = "1.0.0";
+                let self = this;
+                var xhp = new HttpRequestExtension();
+                GameEngine.inst.debug(`发起支付:${JSON.stringify(paymentData)}`);
+                xhp.Post("https://payment.coschat.com/api/Oppo/PreOrder", paymentData, this, function (res) {
+                    GameEngine.inst.debug(`服务器验证返回${JSON.stringify(res)}`);
+                    this.saveDataToCache(LocalStorageManager.inst.payTempRecordKey, { orderNo: res.orderNo, token: paymentData.openId, point: paymentData.point });
+                    if (res.code == "200") {
+                        GameEngine.inst.debug(`服务器验证成功`);
+                        this.qg.pay({
+                            appId: parseInt(PlatformConfig.inst.currentPlatform.appId),
+                            token: paymentData.openId,
+                            timestamp: res.timestamp,
+                            paySign: res.paySign,
+                            orderNo: res.orderNo,
+                            success: function (payres) {
+                                self.saveDataToCache(LocalStorageManager.inst.payTempRecordKey, null);
+                                GameEngine.inst.debug(`支付成功:${JSON.stringify(payres.data)}`);
+                                callback(true, "支付成功");
+                            },
+                            fail: function (payres) {
+                                GameEngine.inst.debug(`支付失败:${JSON.stringify(payres)}`);
+                                callback(false, payres.data);
+                            }
+                        });
+                    }
+                    else {
+                        GameEngine.inst.debug(`服务器验证支付失败${JSON.stringify(res)}`);
+                        callback(false, res.msg);
+                    }
+                });
+            }
+            else {
+                this.saveDataToCache(LocalStorageManager.inst.payTempRecordKey, null);
+                callback && callback(true, "支付成功");
+            }
+        }
+        checkBanner() {
+            this.bannerRecord = this.readDataFromCache(this.bannerRecordKey);
+            if (this.bannerRecord == null || this.bannerRecord == undefined) {
+                this.bannerRecord = { hideCount: 5, date: "" };
+                this.saveDataToCache(this.bannerRecordKey, this.bannerRecord);
+            }
+            else {
+                let day = MathHelper.countDay(DateHelper.getTime(), this.bannerRecord.date);
+                if (day >= 1) {
+                    this.bannerRecord = { hideCount: 5, date: "" };
+                    this.saveDataToCache(this.bannerRecordKey, this.bannerRecord);
+                }
+            }
+            console.log("Banner本地记录:", this.bannerRecord);
+        }
+        createBannerAd() { }
+        onShowBanner(key) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.bannerRecord.hideCount <= 0) {
+                GameEngine.inst.debug("今天已经关闭了Banner5次，不再显示Banner");
+                return;
+            }
+            if (this.canShowAd == false) {
+                GameEngine.inst.debug("开始游戏1分钟内不展示Banner广告");
+                return;
+            }
+            let adData = PlatformConfig.inst.getBannerAdData(key);
+            if (adData == null) {
+                GameEngine.inst.debug("没有Banner广告数据");
+                return;
+            }
+            console.log("Banner广告数据:", adData.key, adData.adId);
+            if (this.qg) {
+                this.onDestoryBanner();
+                this.m_bannerAd = this.qg.createBannerAd({ adUnitId: adData.adId });
+                this.m_bannerAd.onShow(this.onBannerAdShow);
+                this.m_bannerAd.onError(this.onBannerAdError);
+                this.m_bannerAd.onHide(this.onBannerHide);
+                this.m_bannerAd.show();
+                GameEngine.inst.debug('OPPOH5GameAPI.onShowBanner');
+            }
+        }
+        onBannerAdShow() {
+            OPPOH5GameAPI.inst.m_isBannerShow = true;
+            OPPOH5GameAPI.inst.m_bannerHeight = 170;
+            EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_SUCCESS_EVENT);
+            GameEngine.inst.debug('OPPOH5GameAPI.onBannerAdShow 显示Banner广告成功');
+        }
+        onBannerAdError(err) {
+            OPPOH5GameAPI.inst.m_isBannerShow = false;
+            OPPOH5GameAPI.inst.m_bannerHeight = 170;
+            EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+            GameEngine.inst.debug(`OPPOH5GameAPI.onBannerAdError Banner广告错误 ${JSON.stringify(err)}`);
+        }
+        onBannerHide() {
+            if (OPPOH5GameAPI.inst.bannerRecord.hideCount > 0) {
+                OPPOH5GameAPI.inst.bannerRecord.hideCount--;
+                if (OPPOH5GameAPI.inst.bannerRecord.hideCount == 0) {
+                    OPPOH5GameAPI.inst.bannerRecord.date = DateHelper.getTime();
+                }
+                OPPOH5GameAPI.inst.saveDataToCache(OPPOH5GameAPI.inst.bannerRecordKey, OPPOH5GameAPI.inst.bannerRecord);
+            }
+            OPPOH5GameAPI.inst.m_isBannerShow = false;
+            OPPOH5GameAPI.inst.m_bannerHeight = 170;
+            EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+            console.log('BannerAd onHide,剩余隐藏次数:', OPPOH5GameAPI.inst.bannerRecord.hideCount);
+        }
+        onHideBanner() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_bannerAd) {
+                    this.m_bannerAd.hide();
+                    this.m_bannerHeight = 170;
+                    this.m_isBannerShow = false;
+                    EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+                }
+                GameEngine.inst.debug('OPPOH5GameAPI.onHideBanner 隐藏Banner广告');
+            }
+        }
+        onDestoryBanner() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_bannerAd) {
+                    this.m_bannerHeight = 170;
+                    this.m_isBannerShow = false;
+                    this.m_bannerAd.offShow(this.onBannerAdShow);
+                    this.m_bannerAd.offError(this.onBannerAdError);
+                    this.m_bannerAd.offHide(this.onBannerHide);
+                    this.m_bannerAd.destroy();
+                    this.m_bannerAd = null;
+                    EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+                    GameEngine.inst.debug('OPPOH5GameAPI.onDestoryBanner 销毁Banner广告');
+                }
+            }
+        }
+        createRewardedVideoAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+        }
+        clearVideoCallbacks() {
+            this.onVideoSuccessCallback = null;
+            this.onVideoFailCallback = null;
+        }
+        onShowRewardedVideo(_successCallback, _failCallback, key) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                return;
+            }
+            if (this.qg == null || this.qg == undefined) {
+                _successCallback && _successCallback();
+                return;
+            }
+            let adData = null;
+            if (key && key.length > 0) {
+                adData = PlatformConfig.inst.getVideoAdData(key);
+            }
+            if (adData == null) {
+                _failCallback && _failCallback(1, "");
+                return;
+            }
+            if (this.m_videoAd) {
+                this.clearVideoCallbacks();
+                this.m_videoAd.offLoad(this.rewardVideoOnLoad);
+                this.m_videoAd.offError(this.rewardVideoOnError);
+                this.m_videoAd.offClose(this.rewardVideoOnClose);
+                this.m_videoAd.destroy();
+            }
+            this.onVideoSuccessCallback = _successCallback;
+            this.onVideoFailCallback = _failCallback;
+            this.m_videoAd = this.qg.createRewardedVideoAd({
+                adUnitId: adData.adId
+            });
+            this.m_videoAd.load();
+            this.m_videoAd.onLoad(this.rewardVideoOnLoad);
+            this.m_videoAd.onError(this.rewardVideoOnError);
+            this.m_videoAd.onClose(this.rewardVideoOnClose);
+            GameEngine.inst.debug("OPPOH5GameAPI.onShowRewardedVideo");
+        }
+        rewardVideoOnLoad() {
+            GameEngine.inst.debug("OPPOH5GameAPI.RewardedVideo.onLoad 激励视频加载成功");
+            OPPOH5GameAPI.inst.m_videoAdIsLoaded = true;
+            OPPOH5GameAPI.inst.m_videoAd.show();
+        }
+        rewardVideoOnError(err) {
+            GameEngine.inst.debug(`OPPOH5GameAPI.RewardedVideo.onError 激励视频加载错误 ${JSON.stringify(err)}`);
+            OPPOH5GameAPI.inst.m_videoAdIsLoaded = false;
+            OPPOH5GameAPI.inst.onVideoFailCallback && OPPOH5GameAPI.inst.onVideoFailCallback(1, "");
+            OPPOH5GameAPI.inst.clearVideoCallbacks();
+        }
+        rewardVideoOnClose(res) {
+            if (res.isEnded) {
+                GameEngine.inst.debug("OPPOH5GameAPI.RewardedVideo.onClose 激励视频广告完成，发放奖励");
+                OPPOH5GameAPI.inst.onVideoSuccessCallback && OPPOH5GameAPI.inst.onVideoSuccessCallback();
+                OPPOH5GameAPI.inst.m_videoAdIsLoaded = false;
+                OPPOH5GameAPI.inst.clearVideoCallbacks();
+            }
+            else {
+                GameEngine.inst.debug("OPPOH5GameAPI.RewardedVideo.onClose 激励视频广告取消关闭，不发放奖励");
+                OPPOH5GameAPI.inst.onVideoFailCallback && OPPOH5GameAPI.inst.onVideoFailCallback(4, "激励视频广告取消关闭，不发放奖励");
+                OPPOH5GameAPI.inst.clearVideoCallbacks();
+            }
+        }
+        createInsertAd() {
+        }
+        _createInsertAd() {
+        }
+        onShowInsertAd() {
+        }
+        onDestoryInsertAd() {
+        }
+        onInsertAdLoaded() {
+        }
+        countDowwInsertTime() {
+        }
+        _countDownInsertTime() {
+        }
+        onInsertAdClose() {
+        }
+        onInsertAdError(err) {
+        }
+        createNativeAd() { }
+        onShowNativeAd(callback, key) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.canShowAd == false) {
+                GameEngine.inst.debug("开始游戏1分钟内不展示原生广告");
+                return;
+            }
+            let adData = null;
+            if (key && key.length > 0) {
+                adData = PlatformConfig.inst.getNativeAdData(key);
+            }
+            if (adData == null) {
+                GameEngine.inst.debug("原生AdData数据空");
+                return;
+            }
+            console.log("原生AdData数据:", adData.key, adData.adId);
+            if (this.qg) {
+                this.onDestroyNativeAd();
+                this.m_nativeAd = this.qg.createNativeAd({
+                    adUnitId: adData.adId
+                });
+                this.m_nativeAd.onError(this.onNativeAdError);
+                this.m_nativeAd.onLoad(this.onNativeAdLoad);
+                if (this.m_nativeAd) {
+                    this.nativeAdOnLoad = callback;
+                    this.m_nativeAd.load();
+                }
+                GameEngine.inst.debug("OPPOH5GameAPI.onShowNativeAd");
+            }
+            else {
+                callback && callback(null);
+            }
+        }
+        onDestroyNativeAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_nativeAd) {
+                    this.nativeAdOnLoad = null;
+                    this.m_nativeAd.offError(this.onNativeAdError);
+                    this.m_nativeAd.offLoad(this.onNativeAdLoad);
+                    this.m_nativeAd.destroy();
+                    this.m_nativeAd = null;
+                }
+                GameEngine.inst.debug("OPPOH5GameAPI.onDestroyNativeAd");
+            }
+        }
+        onNativeAdClick(_id) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_nativeAd) {
+                    GameEngine.inst.debug(`OPPOH5GameAPI.reportAdClick 原生广告上报点击${_id}`);
+                    this.m_nativeAd.reportAdClick({
+                        adId: _id
+                    });
+                    this.onNativeAdClose();
+                }
+                GameEngine.inst.debug(`OPPOH5GameAPI.onNativeAdClick ${_id}`);
+            }
+        }
+        onNativeAdClose() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            this.onDestroyNativeAd();
+            GameEngine.inst.debug(`OPPOH5GameAPI.onNativeAdClose 关闭原生广告`);
+        }
+        countDownNativeAdTime() {
+            this.canLoadInsertAd = false;
+            Laya.timer.clear(this, this._countDownNativeAdTime);
+            Laya.timer.once(this.insertAdShowCD, this, this._countDownNativeAdTime);
+            GameEngine.inst.debug(`OPPOH5GameAPI 原生插屏需要倒计:${this.insertAdShowCD}秒`);
+        }
+        _countDownNativeAdTime() {
+            this.canLoadInsertAd = true;
+            GameEngine.inst.debug(`OPPOH5GameAPI 原生插屏倒计完成 ${this.canLoadInsertAd}`);
+        }
+        onNativeAdLoad(res) {
+            if (res !== null && res !== undefined) {
+                GameEngine.inst.debug(`OPPOH5GameAPI.onNativeAdLoad 原生广告加载成功 ${JSON.stringify(res.adList)}`);
+                OPPOH5GameAPI.inst.onDestoryBanner();
+                let data = res.adList.pop();
+                OPPOH5GameAPI.inst.m_nativeAd.reportAdShow({
+                    adId: data.adId
+                });
+                if (OPPOH5GameAPI.inst.nativeAdOnLoad) {
+                    OPPOH5GameAPI.inst.nativeAdOnLoad(data);
+                }
+            }
+        }
+        onNativeAdError(err) {
+            OPPOH5GameAPI.inst.canLoadInsertAd = true;
+            if (OPPOH5GameAPI.inst.nativeAdOnLoad) {
+                OPPOH5GameAPI.inst.nativeAdOnLoad(null);
+            }
+            GameEngine.inst.debug(`OPPOH5GameAPI.onNativeAdError ${JSON.stringify(err)}`);
+        }
+        createNativeIconAd() { }
+        onShowNativeIconAd(callback, key) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.canShowAd == false) {
+                GameEngine.inst.debug("开始游戏1分钟内不展示原生Icon广告");
+                return;
+            }
+            let adData = null;
+            if (key && key.length > 0) {
+                adData = PlatformConfig.inst.getNativeIconAdData(key);
+            }
+            if (adData == null) {
+                GameEngine.inst.debug("原生图标AdData数据空");
+                return;
+            }
+            console.log("原生图标AdData:", adData.key, adData.adId);
+            if (this.qg) {
+                this.onDestroyNativeIconAd();
+                this.m_nativeIconAd = this.qg.createNativeAd({
+                    adUnitId: adData.adId
+                });
+                this.m_nativeIconAd.onError(this.onNativeIconAdError);
+                this.m_nativeIconAd.onLoad(this.onNativeIconAdLoad);
+                if (this.m_nativeIconAd) {
+                    OPPOH5GameAPI.inst.nativeIconAdOnLoad = callback;
+                    this.m_nativeIconAd.load();
+                }
+                GameEngine.inst.debug('OPPOH5GameAPI.onShowNativeIconAd');
+            }
+            else {
+                callback && callback(null);
+            }
+        }
+        onDestroyNativeIconAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_nativeIconAd) {
+                    this.nativeIconAdOnLoad = null;
+                    this.m_nativeIconAd.offError(this.onNativeIconAdError);
+                    this.m_nativeIconAd.offLoad(this.onNativeIconAdLoad);
+                    this.m_nativeIconAd.destroy();
+                    this.m_nativeIconAd = null;
+                }
+                GameEngine.inst.debug('OPPOH5GameAPI.onDestroyNativeIconAd');
+            }
+        }
+        onNativeIconAdError(err) {
+            GameEngine.inst.debug(`OPPOH5GameAPI.onNativeIconAdError ${JSON.stringify(err)}`);
+        }
+        onNativeIconAdLoad(res) {
+            if (res !== null && res !== undefined) {
+                let data = res.adList.pop();
+                OPPOH5GameAPI.inst.m_nativeIconAd.reportAdShow({
+                    adId: data.adId
+                });
+                if (OPPOH5GameAPI.inst.nativeIconAdOnLoad) {
+                    OPPOH5GameAPI.inst.nativeIconAdOnLoad(data);
+                }
+            }
+        }
+        onNativeIconAdClick(_id) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_nativeIconAd) {
+                    this.m_nativeIconAd.reportAdClick({
+                        adId: _id
+                    });
+                    this.onNativeIconAdClose();
+                }
+                GameEngine.inst.debug(`OPPOH5GameAPI.onNativeAdLoad 原生ICON广告加载成功 ${JSON.stringify(_id)}`);
+            }
+        }
+        onNativeIconAdClose() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                this.onDestroyNativeIconAd();
+                GameEngine.inst.debug(`OPPOH5GameAPI.onNativeIconAdClose`);
+            }
+        }
+        navigateToMiniGame(object) {
+            if (this.qg) {
+                this.qg.navigateToMiniGame({
+                    pkgName: object,
+                    success: function () { },
+                    fail: function (res) {
+                        console.log("跳转失败:", JSON.stringify(res));
+                    }
+                });
+            }
+            console.log(`OPPOH5GameAPI navigateToMiniGame`, JSON.stringify(object));
+        }
+        vibrateShort() {
+            this.qg.vibrateShort({
+                success: function (res) { },
+                fail: function (res) { },
+                complete: function (res) { }
+            });
+        }
+        saveDataToCache(_key, _value) {
+            Laya.LocalStorage.setItem(_key, JSON.stringify(_value));
+        }
+        readDataFromCache(_key) {
+            return JSON.parse(Laya.LocalStorage.getItem(_key));
+        }
+        bannerHeight() {
+            return this.m_bannerHeight;
+        }
+        notchHeight() {
+            if (this.qg) {
+                let scale = Laya.Browser.height / this.systemInfo.screenHeight;
+                return this.systemInfo.statusBarHeight * scale;
+            }
+            return 20;
+        }
+        getScreenSize() {
+            return new Laya.Size(750, 1334);
+        }
+        getPlatform() {
+            return "";
+        }
+        getDevicePlatform() {
+            return "";
+        }
+        isVertify() {
+            return false;
+        }
+        sendEvent(obj) { }
+        onShare() { }
+        updateHighScore(_score) { }
+        createAppBox() { }
+        onShowAppBox() { }
+        onHideAppBox() { }
+        createMoreGamesButton(inStyle) { }
+        hideMoreGameButton() { }
+        onShareVideo(callback) { }
+        onStartRecord() { }
+        onStopRecord() { }
+        showMoreGamesModal() { }
+        addColorSign() { }
+        onHideInsertAd() { }
+        vibrateLong() {
+            this.qg && this.qg.vibrateLong();
+        }
+    }
+
+    var SoundType;
+    (function (SoundType) {
+        SoundType[SoundType["None"] = 0] = "None";
+        SoundType[SoundType["BGM"] = 1] = "BGM";
+        SoundType[SoundType["MainViewBGM"] = 2] = "MainViewBGM";
+        SoundType[SoundType["SE_BuyItem"] = 3] = "SE_BuyItem";
+        SoundType[SoundType["SE_Win"] = 4] = "SE_Win";
+        SoundType[SoundType["SE_Lose"] = 5] = "SE_Lose";
+    })(SoundType || (SoundType = {}));
+    var RewardType;
+    (function (RewardType) {
+        RewardType[RewardType["Coin"] = 0] = "Coin";
+        RewardType[RewardType["Role"] = 1] = "Role";
+        RewardType[RewardType["Buff"] = 2] = "Buff";
+        RewardType[RewardType["Woods"] = 3] = "Woods";
+        RewardType[RewardType["Diamond"] = 4] = "Diamond";
+    })(RewardType || (RewardType = {}));
+    var UnlockType;
+    (function (UnlockType) {
+        UnlockType[UnlockType["Free"] = 0] = "Free";
+        UnlockType[UnlockType["Coin"] = 1] = "Coin";
+        UnlockType[UnlockType["CoinOrVideo"] = 2] = "CoinOrVideo";
+        UnlockType[UnlockType["Video"] = 3] = "Video";
+        UnlockType[UnlockType["Diamond"] = 4] = "Diamond";
+        UnlockType[UnlockType["Stage"] = 5] = "Stage";
+        UnlockType[UnlockType["StageAndVideo"] = 6] = "StageAndVideo";
+        UnlockType[UnlockType["StageAndRMB"] = 7] = "StageAndRMB";
+        UnlockType[UnlockType["Other"] = 11] = "Other";
+        UnlockType[UnlockType["Y_\u91CE\u602ABoss"] = 12] = "Y_\u91CE\u602ABoss";
+    })(UnlockType || (UnlockType = {}));
+    var GameState;
+    (function (GameState) {
+        GameState[GameState["StandBy"] = 0] = "StandBy";
+        GameState[GameState["Play"] = 1] = "Play";
+        GameState[GameState["Result"] = 2] = "Result";
+    })(GameState || (GameState = {}));
+    var FriendType;
+    (function (FriendType) {
+        FriendType[FriendType["None"] = 0] = "None";
+        FriendType[FriendType["Enemy"] = 1] = "Enemy";
+        FriendType[FriendType["Friend"] = 2] = "Friend";
+    })(FriendType || (FriendType = {}));
+    var RoleClass;
+    (function (RoleClass) {
+        RoleClass[RoleClass["Solider"] = 0] = "Solider";
+        RoleClass[RoleClass["Hero"] = 1] = "Hero";
+    })(RoleClass || (RoleClass = {}));
+    var BuildingType;
+    (function (BuildingType) {
+        BuildingType["\u7A7A"] = "";
+        BuildingType["\u4E3B\u57CE"] = "1";
+        BuildingType["\u8FD1\u6218\u5175\u8425"] = "2";
+        BuildingType["\u8FDC\u7A0B\u5175\u8425"] = "3";
+        BuildingType["\u796D\u575B"] = "4";
+        BuildingType["\u91D1\u77FF"] = "5";
+        BuildingType["\u4F10\u6728\u573A"] = "6";
+    })(BuildingType || (BuildingType = {}));
+    var RangeType;
+    (function (RangeType) {
+        RangeType[RangeType["\u8FD1\u6218"] = 0] = "\u8FD1\u6218";
+        RangeType[RangeType["\u8FDC\u7A0B"] = 1] = "\u8FDC\u7A0B";
+    })(RangeType || (RangeType = {}));
+    var ArmType;
+    (function (ArmType) {
+        ArmType[ArmType["None"] = 0] = "None";
+        ArmType[ArmType["Infantry"] = 1] = "Infantry";
+        ArmType[ArmType["Spear"] = 2] = "Spear";
+        ArmType[ArmType["Bow"] = 3] = "Bow";
+        ArmType[ArmType["Magic"] = 4] = "Magic";
+        ArmType[ArmType["Cavalry"] = 5] = "Cavalry";
+        ArmType[ArmType["Mechine"] = 6] = "Mechine";
+        ArmType[ArmType["Building"] = 7] = "Building";
+        ArmType[ArmType["Hero"] = 8] = "Hero";
+    })(ArmType || (ArmType = {}));
+    var MapGripType;
+    (function (MapGripType) {
+        MapGripType[MapGripType["J_\u91D1\u5E01"] = 3] = "J_\u91D1\u5E01";
+        MapGripType[MapGripType["M_\u6728\u6750"] = 4] = "M_\u6728\u6750";
+        MapGripType[MapGripType["Z_\u94BB\u77F3"] = 5] = "Z_\u94BB\u77F3";
+        MapGripType[MapGripType["Z_\u4E3B\u89D2\u51FA\u751F\u70B9"] = 6] = "Z_\u4E3B\u89D2\u51FA\u751F\u70B9";
+        MapGripType[MapGripType["B_Boss\u51FA\u751F\u70B9"] = 7] = "B_Boss\u51FA\u751F\u70B9";
+        MapGripType[MapGripType["G_\u5173\u5361"] = 8] = "G_\u5173\u5361";
+        MapGripType[MapGripType["T_\u4F53\u529B"] = 9] = "T_\u4F53\u529B";
+        MapGripType[MapGripType["C_\u85CF\u5B9D\u56FE"] = 10] = "C_\u85CF\u5B9D\u56FE";
+        MapGripType[MapGripType["P_\u666E\u901A\u5B9D\u7BB1"] = 11] = "P_\u666E\u901A\u5B9D\u7BB1";
+        MapGripType[MapGripType["S_\u89C6\u9891\u5B9D\u7BB1"] = 12] = "S_\u89C6\u9891\u5B9D\u7BB1";
+        MapGripType[MapGripType["B_\u8865\u5145\u5175\u529B"] = 13] = "B_\u8865\u5145\u5175\u529B";
+    })(MapGripType || (MapGripType = {}));
+    var BuffType;
+    (function (BuffType) {
+        BuffType[BuffType["G_\u653B\u51FB\u529B"] = 0] = "G_\u653B\u51FB\u529B";
+        BuffType[BuffType["F_\u9632\u5FA1\u529B"] = 1] = "F_\u9632\u5FA1\u529B";
+        BuffType[BuffType["H_\u6062\u590D"] = 2] = "H_\u6062\u590D";
+        BuffType[BuffType["Z_\u53EC\u5524"] = 3] = "Z_\u53EC\u5524";
+        BuffType[BuffType["S_\u4F24\u5BB3"] = 4] = "S_\u4F24\u5BB3";
+        BuffType[BuffType["B_\u51B0\u51BB"] = 5] = "B_\u51B0\u51BB";
+        BuffType[BuffType["S_\u751F\u547D"] = 6] = "S_\u751F\u547D";
+        BuffType[BuffType["J_\u6280\u80FD\u4F24\u5BB3"] = 7] = "J_\u6280\u80FD\u4F24\u5BB3";
+        BuffType[BuffType["Y_\u79FB\u52A8\u901F\u5EA6"] = 8] = "Y_\u79FB\u52A8\u901F\u5EA6";
+        BuffType[BuffType["G_\u653B\u51FB\u901F\u5EA6"] = 9] = "G_\u653B\u51FB\u901F\u5EA6";
+    })(BuffType || (BuffType = {}));
+    var BenefitType;
+    (function (BenefitType) {
+        BenefitType[BenefitType["Up"] = 0] = "Up";
+        BenefitType[BenefitType["Down"] = 1] = "Down";
+    })(BenefitType || (BenefitType = {}));
+    var TargetType;
+    (function (TargetType) {
+        TargetType[TargetType["K_\u7A7A"] = 0] = "K_\u7A7A";
+        TargetType[TargetType["Z_\u81EA\u8EAB"] = 1] = "Z_\u81EA\u8EAB";
+        TargetType[TargetType["D_\u654C\u65B9\u5355\u4F53"] = 2] = "D_\u654C\u65B9\u5355\u4F53";
+        TargetType[TargetType["Y_\u53CB\u65B9\u5355\u4F53"] = 3] = "Y_\u53CB\u65B9\u5355\u4F53";
+        TargetType[TargetType["F_\u8303\u56F4\u53CB\u519B"] = 4] = "F_\u8303\u56F4\u53CB\u519B";
+        TargetType[TargetType["D_\u654C\u65B9\u5168\u4F53"] = 5] = "D_\u654C\u65B9\u5168\u4F53";
+        TargetType[TargetType["D_\u53CB\u65B9\u5168\u4F53"] = 6] = "D_\u53CB\u65B9\u5168\u4F53";
+        TargetType[TargetType["Z_\u5B50\u5F39\u8303\u56F4\u654C\u519B"] = 7] = "Z_\u5B50\u5F39\u8303\u56F4\u654C\u519B";
+        TargetType[TargetType["Z_\u81EA\u8EAB\u8303\u56F4\u654C\u519B"] = 8] = "Z_\u81EA\u8EAB\u8303\u56F4\u654C\u519B";
+    })(TargetType || (TargetType = {}));
+
+    class SoundData {
+        constructor() {
+            this.type = SoundType.None;
+            this.clipName = "";
+        }
+    }
+
+    class SoundManager {
+        constructor() {
+            this._musicMuted = false;
+            this._soundMuted = false;
+            this.soundList = [];
+            this.musicVolume = 1;
+            this.soundVolume = 1;
+            this.soundPools = [];
+            this.playingList = [];
+        }
+        static get inst() {
+            if (this.instance == null) {
+                Laya.SoundManager.autoStopMusic = true;
+                if (Laya.Browser.onIOS) {
+                    Laya.SoundManager.useAudioMusic = false;
+                }
+                this.instance = new SoundManager();
+            }
+            return this.instance;
+        }
+        loadData() {
+            let muteJson = GameEngine.inst.loadData(LocalStorageManager.inst.soundMuteDataKey);
+            if (muteJson) {
+                this._musicMuted = muteJson.musicMuted;
+                this._soundMuted = muteJson.soundMuted;
+            }
+            GameEngine.inst.debug(`音乐本地数据：${JSON.stringify(muteJson)}`);
+            this.setMusicMuted(this._musicMuted);
+            this.setSoundMuted(this._soundMuted);
+        }
+        saveData() {
+            GameEngine.inst.saveData(LocalStorageManager.inst.soundMuteDataKey, { musicMuted: this._musicMuted, soundMuted: this._soundMuted });
+        }
+        setMusicMuted(muted) {
+            this._musicMuted = muted;
+            if (muted == false) {
+                this.musicVolume = 1;
+                this.setVolume(this.musicVolume, "BGM");
+                if (Platforms.inst.platform == Platform.vivo_h5) {
+                    this.PlayCurrentMusic();
+                }
+            }
+            else {
+                this.musicVolume = 0.001;
+                this.setVolume(this.musicVolume, "BGM");
+            }
+            this.saveData();
+        }
+        getMusicMuted() {
+            return this._musicMuted;
+        }
+        setSoundMuted(muted) {
+            this._soundMuted = muted;
+            if (muted == false) {
+                this.soundVolume = 1;
+                this.setVolume(this.soundVolume, "SE");
+            }
+            else {
+                this.soundVolume = 0.001;
+                this.setVolume(this.soundVolume, "SE");
+            }
+            this.saveData();
+        }
+        getSoundMuted() {
+            return this._soundMuted;
+        }
+        registerSound(type, clipName) {
+            let data = new SoundData();
+            data.type = type;
+            data.clipName = clipName;
+            this.soundList.push(data);
+        }
+        getAudio(key) {
+            for (let index = 0; index < this.soundPools.length; index++) {
+                const item = this.soundPools[index];
+                if (item.key == key) {
+                    return item;
+                }
+            }
+            return null;
+        }
+        stopSound(type) {
+            if (this.currentBgAudio) {
+                this.currentBgAudio.pause();
+            }
+            if (type == "") {
+                for (let index = 0; index < this.soundPools.length; index++) {
+                    const item = this.soundPools[index];
+                    item.audio.pause();
+                }
+            }
+            else {
+                for (let index = 0; index < this.soundPools.length; index++) {
+                    const item = this.soundPools[index];
+                    if (item.type == type) {
+                        item.audio.pause();
+                    }
+                }
+            }
+        }
+        pauseSound(type) {
+            if (type == "") {
+                for (let index = 0; index < this.soundPools.length; index++) {
+                    const item = this.soundPools[index];
+                    item.audio.pause();
+                }
+            }
+            else {
+                for (let index = 0; index < this.soundPools.length; index++) {
+                    const item = this.soundPools[index];
+                    if (item.type == type) {
+                        item.audio.pause();
+                    }
+                }
+            }
+        }
+        setVolume(volume, type = "") {
+            if (volume <= 0.001) {
+                volume = 0.001;
+            }
+            if (type == "") {
+                for (let index = 0; index < this.soundPools.length; index++) {
+                    const item = this.soundPools[index];
+                    item.audio.volume = volume;
+                }
+                Laya.SoundManager.setMusicVolume(volume);
+                Laya.SoundManager.setSoundVolume(volume);
+                if (this.currentBgAudio) {
+                    this.currentBgAudio.volume = volume;
+                }
+            }
+            else {
+                if (type == "BGM") {
+                    Laya.SoundManager.setMusicVolume(volume);
+                    if (this.currentBgAudio) {
+                        this.currentBgAudio.volume = volume;
+                    }
+                }
+                else if (type == "SE") {
+                    Laya.SoundManager.setSoundVolume(volume);
+                }
+                for (let index = 0; index < this.soundPools.length; index++) {
+                    const item = this.soundPools[index];
+                    if (item.type == type) {
+                        item.audio.volume = volume;
+                    }
+                }
+            }
+        }
+        PlayCurrentMusic() {
+            if (this.curretnType) {
+                this.PlayMusic(this.curretnType);
+            }
+        }
+        PlayMusic(type) {
+            for (let index = 0; index < this.soundList.length; index++) {
+                let data = this.soundList[index];
+                if (data.type == type) {
+                    if (Platforms.inst.platform == Platform.vivo_h5) {
+                        this.curretnType = type;
+                        if (this.currentBgAudio) {
+                            this.currentBgAudio.stop();
+                            this.currentBgAudio = null;
+                        }
+                        this.currentBgAudio = Platforms.inst.createInnerAudioContext();
+                        if (this.currentBgAudio) {
+                            this.currentBgAudio.src = Laya.URL.basePath + data.clipName;
+                            this.currentBgAudio.loop = true;
+                            this.currentBgAudio.volume = this.musicVolume;
+                            this.currentBgAudio.play();
+                        }
+                        else {
+                            Laya.SoundManager.playMusic(data.clipName, 0);
+                        }
+                    }
+                    else {
+                        this.stopSound("BGM");
+                        let item = this.getAudio(data.clipName);
+                        if (item) {
+                            item.audio.volume = this.musicVolume;
+                            item.audio.play();
+                        }
+                        else {
+                            let audioContext = Platforms.inst.createInnerAudioContext();
+                            if (audioContext) {
+                                audioContext.src = Laya.URL.basePath + data.clipName;
+                                audioContext.loop = true;
+                                audioContext.volume = this.musicVolume;
+                                audioContext.play();
+                                this.soundPools.push({ key: data.clipName, audio: audioContext, type: "BGM", canplay: false });
+                            }
+                            else {
+                                Laya.SoundManager.playMusic(data.clipName, 0);
+                            }
+                        }
+                    }
+                    this.setVolume(this.musicVolume, "BGM");
+                }
+            }
+        }
+        Play(type, loop = 1) {
+            for (let index = 0; index < this.soundList.length; index++) {
+                let data = this.soundList[index];
+                if (data.type == type) {
+                    if (this.playingList.indexOf(data.clipName) == -1) {
+                        let c = Laya.SoundManager.playSound(data.clipName, loop);
+                        this.playingList.push(data.clipName);
+                        c.completeHandler = Laya.Handler.create(this, this.onSoundPlayComplete, [data.clipName]);
+                    }
+                    else {
+                    }
+                    this.setVolume(this.soundVolume, "SE");
+                }
+            }
+        }
+        PlayURL(url, loop = 1) {
+            if (this.playingList.indexOf(url) == -1) {
+                let c = Laya.SoundManager.playSound(url, loop);
+                if (c) {
+                    this.playingList.push(url);
+                    c.completeHandler = Laya.Handler.create(this, this.onSoundPlayComplete, [url]);
+                }
+            }
+            else {
+            }
+            this.setVolume(this.soundVolume, "SE");
+        }
+        onSoundPlayComplete(url) {
+            let index = this.playingList.indexOf(url);
+            this.playingList.splice(index, 1);
+        }
+    }
+
+    class VivoH5GameAPI {
+        constructor() {
+            this.qg = window['qg'];
+            this.systemInfo = null;
+            this.m_bannerAd = null;
+            this.m_videoAd = null;
+            this.m_insertAd = null;
+            this.m_nativeAd = null;
+            this.m_nativeIconAd = null;
+            this.m_videoAdIsLoaded = false;
+            this.isVideoAdPlaying = false;
+            this.m_bannerHeight = 170;
+            this.m_bannerIsShow = false;
+            this.ishide = false;
+            this.isVideoAdFirstPlay = true;
+            this.deskTopRecordKey = "";
+            this.canLoadInsertAd = false;
+            this.bannerAdShowCD = 10000;
+            this.canShowBannerAd = true;
+            this.rewardAdShowCD = 60000;
+            this.insertAdShowCD = 40000;
+            this.canShowRewardAd = true;
+            this.insertAdReadyInterval = 10000;
+            this.currentNativeAd = null;
+            this.currentNativeIconAd = null;
+        }
+        downloadFile(url, callback) {
+            if (this.qg) {
+                if (this.downloadTask != null) {
+                    this.downloadTask.abort();
+                }
+                this.downloadTask = this.qg.download({
+                    url: url,
+                    success(res) {
+                        console.log("下载资源zip成功:", res);
+                        callback && callback(true, res);
+                    },
+                    fail: function (data, code) {
+                        callback && callback(false, null);
+                    }
+                });
+            }
+            else {
+                callback && callback(false, null);
+            }
+        }
+        unzip(url, callback) {
+            if (this.qg) {
+                this.qg.unzipFile({
+                    srcUri: url,
+                    dstUri: this.userDataPath(),
+                    success: function (uri) {
+                        console.log(`handling success: ${uri}`);
+                        callback && callback(true);
+                    },
+                    fail: function (data, code) {
+                        console.log(`handling fail, code = ${code}`);
+                        callback && callback(false);
+                    }
+                });
+            }
+            else {
+                callback && callback(false);
+            }
+        }
+        readFile(filePath, callback) {
+            if (this.qg) {
+                let url = this.userDataPath() + filePath;
+                console.log("readFileSync:", url);
+                const result = this.qg.readFileSync({
+                    uri: url,
+                    encoding: 'utf8'
+                });
+                if (typeof result === 'string') {
+                    console.log(`handling fail, error message = ${result}`);
+                    callback && callback(false, "");
+                }
+                else {
+                    callback && callback(true, result.text);
+                }
+            }
+            else {
+                callback && callback(false, "");
+            }
+        }
+        writeFileSync(filePath, data) {
+            if (this.qg) {
+                let url = this.userDataPath() + filePath;
+                const result = this.qg.writeFileSync({
+                    uri: url,
+                    text: data
+                });
+                if (result === 'success') {
+                    console.log(`handling success`);
+                }
+                else {
+                    console.log(`handling fail, result = ${result}`);
+                }
+            }
+        }
+        userDataPath() {
+            return "internal://files/assets/";
+        }
+        versionCompareUsage(version) {
+            if (this.platformVersionCode >= version) {
+                return true;
+            }
+            return false;
+        }
+        onHide() {
+            SoundManager.inst.setVolume(0);
+            Laya.timer.scale = 0;
+        }
+        onShow() {
+            Laya.timer.scale = 1;
+            if (SoundManager.inst.getMusicMuted() == false) {
+                if (this.isVideoAdPlaying == false) {
+                    SoundManager.inst.setVolume(1);
+                    SoundManager.inst.PlayCurrentMusic();
+                }
+            }
+        }
+        onInit(_callback) {
+            this.checkDesktop();
+            if (this.qg) {
+                VivoH5GameAPI.inst = this;
+                this.systemInfo = this.qg.getSystemInfoSync();
+                GameEngine.inst.debug(`VIVO系统信息:${JSON.stringify(this.systemInfo)}`);
+                this.platformVersionCode = this.systemInfo.platformVersionCode;
+                this.insertAdReadyInterval = PlatformConfig.inst.currentPlatform.insertAdReadyInterval;
+                this.bannerAdShowCD = PlatformConfig.inst.currentPlatform.bannerAdShowCD;
+                this.rewardAdShowCD = PlatformConfig.inst.currentPlatform.rewardAdShowCD;
+                this.insertAdShowCD = PlatformConfig.inst.currentPlatform.insertAdShowCD;
+                Laya.timer.once(this.insertAdReadyInterval, this, () => {
+                    this.canLoadInsertAd = true;
+                });
+                this.qg.onShow(() => {
+                    this.onShow();
+                    GameEngine.inst.debug(`VivoH5GameAPI.onShow 进入前台`);
+                });
+                this.qg.onHide(() => {
+                    this.onHide();
+                    GameEngine.inst.debug(`VivoH5GameAPI.onHide 进入后台`);
+                });
+            }
+            GameEngine.inst.debug('VivoH5GameAPI.onInit');
+        }
+        onLogin(callback) {
+            callback && callback(true);
+            console.log('VivoH5GameAPI onLogin');
+        }
+        onInitAdService(callback) {
+            if (this.qg) {
+                this.createBannerAd();
+                this.createRewardedVideoAd();
+                this.createInsertAd();
+                this.createNativeAd();
+                this.createNativeIconAd();
+            }
+            callback();
+            GameEngine.inst.debug('VivoH5GameAPI.onInitAdService');
+        }
+        pay(paymentData, callback) {
+        }
+        createInnerAudioContext() {
+            if (this.qg) {
+                return this.qg.createInnerAudioContext();
+            }
+            return null;
+        }
+        checkDesktop() {
+            this.deskTopRecordKey = LocalStorageManager.inst.shortcutKey;
+            this.deskTopRecord = this.readDataFromCache(this.deskTopRecordKey);
+            if (this.deskTopRecord == null || this.deskTopRecord == undefined || this.deskTopRecord == "") {
+                this.deskTopRecord = {
+                    isGet: false, date: ""
+                };
+                this.saveDataToCache(this.deskTopRecordKey, this.deskTopRecord);
+            }
+            else {
+                let day = MathHelper.countDay(DateHelper.getTime(), this.deskTopRecord.date);
+                console.log("判断图标是否已经超过一日:", day);
+                if (day >= 1) {
+                    this.saveDataToCache(this.deskTopRecordKey, this.deskTopRecord);
+                }
+            }
+            console.log("桌面图标本地记录信息:", this.deskTopRecord);
+        }
+        hasShortcutInstalled(callback) {
+            if (this.deskTopRecord.isGet == true) {
+                GameEngine.inst.debug("今日已经领取了ICON奖励");
+                callback(true);
+                return;
+            }
+            if (this.qg) {
+                this.qg.hasShortcutInstalled({
+                    success: function (status) {
+                        if (status) {
+                            GameEngine.inst.debug('桌面图标已创建');
+                            callback(true);
+                        }
+                        else {
+                            GameEngine.inst.debug('桌面图标未创建');
+                            callback(false);
+                        }
+                    }
+                });
+            }
+            else {
+                callback(false);
+            }
+        }
+        delayCheckShortCut(callback) {
+            let self = this;
+            Laya.timer.once(1000, this, () => {
+                self.qg.hasShortcutInstalled({
+                    success: (res) => {
+                        if (res == false) {
+                            callback(false);
+                        }
+                        else {
+                            self.deskTopRecord.isGet = true;
+                            self.deskTopRecord.date = DateHelper.getTime();
+                            self.saveDataToCache(self.deskTopRecordKey, self.deskTopRecord);
+                            callback(true);
+                            GameEngine.inst.debug("OPPOH5GameAPI.hasShortcutInstalled 安装图标成功");
+                        }
+                    },
+                    fail: function (err) {
+                        GameEngine.inst.debug(`OPPOH5GameAPI.hasShortcutInstalled 安装图标失败 ${JSON.stringify(err)}`);
+                        callback(false);
+                    },
+                    complete: function () { }
+                });
+            });
+        }
+        installShortcut(callback) {
+            if (this.qg) {
+                if (this.deskTopRecord.isGet == true) {
+                    console.log("今日已经领取了ICON奖励");
+                    return;
+                }
+                let self = this;
+                this.qg.hasShortcutInstalled({
+                    success: function (res) {
+                        console.log("没有安装过图标");
+                        if (res == false) {
+                            self.qg.installShortcut({
+                                success: function (ss) {
+                                    GameEngine.inst.debug("VivoH5GameAPI.installShortcut 安装图标成功");
+                                    self.delayCheckShortCut(callback);
+                                },
+                                fail: function (err) {
+                                    GameEngine.inst.debug(`VivoH5GameAPI.installShortcut 安装图标失败 ${JSON.stringify(err)}`);
+                                    self.delayCheckShortCut(callback);
+                                },
+                                complete: function () { }
+                            });
+                        }
+                        else {
+                            GameEngine.inst.debug(`VivoH5GameAPI.hasShortcutInstalled 已安装图标`);
+                            callback(false);
+                        }
+                    },
+                    fail: function (err) {
+                        GameEngine.inst.debug(`VivoH5GameAPI.hasShortcutInstalled 安装桌面图标出错 ${JSON.stringify(err)}`);
+                        callback(false);
+                    },
+                    complete: function () { }
+                });
+            }
+            else {
+                this.deskTopRecord.isGet = true;
+                this.deskTopRecord.date = DateHelper.getTime();
+                this.saveDataToCache(this.deskTopRecordKey, this.deskTopRecord);
+                callback(true);
+                GameEngine.inst.debug("VivoH5GameAPI.installShortcut 安装图标成功");
+            }
+            console.log("installShortcut");
+        }
+        createBannerAd() { }
+        onShowBanner() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                let bannerId = PlatformConfig.inst.currentPlatform.bannerAdId;
+                if (bannerId == undefined || bannerId == "") {
+                    GameEngine.inst.debug("bannerId不能为空");
+                    return;
+                }
+                if (this.canShowBannerAd == false) {
+                    GameEngine.inst.debug("11秒内调用广告次数超过1次，11秒后再调用");
+                    return;
+                }
+                this.onDestoryBanner();
+                this.m_bannerAd = this.qg.createBannerAd({
+                    posId: bannerId,
+                    style: {}
+                });
+                let adshow = this.m_bannerAd.show();
+                adshow && adshow.then(() => {
+                    EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_SUCCESS_EVENT);
+                    GameEngine.inst.debug("banner广告展示成功");
+                    this.m_bannerIsShow = true;
+                }).catch((err) => {
+                    GameEngine.inst.debug(`banner广告展示失败 ${JSON.stringify(err)}`);
+                    EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+                    this.m_bannerIsShow = false;
+                });
+                this.resetBannerCDTimer();
+            }
+        }
+        resetBannerCDTimer() {
+            this.canShowBannerAd = false;
+            Laya.timer.once(this.bannerAdShowCD, this, () => {
+                this.canShowBannerAd = true;
+                GameEngine.inst.debug("banner广告可以再次显示了");
+            });
+        }
+        onHideBanner() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_bannerIsShow && this.m_bannerAd) {
+                    var adhide = this.m_bannerAd.hide();
+                    adhide && adhide.then(() => {
+                        GameEngine.inst.debug(`banner广告隐藏成功`);
+                        this.m_bannerAd = null;
+                        EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+                    }).catch(err => {
+                        GameEngine.inst.debug(`banner广告隐藏失败 ${JSON.stringify(err)}`);
+                    });
+                    this.m_bannerAd = null;
+                    this.m_bannerIsShow = false;
+                    this.resetBannerCDTimer();
+                }
+            }
+        }
+        onDestoryBanner() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_bannerIsShow && this.m_bannerAd) {
+                    var addestroy = this.m_bannerAd.destroy();
+                    addestroy && addestroy.then(() => {
+                        GameEngine.inst.debug(`banner广告销毁成功`);
+                        this.m_bannerAd = null;
+                        EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+                    }).catch(err => {
+                        GameEngine.inst.debug(`banner广告销毁失败 ${JSON.stringify(err)}`);
+                        this.onHideBanner();
+                    });
+                    this.resetBannerCDTimer();
+                }
+            }
+        }
+        createRewardedVideoAd() { }
+        onShowRewardedVideo(_successCallback, _failCallback) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                _successCallback && _successCallback();
+                return;
+            }
+            if (this.qg) {
+                if (this.versionCompareUsage(1041) == false) {
+                    GameEngine.inst.debug("激励视频需要最小平台号1041");
+                    _failCallback && _failCallback(1, "没到指定时间不能显示视频广告");
+                    return;
+                }
+                let videoId = PlatformConfig.inst.currentPlatform.videoAdId;
+                if (videoId == undefined || videoId == "") {
+                    GameEngine.inst.debug("videoId不能为空");
+                    return;
+                }
+                if (this.canShowRewardAd == false) {
+                    GameEngine.inst.debug("VivoH5GameAPI.onShowRewardedVideo 没到指定时间不能显示视频广告");
+                    _failCallback && _failCallback(1, "没到指定时间不能显示视频广告");
+                    return;
+                }
+                if (this.m_videoAd == null) {
+                    this.m_videoAd = this.qg.createRewardedVideoAd({
+                        posId: videoId
+                    });
+                    this.m_videoAd.onLoad(this.onRewardAdLoad);
+                    this.m_videoAd.onError(this.onRewardAdError);
+                    this.m_videoAd.onClose(this.onRewardAdClose);
+                }
+                this.onVideoAdSuccessCallback = _successCallback;
+                this.onVideoAdFailCallback = _failCallback;
+                if (this.m_videoAdIsLoaded) {
+                    this.m_videoAd.show().then(() => {
+                        GameEngine.inst.debug('VivoH5GameAPI.show 激励广告显示成功');
+                        this.isVideoAdPlaying = true;
+                        VivoH5GameAPI.inst.onHide();
+                    }).catch(err => {
+                        this.onVideoAdFailCallback && this.onVideoAdFailCallback(1, "");
+                        this.clearVideoCallbacks();
+                        GameEngine.inst.debug("激励广告展示失败" + JSON.stringify(err));
+                    });
+                }
+                else {
+                    this.m_videoAd.load().catch(err => {
+                        this.m_videoAdIsLoaded = false;
+                        this.onVideoAdFailCallback && this.onVideoAdFailCallback(1, "");
+                        this.clearVideoCallbacks();
+                        GameEngine.inst.debug("激励广告加载失败" + JSON.stringify(err));
+                    });
+                }
+            }
+            else {
+                _successCallback && _successCallback();
+            }
+            console.log('VivoH5GameAPI onShowRewardedVideo');
+        }
+        onRewardAdLoad() {
+            let adshow = VivoH5GameAPI.inst.m_videoAd.show();
+            GameEngine.inst.debug('VivoH5GameAPI.onRewardAdLoad 视频加载成功');
+            adshow && adshow.then(() => {
+                GameEngine.inst.debug('VivoH5GameAPI.show 激励广告显示成功');
+                VivoH5GameAPI.inst.isVideoAdPlaying = true;
+                VivoH5GameAPI.inst.onHide();
+            }).catch(err => {
+                GameEngine.inst.debug(`VivoH5GameAPI.show 激励广告显示错误${JSON.stringify(err)}`);
+                VivoH5GameAPI.inst.onVideoAdFailCallback && VivoH5GameAPI.inst.onVideoAdFailCallback(1, "");
+                VivoH5GameAPI.inst.clearVideoCallbacks();
+            });
+        }
+        onRewardAdError(err) {
+            VivoH5GameAPI.inst.m_videoAdIsLoaded = false;
+            VivoH5GameAPI.inst.isVideoAdPlaying = false;
+            GameEngine.inst.debug(`VivoH5GameAPI.onRewardAdError ${JSON.stringify(err)}`);
+        }
+        onRewardAdClose(res) {
+            if (res.isEnded) {
+                GameEngine.inst.debug('激励视频广告完成，发放奖励');
+                VivoH5GameAPI.inst.onVideoAdSuccessCallback && VivoH5GameAPI.inst.onVideoAdSuccessCallback();
+            }
+            else {
+                GameEngine.inst.debug('激励视频广告取消关闭，不发放奖励');
+                VivoH5GameAPI.inst.onVideoAdFailCallback && VivoH5GameAPI.inst.onVideoAdFailCallback(4, "激励视频广告取消关闭，不发放奖励");
+            }
+            VivoH5GameAPI.inst.isVideoAdPlaying = false;
+            VivoH5GameAPI.inst.m_videoAdIsLoaded = false;
+            VivoH5GameAPI.inst.onShow();
+            VivoH5GameAPI.inst.clearVideoCallbacks();
+            VivoH5GameAPI.inst.canShowRewardAd = false;
+            Laya.timer.once(VivoH5GameAPI.inst.rewardAdShowCD, this, () => {
+                GameEngine.inst.debug('激励视频倒计完成，可以再次显示');
+                VivoH5GameAPI.inst.canShowRewardAd = true;
+            });
+        }
+        clearVideoCallbacks() {
+            this.onVideoAdSuccessCallback = null;
+            this.onVideoAdFailCallback = null;
+        }
+        countDowwInsertTime() {
+            this.canLoadInsertAd = false;
+            Laya.timer.clear(this, this._countDownInsertTime);
+            Laya.timer.once(this.insertAdShowCD, this, this._countDownInsertTime);
+            GameEngine.inst.debug(`VivoH5GameAPI 插屏需要倒计:${this.insertAdShowCD}秒`);
+        }
+        _countDownInsertTime() {
+            this.canLoadInsertAd = true;
+            GameEngine.inst.debug(`VivoH5GameAPI 插屏倒计完成 ${this.canLoadInsertAd}`);
+        }
+        createInsertAd() { }
+        onShowInsertAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.versionCompareUsage(1031) == false) {
+                GameEngine.inst.debug("插屏广告需要最小平台号1031");
+                return;
+            }
+            if (this.qg) {
+                let insertAdId = PlatformConfig.inst.currentPlatform.insertAdId;
+                if (insertAdId == undefined || insertAdId == "") {
+                    GameEngine.inst.debug("insertAdId不能为空");
+                    return;
+                }
+                GameEngine.inst.debug(`检查是否可以显示插屏广告:${this.canLoadInsertAd}`);
+                if (this.canLoadInsertAd == false) {
+                    GameEngine.inst.debug("VivoH5GameAPI.onShowInsertAd 没到指定时间不能显示插屏广告");
+                    EventManager.inst.SendEvent(PlatformEvents.ON_INSERT_AD_ERROR_EVENT);
+                    return;
+                }
+                if (this.m_insertAd != null) {
+                    this.m_insertAd.offClose(this.onInsertAdClose);
+                    this.m_insertAd.offError(this.onInsertAdError);
+                    this.m_insertAd = null;
+                }
+                this.m_insertAd = this.qg.createInterstitialAd({
+                    posId: insertAdId
+                });
+                this.m_insertAd.onClose(this.onInsertAdClose);
+                this.m_insertAd.onError(this.onInsertAdError);
+                var adShow = this.m_insertAd.show();
+                adShow && adShow.then(() => {
+                    GameEngine.inst.debug("插屏广告展示成功");
+                }).catch((err) => {
+                });
+            }
+        }
+        onInsertAdClose() {
+            VivoH5GameAPI.inst.countDowwInsertTime();
+            EventManager.inst.SendEvent(PlatformEvents.ON_INSERT_AD_CLOSE_EVENT);
+            GameEngine.inst.debug('VivoH5GameAPI.onInsertAdClose 插屏广告关闭');
+        }
+        onInsertAdError(err) {
+            VivoH5GameAPI.inst.countDowwInsertTime();
+            EventManager.inst.SendEvent(PlatformEvents.ON_INSERT_AD_ERROR_EVENT);
+            GameEngine.inst.debug(`VivoH5GameAPI.onInsertAdError 插屏广告错误 ${JSON.stringify(err)}`);
+        }
+        onDestoryInsertAd() {
+            GameEngine.inst.debug("暂时不提供销毁插屏广告方法");
+            return;
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.versionCompareUsage(1031) == false) {
+                GameEngine.inst.debug("插屏广告需要最小平台号1031");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_insertAd && this.m_insertAd.destroy) {
+                    this.m_insertAd.destroy();
+                    this.m_insertAd = null;
+                }
+                else {
+                    GameEngine.inst.debug("VIVO没有销毁插屏广告方法");
+                }
+            }
+        }
+        onHideInsertAd() {
+            GameEngine.inst.debug("暂时不提供隐藏插屏广告方法");
+            return;
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.versionCompareUsage(1031) == false) {
+                GameEngine.inst.debug("插屏广告需要最小平台号1031");
+                return;
+            }
+            if (this.qg) {
+                if (this.m_insertAd && this.m_insertAd.hide) {
+                    this.m_insertAd.hide();
+                }
+                else {
+                    GameEngine.inst.debug("VIVO没有隐藏插屏广告方法");
+                }
+            }
+        }
+        createNativeAd() {
+        }
+        onNativeAdError(err) {
+            GameEngine.inst.debug(`VivoH5GameAPI.NativeAd.OnError 原生广告错误${JSON.stringify(err)}`);
+        }
+        onNativeAdLoad(res) {
+            console.log('原生广告加载完成-onload触发', JSON.stringify(res));
+            let nativeCurrentAd;
+            if (res && res.adList) {
+                nativeCurrentAd = res.adList.pop();
+                VivoH5GameAPI.inst.currentNativeAd = nativeCurrentAd;
+                VivoH5GameAPI.inst.m_nativeAd.reportAdShow({ adId: nativeCurrentAd.adId.toString() });
+                VivoH5GameAPI.inst.nativeAdOnLoad(VivoH5GameAPI.inst.currentNativeAd);
+                VivoH5GameAPI.inst.countDownNativeAdTime();
+            }
+            else {
+                console.log("不存在原生广告列表");
+            }
+        }
+        onShowNativeAd(callback, key) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                if (this.canLoadInsertAd == false) {
+                    EventManager.inst.SendEvent(PlatformEvents.ON_NATIVE_AD_READY_EVENT);
+                    EventManager.inst.SendEvent(PlatformEvents.ON_INSERT_AD_ERROR_EVENT);
+                    GameEngine.inst.debug("VivoH5GameAPI.onShowNativeAd 没到指定时间不能显示原生插屏广告");
+                    return;
+                }
+                let nativeAdId = PlatformConfig.inst.currentPlatform.nativeAdId;
+                if (nativeAdId == undefined || nativeAdId == "") {
+                    GameEngine.inst.debug("nativeAdId不能为空");
+                    return;
+                }
+                if (this.m_nativeAd == null) {
+                    this.m_nativeAd = this.qg.createNativeAd({
+                        posId: nativeAdId
+                    });
+                }
+                else {
+                    this.m_nativeAd.load();
+                }
+                VivoH5GameAPI.inst.nativeAdOnLoad = callback;
+                this.m_nativeAd.offLoad(this.onNativeAdLoad);
+                this.m_nativeAd.offLoad(this.onNativeAdError);
+                this.m_nativeAd.onLoad(this.onNativeAdLoad);
+                this.m_nativeAd.onError(this.onNativeAdError);
+            }
+        }
+        countDownNativeAdTime() {
+            this.canLoadInsertAd = false;
+            Laya.timer.clear(this, this._countDownNativeAdTime);
+            Laya.timer.once(this.insertAdShowCD, this, this._countDownNativeAdTime);
+            GameEngine.inst.debug(`VivoH5GameAPI 原生插屏需要倒计:${this.insertAdShowCD}秒`);
+        }
+        _countDownNativeAdTime() {
+            this.canLoadInsertAd = true;
+            GameEngine.inst.debug(`VivoH5GameAPI 原生插屏倒计完成 ${this.canLoadInsertAd}`);
+        }
+        onNativeAdClick(_id) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg && this.m_nativeAd) {
+                this.m_nativeAd.reportAdClick({
+                    adId: _id
+                });
+                GameEngine.inst.debug(`点击上报原生id:${JSON.stringify(_id)}`);
+            }
+        }
+        onNativeAdClose() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            GameEngine.inst.debug(`VivoH5GameAPI.onNativeAdClose 关闭原生广告-暂时没执行什么内容`);
+        }
+        onDestroyNativeAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            GameEngine.inst.debug(`VivoH5GameAPI.onDestroyNativeAd 没有销毁原生广告方法`);
+        }
+        createNativeIconAd() {
+        }
+        onNativeIconAdError(err) {
+            GameEngine.inst.debug(`VivoH5GameAPI.NativeIconAd.OnError 原生图标广告错误${JSON.stringify(err)}`);
+        }
+        onNativeIconAdLoad(res) {
+            console.log('原生图标广告加载完成-onload触发', JSON.stringify(res));
+            let nativeCurrentAd;
+            if (res && res.adList) {
+                nativeCurrentAd = res.adList.pop();
+                VivoH5GameAPI.inst.m_nativeIconAd.reportAdShow({ adId: nativeCurrentAd.adId.toString() });
+                VivoH5GameAPI.inst.nativeIconAdOnLoad(nativeCurrentAd);
+            }
+            else {
+                console.log("不存在原生广告列表");
+            }
+        }
+        onShowNativeIconAd(callback) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg) {
+                let nativeAdId = PlatformConfig.inst.currentPlatform.nativeIconAdId;
+                if (nativeAdId == undefined || nativeAdId == "") {
+                    GameEngine.inst.debug("nativeAdId不能为空");
+                    return;
+                }
+                if (this.m_nativeIconAd == null) {
+                    this.m_nativeIconAd = this.qg.createNativeAd({
+                        posId: nativeAdId
+                    });
+                }
+                else {
+                    this.m_nativeIconAd.load();
+                }
+                VivoH5GameAPI.inst.nativeIconAdOnLoad = callback;
+                this.m_nativeIconAd.offError(this.onNativeIconAdError);
+                this.m_nativeIconAd.offLoad(this.onNativeIconAdLoad);
+                this.m_nativeIconAd.onLoad(this.onNativeIconAdLoad);
+                this.m_nativeIconAd.onError(this.onNativeIconAdError);
+            }
+        }
+        onNativeIconAdClick(_id) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.qg && this.m_nativeIconAd) {
+                this.m_nativeIconAd.reportAdClick({
+                    adId: _id
+                });
+                GameEngine.inst.debug(`点击上报原生图标id:${JSON.stringify(_id)}`);
+            }
+        }
+        onNativeIconAdClose() { }
+        onDestroyNativeIconAd() { }
+        saveDataToCache(_key, _value) {
+            if (this.qg) {
+                this.qg.setStorageSync({ key: _key, value: JSON.stringify(_value) });
+            }
+            else {
+                Laya.LocalStorage.setItem(_key, JSON.stringify(_value));
+            }
+        }
+        readDataFromCache(_key) {
+            if (this.qg) {
+                var data = this.qg.getStorageSync({ key: _key });
+                if (data) {
+                    return JSON.parse(data);
+                }
+                return null;
+            }
+            else {
+                let data = Laya.LocalStorage.getItem(_key);
+                if (data) {
+                    return JSON.parse(data);
+                }
+                else {
+                    return null;
+                }
+            }
+        }
+        getDevicePlatform() {
+            return "";
+        }
+        getPlatform() {
+            return "";
+        }
+        getScreenSize() {
+            return new Laya.Size(720, 1280);
+        }
+        isVertify() {
+            return true;
+        }
+        bannerHeight() {
+            return this.m_bannerHeight;
+        }
+        notchHeight() {
+            if (this.qg) {
+                return this.qg.getNotchHeightSync().height;
+            }
+            return 20;
+        }
+        vibrateShort() {
+            if (this.qg) {
+                this.qg.vibrateShort();
+            }
+        }
+        showMoreGamesModal() { }
+        addColorSign() { }
+        reportMonitor(name, value) { }
+        navigateToMiniGame(object) { }
+        createAppBox() { }
+        onShowAppBox() { }
+        onHideAppBox() { }
+        createMoreGamesButton(inStyle) { }
+        hideMoreGameButton() { }
+        onShareVideo(callback) { }
+        onStartRecord() { }
+        onStopRecord() { }
+        sendEvent(obj) { }
+        onShare() { }
+        updateHighScore(_score) { }
+    }
+
+    class TouTiaoH5GameAPI {
+        constructor() {
+            this.tt = window['tt'];
+            this.platform = "";
+            this.isToutiaio = true;
+            this.m_bannerAd = null;
+            this.m_bannerHeight = 220;
+            this.m_videoAd = null;
+            this.m_videoAdIsLoaded = false;
+            this.m_insertAd = null;
+            this.insertAdReadyInterval = 10000;
+            this.canLoadInsertAd = false;
+            this.insertAdShowCD = 10000;
+            this.m_moreButton = null;
+            this.sdkVersion = "";
+        }
+        downloadFile(url, callback) {
+            if (this.tt) {
+                if (this.downloadTask != null) {
+                    this.downloadTask.abort();
+                }
+                console.log("下载文件到本地:", url);
+                this.downloadTask = this.tt.downloadFile({
+                    url: url,
+                    success(res) {
+                        if (res.statusCode === 200) {
+                            callback && callback(true, res);
+                        }
+                        else {
+                            callback && callback(false, null);
+                        }
+                    }
+                });
+            }
+            else {
+                callback && callback(false, null);
+            }
+        }
+        unzip(url, callback) {
+            if (this.tt) {
+                let targetP = this.tt.env.USER_DATA_PATH + "/";
+                this.tt.getFileSystemManager().unzip({
+                    zipFilePath: url,
+                    targetPath: targetP,
+                    success(res) {
+                        console.log(res);
+                        callback && callback(true);
+                    }
+                });
+            }
+            else {
+                callback && callback(false);
+            }
+        }
+        readFile(filePath, callback) {
+            if (this.tt) {
+                let url = this.userDataPath() + filePath;
+                console.log("readFileSync:", url);
+                this.tt.getFileSystemManager().readFile({
+                    filePath: url,
+                    encoding: "utf-8",
+                    success(res) {
+                        callback && callback(true, res.data);
+                    },
+                    fail(err) {
+                        callback && callback(false, "");
+                    }
+                });
+            }
+            else {
+                return "";
+            }
+        }
+        writeFileSync(filePath, data) {
+            if (this.tt) {
+                let url = this.userDataPath() + filePath;
+                console.log("writeFileSync:", url, data);
+                this.tt.getFileSystemManager().writeFileSync(url, data, "utf-8");
+            }
+        }
+        userDataPath() {
+            if (this.tt) {
+                return this.tt.env.USER_DATA_PATH + "/";
+            }
+            return "";
+        }
+        versionCompareUsage(useVersion) {
+            let versionFlag = MathHelper.CompareVersion(this.sdkVersion, useVersion);
+            if (versionFlag != 1) {
+                GameEngine.inst.debug(`SDK版本过低！你的版本为：${this.sdkVersion}`);
+                return false;
+            }
+            return true;
+        }
+        onInit(_callback) {
+            if (this.tt) {
+                TouTiaoH5GameAPI.inst = this;
+                this.systemInfo = this.tt.getSystemInfoSync();
+                console.log("头条系统信息:", JSON.stringify(this.systemInfo));
+                this.isToutiaio = this.systemInfo.appName === "Toutiao";
+                this.platform = this.systemInfo.platform;
+                this.sdkVersion = this.systemInfo.SDKVersion;
+                this.onCheckForUpdate();
+                this.onInitRecorder();
+                this.tt.onShareAppMessage(function (res) {
+                    return {
+                        templateId: PlatformConfig.inst.currentPlatform.shareTemplateId,
+                        title: '英雄冲突',
+                        desc: '',
+                        imageUrl: '',
+                        query: '',
+                        success() {
+                        },
+                        fail(e) {
+                        }
+                    };
+                });
+                this.tt.onShow(function (res) {
+                    console.log('TouTiaoH5GameAPI onShow');
+                    EventManager.inst.SendEvent(PlatformEvents.ON_SHOW);
+                });
+                this.tt.onHide(function () {
+                    console.log('TouTiaoH5GameAPI onHide');
+                    EventManager.inst.SendEvent(PlatformEvents.ON_HIDE);
+                });
+                this.insertAdReadyInterval = PlatformConfig.inst.currentPlatform.insertAdReadyInterval;
+                this.insertAdShowCD = PlatformConfig.inst.currentPlatform.insertAdShowCD;
+                Laya.timer.once(this.insertAdReadyInterval, this, () => {
+                    this.canLoadInsertAd = true;
+                });
+            }
+            console.log('TouTiaoH5GameAPI onInit');
+        }
+        onCheckForUpdate() {
+            const updateManager = this.tt.getUpdateManager();
+            updateManager.onCheckForUpdate(function (res) {
+                console.log('onCheckForUpdate', res.hasUpdate);
+                if (res.hasUpdate) {
+                    this.tt.showToast({
+                        title: '即将有更新请留意'
+                    });
+                }
+            });
+            updateManager.onUpdateReady(() => {
+                this.tt.showModal({
+                    title: '更新提示',
+                    content: '新版本已经准备好，是否立即使用？',
+                    success: function (res) {
+                        if (res.confirm) {
+                            updateManager.applyUpdate();
+                        }
+                        else {
+                            this.tt.showToast({
+                                icon: 'none',
+                                title: '小程序下一次「冷启动」时会使用新版本',
+                            });
+                        }
+                    }
+                });
+            });
+            updateManager.onUpdateFailed(() => {
+                this.tt.showToast({
+                    title: '更新失败，下次启动继续...'
+                });
+            });
+        }
+        onInitRecorder() {
+            if (this.tt) {
+                if (this.versionCompareUsage("1.4.1") == false) {
+                    GameEngine.inst.debug("录屏需要1.4.1以上");
+                    return;
+                }
+                this.m_recorder = this.tt.getGameRecorderManager();
+                this.m_recorder.onStart(res => {
+                    GameEngine.inst.debug(`开始录屏${JSON.stringify(res)}`);
+                });
+                this.m_recorder.onStop(res => {
+                    this.m_recordVideoPath = res.videoPath;
+                    GameEngine.inst.debug(`录屏结束,视频地址：${this.m_recordVideoPath}`);
+                });
+                this.m_recorder.onError(err => {
+                    GameEngine.inst.debug(`录屏错误${JSON.stringify(err)}`);
+                });
+            }
+            console.log('TouTiaoH5GameAPI onInitRecorder');
+        }
+        onInitAdService(callback) {
+            this.createBannerAd();
+            if (this.platform != "devtools") {
+                this.createRewardedVideoAd();
+            }
+            this.createInsertAd();
+            callback && callback();
+            console.log('TouTiaoH5GameAPI onInitAdService');
+        }
+        onShare(callback) {
+            if (this.tt) {
+                this.tt.shareAppMessage({
+                    templateId: PlatformConfig.inst.currentPlatform.shareTemplateId,
+                    title: '',
+                    desc: '',
+                    imageUrl: '',
+                    query: '',
+                    success() {
+                        callback(true);
+                    },
+                    fail(e) {
+                        callback(false);
+                    }
+                });
+            }
+            console.log('TouTiaoH5GameAPI onShare');
+        }
+        bannerHeight() {
+            return this.m_bannerHeight;
+        }
+        notchHeight() {
+            if (this.tt) {
+                let layout = this.tt.getMenuButtonLayout();
+                return layout.bottom + 40;
+            }
+            return 40;
+        }
+        getScreenSize() {
+            return new Laya.Size(750, 1334);
+        }
+        isVertify() {
+            return true;
+        }
+        onLogin(callback) {
+            callback && callback(true);
+            console.log('TouTiaoH5GameAPI onLogin:');
+        }
+        onShareVideo(callback) {
+            if (this.tt && this.platform != "devtools") {
+                console.log("录屏视频路径：", this.m_recordVideoPath);
+                let self = this;
+                this.tt.shareAppMessage({
+                    templateId: PlatformConfig.inst.currentPlatform.shareTemplateId,
+                    channel: 'video',
+                    title: '英雄冲突',
+                    desc: "加入英雄冲突，拯救这个世界！",
+                    imageUrl: '',
+                    query: '',
+                    extra: {
+                        videoPath: self.m_recordVideoPath,
+                        videoTopics: ['对面太强了，老铁快来帮忙啊！']
+                    },
+                    success() {
+                        console.log('分享视频成功');
+                        callback(true);
+                    },
+                    fail(e) {
+                        console.log('分享视频失败', JSON.stringify(e));
+                        callback(false);
+                    }
+                });
+            }
+            else {
+                callback(true);
+            }
+            console.log('TouTiaoH5GameAPI onShareVideo');
+        }
+        showMoreGamesModal() {
+            if (this.tt && this.platform != "ios") {
+                if (this.versionCompareUsage("1.33.0") == false) {
+                    GameEngine.inst.debug("更多游戏需要1.33.0以上");
+                    return;
+                }
+                let list = [];
+                for (let index = 0; index < PlatformConfig.inst.currentPlatform.moreGameList.length; index++) {
+                    const app = PlatformConfig.inst.currentPlatform.moreGameList[index];
+                    list.push({
+                        appId: app.appId,
+                        query: "foo=bar&baz=qux",
+                        extraData: {}
+                    });
+                }
+                this.tt.showMoreGamesModal({
+                    appLaunchOptions: list,
+                    success(res) {
+                        console.log("success", res.errMsg);
+                    },
+                    fail(res) {
+                        console.log("fail", res.errMsg);
+                    }
+                });
+                this.tt.onNavigateToMiniProgram(function (res) {
+                    console.log("open other games", res);
+                });
+            }
+            else {
+                GameEngine.inst.debug("头条ios版本不支持更多游戏");
+            }
+        }
+        onStartRecord() {
+            if (this.tt && this.platform != "devtools") {
+                if (this.versionCompareUsage("1.4.1") == false) {
+                    GameEngine.inst.debug("录屏需要1.4.1以上");
+                    return;
+                }
+                this.m_recorder.start({
+                    duration: 30,
+                });
+            }
+            GameEngine.inst.debug("TouTiaoH5GameAPI.onStartRecord 开始录屏30秒");
+        }
+        onStopRecord() {
+            if (this.tt) {
+                if (this.versionCompareUsage("1.4.1") == false) {
+                    GameEngine.inst.debug("录屏需要1.4.1以上");
+                    return;
+                }
+                this.m_recorder.stop();
+            }
+            GameEngine.inst.debug("TouTiaoH5GameAPI.onStopRecord 停止录屏");
+        }
+        createBannerAd() { }
+        onShowBanner(key) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.tt) {
+                if (this.versionCompareUsage("1.3.0") == false) {
+                    GameEngine.inst.debug("Banner广告需要1.3.0以上");
+                    return;
+                }
+                this.onDestoryBanner();
+                let style = { left: 0, top: 0, width: 128, height: 0 };
+                this.screenWidth = this.systemInfo.screenWidth / 2;
+                this.screenHeight = this.systemInfo.screenHeight;
+                style.top = this.screenHeight - (style.width / 1334) * 750;
+                this.m_bannerAd = this.tt.createBannerAd({
+                    adUnitId: PlatformConfig.inst.currentPlatform.bannerAdId,
+                    style: style
+                });
+                this.m_bannerAd.onResize(this.onBannerResize);
+                this.m_bannerAd.onLoad(this.onBannerLoaded);
+                this.m_bannerAd.onError(this.onBannerError);
+            }
+            console.log('TouTiaoH5GameAPI onShowBanner');
+        }
+        onBannerLoaded() {
+            console.log("Banner广告加载完成================");
+            TouTiaoH5GameAPI.inst.m_bannerAd.show()
+                .then(() => {
+                console.log('onBannerLoaded 广告显示成功');
+                TouTiaoH5GameAPI.inst.m_bannerHeight = 220;
+                EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_SUCCESS_EVENT);
+            })
+                .catch(err => {
+                console.log('onBannerLoaded 广告组件出现问题', err);
+                TouTiaoH5GameAPI.inst.m_bannerHeight = 20;
+                EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+            });
+        }
+        onBannerError(err) {
+            console.log("Banner广告加载失败:", JSON.stringify(err));
+            TouTiaoH5GameAPI.inst.m_bannerHeight = 20;
+            EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+        }
+        onBannerResize(size) {
+            TouTiaoH5GameAPI.inst.m_bannerAd.style.left = TouTiaoH5GameAPI.inst.screenWidth - size.width / 2;
+            TouTiaoH5GameAPI.inst.m_bannerAd.style.top = TouTiaoH5GameAPI.inst.screenHeight - size.height;
+        }
+        onHideBanner() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.m_bannerAd) {
+                if (this.versionCompareUsage("1.3.0") == false) {
+                    GameEngine.inst.debug("Banner广告需要1.3.0以上");
+                    return;
+                }
+                this.m_bannerHeight = 20;
+                this.m_bannerAd.hide();
+                EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+            }
+            console.log('TouTiaoH5GameAPI onHideBanner');
+        }
+        onDestoryBanner() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.m_bannerAd) {
+                if (this.versionCompareUsage("1.3.0") == false) {
+                    GameEngine.inst.debug("Banner广告需要1.3.0以上");
+                    return;
+                }
+                this.m_bannerHeight = 20;
+                this.m_bannerAd.offResize(this.onBannerResize);
+                this.m_bannerAd.offLoad(this.onBannerLoaded);
+                this.m_bannerAd.offError(this.onBannerError);
+                this.m_bannerAd.destroy();
+                this.m_bannerAd = null;
+                EventManager.inst.SendEvent(PlatformEvents.ON_BANNER_FAIL_EVENT);
+            }
+            console.log('TouTiaoH5GameAPI onDestoryBanner');
+        }
+        createRewardedVideoAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.tt) {
+                if (this.versionCompareUsage("1.3.0") == false) {
+                    GameEngine.inst.debug("激励视频广告1.3.0以上");
+                    return;
+                }
+                this.m_videoAd = this.tt.createRewardedVideoAd({
+                    adUnitId: PlatformConfig.inst.currentPlatform.videoAdId
+                });
+                this.m_videoAd.onLoad(() => {
+                    GameEngine.inst.debug("TouTiaoH5GameAPI 激励广告加载成功");
+                    this.m_videoAdIsLoaded = true;
+                });
+                this.m_videoAd.onError((err) => {
+                    GameEngine.inst.debug(`TouTiaoH5GameAPI.onError 激励广告组件出现问题,${JSON.stringify(err)}`);
+                    this.onVideoFailCallback && this.onVideoFailCallback(1, "广告组件出现问题");
+                    this.m_videoAdIsLoaded = false;
+                    this.clearVideoCallback();
+                });
+                this.m_videoAd.onClose((res) => {
+                    this.m_videoAdIsLoaded = false;
+                    if (res.isEnded) {
+                        GameEngine.inst.debug("TouTiaoH5GameAPI 激励视频广告完成，发放奖励");
+                        this.onVideoSuccessCallback && this.onVideoSuccessCallback();
+                        this.m_videoAd.load();
+                    }
+                    else {
+                        GameEngine.inst.debug("激励视频广告取消关闭，不发放奖励");
+                        this.onVideoFailCallback && this.onVideoFailCallback(4, "激励视频广告取消关闭，不发放奖励");
+                    }
+                    this.clearVideoCallback();
+                });
+            }
+            GameEngine.inst.debug("TouTiaoH5GameAPI.createRewardedVideoAd 创建激励视频广告");
+        }
+        onShowRewardedVideo(_successCallback, _failCallback, key) {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                _successCallback && _successCallback();
+                return;
+            }
+            if (this.tt && this.platform != "devtools") {
+                if (this.versionCompareUsage("1.3.0") == false) {
+                    GameEngine.inst.debug("激励视频广告1.3.0以上");
+                    _failCallback && _failCallback(1, "广告组件有问题");
+                    return;
+                }
+                this.onVideoSuccessCallback = _successCallback;
+                this.onVideoFailCallback = _failCallback;
+                if (this.m_videoAd == null) {
+                    this.createRewardedVideoAd();
+                }
+                if (this.m_videoAd) {
+                    this.m_videoAd
+                        .show()
+                        .then(() => {
+                        console.log("广告显示成功");
+                    })
+                        .catch((err) => {
+                        console.log("广告组件出现问题", err);
+                        this.m_videoAd.load().then(() => {
+                            console.log("手动加载成功");
+                            this.m_videoAd.show();
+                        });
+                    });
+                }
+                else {
+                    _failCallback && _failCallback(1, "广告组件有问题");
+                }
+            }
+            else {
+                _successCallback && _successCallback();
+            }
+            GameEngine.inst.debug("TouTiaoH5GameAPI.onShowRewardedVideo 显示激励视频广告");
+        }
+        clearVideoCallback() {
+            TouTiaoH5GameAPI.inst.onVideoSuccessCallback = null;
+            TouTiaoH5GameAPI.inst.onVideoFailCallback = null;
+        }
+        createInsertAd() { }
+        onShowInsertAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.canLoadInsertAd == false) {
+                GameEngine.inst.debug("TouTiaoH5GameAPI.onShowInsertAd 没到指定时间不能显示插屏广告");
+                EventManager.inst.SendEvent(PlatformEvents.ON_INSERT_AD_ERROR_EVENT);
+                return;
+            }
+            if (this.tt && this.isToutiaio) {
+                this.onDestoryInsertAd();
+                this.m_insertAd = this.tt.createInterstitialAd({
+                    adUnitId: PlatformConfig.inst.currentPlatform.insertAdId
+                });
+                this.m_insertAd.onLoad(this.onInsertAdLoaded);
+                this.m_insertAd.onError(this.onInsertAdError);
+                this.m_insertAd.onClose(this.onInsertAdClose);
+            }
+            if (this.m_insertAd) {
+                this.m_insertAd.show()
+                    .then(() => {
+                    GameEngine.inst.debug(`TouTiaoH5GameAPI.onShowInsertAd 插屏广告显示成功`);
+                    this.canLoadInsertAd = false;
+                })
+                    .catch(err => {
+                    GameEngine.inst.debug(`TouTiaoH5GameAPI.onShowInsertAd 插屏广告显示失败 ${JSON.stringify(err)}`);
+                });
+                ;
+                GameEngine.inst.debug("TouTiaoH5GameAPI.onShowInsertAd 显示插屏广告");
+            }
+        }
+        onHideInsertAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            GameEngine.inst.debug("TouTiaoH5GameAPI.onHideInsertAd 头条的插屏没有hide方法");
+        }
+        onDestoryInsertAd() {
+            if (PlatformConfig.inst.currentPlatform.canAd == false) {
+                GameEngine.inst.debug("没广告版本");
+                return;
+            }
+            if (this.tt) {
+                if (this.m_insertAd) {
+                    this.canLoadInsertAd = true;
+                    this.m_insertAd.offLoad(this.onInsertAdLoaded);
+                    this.m_insertAd.offError(this.onInsertAdError);
+                    this.m_insertAd.offClose(this.onInsertAdClose);
+                    this.m_insertAd.destroy();
+                    this.m_insertAd = null;
+                    GameEngine.inst.debug("TouTiaoH5GameAPI.onDestoryInsertAd 移除插屏广告");
+                }
+            }
+        }
+        onInsertAdLoaded() {
+            GameEngine.inst.debug("TouTiaoH5GameAPI.onInsertAdLoaded 插屏广告加载成功");
+        }
+        onInsertAdError(err) {
+            GameEngine.inst.debug(`TouTiaoH5GameAPI.onInsertAdError 插屏广告加载失败,${JSON.stringify(err)}`);
+        }
+        onInsertAdClose() {
+            Laya.timer.once(TouTiaoH5GameAPI.inst.insertAdShowCD, TouTiaoH5GameAPI.inst, () => {
+                TouTiaoH5GameAPI.inst.canLoadInsertAd = true;
+            });
+            TouTiaoH5GameAPI.inst.onDestoryInsertAd();
+            TouTiaoH5GameAPI.inst.canLoadInsertAd = false;
+            GameEngine.inst.debug(`TouTiaoH5GameAPI.onInsertAdClose 关闭插屏广告 ${TouTiaoH5GameAPI.inst.insertAdShowCD, TouTiaoH5GameAPI.inst.canLoadInsertAd} `);
+        }
+        createInnerAudioContext() {
+            if (this.tt) {
+                return this.tt.createInnerAudioContext();
+            }
+            return null;
+        }
+        saveDataToCache(_key, _value) {
+            Laya.LocalStorage.setJSON(_key, _value);
+        }
+        readDataFromCache(_key) {
+            return Laya.LocalStorage.getJSON(_key);
+        }
+        vibrateShort() {
+            if (this.tt) {
+                this.tt.vibrateShort();
+            }
+        }
+        sendEvent(obj) {
+            if (this.tt) {
+                if (this.versionCompareUsage("1.8.0") == false) {
+                    GameEngine.inst.debug("发送事件需要1.8.0以上");
+                    return;
+                }
+                this.tt.reportAnalytics(obj.key, obj.data);
+            }
+            console.log('TouTiaoH5GameAPI sendEvent');
+        }
+        getDevicePlatform() {
+            return "";
+        }
+        getPlatform() {
+            return this.platform;
+        }
+        createMoreGamesButton(inStyle) {
+            if (this.tt) {
+                if (this.m_moreButton) {
+                    this.m_moreButton.show();
+                    return;
+                }
+                let scale = Laya.Browser.clientWidth / fairygui.GRoot.inst.width;
+                let style = {
+                    left: 0,
+                    top: 0,
+                    width: 108 * scale,
+                    height: 117 * scale,
+                    lineHeight: 0,
+                    backgroundColor: "#ff000000",
+                    textColor: "#ff0000",
+                    textAlign: "center",
+                    fontSize: 12,
+                    borderRadius: 0,
+                    borderWidth: 0,
+                    borderColor: '#ff0000'
+                };
+                if (inStyle) {
+                    style.left = inStyle.left * scale;
+                    style.top = inStyle.top * scale;
+                    style.width = inStyle.width * scale;
+                    style.height = inStyle.height * scale;
+                }
+                this.m_moreButton = this.tt.createMoreGamesButton({
+                    type: "image",
+                    image: "images/moregame.png",
+                    style: style,
+                    appLaunchOptions: [],
+                    onNavigateToMiniGame(res) {
+                        console.log('跳转其他小游戏', res);
+                    }
+                });
+                this.m_moreButton.onTap(() => {
+                    console.log('点击更多游戏');
+                });
+            }
+        }
+        hideMoreGameButton() {
+            if (this.m_moreButton) {
+                this.m_moreButton.hide();
+            }
+        }
+        pay(paymentData, callback) {
+        }
+        navigateToMiniGame(object) {
+        }
+        updateHighScore(_score) {
+            console.log('TouTiaoH5GameAPI updateHighScore');
+        }
+        reportMonitor(name, value) {
+        }
+        createNativeIconAd() {
+        }
+        onShowNativeIconAd(callback) {
+        }
+        onNativeIconAdClick(_id) {
+        }
+        onNativeIconAdClose() {
+        }
+        createNativeAd() {
+        }
+        onShowNativeAd() {
+        }
+        onNativeAdClick(_id) {
+        }
+        onNativeAdClose() {
+        }
+        addColorSign() {
+        }
+        createAppBox() {
+        }
+        onShowAppBox() {
+        }
+        onHideAppBox() {
+        }
+        hasShortcutInstalled(callback) {
+            callback(false);
+        }
+        installShortcut(callback) {
+            callback(false);
+        }
+        onDestroyNativeAd() {
+        }
+        onDestroyNativeIconAd() {
+        }
+    }
+
+    class WebH5GameAPI {
+        downloadFile(url, callback) {
+        }
+        unzip(url, callback) {
+        }
+        readFile(filePath, callback) {
+        }
+        writeFileSync(filePath, data) {
+        }
+        userDataPath() {
+            return "";
+        }
+        onDestroyNativeAd() {
+        }
+        onDestroyNativeIconAd() {
+        }
+        onDestoryBanner() {
+        }
+        onDestoryInsertAd() {
+        }
+        createInnerAudioContext() {
+            return null;
+        }
+        onHideInsertAd() {
+        }
+        navigateToMiniGame(object) {
+        }
+        pay(paymentData, callback) {
+        }
+        getPlatform() {
+            return "";
+        }
+        showMoreGamesModal() {
+        }
+        reportMonitor(name, value) {
+        }
+        createNativeIconAd() {
+        }
+        onShowNativeIconAd(callback) {
+        }
+        onNativeIconAdClick(_id) {
+        }
+        onNativeIconAdClose() {
+        }
+        getDevicePlatform() {
+            return "";
+        }
+        addColorSign() {
+        }
+        onNativeAdClose() {
+        }
+        createAppBox() {
+        }
+        onShowAppBox() {
+        }
+        onHideAppBox() {
+        }
+        hasShortcutInstalled(callback) {
+            callback(true);
+        }
+        installShortcut(callback) {
+            callback(true);
+        }
+        createMoreGamesButton(inStyle) {
+        }
+        hideMoreGameButton() {
+        }
+        onShareVideo(callback) {
+        }
+        bannerHeight() {
+            return 20;
+        }
+        notchHeight() {
+            return 20;
+        }
+        sendEvent(obj) {
+        }
+        vibrateShort() {
+        }
+        onStartRecord() {
+        }
+        onStopRecord() {
+        }
+        getScreenSize() {
+            return new Laya.Size(720, 1280);
+        }
+        isVertify() {
+            return true;
+        }
+        onInit(_callback) {
+            console.log('WebH5GameAPI onInit');
+        }
+        onLogin(callback) {
+            callback && callback(true);
+            console.log('WebH5GameAPI onLogin');
+        }
+        onShare() {
+            console.log('WebH5GameAPI onShare');
+        }
+        updateHighScore(_score) {
+            console.log('WebH5GameAPI updateHighScore');
+        }
+        onInitAdService(callback) {
+            console.log('WebH5GameAPI onInitAdService');
+            callback && callback();
+            console.log('WebH5GameAPI onInitAdService');
+        }
+        createBannerAd() {
+            console.log('WebH5GameAPI createBannerAd');
+        }
+        onShowBanner() {
+            console.log('WebH5GameAPI onShowBanner');
+        }
+        onHideBanner() {
+            console.log('WebH5GameAPI onHideBanner');
+        }
+        createRewardedVideoAd() {
+            console.log('WebH5GameAPI createRewardedVideoAd');
+        }
+        onShowRewardedVideo(_successCallback, _failCallback) {
+            _successCallback && _successCallback();
+            console.log('WebH5GameAPI onShowRewardedVideo');
+        }
+        createInsertAd() {
+            console.log('WebH5GameAPI createInsertAd');
+        }
+        onShowInsertAd() {
+            console.log('WebH5GameAPI onShowInsertAd');
+        }
+        createNativeAd() {
+            console.log('WebH5GameAPI createNativeAd');
+        }
+        onShowNativeAd() {
+            console.log('WebH5GameAPI onShowNativeAd');
+        }
+        onNativeAdClick(_id) {
+            console.log('WebH5GameAPI onNativeAdClick:' + _id);
+        }
+        saveDataToCache(_key, _value) {
+            Laya.LocalStorage.setItem(_key, JSON.stringify(_value));
+        }
+        readDataFromCache(_key) {
+            return JSON.parse(Laya.LocalStorage.getItem(_key));
+        }
+    }
+
+    var Platform;
+    (function (Platform) {
+        Platform[Platform["NotSet"] = 999] = "NotSet";
+        Platform[Platform["weixin_h5"] = 0] = "weixin_h5";
+        Platform[Platform["qqplay_h5"] = 1] = "qqplay_h5";
+        Platform[Platform["oppo_h5"] = 2] = "oppo_h5";
+        Platform[Platform["vivo_h5"] = 3] = "vivo_h5";
+        Platform[Platform["baidu_h5"] = 4] = "baidu_h5";
+        Platform[Platform["xiaomi_h5"] = 5] = "xiaomi_h5";
+        Platform[Platform["x4399_h5"] = 6] = "x4399_h5";
+        Platform[Platform["toutiao_h5"] = 7] = "toutiao_h5";
+        Platform[Platform["game_app"] = 8] = "game_app";
+        Platform[Platform["web_h5"] = 9] = "web_h5";
+        Platform[Platform["huawei_h5"] = 10] = "huawei_h5";
+    })(Platform || (Platform = {}));
+    class Platforms {
+        constructor() {
+            this.platformAPI = null;
+            this._platform = Platform.NotSet;
+        }
+        static get inst() {
+            if (this.m_instance === null) {
+                this.m_instance = new Platforms();
+            }
+            return this.m_instance;
+        }
+        get platform() {
+            if (this._platform === Platform.NotSet) {
+                if (window["tt"]) {
+                    this._platform = Platform.toutiao_h5;
+                }
+                else if (Laya.Browser.onQQMiniGame) {
+                    this._platform = Platform.qqplay_h5;
+                }
+                else if (Laya.Browser.onWeiXin) {
+                    this._platform = Platform.weixin_h5;
+                }
+                else if (Laya.Browser.onKGMiniGame) {
+                    this._platform = Platform.xiaomi_h5;
+                }
+                else if (Laya.Browser.onBDMiniGame) {
+                    this._platform = Platform.baidu_h5;
+                }
+                else if (Laya.Browser.onQGMiniGame) {
+                    this._platform = Platform.oppo_h5;
+                }
+                else if (Laya.Browser.onVVMiniGame) {
+                    this._platform = Platform.vivo_h5;
+                }
+                else if (window["hbs"]) {
+                    this._platform = Platform.huawei_h5;
+                }
+                else {
+                    this._platform = Platform.web_h5;
+                }
+            }
+            return this._platform;
+        }
+        set platform(value) {
+            this._platform = value;
+        }
+        get platformDisplayName() {
+            let disName = "web";
+            switch (this.platform) {
+                case Platform.weixin_h5:
+                    disName = "微信小游戏";
+                    break;
+                case Platform.qqplay_h5:
+                    disName = "手Q小游戏";
+                    break;
+                case Platform.oppo_h5:
+                    disName = "OPPO小游戏";
+                    break;
+                case Platform.vivo_h5:
+                    disName = "VIVO小游戏";
+                    break;
+                case Platform.baidu_h5:
+                    break;
+                case Platform.xiaomi_h5:
+                    break;
+                case Platform.x4399_h5:
+                    break;
+                case Platform.toutiao_h5:
+                    disName = "头条小游戏";
+                    break;
+                case Platform.game_app:
+                    disName = "APP";
+                    break;
+            }
+            return disName;
+        }
+        init() {
+            switch (this.platform) {
+                case Platform.weixin_h5:
+                    this.platformAPI = new WeiXinH5GameAPI();
+                    break;
+                case Platform.oppo_h5:
+                    this.platformAPI = new OPPOH5GameAPI();
+                    break;
+                case Platform.vivo_h5:
+                    this.platformAPI = new VivoH5GameAPI();
+                    break;
+                case Platform.toutiao_h5:
+                    this.platformAPI = new TouTiaoH5GameAPI();
+                    break;
+                case Platform.web_h5:
+                    this.platformAPI = new WebH5GameAPI();
+                    break;
+            }
+        }
+        userDataPath() {
+            return this.platformAPI && this.platformAPI.userDataPath();
+        }
+        downloadFile(url, callback) {
+            this.platformAPI && this.platformAPI.downloadFile(url, callback);
+        }
+        readFile(filePath, callback) {
+            return this.platformAPI && this.platformAPI.readFile(filePath, callback);
+        }
+        writeFileSync(filePath, data) {
+            this.platformAPI && this.platformAPI.writeFileSync(filePath, data);
+        }
+        unzip(zipUrl, callback) {
+            this.platformAPI && this.platformAPI.unzip(zipUrl, callback);
+        }
+        onInit(_callback) {
+            if (this.platformAPI && this.platformAPI !== null) {
+                this.platformAPI.onInit(_callback);
+            }
+        }
+        vibrateShort() {
+            this.platformAPI && this.platformAPI.vibrateShort();
+        }
+        startRecord() {
+            this.platformAPI && this.platformAPI.onStartRecord();
+        }
+        stopRecord() {
+            this.platformAPI && this.platformAPI.onStopRecord();
+        }
+        onLogin(callback) {
+            this.platformAPI && this.platformAPI.onLogin(callback);
+        }
+        onShare(callback) {
+            this.platformAPI && this.platformAPI.onShare(callback);
+        }
+        onShareVideo(callback) {
+            let ttPlatform = this.platformAPI;
+            ttPlatform && ttPlatform.onShareVideo(callback);
+        }
+        onShowAppBoxAd() {
+            this.platformAPI && this.platformAPI.onShowAppBox();
+        }
+        createMoreGamesButton(inStyle) {
+            let ttPlatform = this.platformAPI;
+            ttPlatform && ttPlatform.createMoreGamesButton(inStyle);
+        }
+        hideMoreGameButton() {
+            let ttPlatform = this.platformAPI;
+            ttPlatform && ttPlatform.hideMoreGameButton();
+        }
+        updateHighScore(_score) {
+            this.platformAPI && this.platformAPI.updateHighScore(_score);
+        }
+        onInitAdService(callback) {
+            this.platformAPI && this.platformAPI.onInitAdService(callback);
+        }
+        createBannerAd() {
+            this.platformAPI && this.platformAPI.createBannerAd();
+        }
+        onShowBanner(key) {
+            this.platformAPI && this.platformAPI.onShowBanner(key);
+        }
+        onHideBanner() {
+            this.platformAPI && this.platformAPI.onHideBanner();
+        }
+        onDestoryBanner() {
+            this.platformAPI && this.platformAPI.onDestoryBanner();
+        }
+        createRewardedVideoAd() {
+            this.platformAPI && this.platformAPI.createRewardedVideoAd();
+        }
+        onShowRewardedVideo(_successCallback, _failCallback, key) {
+            this.platformAPI && this.platformAPI.onShowRewardedVideo(() => {
+                Laya.timer.scale = 1;
+                _successCallback && _successCallback();
+            }, (code, msg) => {
+                Laya.timer.scale = 1;
+                _failCallback && _failCallback(code, msg);
+            }, key);
+        }
+        createInsertAd() {
+            this.platformAPI && this.platformAPI.createInsertAd();
+        }
+        onShowInsertAd() {
+            this.platformAPI && this.platformAPI.onShowInsertAd();
+        }
+        onDestoryInsertAd() {
+            this.platformAPI && this.platformAPI.onDestoryInsertAd();
+        }
+        createNativeAd() {
+            this.platformAPI && this.platformAPI.createNativeAd();
+        }
+        onShowNativeAd(callback, key) {
+            this.platformAPI && this.platformAPI.onShowNativeAd(callback, key);
+        }
+        onNativeAdClick(_id) {
+            this.platformAPI && this.platformAPI.onNativeAdClick(_id);
+        }
+        onNativeAdClose() {
+            this.platformAPI && this.platformAPI.onNativeAdClose();
+        }
+        onDestroyNativeAd() {
+            this.platformAPI && this.platformAPI.onDestroyNativeAd();
+        }
+        createNativeIconAd() {
+            this.platformAPI && this.platformAPI.createNativeIconAd();
+        }
+        onShowNativeIconAd(callback, key) {
+            this.platformAPI && this.platformAPI.onShowNativeIconAd(callback, key);
+        }
+        onNativeIconAdClick(_id) {
+            this.platformAPI && this.platformAPI.onNativeIconAdClick(_id);
+        }
+        onNativeAdIconClose() {
+            this.platformAPI && this.platformAPI.onNativeIconAdClose();
+        }
+        onDestroyNativeIconAd() {
+            this.platformAPI && this.platformAPI.onDestroyNativeIconAd();
+        }
+        reportMonitor(name, value) {
+            this.platformAPI && this.platformAPI.reportMonitor(name, value);
+        }
+        saveDataToCache(_key, _value) {
+            this.platformAPI && this.platformAPI.saveDataToCache(_key, _value);
+        }
+        readDataFromCache(_key) {
+            return this.platformAPI && this.platformAPI.readDataFromCache(_key);
+        }
+        canRetinalCanvas() {
+            let arr = [Platform.oppo_h5];
+            for (let i = 0; i < arr.length; ++i) {
+                if (arr[i] === this.platform) {
+                    return true;
+                }
+            }
+            return false;
+        }
+        sendEvent(obj) {
+            this.platformAPI && this.platformAPI.sendEvent(obj);
+        }
+        setLoadingProgress(progress) {
+        }
+        notchHeight() {
+            return this.platformAPI && this.platformAPI.notchHeight();
+        }
+        bannerHeight() {
+            return this.platformAPI && this.platformAPI.bannerHeight();
+        }
+        hasShortcutInstalled(callback) {
+            this.platformAPI && this.platformAPI.hasShortcutInstalled(callback);
+        }
+        installShortcut(callback) {
+            this.platformAPI && this.platformAPI.installShortcut(callback);
+        }
+        isVertify() {
+            return this.platformAPI && this.platformAPI.isVertify();
+        }
+        addColorSign() {
+            return this.platformAPI && this.platformAPI.addColorSign();
+        }
+        getDevicePlatform() {
+            return this.platformAPI && this.platformAPI.getDevicePlatform();
+        }
+        showMoreGamesModal() {
+            this.platformAPI && this.platformAPI.showMoreGamesModal();
+        }
+        getPlatform() {
+            return this.platformAPI && this.platformAPI.getPlatform();
+        }
+        pay(paymentData, callback) {
+            this.platformAPI && this.platformAPI.pay(paymentData, callback);
+        }
+        navigateToMiniGame(object) {
+            this.platformAPI && this.platformAPI.navigateToMiniGame(object);
+        }
+        createInnerAudioContext() {
+            return this.platformAPI && this.platformAPI.createInnerAudioContext();
+        }
+    }
+    Platforms.m_instance = null;
+
+    class UI_NativeAdViewButton extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "NativeAdViewButton"));
+        }
+        onConstruct() {
+            this.m_n0 = (this.getChildAt(0));
+            this.m_n1 = (this.getChildAt(1));
+            this.m_n2 = (this.getChildAt(2));
+        }
+    }
+    UI_NativeAdViewButton.URL = "ui://2lldjolij6l4j8l";
+
+    class UI_NativeAdViewCommandBtn extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "NativeAdViewCommandBtn"));
+        }
+        onConstruct() {
+            this.m_icon = (this.getChildAt(0));
+        }
+    }
+    UI_NativeAdViewCommandBtn.URL = "ui://2lldjolij6l4j8m";
+
+    class UI_MoreGameBtn extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "MoreGameBtn"));
+        }
+        onConstruct() {
+            this.m_n0 = (this.getChildAt(0));
+        }
+    }
+    UI_MoreGameBtn.URL = "ui://2lldjolij6l4j8o";
+
+    class UI_ShortcutBtn extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "ShortcutBtn"));
+        }
+        onConstruct() {
+            this.m_n0 = (this.getChildAt(0));
+        }
+    }
+    UI_ShortcutBtn.URL = "ui://2lldjolij6l4j8q";
+
+    class UI_NativeImage extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "NativeImage"));
+        }
+        onConstruct() {
+            this.m_n18 = (this.getChildAt(0));
+            this.m_ImageLoader = (this.getChildAt(1));
+            this.m_n20 = (this.getChildAt(2));
+        }
+    }
+    UI_NativeImage.URL = "ui://2lldjolijixpj8b";
+
+    class UI_NativeImageLoader extends fgui.GLabel {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "NativeImageLoader"));
+        }
+        onConstruct() {
+            this.m_icon = (this.getChildAt(0));
+        }
+    }
+    UI_NativeImageLoader.URL = "ui://2lldjolijixpj8c";
+
+    class UI_MoreGameCloseBtn extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "MoreGameCloseBtn"));
+        }
+        onConstruct() {
+            this.m_icon = (this.getChildAt(0));
+            this.m_t0 = this.getTransitionAt(0);
+        }
+    }
+    UI_MoreGameCloseBtn.URL = "ui://2lldjolijixpj8f";
+
+    class UI_MoreGameIcon extends fgui.GLabel {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "MoreGameIcon"));
+        }
+        onConstruct() {
+            this.m_n2 = (this.getChildAt(0));
+            this.m_icon = (this.getChildAt(1));
+        }
+    }
+    UI_MoreGameIcon.URL = "ui://2lldjolijixpj8g";
+
+    class UI_MoreGameView extends fgui.GComponent {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "MoreGameView"));
+        }
+        onConstruct() {
+            this.m_n3 = (this.getChildAt(0));
+            this.m_n6 = (this.getChildAt(1));
+            this.m_n7 = (this.getChildAt(2));
+            this.m_CloseBtn = (this.getChildAt(3));
+            this.m_List = (this.getChildAt(4));
+            this.m_n5 = (this.getChildAt(5));
+        }
+    }
+    UI_MoreGameView.URL = "ui://2lldjolijixpj8h";
+
+    class UI_MaskIcon extends fgui.GLabel {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "MaskIcon"));
+        }
+        onConstruct() {
+            this.m_n2 = (this.getChildAt(0));
+            this.m_icon = (this.getChildAt(1));
+        }
+    }
+    UI_MaskIcon.URL = "ui://2lldjolilo4q3y";
+
+    class UI_NativeIcon extends fgui.GButton {
+        static createInstance() {
+            return (fgui.UIPackage.createObject("GameAdUI", "NativeIcon"));
+        }
+        onConstruct() {
+            this.m_n1 = (this.getChildAt(0));
+            this.m_IconMask = (this.getChildAt(1));
+            this.m_n3 = (this.getChildAt(2));
+        }
+    }
+    UI_NativeIcon.URL = "ui://2lldjolilo4q40";
+
+    class GameAdUIBinder {
+        static bindAll() {
+            fgui.UIObjectFactory.setExtension(UI_NativeAdViewButton.URL, UI_NativeAdViewButton);
+            fgui.UIObjectFactory.setExtension(UI_NativeAdViewCommandBtn.URL, UI_NativeAdViewCommandBtn);
+            fgui.UIObjectFactory.setExtension(UI_MoreGameBtn.URL, UI_MoreGameBtn);
+            fgui.UIObjectFactory.setExtension(UI_ShortcutBtn.URL, UI_ShortcutBtn);
+            fgui.UIObjectFactory.setExtension(UI_NativeImage.URL, UI_NativeImage);
+            fgui.UIObjectFactory.setExtension(UI_NativeImageLoader.URL, UI_NativeImageLoader);
+            fgui.UIObjectFactory.setExtension(UI_MoreGameCloseBtn.URL, UI_MoreGameCloseBtn);
+            fgui.UIObjectFactory.setExtension(UI_MoreGameIcon.URL, UI_MoreGameIcon);
+            fgui.UIObjectFactory.setExtension(UI_MoreGameView.URL, UI_MoreGameView);
+            fgui.UIObjectFactory.setExtension(UI_MaskIcon.URL, UI_MaskIcon);
+            fgui.UIObjectFactory.setExtension(UI_NativeIcon.URL, UI_NativeIcon);
+            fgui.UIObjectFactory.setExtension(UI_NativeAdView.URL, UI_NativeAdView);
+        }
+    }
+
+    class MoreGameViewController extends ViewControllerGeneric {
+        get URL() {
+            return UI_MoreGameView.URL;
+        }
+        init() {
+            this.onViewAdded = Laya.Handler.create(this, this.bind);
+            this.onViewWillDestory = Laya.Handler.create(this, this.unbind);
+            super.init();
+        }
+        unbind() {
+            if (this.view.m_List.itemRenderer) {
+                this.view.m_List.itemRenderer.clear();
+            }
+            this.view.m_List.off(fairygui.Events.CLICK_ITEM, this, this.onItemClick);
+        }
+        bind() {
+            this.view.m_CloseBtn.onClick(this, this.onClose);
+            this.view.m_List.itemRenderer = Laya.Handler.create(this, this.onItemRenderer, null, false);
+            this.view.m_List.numItems = PlatformConfig.inst.currentPlatform.moreGameList.length;
+            this.view.m_List.on(fairygui.Events.CLICK_ITEM, this, this.onItemClick);
+        }
+        onItemRenderer(index, ui) {
+            let data = PlatformConfig.inst.currentPlatform.moreGameList[index];
+            ui.icon = data.icon;
+        }
+        onItemClick(ui) {
+            let data = PlatformConfig.inst.currentPlatform.moreGameList[this.view.m_List.selectedIndex];
+            let packageName = data.packageName;
+            Platforms.inst.navigateToMiniGame(packageName);
+        }
+        onClose() {
+            this.removeSelf();
+        }
+    }
+
+    class MoreGameBtnComponent extends UI_MoreGameBtn {
+        onConstruct() {
+            super.onConstruct();
+            this.on(Laya.Event.ADDED, this, this.init);
+            this.on(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+        init() {
+            if (Platforms.inst.platform == Platform.oppo_h5) {
+                this.visible = true;
+            }
+            else if (Platforms.inst.platform == Platform.toutiao_h5 && Platforms.inst.getPlatform() == "ios") {
+                this.visible = true;
+            }
+            else {
+                this.visible = false;
+            }
+            this.onClick(this, () => {
+                if (Platforms.inst.platform == Platform.oppo_h5) {
+                    UIManager.inst.showPopupView(new MoreGameViewController());
+                }
+                else if (Platforms.inst.platform == Platform.toutiao_h5) {
+                    Platforms.inst.showMoreGamesModal();
+                }
+            });
+        }
+        removeToScene() {
+            this.off(Laya.Event.ADDED, this, this.init);
+            this.off(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+    }
+
+    class NativeIconComponent extends UI_NativeIcon {
+        constructor() {
+            super(...arguments);
+            this.images = [];
+        }
+        onConstruct() {
+            super.onConstruct();
+            this.on(Laya.Event.ADDED, this, this.addToScene);
+            this.on(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+        addToScene() {
+            this.key = this.data;
+            this.getAd(this.key);
+        }
+        removeToScene() {
+            this.off(Laya.Event.ADDED, this, this.addToScene);
+            this.off(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+        getAd(key) {
+            this.key = key;
+            console.log("getAD:", this.key);
+            Platforms.inst.onShowNativeIconAd((ad) => {
+                if (ad) {
+                    this.ad = ad;
+                    PlatformAdManager.inst.nativeIconData = this.ad;
+                }
+                else {
+                    this.ad = PlatformAdManager.inst.nativeIconData;
+                    console.log("读取缓存的广告数据");
+                }
+                console.log(NativeIconComponent.name, "获取原生图标数据:", JSON.stringify(this.ad));
+                this.setData(this.ad);
+            }, this.key);
+        }
+        setData(ad) {
+            if (ad == null) {
+                this.visible = false;
+                console.warn("没有原生图标广告数据!!!");
+                return;
+            }
+            this.visible = true;
+            if (Platforms.inst.platform == Platform.oppo_h5) {
+                if (ad.imgUrlList && ad.imgUrlList.length > 0) {
+                    this.images = ad.imgUrlList;
+                }
+                else if (ad.iconUrlList && ad.iconUrlList.length > 0) {
+                    this.images = ad.iconUrlList;
+                }
+                else if (ad.icon) {
+                    this.images.push(ad.icon);
+                }
+            }
+            this.m_IconMask.icon = this.images[0];
+            this.onClick(this, () => {
+                Platforms.inst.onNativeIconAdClick(ad.adId);
+                this.getAd(this.key);
+            });
+        }
+    }
+
+    class NativeImageComponent extends UI_NativeImage {
+        constructor() {
+            super(...arguments);
+            this.images = [];
+            this.index = 0;
+        }
+        onConstruct() {
+            super.onConstruct();
+            this.on(Laya.Event.ADDED, this, this.addToScene);
+            this.on(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+        addToScene() {
+            this.key = this.data;
+            this.visible = false;
+            this.getAd(this.key);
+        }
+        removeToScene() {
+            this.off(Laya.Event.ADDED, this, this.addToScene);
+            this.off(Laya.Event.UNDISPLAY, this, this.removeToScene);
+            Laya.timer.clear(this, this.loadImage);
+        }
+        getAd(key) {
+            this.visible = false;
+            if (Platforms.inst.platform == Platform.oppo_h5 || Platforms.inst.platform == Platform.vivo_h5) {
+                this.key = key;
+                this.index = 0;
+                Platforms.inst.onShowNativeAd((ad) => {
+                    if (ad) {
+                        this.ad = ad;
+                        PlatformAdManager.inst.nativeImageAdData = this.ad;
+                        this.visible = PlatformConfig.inst.currentPlatform.canAd;
+                    }
+                    else {
+                        this.ad = PlatformAdManager.inst.nativeImageAdData;
+                        console.log("读取缓存的广告数据");
+                    }
+                    console.log("获取原生三图数据:", JSON.stringify(this.ad));
+                    this.setData(this.ad);
+                }, this.key);
+            }
+        }
+        setData(ad) {
+            if (ad == null) {
+                this.visible = false;
+                console.warn("没有原生三图广告数据!!!");
+                return;
+            }
+            this.visible = true;
+            if (Platforms.inst.platform == Platform.oppo_h5) {
+                if (ad.imgUrlList && ad.imgUrlList.length > 0) {
+                    this.images = ad.imgUrlList;
+                }
+                else if (ad.iconUrlList && ad.iconUrlList.length > 0) {
+                    this.images = ad.iconUrlList;
+                }
+                else if (ad.icon) {
+                    this.images.push(ad.icon);
+                }
+            }
+            else if (Platforms.inst.platform == Platform.vivo_h5) {
+                if (ad.imgUrlList && ad.imgUrlList.length > 0) {
+                    this.images = ad.imgUrlList;
+                }
+                else if (ad.iconUrlList && ad.iconUrlList.length > 0) {
+                    this.images = ad.iconUrlList;
+                }
+                else if (ad.icon) {
+                    this.images.push(ad.icon);
+                }
+                if (ad.imgUrlList && ad.imgUrlList.length > 0) {
+                    this.images = ad.imgUrlList;
+                }
+                else if (ad.icon && ad.icon != "") {
+                    this.images.push(ad.icon);
+                }
+            }
+            this.onClick(this, () => {
+                console.log("原生广告点击");
+                Laya.timer.clear(this, this.loadImage);
+                Platforms.inst.onNativeAdClick(ad.adId);
+                this.getAd(this.key);
+            });
+            Laya.timer.loop(2500, this, this.loadImage);
+            this.loadImage();
+        }
+        loadImage() {
+            this.m_ImageLoader.m_icon.url = this.images[this.index];
+            this.index++;
+            if (this.index >= this.images.length - 1) {
+                this.index = 0;
+            }
+        }
+    }
+
+    class ShortcutBtnComponent extends UI_ShortcutBtn {
+        onConstruct() {
+            super.onConstruct();
+            EventManager.inst.AddEventListener(PlatformEvents.onShortCutInstallEvent, this, this.onShortCutInstallEvent);
+            this.on(Laya.Event.ADDED, this, this.addToScene);
+            this.on(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+        removeToScene() {
+            EventManager.inst.RemoveEventListener(PlatformEvents.onShortCutInstallEvent, this, this.onShortCutInstallEvent);
+            this.off(Laya.Event.ADDED, this, this.addToScene);
+            this.off(Laya.Event.UNDISPLAY, this, this.removeToScene);
+        }
+        onShortCutInstallEvent() {
+            this.visible = false;
+        }
+        addToScene() {
+            this.visible = false;
+            if (Platforms.inst.platform == Platform.oppo_h5 || Platforms.inst.platform == Platform.vivo_h5) {
+                Platforms.inst.hasShortcutInstalled((install) => {
+                    if (install == false) {
+                        this.visible = true;
+                        this.onClick(this, () => {
+                            this.install();
+                        });
+                    }
+                });
+            }
+        }
+        install() {
+            Platforms.inst.hasShortcutInstalled((installed) => {
+                if (installed == false) {
+                    Platforms.inst.installShortcut((success) => {
+                        if (success) {
+                            DataManager.inst.addCoins(50);
+                            UIManager.inst.showToast("添加桌面图标成功，获得50钻石");
+                            EventManager.inst.SendEvent(PlatformEvents.onShortCutInstallEvent);
+                        }
+                    });
+                }
+            });
+        }
+    }
+
+    class YmAdSdk {
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new YmAdSdk();
+            }
+            return this._inst;
+        }
+        init() {
+            this.addFguiExtends();
+        }
+        addFguiExtends() {
+            fairygui.UIPackage.addPackage("res/ui/GameAdUI");
+            GameAdUIBinder.bindAll();
+            fgui.UIObjectFactory.setExtension(UI_NativeIcon.URL, NativeIconComponent);
+            fgui.UIObjectFactory.setExtension(UI_MoreGameBtn.URL, MoreGameBtnComponent);
+            fgui.UIObjectFactory.setExtension(UI_NativeImage.URL, NativeImageComponent);
+            fgui.UIObjectFactory.setExtension(UI_ShortcutBtn.URL, ShortcutBtnComponent);
+        }
+    }
+
+    class GameEngine {
+        constructor() {
+            this.host = "";
+            this.isLocal = false;
+            this.debugIndex = 0;
+            this.useZipAssets = false;
+            this.zipHost = "";
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new GameEngine();
+            }
+            return this._inst;
+        }
+        set platform(value) {
+            Platforms.inst.platform = value;
+        }
+        init() {
+            return __awaiter(this, void 0, void 0, function* () {
+                return new Promise((resolve, reject) => __awaiter(this, void 0, void 0, function* () {
+                    UIManager.inst.init();
+                    yield ResourcesManager.inst.loadLocalFiles();
+                    PlatformConfig.inst.init(Platforms.inst.platform);
+                    this.debug(`设置本地保存项目key ${PlatformConfig.inst.globalConfigs.localProjectkey}`);
+                    LocalStorageManager.inst.projectKey = PlatformConfig.inst.globalConfigs.localProjectkey;
+                    DataManager.inst.init();
+                    SoundManager.inst.loadData();
+                    if (this.useZipAssets == false &&
+                        this.isLocal == false &&
+                        PlatformConfig.inst.currentPlatform.basePath &&
+                        PlatformConfig.inst.currentPlatform.basePath != "") {
+                        Laya.URL.basePath = PlatformConfig.inst.currentPlatform.basePath;
+                    }
+                    Platforms.inst.setLoadingProgress(100);
+                    this.debug(`设置Laya.URL.basePath ${Laya.URL.basePath}`);
+                    resolve(true);
+                }));
+            });
+        }
+        initAsync(callback) {
+            return __awaiter(this, void 0, void 0, function* () {
+                Platforms.inst.onInit(null);
+                yield ResourcesManager.inst.loadResource();
+                YmAdSdk.inst.init();
+                let sdkPlatformConfig = new Array();
+                sdkPlatformConfig.push(new SdkPlatformConfig("99e555608e754cca9725a3c9d2a7945b", Platform.weixin_h5));
+                sdkPlatformConfig.push(new SdkPlatformConfig("tt_123456", Platform.toutiao_h5));
+                sdkPlatformConfig.push(new SdkPlatformConfig("qqplay_123456", Platform.qqplay_h5));
+                yield YMSDK.inst.initAsync(sdkPlatformConfig);
+                DataManager.inst.initData();
+                Platforms.inst.onInitAdService(() => {
+                    callback();
+                });
+            });
+        }
+        saveData(key, data) {
+            Platforms.inst.saveDataToCache(key, data);
+        }
+        loadData(key) {
+            return Platforms.inst.readDataFromCache(key);
+        }
+        vibrateShort() {
+            Platforms.inst.vibrateShort();
+        }
+        debug(msg) {
+            this.debugIndex++;
+            console.log(`${this.debugIndex}: 广州游梦 - ${msg}`);
+        }
+        pauseGame() {
+            console.warn("暂停游戏");
+            Laya.timer.scale = 0;
+        }
+        resumeGame() {
+            console.warn("恢复游戏");
+            Laya.timer.scale = 1;
+        }
+    }
+
+    class TimeManager {
+        constructor() {
+            this.timers = new Array();
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new TimeManager();
+            }
+            return this._inst;
+        }
+        init() {
+            if (this.timer == null) {
+                this.timer = new Laya.Timer();
+            }
+            this.timer.frameLoop(1, this, this.onUpdate);
+        }
+        addTimer(id, timer) {
+            if (this.has(id) == false) {
+                timer.timeId = id;
+                this.timers.push({ key: id, timer: timer });
+            }
+            else {
+                console.log("已经有id");
+            }
+        }
+        removeTimer(id) {
+            if (this.has(id)) {
+                let t = this.getTimer(id);
+                t.clear();
+                let index = this.getChildIndex(id);
+                this.timers.splice(index, 1);
+            }
+            else {
+                console.log("没有该timer id");
+            }
+        }
+        onUpdate() {
+            for (let index = 0; index < this.timers.length; index++) {
+                const item = this.timers[index];
+                item.timer.onUpdate();
+            }
+        }
+        getTimer(id) {
+            for (let index = 0; index < this.timers.length; index++) {
+                const item = this.timers[index];
+                if (item.key == id) {
+                    return item.timer;
+                }
+            }
+            return null;
+        }
+        has(id) {
+            for (let index = 0; index < this.timers.length; index++) {
+                const item = this.timers[index];
+                if (item.key == id) {
+                    return true;
+                }
+            }
+            return false;
+        }
+        getChildIndex(id) {
+            for (let index = 0; index < this.timers.length; index++) {
+                const item = this.timers[index];
+                if (item.key == id) {
+                    return index;
+                }
+            }
+            return -1;
+        }
+    }
+
+    class CustomEventDispatcher extends Laya.EventDispatcher {
+        constructor() { super(); }
+        static get instance() {
+            if (this._instance == null) {
+                this._instance = new CustomEventDispatcher();
+            }
+            return this._instance;
+        }
+    }
+
+    class ResultViewController extends ViewControllerGeneric {
+        constructor() {
+            super(...arguments);
+            this.count = 5;
+        }
+        get URL() {
+            return UI_ResultView.URL;
+        }
+        init() {
+            this.onViewWillDestory = Laya.Handler.create(this, this.unbind);
+            this.onViewAdded = Laya.Handler.create(this, this.bind);
+            super.init();
+        }
+        unbind() {
+            Laya.timer.clear(this, this.onCountTime);
+            YMSDK.inst.hideResultIconListView();
+        }
+        bind() {
+            this.view.m_GetCoinBtn.onClick(this, this.onGetCoinBtnClick);
+            this.view.m_FreeGetCoinBtn.onClick(this, this.onFreeGetCoinBtnClick);
+            this.view.m_ContinueBtn.onClick(this, this.onContinuBtnClick);
+            this.view.m_NextBtn.onClick(this, this.onNextBtnClick);
+            this.view.m_State.selectedIndex = TruckGameManager.instance().isWin ? 0 : 1;
+            this.view.m_CoinLabel.text = "+100";
+            TruckGameManager.instance().loadLevel();
+            if (TruckGameManager.instance().isWin == false) {
+                Laya.timer.loop(1000, this, this.onCountTime);
+                SoundManager.inst.Play(SoundType.SE_Lose);
+            }
+            else {
+                SoundManager.inst.Play(SoundType.SE_Win);
+            }
+            this.view.m_adState.selectedIndex = PlatformConfig.inst.currentPlatform.canAd ? 1 : 0;
+            if (Platforms.inst.platform != Platform.weixin_h5) {
+                PlatformAdManager.inst.showBanner();
+            }
+            else {
+                YMSDK.inst.showResultIconListView((s) => {
+                });
+            }
+        }
+        onCountTime() {
+            this.count--;
+            this.view.m_CountTimeLabel.text = this.count.toString();
+            if (this.count == 0) {
+                this.onContinuBtnClick();
+            }
+        }
+        onFreeGetCoinBtnClick() {
+            Laya.timer.clear(this, this.onCountTime);
+            PlatformAdManager.inst.showRewardedVideo((success) => {
+                if (success) {
+                    let reward = 200;
+                    DataManager.inst.addCoins(reward);
+                    this.removeAfter(() => {
+                        CustomEventDispatcher.instance.event("gameUI");
+                    });
+                }
+                Laya.timer.loop(1000, this, this.onCountTime);
+            });
+        }
+        onGetCoinBtnClick() {
+            this.removeAfter(() => {
+                CustomEventDispatcher.instance.event("gameUI");
+            });
+            CustomEventDispatcher.instance.event("gameUI");
+        }
+        onNextBtnClick() {
+            Laya.timer.clear(this, this.onCountTime);
+            PlatformAdManager.inst.showRewardedVideo((success) => {
+                if (success) {
+                    DataManager.inst.clearStage();
+                    TruckGameManager.instance().loadLevel();
+                    this.removeAfter(() => {
+                        CustomEventDispatcher.instance.event("gameUI");
+                    });
+                }
+                else {
+                    Laya.timer.loop(1000, this, this.onCountTime);
+                }
+            });
+        }
+        onContinuBtnClick() {
+            this.removeAfter(() => {
+                CustomEventDispatcher.instance.event("gameUI");
+            });
+        }
+        removeAfter(callback) {
+            if (YMSDK.inst.enabled) {
+                if (Platforms.inst.platform == Platform.weixin_h5) {
+                    YMSDK.inst.showPowerView((success) => {
+                        if (success) {
+                            this.removeSelf();
+                            Laya.timer.once(1000, this, () => {
+                                callback && callback();
+                            });
+                        }
+                    });
+                }
+                else {
+                    this.removeSelf();
+                    Laya.timer.once(1000, this, () => {
+                        callback && callback();
+                    });
+                }
+            }
+            else {
+                this.removeSelf();
+                Laya.timer.once(1000, this, () => {
+                    callback && callback();
+                });
+            }
+        }
+    }
+
+    class GameData {
+        static getDefaultCarLockData() {
+            return {
+                0: {
+                    p: 100,
+                    s: false
+                },
+                1: {
+                    p: 100,
+                    s: false
+                },
+                2: {
+                    p: 100,
+                    s: false
+                },
+                3: {
+                    p: 100,
+                    s: false
+                },
+                4: {
+                    p: 100,
+                    s: false
+                },
+                5: {
+                    p: 100,
+                    s: false
+                }
+            };
+        }
+        static getRandomInArr(e) {
+            var t = ~~(Math.random() * e.length * 2);
+            return e[t %= e.length];
+        }
+        static getEnvColor() {
+            return {
+                p: this.getRandomInArr(this.fogColors),
+                r: this.getRandomInArr(this.roadColors)
+            };
+        }
+        static getStorage(e, t) {
+            var a = Laya.LocalStorage.getJSON(e);
+            return "" == a || null == a || null == a || "undefined" == a ? (this.setStorage(e, t),
+                t) : a;
+        }
+        static setStorage(e, t) {
+            Laya.LocalStorage.setJSON(e, t);
+        }
+        static TransformPoint(e, t, a) {
+            var n = e.worldMatrix;
+            Laya.Vector3.transformV3ToV3(t, n, a);
+        }
+        static InverseTransformPoint(e, t, a) {
+            var n = new Laya.Matrix4x4;
+            e.worldMatrix.invert(n),
+                Laya.Vector3.transformV3ToV3(t, n, a);
+        }
+        static QuaternionEuler(e, t, a, n) {
+            var r = 180 / Math.PI;
+            Laya.Quaternion.createFromYawPitchRoll(t / r, e / r, a / r, n);
+        }
+        static getQueryVariable(e, t) {
+            for (var a = window.location.search.substring(1).split("&"), n = 0; n < a.length; n++) {
+                var r = a[n].split("=");
+                if (r[0] == e)
+                    return r[1];
+            }
+            return t;
+        }
+        static FindChild(e, t) {
+            for (var a = t.split("/"), n = 0; n < a.length; n++)
+                if (t = a[n],
+                    null == (e = e.getChildByName(t)))
+                    return null;
+            return e;
+        }
+        static QuaternionVector3(e, t, a) {
+            var n = new Laya.Matrix4x4;
+            return Laya.Matrix4x4.createFromQuaternion(e, n),
+                Laya.Vector3.transformV3ToV3(t, n, a),
+                a;
+        }
+        static FromToRotation(e, t, a) {
+            Laya.Vector3.normalize(e, e),
+                Laya.Vector3.normalize(t, t);
+            var n = Laya.Vector3.dot(e, t);
+            if (n >= 1)
+                return new Laya.Quaternion;
+            if (n < 1e-6 - 1) {
+                var r = new Laya.Vector3;
+                Laya.Vector3.cross(new Laya.Vector3(1, 0, 0), e, r),
+                    this.isVectorZeroLength(r),
+                    Laya.Vector3.cross(new Laya.Vector3(0, 1, 0), e, r),
+                    Laya.Vector3.normalize(r, r),
+                    Laya.Quaternion.createFromAxisAngle(r, 180, a);
+            }
+            else {
+                var i = Math.sqrt(2 * (1 + n)), s = 1 / i, h = new Laya.Vector3;
+                Laya.Vector3.cross(e, t, h),
+                    a.x = h.x * s,
+                    a.y = h.y * s,
+                    a.z = h.z * s,
+                    a.w = .5 * i,
+                    a.normalize(a);
+            }
+            return a;
+        }
+        static isVectorZeroLength(e) {
+            return e.x * e.x + e.y * e.y + e.z * e.z < 1e-12;
+        }
+        static LerpNumber(e, t, a) {
+            return e + a * (t - e);
+        }
+        static Vector3Angle(e, t, a) {
+            void 0 === a && (a = 1),
+                e = e.clone(),
+                Laya.Vector3.normalize(e, e),
+                t = t.clone(),
+                Laya.Vector3.normalize(t, t);
+            var n = Laya.Vector3.dot(e, t);
+            n = Math.max(-1, Math.min(1, n)),
+                this.isZero(n) && (n = 0);
+            var r = Math.acos(n) * (180 / Math.PI), i = new Laya.Vector3;
+            switch (Laya.Vector3.cross(e, t, i),
+                a) {
+                case 0:
+                    i.x < 0 && (r *= -1);
+                    break;
+                case 1:
+                    i.y < 0 && (r *= -1);
+                    break;
+                case 2:
+                    i.z < 0 && (r *= -1);
+                    break;
+                default:
+                    i.y < 0 && (r *= -1);
+            }
+            return this.isZeroByValue(r, .1) ? 0 : r;
+        }
+        static isZero(e) {
+            return Math.abs(e) < 1e-6;
+        }
+        static isZeroByValue(e, t) {
+            return Math.abs(e) < t;
+        }
+    }
+    GameData.fogColors = [new Laya.Vector3(.3795415, .7941176, .3824006), new Laya.Vector3(.3633218, .5783081, .7058823), new Laya.Vector3(.6524901, .3986267, .7426471)];
+    GameData.roadColors = [new Laya.Vector3(.3412, .4431, .7922), new Laya.Vector3(.6431, .2745, .5608), new Laya.Vector3(.8353, .4745, .1686), new Laya.Vector3(.2353, .6824, .2902), new Laya.Vector3(.5922, .3059, .8667), new Laya.Vector3(.3961, .2157, .7373), new Laya.Vector3(.4235, .6745, .4118), new Laya.Vector3(.7059, .251, .2745), new Laya.Vector3(.2667, .4157, .6549), new Laya.Vector3(.1843, .5843, .5294)];
+    GameData.colorTable = [{
+            p: new Laya.Vector3(.3795415, .7941176, .3824006),
+            r: new Laya.Vector3(.5382891, .245026, .7573529)
+        }, {
+            p: new Laya.Vector3(.3633218, .5783081, .7058823),
+            r: new Laya.Vector3(.7867647, .2661116, .7508579)
+        }, {
+            p: new Laya.Vector3(.6524901, .3986267, .7426471),
+            r: new Laya.Vector3(.8970588, .4606297, .1253244)
+        }];
+
+    class CustomEventType {
+    }
+    CustomEventType.CoinChange = "coinChange";
+    CustomEventType.PeopleChange = "PeopleChange";
+    CustomEventType.BossVal = "BossVal";
+    CustomEventType.PassChange = "PassChange";
+
+    class LayaBehavior3D extends Laya.Script3D {
+        constructor() {
+            super(...arguments);
+            this._transform = null;
+        }
+        get transform() {
+            if (!this._transform) {
+                this._transform = this.owner.transform;
+            }
+            return this._transform;
+        }
+        onEnable() {
+            CustomEventDispatcher.instance.on(CustomEventType.PassChange, this, this.setStartPos);
+            this.initPos = this.transform.localPosition.clone();
+            this.initRotate = this.transform.localRotationEuler.clone();
+        }
+        setStartPos() {
+            this.transform.localPosition = this.initPos;
+            this.transform.localRotationEuler = this.initRotate;
+        }
+        get gameObject() {
+            if (!this._gameObject)
+                this._gameObject = this.owner;
+            return this._gameObject;
+        }
+        GetRandomFloat(min, max) {
+            return Math.random() * (max - min) + min;
+        }
+        getForwardVector() {
+            let targetForward = new Laya.Vector3();
+            this.transform.getForward(targetForward);
+            return targetForward;
+        }
+    }
+
+    class CameraFollow extends LayaBehavior3D {
+        constructor() {
+            super(...arguments);
+            this.followSpeed = 10;
+            this.offsetPosition = new Laya.Vector3;
+            this.stateMachine = null;
+        }
+        get transform() {
+            return this.gameObject.transform;
+        }
+        onAwake() {
+            this.camera = this.gameObject.getChildByName("Main Camera");
+            this.animator = this.camera.getComponent(Laya.Animator);
+            CustomEventDispatcher.instance.on("Default", this, this.OnDefaultEnter);
+            CustomEventDispatcher.instance.on("Ending", this, this.OnEndingEnter);
+        }
+        OnDefaultEnter() {
+            this.animator.play("zoomout");
+        }
+        OnEndingEnter() {
+            this.animator.play("ending");
+        }
+        SetTarget(e) {
+            if (e) {
+                var t = e.transform.position;
+                Laya.Vector3.subtract(this.transform.position, t, this.offsetPosition);
+                e.transform.position.cloneTo(t);
+                this.transform.position = t;
+                this.target = e;
+            }
+        }
+        onLateUpdate() {
+            if (this.target) {
+                var e = this.target.transform.position.clone();
+                Laya.Vector3.add(e, this.offsetPosition, e);
+                var t = this.transform.position.clone();
+                Laya.Vector3.lerp(t, e, 1, e);
+                this.transform.position = e;
+            }
+        }
+    }
+
+    class c {
+        get Heading() {
+            var e = new Laya.Vector3;
+            return Laya.Vector3.subtract(this.Front, this.Back, e),
+                Laya.Vector3.normalize(e, e),
+                e;
+        }
+        get IsSet() {
+            var e = Laya.Vector3.equals(this.Front, new Laya.Vector3()), t = Laya.Vector3.equals(this.Back, new Laya.Vector3());
+            return !e && !t;
+        }
+        get IsOr() {
+            var e = Laya.Vector3.equals(this.Front, new Laya.Vector3()), t = Laya.Vector3.equals(this.Back, new Laya.Vector3());
+            return !e || !t;
+        }
+    }
+
+    class carBase extends LayaBehavior3D {
+        constructor() {
+            super(...arguments);
+            this.layerMask = 5;
+            this.axleInfos = [];
+            this.rigidbody = null;
+            this.SuspensionForce = 2000;
+            this.SuspensionLength = 1;
+            this.AntiRollForce = 2000;
+            this.m_groundForward = null;
+        }
+        get transform() {
+            return this.gameObject.transform;
+        }
+        onAwake() {
+            this.rigidbody = this.owner.getComponent(Laya.Rigidbody3D);
+            this.rigidbody.mass = 70;
+            this.rigidbody.linearDamping = .9;
+            this.rigidbody.angularDamping = .999;
+            this.rigidbody.overrideGravity = true;
+            this.rigidbody.gravity = new Laya.Vector3(0, -30, 0);
+        }
+        AddFrontWheel(e, t) {
+            var a = { IsFront: false, LeftWheel: '', RightWheel: "" };
+            a.IsFront = true;
+            a.LeftWheel = e;
+            a.RightWheel = t;
+            this.axleInfos.push(a);
+        }
+        AddBackWheel(e, t) {
+            var a = { LeftWheel: '', RightWheel: "", IsBack: false };
+            a.IsBack = true;
+            a.LeftWheel = e;
+            a.RightWheel = t;
+            this.axleInfos.push(a);
+        }
+        GetGroundBasedForward() {
+            var e = new Laya.Vector3().clone(), t = new Laya.Vector3().clone();
+            for (var a = 0; a < this.axleInfos.length; a++) {
+                var n = this.axleInfos[a];
+                if (null != n.LastLeftWheelResult && null != n.LastRightWheelResult) {
+                    var r = new Laya.Vector3;
+                    Laya.Vector3.add(n.LastLeftWheelResult.ImpactPoint, n.LastRightWheelResult.ImpactPoint, r),
+                        Laya.Vector3.scale(r, .5, r),
+                        n.IsFront && (e = r),
+                        n.IsBack && (t = r);
+                }
+            }
+            var i = new c;
+            return i.Front = e,
+                i.Back = t,
+                i;
+        }
+        HandleWheel(e) {
+            var t = this.GetTransformUp(e), a = e.transform.position.clone(), n = new Laya.Vector3;
+            Laya.Vector3.scale(t, -1, n);
+            var r = new Laya.Ray(a, n), i = new Laya.HitResult;
+            if (!TruckGameManager.instance().gameScene.physicsSimulation.rayCast(r, i, this.SuspensionLength, 1, 1))
+                return null;
+            var s = Laya.Vector3.distance(r.origin, i.point), h = this.Round(1 - s / this.SuspensionLength, 2), c = { Hit: new Laya.HitResult(), CompressionRatio: 0, ImpactPoint: "" };
+            c.Hit = i;
+            c.CompressionRatio = h;
+            c.ImpactPoint = i.point.clone();
+            var d = new Laya.Vector3;
+            Laya.Vector3.scale(t, this.SuspensionForce * h, d);
+            var g = e.transform.localPosition.clone();
+            Laya.Vector3.subtract(g, new Laya.Vector3(0, 5, 0), g), GameData.TransformPoint(e.transform, g, g);
+            var p = g;
+            return Laya.Vector3.subtract(p, this.transform.position, p),
+                this.rigidbody.applyForce(d, p),
+                c;
+        }
+        HandleBalance(e) {
+            var t = 1, a = 1, n = e.LastLeftWheelResult;
+            n && (t = n.CompressionRatio);
+            var r = e.LastLeftWheelResult;
+            r && (a = n.CompressionRatio);
+            var i = (t - a) * this.AntiRollForce;
+            if (n) {
+                var o = new Laya.Vector3;
+                Laya.Vector3.scale(this.GetTransformUp(e.LeftWheel), -i, o);
+                var s = e.LeftWheel.transform.position.clone();
+                Laya.Vector3.subtract(s, this.transform.position, s),
+                    this.rigidbody.applyForce(o, s);
+            }
+            if (r) {
+                o = new Laya.Vector3;
+                Laya.Vector3.scale(this.GetTransformUp(e.RightWheel), i, o);
+                s = e.RightWheel.transform.position.clone();
+                Laya.Vector3.subtract(s, this.transform.position, s),
+                    this.rigidbody.applyForce(o, s);
+            }
+        }
+        GetTransformUp(e) {
+            var t = new Laya.Vector3;
+            return e.transform.getUp(t),
+                t;
+        }
+        Round(e, t) {
+            var a = Math.pow(10, t);
+            return Math.round(e * a) / a;
+        }
+    }
+
+    class cargo extends Laya.Script3D {
+        onAwake() {
+            this.cargosCnt = 0;
+        }
+        onDisable() {
+            Laya.timer.clear(this, this.checkIfFail);
+        }
+        onTriggerEnter(e) {
+            if (e.owner.name.startsWith("cargox")) {
+                this.cargosCnt++;
+                TruckGameManager.instance().addCargo(e.owner.parent);
+            }
+        }
+        onTriggerExit(e) {
+            if (e.owner.name.startsWith("cargox")) {
+                this.cargosCnt--;
+                TruckGameManager.instance().removeCargo(e.owner.parent);
+                Laya.timer.once(500, this, this.checkIfFail);
+            }
+        }
+        checkIfFail() {
+        }
+        canStartGame() {
+            return this.cargosCnt > 0;
+        }
+    }
+
+    class Car extends carBase {
+        constructor() {
+            super(...arguments);
+            this.radius = .5;
+            this.TurnStrength = 5000;
+            this.ForwardAcceleration = 4000;
+            this.loadedCargos = [];
+            this.m_forward = new Laya.Vector3;
+            this.defRotateSpeed = 50;
+            this.rotateSpeed = 50;
+            this.head = null;
+            this.buffers = {};
+            this.frontWheels = [];
+            this.backWheels = [];
+            this.backTrails = [];
+            this.speedUpdaPosition = null;
+            this.danqiEffect = null;
+            this.targetPosition = new Laya.Vector3;
+            this.dummyTarPos = new Laya.Vector3;
+            this.cargoTrigger = null;
+            this.findTargetComplete = null;
+            this.offsetPosition = new Laya.Vector3;
+            this.pause = true;
+        }
+        onAwake() {
+            super.onAwake();
+            this.SuspensionLength = 1;
+            this.frontWheels[0] = GameData.FindChild(this.owner, "Wheels/FL");
+            this.frontWheels[1] = GameData.FindChild(this.owner, "Wheels/FR");
+            this.backWheels[0] = GameData.FindChild(this.owner, "Wheels/BL");
+            this.backWheels[1] = GameData.FindChild(this.owner, "Wheels/BR");
+            this.head = this.gameObject.getChildByName("Head").transform;
+            var e = this.owner.getChildByName("Raycasts");
+            this.SuspensionLength = e.transform.localPositionY + this.radius;
+            var t = e.getChildByName("FL"), a = e.getChildByName("FR"), n = e.getChildByName("BL"), r = e.getChildByName("BR");
+            this.AddFrontWheel(t, a);
+            this.AddBackWheel(n, r);
+            this.speedUpdaPosition = this.owner.getChildByName("SpeedUpPosition");
+            this.cargoTrigger = this.owner.getChildByName("CargoTrigger");
+            this.cargoTrigger.addComponent(cargo);
+        }
+        SetTarget(e) {
+            e.cloneTo(this.targetPosition);
+        }
+        SetShutDown() {
+            this.rigidbody.linearFactor = new Laya.Vector3(0, 1, 0);
+            var i = this.rigidbody.linearVelocity;
+            i.setValue(0, i.y, 0);
+            this.rigidbody.linearVelocity = i;
+        }
+        OnSpeedDownEnter() {
+            this.pause = false;
+            this.rotateSpeed = 0;
+            if (this.backWheels.length > 0) {
+                for (var e = 0; e < this.backWheels.length; e++) {
+                    this.backWheels[e].transform.localRotationEulerX = 0;
+                }
+            }
+            this.rotateSpeed = this.defRotateSpeed;
+            this.axleInfos[1];
+            var i = new Laya.Vector3;
+            Laya.Vector3.normalize(this.m_forward, i);
+            var t = new Laya.Vector3;
+            Laya.Vector3.normalize(this.rigidbody.linearVelocity, t);
+        }
+        addForce() {
+            if (this.pause == false) {
+                if (this.m_groundForward && this.m_groundForward.IsOr) {
+                    this.rigidbody.linearFactor = new Laya.Vector3(1, 1, 1);
+                    var a = new Laya.Vector3;
+                    Laya.Vector3.scale(this.m_forward, this.ForwardAcceleration, a);
+                    var b = new Laya.Vector3;
+                    Laya.Vector3.subtract(this.speedUpdaPosition.transform.position, this.transform.position, b);
+                    this.rigidbody.applyForce(a, b);
+                }
+            }
+        }
+        onUpdate() {
+            this.addForce();
+            for (var e = 0; e < this.axleInfos.length; e++) {
+                var t = this.axleInfos[e];
+                t.LastLeftWheelResult = this.HandleWheel(t.LeftWheel);
+                t.LastRightWheelResult = this.HandleWheel(t.RightWheel);
+            }
+            for (e = 0; e < this.axleInfos.length; e++)
+                this.HandleBalance(this.axleInfos[e]);
+            this.OnCarTransform();
+        }
+        OnCarTransform() {
+            this.UpdateBuffers();
+            this.UpdateCurrentGroundForward();
+            this.OrientationTarget(this.targetPosition);
+            this.CorrectionWheelRotation(this.frontWheels, true);
+            this.CorrectionWheelRotation(this.backWheels, false);
+            this.CorrectionWheelPosition(this.frontWheels, this.axleInfos[0]);
+            this.CorrectionWheelPosition(this.backWheels, this.axleInfos[1]);
+        }
+        UpdateCurrentGroundForward() {
+            var e = this.GetGroundBasedForward();
+            if (e.IsSet)
+                e.Heading.cloneTo(this.m_forward);
+            else {
+                var t = new Laya.Vector3;
+                this.transform.getForward(t);
+                Laya.Vector3.normalize(t, t);
+                Laya.Vector3.scale(t, -1, t);
+                t.cloneTo(this.m_forward);
+            }
+            this.m_groundForward = e;
+        }
+        AddTurnForce(e) {
+            var t = new Laya.Vector3;
+            Laya.Vector3.subtract(this.head.position, this.transform.position, t);
+            this.rigidbody.applyForce(e, t);
+        }
+        OrientationTarget(e) {
+            var a = new Laya.Vector3;
+            Laya.Vector3.normalize(this.m_forward, a);
+            var n = new Laya.Vector3;
+            Laya.Vector3.normalize(this.rigidbody.linearVelocity, n);
+            var r = Laya.Vector3.scalarLength(this.rigidbody.linearVelocity), i = Laya.Vector3.dot(n, a);
+            if (r > 2 && i > .1) {
+                var s = new Laya.Vector3;
+                GameData.InverseTransformPoint(this.transform, new Laya.Vector3(e.x, this.transform.position.y, e.z), s),
+                    s.y = 0;
+                var h = s.x / Laya.Vector3.scalarLength(s), c = new Laya.Vector3(1, 0, 0);
+                GameData.QuaternionVector3(this.transform.rotation, c, c);
+                Laya.Vector3.scale(c, h * this.TurnStrength, c);
+                this.AddTurnForce(c);
+            }
+            if (this.pause == false && this.m_groundForward && this.m_groundForward.IsSet) {
+                var l = new Laya.Quaternion;
+                GameData.FromToRotation(n, a, l);
+                GameData.QuaternionVector3(l, n, n);
+                Laya.Vector3.scale(n, r, n);
+                this.rigidbody.linearVelocity = n;
+            }
+        }
+        CorrectionWheelPosition(e, t) {
+            for (var a = 0; a < e.length; a++) {
+                var n = e[a], r = null, i = new Laya.Vector3;
+                0 == a && (r = t.LastLeftWheelResult),
+                    1 == a && (r = t.LastRightWheelResult),
+                    null != r ? (r.ImpactPoint.cloneTo(i),
+                        GameData.InverseTransformPoint(n.transform._parent, i, i),
+                        Laya.Vector3.add(i, new Laya.Vector3(0, this.radius, 0), i)) : n.transform.localPosition.cloneTo(i);
+                var s = n.transform.localPosition;
+                Laya.Vector3.lerp(s, i, .5, s);
+                n.transform.localPosition = s;
+            }
+        }
+        CorrectionWheelRotation(e, t) {
+            var a = new Laya.Vector3, n = Laya.Vector3.scalarLength(this.rigidbody.linearVelocity);
+            if (0 != n) {
+                Laya.Vector3.scale(this.rigidbody.linearVelocity, 1 / n, a);
+                var r = n * Laya.Vector3.dot(a, this.m_forward) * (Laya.timer.delta / 1e3) * this.rotateSpeed;
+                for (var i = 0; i < e.length; i++)
+                    e[i].transform.localRotationEulerX += r;
+                if (t) {
+                    var s = new Laya.Vector3;
+                    GameData.InverseTransformPoint(this.transform, new Laya.Vector3(this.targetPosition.x, this.transform.position.y, this.targetPosition.z), s),
+                        s.y = 0,
+                        Laya.Vector3.normalize(s, s);
+                    var h = GameData.Vector3Angle(new Laya.Vector3(0, 0, 1), s, 1);
+                    h = Math.max(-45, Math.min(45, h));
+                    var c = e[0].transform.localRotationEulerY;
+                    c = GameData.LerpNumber(c, h, .2);
+                    for (i = 0; i < e.length; i++)
+                        e[i].transform.localRotationEulerY = c;
+                }
+            }
+        }
+        UpdateBuffers() {
+            for (var e in this.buffers) {
+                if (this.buffers[e].TryUpdateBuffer(this) || (this.buffers[e].Stop(this))) {
+                    delete this.buffers[e];
+                }
+            }
+        }
+        onTriggerEnter(e) {
+            if ("endTrigger" == e.owner.name) {
+                console.log("@stop the car");
+                this.SetShutDown();
+                TruckGameManager.instance().recoveryCargos();
+                e.enabled = false;
+                this.pause = true;
+            }
+            if ("zoomCameraObj" == e.owner.name) {
+                CustomEventDispatcher.instance.event("Default");
+                e.enabled = false;
+            }
+            if ("endingCamera" == e.owner.name) {
+                CustomEventDispatcher.instance.event("Ending");
+                e.enabled = false;
+            }
+        }
+        onCollisionEnter(e) {
+            if (TruckGameManager.instance().gameState == GameState$1.游戏结算)
+                return;
+            var t = e.other.owner.name.toLocaleLowerCase();
+            if ("plane" == t) {
+                TruckGameManager.instance().result(false);
+            }
+        }
+    }
+
+    class point extends Laya.Script3D {
+        onAwake() {
+            this.pointIndexByName = Number.parseInt(this.owner.name.replace("p", ""));
+            this.parentRoadScript = this.owner.parent.getComponent(model);
+        }
+        onTriggerEnter(e) {
+            console.log("@hit waypoint %d", this.pointIndexByName);
+            var t = this.parentRoadScript.getNextPointPosInWorld(this.pointIndexByName);
+            TruckGameManager.instance().carScript.SetTarget(t);
+            this.owner.removeSelf();
+        }
+    }
+
+    class model extends LayaBehavior3D {
+        onAwake() {
+            this.roadObj = this.gameObject;
+        }
+        static createWithPoint(e) {
+            var t = new model;
+            return t.setMaxPointCount(e), t;
+        }
+        addWayPoints() {
+            for (var e = 0; e < this.maxPoint; e++) {
+                var t = e + 1;
+                this.owner.getChildByName("p" + t).addComponent(point);
+            }
+        }
+        setMaxPointCount(e) {
+            this.maxPoint = e;
+        }
+        getNextPointPosInWorld(e) {
+            var t = "p" + (e + 1);
+            var a = this.roadObj.getChildByName(t);
+            return null == a ? TruckGameManager.instance().getDefaultTartget() : a.transform.position;
+        }
+    }
+
+    var GameState$1;
+    (function (GameState) {
+        GameState[GameState["\u5F00\u59CB\u6E38\u620F"] = 0] = "\u5F00\u59CB\u6E38\u620F";
+        GameState[GameState["\u6E38\u620F\u4E2D"] = 1] = "\u6E38\u620F\u4E2D";
+        GameState[GameState["\u6E38\u620F\u7ED3\u7B97"] = 2] = "\u6E38\u620F\u7ED3\u7B97";
+    })(GameState$1 || (GameState$1 = {}));
+    class TruckGameManager {
+        constructor() {
+            this.sceneBasePath = "sub1/res/LayaScene_map0/Conventional/";
+            this.carsScenePath = "sub1/res/cars/Cars.lh";
+            this.cargosPath = "sub1/res/LayaScene_cargos/Conventional/cargos.lh";
+            this.maxLeveLCount = 20;
+            this.vv = 3;
+            this.nowCargos = [];
+            this.genPositons = [];
+            this.gameState = GameState$1.开始游戏;
+            this.isWin = false;
+            Laya.Physics3DUtils.gravity = new Laya.Vector3(0, -15, 0);
+            this.nowLevel = DataManager.inst.user.currentStage;
+            this.nowCoin = DataManager.inst.user.coins;
+            this.nowCarData = GameData.getStorage(`drivehill_${this.vv}nowCarData`, GameData.getDefaultCarLockData());
+            this.nowCarIndex = GameData.getStorage(`drivehill_${this.vv}nowCarIndex`, 0);
+        }
+        static instance() {
+            if (TruckGameManager._instance == null)
+                TruckGameManager._instance = new TruckGameManager();
+            return TruckGameManager._instance;
+        }
+        loadLevel() {
+            if (this.gameScene)
+                this.gameScene.destroy();
+            Laya.Resource.destroyUnusedResources();
+            let t = this.nowLevel % this.maxLeveLCount;
+            let a = this.sceneBasePath + `map${t}.ls`;
+            Laya.Scene3D.load(a, Laya.Handler.create(this, (t) => {
+                Laya.stage.addChildAt(t, 0);
+                this.gameScene = t;
+                this.init();
+            }));
+        }
+        init() {
+            this.gameState = GameState$1.开始游戏;
+            this.carScene = Laya.loader.getRes(this.carsScenePath);
+            var e = GameData.getEnvColor();
+            this.gameScene.enableFog = true;
+            this.gameScene.fogStart = 15;
+            this.gameScene.fogRange = 200;
+            this.gameScene.fogColor = e.p;
+            this.gameScene.getChildByName("roadLong").getChildByName("road").meshRenderer.sharedMaterial.albedoColor = e.r;
+            this.gameScene.getChildByName("Plane").meshRenderer.sharedMaterial.albedoColor = e.p;
+            var t = this.gameScene.getChildByName("camera");
+            t.getChildByName("Main Camera").clearColor = e.p;
+            this.cfollow = t.addComponent(CameraFollow);
+            this.setup();
+            this.initRoads();
+            this.changeCar(this.nowCarIndex);
+        }
+        setup() {
+            this.prefabs = new Array;
+            this.genPositons = [];
+            this.nowCargos = [];
+            var e = Laya.loader.getRes(this.cargosPath);
+            for (var t in e._children) {
+                var a = e._children[t];
+                a.name.startsWith("cargo") && this.prefabs.push(a);
+            }
+        }
+        addLevel() {
+            this.nowLevel += 1;
+            DataManager.inst.clearStage();
+            this.nowLevel = DataManager.inst.user.currentStage;
+            CustomEventDispatcher.instance.event("addLevel");
+        }
+        unlockCar(e) {
+            if (this.nowCarData[e]) {
+                this.nowCarData[e].s = false;
+                GameData.setStorage(`drivehill_${this.vv}nowCarData`, this.nowCarData);
+            }
+        }
+        removeCargos() {
+            var e = [], t = this.gameScene._children;
+            for (var a in t) {
+                var n = t[a];
+                n.name.startsWith("cargo") && e.push(n);
+            }
+            for (var r = e.length, i = 0; i < r; i++) {
+                e[i].destroy();
+            }
+            this.nowCargos = [];
+        }
+        addCargo(e) {
+            this.nowCargos.push(e);
+        }
+        removeCargo(e) {
+            this.nowCargos.splice(this.nowCargos.indexOf(e), 1);
+        }
+        recoveryCargos() {
+            var e = this.nowCargos.length;
+            if (e > 0) {
+                var t = 0;
+                for (var a in this.nowCargos) {
+                    t++;
+                    let r = this.nowCargos[a];
+                    Laya.timer.once(200 * t, this, () => {
+                        this.handleOneCargo(r, e);
+                        console.log(this.nowCargos.length);
+                        if (this.nowCargos.length == 1) {
+                            Laya.timer.once(500, this, () => {
+                                this.result(true);
+                            });
+                        }
+                    });
+                }
+            }
+            else {
+                this.result(false);
+            }
+        }
+        result(isWin) {
+            if (this.gameState == GameState$1.游戏结算)
+                return;
+            this.gameState = GameState$1.游戏结算;
+            console.log("游戏胜利失败:", isWin);
+            this.isWin = isWin;
+            if (this.isWin) {
+                DataManager.inst.addCoins(100);
+                TruckGameManager.instance().addLevel();
+            }
+            UIManager.inst.showPopupView(new ResultViewController());
+        }
+        handleOneCargo(e, t) {
+            if (e.getChildAt(0))
+                e.getChildAt(0).getComponent(Laya.Rigidbody3D).enabled = false;
+            var a = e.transform, n = a.localPositionY + 7, r = a.localPositionX, i = a.localPositionZ;
+            Laya.Tween.to(a, {
+                localPositionY: n,
+                localPositionX: r,
+                localPositionZ: i
+            }, 500, null, Laya.Handler.create(this, () => {
+                e.destroy();
+            }));
+        }
+        makeCargos(e) {
+            var t = GameData.getRandomInArr(this.prefabs), a = e.getChildByName("CargoPosition"), n = 4;
+            for (var r in a._children) {
+                var i = a._children[r].transform.position;
+                this.genPositons.push(i);
+                var s = t.clone();
+                s.transform.position = new Laya.Vector3(i.x, i.y + 3 + Math.random(), i.z);
+                this.gameScene.addChild(s);
+                var h = s.getChildAt(0).getComponent(Laya.Rigidbody3D);
+                if (h.linearDamping = .5,
+                    h.friction = 3,
+                    h.linearVelocity = new Laya.Vector3,
+                    h.applyImpulse(new Laya.Vector3(0, -5, 0)),
+                    --n <= 0)
+                    break;
+            }
+        }
+        changeCar(e) {
+            this.removeCargos();
+            this.car && this.car.parent && this.car.removeSelf();
+            this.car = this.carScene.getChildByName("Car" + e).clone();
+            var t = this.gameScene.getChildByName("carPos");
+            if (t)
+                this.car.transform.position = t.transform.position;
+            this.car.transform.localRotationEulerY = 0;
+            this.gameScene.addChild(this.car);
+            Laya.timer.frameOnce(10, this, () => {
+                this.makeCargos(this.car);
+            });
+            this.carScript = this.car.addComponent(Car);
+            this.carScript.SetTarget(this.getDefaultTartget());
+            this.carScript.SetShutDown();
+            this.cfollow.SetTarget(this.car);
+            this.nowCarIndex = e;
+            GameData.setStorage(`drivehill_${this.vv}nowCarIndex`, this.nowCarIndex);
+        }
+        initRoads() {
+            var e = this.gameScene._children;
+            for (var t in e) {
+                var a = e[t];
+                if (a.name.startsWith("roadS1")) {
+                    var n = model.createWithPoint(3);
+                    a.addComponentIntance(n);
+                    n.addWayPoints();
+                }
+                if (a.name.startsWith("roadS2")) {
+                    n = model.createWithPoint(3);
+                    a.addComponentIntance(n);
+                    n.addWayPoints();
+                }
+                if (a.name.startsWith("k_k3")) {
+                    n = model.createWithPoint(3);
+                    a.addComponentIntance(n);
+                    n.addWayPoints();
+                }
+                if (a.name.startsWith("k_k14")) {
+                    n = model.createWithPoint(14);
+                    a.addComponentIntance(n);
+                    n.addWayPoints();
+                }
+                if (a.name.startsWith("k_k4")) {
+                    n = model.createWithPoint(4);
+                    a.addComponentIntance(n);
+                    n.addWayPoints();
+                }
+                if (a.name.startsWith("k_k2")) {
+                    n = model.createWithPoint(2);
+                    a.addComponentIntance(n);
+                    n.addWayPoints();
+                }
+                if (a.name.startsWith("k_k5")) {
+                    n = model.createWithPoint(5);
+                    a.addComponentIntance(n);
+                    n.addWayPoints();
+                }
+                if (a.name.startsWith("k_k6")) {
+                    n = model.createWithPoint(6);
+                    a.addComponentIntance(n);
+                    n.addWayPoints();
+                }
+                a.name.startsWith("endingObj");
+            }
+        }
+        getDefaultTartget() {
+            var e = new Laya.Vector3;
+            Laya.Vector3.add(this.car.transform.position, new Laya.Vector3(0, 0, 500), e);
+            return e;
+        }
+        OnSpeedDownEnter() {
+            this.carScript.OnSpeedDownEnter();
+        }
+    }
+
+    var LanguageType;
+    (function (LanguageType) {
+        LanguageType[LanguageType["CN"] = 0] = "CN";
+        LanguageType[LanguageType["EN"] = 1] = "EN";
+        LanguageType[LanguageType["RU"] = 2] = "RU";
+        LanguageType[LanguageType["AR"] = 3] = "AR";
+        LanguageType[LanguageType["ZH_CN"] = 4] = "ZH_CN";
+        LanguageType[LanguageType["KO"] = 5] = "KO";
+        LanguageType[LanguageType["JA"] = 6] = "JA";
+        LanguageType[LanguageType["PT"] = 7] = "PT";
+        LanguageType[LanguageType["ES"] = 8] = "ES";
+        LanguageType[LanguageType["DE"] = 9] = "DE";
+        LanguageType[LanguageType["FR"] = 10] = "FR";
+        LanguageType[LanguageType["BN"] = 11] = "BN";
+        LanguageType[LanguageType["MS"] = 12] = "MS";
+        LanguageType[LanguageType["HI"] = 13] = "HI";
+        LanguageType[LanguageType["VI"] = 14] = "VI";
+    })(LanguageType || (LanguageType = {}));
+    class MultiLanguageManager {
+        constructor() {
+            this.m_data = new Array();
+            this.languageType = LanguageType.CN;
+        }
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new MultiLanguageManager();
+            }
+            return this._inst;
+        }
+        get data() {
+            return this.m_data;
+        }
+        set data(d) {
+            this.m_data = d;
+        }
+        getLanguageString(type) {
+            var label = "";
+            switch (type) {
+                case LanguageType.CN:
+                    label = "";
+                    break;
+                default:
+                    label = "en";
+                    break;
+            }
+            return label;
+        }
+        getLanguage(key, repaceStr = "") {
+            var label = key;
+            switch (this.languageType) {
+                case LanguageType.CN:
+                    label = key;
+                    break;
+                case LanguageType.EN:
+                    label = this.getLanguageData(key).en;
+                    break;
+                case LanguageType.RU:
+                    label = this.getLanguageData(key).ru;
+                    break;
+                case LanguageType.ZH_CN:
+                    label = key;
+                    break;
+                case LanguageType.FR:
+                    label = this.getLanguageData(key).fr;
+                    break;
+                case LanguageType.DE:
+                    label = this.getLanguageData(key).de;
+                    break;
+                case LanguageType.AR:
+                    label = this.getLanguageData(key).ar;
+                    break;
+                case LanguageType.ES:
+                    label = this.getLanguageData(key).es;
+                    break;
+                case LanguageType.HI:
+                    label = this.getLanguageData(key).hi;
+                    break;
+                default:
+                    label = this.getLanguageData(key).en;
+                    break;
+            }
+            if (repaceStr.length > 0) {
+                label = label.replace("{0}", repaceStr);
+            }
+            return label;
+        }
+        getLanguageData(key) {
+            for (let index = 0; index < this.m_data.length; index++) {
+                const item = this.m_data[index];
+                if (item.key == key) {
+                    return item;
+                }
+            }
+            return null;
+        }
+    }
+
+    class ShopViewController extends ViewControllerGeneric {
+        get URL() {
+            return UI_ShopView.URL;
+        }
+        init() {
+            this.onViewWillDestory = Laya.Handler.create(this, this.unbind);
+            this.onViewAdded = Laya.Handler.create(this, this.bind);
+            super.init();
+        }
+        unbind() {
+            this.view.m_List.off(fairygui.Events.CLICK_ITEM, this, this.onItemClick);
+            PlatformAdManager.inst.destroyBanner();
+            PlatformAdManager.inst.showBanner();
+        }
+        bind() {
+            this.view.m_BackBtn.onClick(this, this.onBackBtnClick);
+            this.view.m_BuyBtn.onClick(this, this.onBuyBtnClick);
+            this.view.m_FreeGetBtn.onClick(this, this.onFreeGetBtnClick);
+            this.view.m_UseBtn.onClick(this, this.onUseBtnClick);
+            this.view.m_adState.selectedIndex = PlatformConfig.inst.currentPlatform.canAd ? 1 : 0;
+            this.view.m_List.itemRenderer = Laya.Handler.create(this, this.onItemRenderer, null, false);
+            this.view.m_List.on(fairygui.Events.CLICK_ITEM, this, this.onItemClick);
+            this.view.m_List.numItems = DataManager.inst.carConfigs.length;
+            this.view.m_List.selectedIndex = DataManager.inst.getCarIndex(DataManager.inst.user.currentCarId);
+            this.selectCar(this.view.m_List.selectedIndex);
+            this.updateUserInfo();
+            PlatformAdManager.inst.showBanner();
+        }
+        onUseBtnClick() {
+            let index = this.view.m_List.selectedIndex;
+            let data = DataManager.inst.carConfigs[index];
+            let oldId = DataManager.inst.user.currentCarId;
+            let oldIndex = DataManager.inst.getCarIndex(oldId);
+            DataManager.inst.useCar(data._id);
+            UIManager.inst.showToast(MultiLanguageManager.inst.getLanguage("使用" + data.name));
+            this.selectCar(oldIndex);
+            TruckGameManager.instance().nowCarIndex = index;
+            TruckGameManager.instance().changeCar(index);
+            this.selectCar(index);
+        }
+        onFreeGetBtnClick() {
+            PlatformAdManager.inst.showRewardedVideo((s) => {
+                if (s) {
+                    this.buyCar();
+                }
+            });
+        }
+        buyCar() {
+            let index = this.view.m_List.selectedIndex;
+            let data = DataManager.inst.carConfigs[index];
+            DataManager.inst.buyCar(data._id);
+            this.selectCar(index);
+            SoundManager.inst.Play(SoundType.SE_BuyItem);
+        }
+        onBuyBtnClick() {
+            let index = this.view.m_List.selectedIndex;
+            let data = DataManager.inst.carConfigs[index];
+            if (DataManager.inst.user.coins >= data.cost) {
+                this.buyCar();
+            }
+            else {
+                UIManager.inst.showToast(MultiLanguageManager.inst.getLanguage("金币不足"));
+            }
+        }
+        selectCar(index) {
+            let data = DataManager.inst.carConfigs[index];
+            this.view.m_UseBtn.visible = false;
+            this.view.m_BuyBtn.visible = true;
+            this.view.m_ImageLoader.url = ResourcesManager.inst.getImageThumb(data.icon);
+            this.view.m_FreeGetBtn.visible = PlatformConfig.inst.currentPlatform.canAd;
+            let ui = this.view.m_List.getChildAt(index);
+            ui.m_state.selectedIndex = 2;
+            if (DataManager.inst.isUnlockCar(data._id)) {
+                this.view.m_BuyBtn.visible = false;
+                this.view.m_FreeGetBtn.visible = false;
+                if (data._id != DataManager.inst.user.currentCarId) {
+                    this.view.m_UseBtn.visible = true;
+                }
+                ui.m_state.selectedIndex = 1;
+            }
+            if (data._id == DataManager.inst.user.currentCarId) {
+                ui.m_state.selectedIndex = 0;
+            }
+        }
+        onItemClick(ui) {
+            let index = this.view.m_List.selectedIndex;
+            this.selectCar(index);
+        }
+        onItemRenderer(index, ui) {
+            let data = DataManager.inst.carConfigs[index];
+            ui.icon = ResourcesManager.inst.getImageThumb(data.icon);
+            ui.m_CoinLabel.text = data.cost.toString();
+            ui.m_NameLabel.text = data.name;
+            ui.m_state.selectedIndex = 2;
+            if (DataManager.inst.isUnlockCar(data._id)) {
+                ui.m_state.selectedIndex = 1;
+            }
+            if (data._id == DataManager.inst.user.currentCarId) {
+                ui.m_state.selectedIndex = 0;
+            }
+        }
+        updateUserInfo() {
+            this.view.m_CoinBar.title = DataManager.inst.user.coins.toString();
+        }
+        onBackBtnClick() {
+            this.removeSelf();
+        }
+    }
+
+    class StartViewController extends ViewControllerGeneric {
+        get URL() {
+            return UI_StartView.URL;
+        }
+        init() {
+            this.onViewWillDestory = Laya.Handler.create(this, this.unbind);
+            this.onViewAdded = Laya.Handler.create(this, this.bind);
+            super.init();
+        }
+        unbind() {
+            this.view.m_Bot.displayObject.off(Laya.Event.MOUSE_DOWN, this, this.onTouchStart);
+            this.view.m_Bot.displayObject.off(Laya.Event.MOUSE_UP, this, this.onRelease);
+            CustomEventDispatcher.instance.off("gameUI", this, this.showPage);
+        }
+        bind() {
+            EventManager.inst.AddEventListener(GameEvents.ON_UPDATE_USERINFO_EVENT, this, this.updateUserInfo);
+            EventManager.inst.AddEventListener(PlatformEvents.ON_BANNER_SUCCESS_EVENT, this, this.onBannerSuccess);
+            EventManager.inst.AddEventListener(PlatformEvents.ON_BANNER_FAIL_EVENT, this, this.onBannerFail);
+            this.view.m_Bot.displayObject.on(Laya.Event.MOUSE_DOWN, this, this.onTouchStart);
+            this.view.m_Bot.displayObject.on(Laya.Event.MOUSE_UP, this, this.onRelease);
+            CustomEventDispatcher.instance.on("gameUI", this, this.showPage);
+            this.view.m_ShopBtn.onClick(this, this.onShopBtnClick);
+            this.updateUserInfo();
+            PlatformAdManager.inst.showBanner();
+        }
+        onBannerSuccess() {
+        }
+        onBannerFail() {
+        }
+        onShopBtnClick() {
+            UIManager.inst.showPopupView(new ShopViewController());
+        }
+        updateUserInfo() {
+            this.view.m_StageLabel.text = `第${DataManager.inst.user.currentStage + 1}关`;
+            this.view.m_CoinBar.title = DataManager.inst.user.coins.toString();
+        }
+        onRelease() {
+            if (TruckGameManager.instance().carScript) {
+                TruckGameManager.instance().carScript.pause = true;
+            }
+        }
+        onTouchStart() {
+            TruckGameManager.instance().OnSpeedDownEnter();
+            if (this.view.m_gameState.selectedIndex == 0) {
+                PlatformAdManager.inst.destroyBanner();
+            }
+            this.view.m_gameState.selectedIndex = 1;
+        }
+        showPage() {
+            this.view.m_gameState.selectedIndex = 0;
+        }
+    }
+
+    class GameManager {
+        static get inst() {
+            if (this._inst == null) {
+                this._inst = new GameManager();
+            }
+            return this._inst;
+        }
+        init() {
+            return __awaiter(this, void 0, void 0, function* () {
+                Laya.Shader3D.debugMode = false;
+                GameEngine.inst.isLocal = true;
+                GameEngine.inst.useZipAssets = false;
+                GameEngine.inst.platform = Platform.web_h5;
+                Platforms.inst.init();
+                if (GameEngine.inst.useZipAssets) {
+                    yield ResourcesManager.inst.readHashFile();
+                    let url = "";
+                    yield ResourcesManager.inst.loadFiles(url);
+                    ResourcesManager.inst.fileConfigs = Laya.loader.getRes(url);
+                }
+                yield GameEngine.inst.init();
+                this.initConfigs();
+            });
+        }
+        initConfigs() {
+            return __awaiter(this, void 0, void 0, function* () {
+                this.addSounds();
+                let urls = [];
+                urls.push({ url: "res/ui/GameCommandUI.bin", type: Laya.Loader.BUFFER });
+                urls.push({ url: "res/ui/GameCommandUI_atlas0.png", type: Laya.Loader.IMAGE });
+                urls.push({ url: "res/ui/GameAdUI.bin", type: Laya.Loader.BUFFER });
+                urls.push({ url: "res/ui/GameAdUI_atlas0.png", type: Laya.Loader.IMAGE });
+                urls.push({ url: "res/ui/GameUI.bin", type: Laya.Loader.BUFFER });
+                urls.push({ url: "res/ui/GameUI_atlas0.png", type: Laya.Loader.IMAGE });
+                urls.push({ url: "res/data/configs.json", type: Laya.Loader.JSON });
+                urls.push({ url: "res/data/shader.json", type: Laya.Loader.JSON });
+                ResourcesManager.inst.registerGameUIInfo("res/ui/GameUI", urls);
+                let urls2 = [];
+                urls2.push("sub1/res/LayaScene_map0/Conventional/map0.ls");
+                urls2.push("sub1/res/cars/Cars.lh");
+                urls2.push("sub1/res/LayaScene_cargos/Conventional/cargos.lh");
+                ResourcesManager.inst.registerModels(urls2);
+                GameEngine.inst.initAsync(() => {
+                    GameEngine.inst.debug("初始化游戏");
+                    LocalStorageManager.inst.enterGame();
+                    TimeManager.inst.init();
+                    UIManager.inst.addFadeView();
+                    Laya.timer.once(200, this, () => { SoundManager.inst.PlayMusic(SoundType.BGM); });
+                    Laya.timer.once(1000, this, () => {
+                        UIManager.inst.doFadeIn(Laya.Handler.create(this, () => {
+                            UIManager.inst.hidePopupView(UI_LoadingView.URL);
+                            Laya.loader.clearRes("localRes/ui/GameLoadingUI_atlas_nqsz4g.jpg");
+                            if (Platforms.inst.platform == Platform.weixin_h5) {
+                                YMSDK.inst.showStartIconListView((success) => {
+                                    if (success) {
+                                        this.showStartView();
+                                    }
+                                });
+                            }
+                            else {
+                                this.showStartView();
+                            }
+                        }));
+                    });
+                });
+            });
+        }
+        showStartView() {
+            UIManager.inst.showPopupView(new StartViewController());
+            TruckGameManager.instance().loadLevel();
+        }
+        compileShader() {
+            let data = Laya.loader.getRes("res/data/shader.json");
+            for (let index = 0; index < data.length; index++) {
+                const obj = data[index];
+                Laya.Shader3D.compileShaderByDefineNames(obj.shaderName, obj.passIndex, obj.subShaderIndex, obj.defineNames);
+            }
+        }
+        addSounds() {
+            let soundExtendtion = Laya.Browser.window.conch ? ".ogg" : ".mp3";
+            SoundManager.inst.registerSound(SoundType.BGM, "res/sounds/bgm.mp3");
+            SoundManager.inst.registerSound(SoundType.SE_BuyItem, "res/sounds/buyButtonSE.ogg");
+            SoundManager.inst.registerSound(SoundType.SE_Win, "res/sounds/win.ogg");
+            SoundManager.inst.registerSound(SoundType.SE_Lose, "res/sounds/fail.ogg");
+        }
+    }
+
+    class Main {
+        constructor() {
+            if (window["Laya3D"])
+                Laya3D.init(GameConfig.width, GameConfig.height);
+            else
+                Laya.init(GameConfig.width, GameConfig.height, Laya["WebGL"]);
+            Laya["Physics"] && Laya["Physics"].enable();
+            Laya["DebugPanel"] && Laya["DebugPanel"].enable();
+            Laya.stage.scaleMode = GameConfig.scaleMode;
+            Laya.stage.screenMode = GameConfig.screenMode;
+            Laya.stage.alignV = GameConfig.alignV;
+            Laya.stage.alignH = GameConfig.alignH;
+            Laya.URL.exportSceneToJson = GameConfig.exportSceneToJson;
+            if (GameConfig.debug || Laya.Utils.getQueryString("debug") == "true")
+                Laya.enableDebugPanel();
+            if (GameConfig.physicsDebug && Laya["PhysicsDebugDraw"])
+                Laya["PhysicsDebugDraw"].enable();
+            if (GameConfig.stat)
+                Laya.Stat.show();
+            GameManager.inst.init();
+        }
+    }
+    new Main();
+
+}());

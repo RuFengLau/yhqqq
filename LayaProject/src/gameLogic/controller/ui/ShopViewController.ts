@@ -25,6 +25,8 @@ export default class ShopViewController extends ViewControllerGeneric<UI_ShopVie
 
     private unbind() {
         this.view.m_List.off(fairygui.Events.CLICK_ITEM, this, this.onItemClick);
+        PlatformAdManager.inst.destroyBanner();
+        PlatformAdManager.inst.showBanner();
     }
 
     private bind() {
@@ -39,6 +41,7 @@ export default class ShopViewController extends ViewControllerGeneric<UI_ShopVie
         this.view.m_List.selectedIndex = DataManager.inst.getCarIndex(DataManager.inst.user.currentCarId);
         this.selectCar(this.view.m_List.selectedIndex);
         this.updateUserInfo();
+        PlatformAdManager.inst.showBanner();
     }
 
     private onUseBtnClick() {
